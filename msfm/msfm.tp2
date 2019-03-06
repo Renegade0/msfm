@@ -6,6 +6,8 @@ LANGUAGE
 	~English~ ~msfm/tra~ ~msfm/tra/english.tra~
 LANGUAGE 
 	~Polski (by Cahir)~ ~msfm/tra/english.tra~ ~msfm/tra/polish.tra~	
+LANGUAGE 
+	~Russian (by Saigon1983)~ ~msfm/tra/english.tra~ ~msfm/tra/russian.tra~	
 
 /////////////////////////////////////////////////////////////////////////////////
 /////////////////////////////////////////////////////////////////////////////////
