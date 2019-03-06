@@ -1,0 +1,117 @@
+IF
+	Detect(FamiliarSummoner)
+	NumTimesTalkedTo(0)
+THEN
+	RESPONSE #100
+		FaceObject(FamiliarSummoner)
+		Wait(1)
+		StartDialogueNoSet(FamiliarSummoner)
+END
+
+IF
+	XPGT(FamiliarSummoner,99999)
+	Class(Myself,SORCERER)
+	Global("rgfwupg","LOCALS",0)
+THEN
+	RESPONSE #100
+		DisplayStringHead(Myself,@487)
+		AddSpecialAbility("RGFAW03")
+		ApplySpellRES("RGFAHP1",Myself)
+		SetGlobal("rgfwupg","LOCALS",1)
+END
+
+IF
+	XPGT(FamiliarSummoner,499999)
+	Class(Myself,SORCERER)
+	Global("rgfwupg","LOCALS",1)
+THEN
+	RESPONSE #100
+		DisplayStringHead(Myself,@487)
+		AddSpecialAbility("RGFAW05")
+		ApplySpellRES("RGFAHP1",Myself)
+		SetGlobal("rgfwupg","LOCALS",2)
+END
+
+IF
+	XPGT(FamiliarSummoner,2499999)
+	Class(Myself,SORCERER)
+	Global("rgfwupg","LOCALS",2)
+THEN
+	RESPONSE #100
+		DisplayStringHead(Myself,@487)
+		AddSpecialAbility("RGFAW07")
+		ApplySpellRES("RGFAHP1",Myself)
+		SetGlobal("rgfwupg","LOCALS",3)
+END
+
+IF
+	XPGT(FamiliarSummoner,4999999)
+	Class(Myself,SORCERER)
+	Global("rgfwupg","LOCALS",3)
+THEN
+	RESPONSE #100
+		DisplayStringHead(Myself,@487)
+		AddSpecialAbility("RGFAW09")
+		ApplySpellRES("RGFAHP1",Myself)
+		SetGlobal("rgfwupg","LOCALS",4)
+END
+
+IF
+	XPGT(FamiliarSummoner,99999)
+	Class(Myself,THIEF)
+	Global("rgftupg","LOCALS",0)
+THEN
+	RESPONSE #100
+		DisplayStringHead(Myself,@487)
+		AddSpecialAbility("RGFAT08")
+		AddSpecialAbility("RGFAT07")
+		AddSpecialAbility("RGFAT06")
+		AddSpecialAbility("RGFAT05")
+		ApplySpellRES("RGFAHP1",Myself)
+		SetGlobal("rgftupg","LOCALS",1)
+END
+
+IF
+	XPGT(FamiliarSummoner,499999)
+	Class(Myself,THIEF)
+	Global("rgftupg","LOCALS",1)
+THEN
+	RESPONSE #100
+		DisplayStringHead(Myself,@487)
+		AddSpecialAbility("RGFAT12")
+		AddSpecialAbility("RGFAT11")
+		AddSpecialAbility("RGFAT10")
+		AddSpecialAbility("RGFAT09")
+		ApplySpellRES("RGFAHP1",Myself)
+		SetGlobal("rgftupg","LOCALS",2)
+END
+
+IF
+	XPGT(FamiliarSummoner,2499999)
+	Class(Myself,THIEF)
+	Global("rgftupg","LOCALS",2)
+THEN
+	RESPONSE #100
+		DisplayStringHead(Myself,@487)
+		AddSpecialAbility("RGFAT16")
+		AddSpecialAbility("RGFAT15")
+		AddSpecialAbility("RGFAT14")
+		AddSpecialAbility("RGFAT13")
+		ApplySpellRES("RGFAHP1",Myself)
+		SetGlobal("rgftupg","LOCALS",3)
+END
+
+IF
+	XPGT(FamiliarSummoner,4999999)
+	Class(Myself,THIEF)
+	Global("rgftupg","LOCALS",3)
+THEN
+	RESPONSE #100
+		DisplayStringHead(Myself,@487)
+		AddSpecialAbility("RGFAT20")
+		AddSpecialAbility("RGFAT19")
+		AddSpecialAbility("RGFAT18")
+		AddSpecialAbility("RGFAT17")
+		ApplySpellRES("RGFAHP1",Myself)
+		SetGlobal("rgftupg","LOCALS",4)
+END

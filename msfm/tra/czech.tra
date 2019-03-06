@@ -1,0 +1,3975 @@
+@1=~Čarodějova hůl~
+
+@2=~Hůl čarování~
+
+@3=~Hůl ochrany~
+
+@4=~Hůl vyvolávání~
+
+@5=~Hůl věštění~
+
+@6=~Hůl očarování~
+
+@7=~Hůl iluzí~
+
+@8=~Hůl invokace~
+
+@9=~Hůl nekromancie~
+
+@10=~Hůl proměn~
+
+@11=~Hůl divoké magie~
+
+@12=~Hůl dračí moci~
+
+@13=~It does not take years of study in the arcane to be able to tell that this finely crafted staff is highly enchanted. In shape and construction, it seems almost more reminiscent of a wand than a staff used for striking. Its precise workings however are lost on you, rendering it little more than a decorative bauble.
+
+STATISTICS:
+
+Damage: 1d6 (crushing)
+Speed Factor: 4
+Proficiency Type: Quarterstaff
+Type: Two-handed
+Requires:
+ 5 Strength
+
+Weight: 4~
+
+@14=~This staff is one of the most prized possessions a wizard can acquire. Its unique design allows it to shoot bolts of pure magical energy at any target within 30 feet. It powers itself by harvesting an ambient arcane energy, that naturally emanates from magic users. As such, it will never run out of charges, but can only be used by wizards and sorcerers.
+
+Its shape and construction is reminiscent to that of a wand of magic missiles. It has a long shaft tipped with a distinct gem emanating with magical energy. However, unlike a fragile wand, it is indestructible. Its handle, also contains a control mechanism, that enables or disables the discharge of magical bolts. Therefore it can also be used as a regular melee weapon, if needed. Otherwise, magical bolts are released with just a swing.
+
+These staffs are quite rare on the Sword Coast and their true origins remain unknown. It is believed that they were originally devised by the mages of Netheril.
+
+The Staff of Wizardry, which you now hold in your hands, is the pinnacle of arcane craftsmanship. A masterpiece encapsulating the knowledge, research and study of many generations of wizards. The enchantments within it, make it more than capable of damaging all foes, save for the most powerful of entities within the Realms. 
+
+However, the most intriguing ability of the staff, is to imprint the wielder's own magical prowess into the weapon. When activated, the staff will delve into the spellcaster's aura and merge with the strongest aspect of his arcane power, granting additional school-based abilities.
+
+STATISTICS:
+
+Special ability:
+When a wielder reaches 250 000 XP he can activate the staff with following effects:
+-A specialist mage can imprint his specialization into the staff, giving it additional school-based powers.
+-A generalist mage (including dual and multi-class) can either upgrade the staff, giving it additional powers, or choose any specialization, which will turn them into the respective specialists and imprint the staff the respective specialization.
+The effects are permanent.
+
+THAC0: +3
+Damage (melee): 1d6+3 (crushing)
+Damage (ranged): 2d2+3 (magical)
+Speed Factor: 1
+Proficiency Type: Quarterstaff
+Type: Two-handed
+Requires:
+5 Strength
+
+Weight: 4~
+
+@15=~This staff is one of the most prized possessions a wizard can acquire. Its unique design allows it to shoot bolts of pure magical energy at any target within 30 feet. It powers itself by harvesting an ambient arcane energy, that naturally emanates from magic users. As such, it will never run out of charges, but can only be used by wizards and sorcerers.
+
+Its shape and construction is reminiscent to that of a wand of magic missiles. It has a long shaft tipped with a distinct gem emanating with magical energy. However, unlike a fragile wand, it is indestructible. Its handle, also contains a control mechanism, that enables or disables the discharge of magical bolts. Therefore it can also be used as a regular melee weapon, if needed. Otherwise, magical bolts are released with just a swing.
+
+These staffs are quite rare on the Sword Coast and their true origins remain unknown. It is believed that they were originally devised by the mages of Netheril.
+
+The Staff of Wizardry, which you now hold in your hands, is the pinnacle of arcane craftsmanship. A masterpiece encapsulating the knowledge, research and study of many generations of wizards. The enchantments within it, make it more than capable of damaging all foes, save for the most powerful of entities within the Realms. 
+
+This is a Staff of Wizardry, that has been imprinted with aspects from the Abjuration school of magic. As such, it has a chance to remove spell protections from a target, on a successful hit. Also it adds the spell, Minor Spell Turning, to its wielder's repertoire.
+
+STATISTICS:
+
+Combat abilities:
+- 25% chance of casting Spell Thrust on target, on a successful hit
+
+Charged abilities:
+- Minor Spell Turning once per day
+
+THAC0: +3
+Damage (melee): 1d6+3 (crushing)
+Damage (ranged): 2d2+3 (magical)
+Speed Factor: 1
+Proficiency Type: Quarterstaff
+Type: Two-handed
+Requires:
+5 Strength
+
+Weight: 4~
+
+@16=~This staff is one of the most prized possessions a wizard can acquire. Its unique design allows it to shoot bolts of pure magical energy at any target within 30 feet. It powers itself by harvesting an ambient arcane energy, that naturally emanates from magic users. As such, it will never run out of charges, but can only be used by wizards and sorcerers.
+
+Its shape and construction is reminiscent to that of a wand of magic missiles. It has a long shaft tipped with a distinct gem emanating with magical energy. However, unlike a fragile wand, it is indestructible. Its handle, also contains a control mechanism, that enables or disables the discharge of magical bolts. Therefore it can also be used as a regular melee weapon, if needed. Otherwise, magical bolts are released with just a swing.
+
+These staffs are quite rare on the Sword Coast and their true origins remain unknown. It is believed that they were originally devised by the mages of Netheril.
+
+The Staff of Wizardry, which you now hold in your hands, is the pinnacle of arcane craftsmanship. A masterpiece encapsulating the knowledge, research and study of many generations of wizards. The enchantments within it, make it more than capable of damaging all foes, save for the most powerful of entities within the Realms. 
+
+This is a Staff of Wizardry, that has been imprinted with aspects from the Conjuration school of magic. As such, it has a chance to plague the target with a deadly swarm of insects, on a successful hit. Also it adds the spell, Monster Summoning III, to its wielder's repertoire.
+
+STATISTICS:
+
+Combat abilities:
+- 25% chance of casting Summon Insect on target, on a successful hit
+
+Charged abilities:
+- Monster Summoning III once per day
+
+THAC0: +3
+Damage (melee): 1d6+3 (crushing)
+Damage (ranged): 2d2+3 (magical)
+Speed Factor: 1
+Proficiency Type: Quarterstaff
+Type: Two-handed
+Requires:
+5 Strength
+
+Weight: 4~
+
+@17=~This staff is one of the most prized possessions a wizard can acquire. Its unique design allows it to shoot bolts of pure magical energy at any target within 30 feet. It powers itself by harvesting an ambient arcane energy, that naturally emanates from magic users. As such, it will never run out of charges, but can only be used by wizards and sorcerers.
+
+Its shape and construction is reminiscent to that of a wand of magic missiles. It has a long shaft tipped with a distinct gem emanating with magical energy. However, unlike a fragile wand, it is indestructible. Its handle, also contains a control mechanism, that enables or disables the discharge of magical bolts. Therefore it can also be used as a regular melee weapon, if needed. Otherwise, magical bolts are released with just a swing.
+
+These staffs are quite rare on the Sword Coast and their true origins remain unknown. It is believed that they were originally devised by the mages of Netheril.
+
+The Staff of Wizardry, which you now hold in your hands, is the pinnacle of arcane craftsmanship. A masterpiece encapsulating the knowledge, research and study of many generations of wizards. The enchantments within it, make it more than capable of damaging all foes, save for the most powerful of entities within the Realms. 
+
+This is a Staff of Wizardry, that has been imprinted with aspects from the Divination school of magic. As such, it has a chance to expose target's weaknesses, on a successful hit. Also it adds the spell, Oracle, to its wielder's repertoire.
+
+STATISTICS:
+
+Combat abilities:
+- 25% chance of casting Know Enemy on target, on a successful hit
+Know Enemy: Lowers AC, THAC0 and saving throws at -3 each for 10 rounds
+
+Charged abilities:
+- Oracle once per day
+
+THAC0: +3
+Damage (melee): 1d6+3 (crushing)
+Damage (ranged): 2d2+3 (magical)
+Speed Factor: 1
+Proficiency Type: Quarterstaff
+Type: Two-handed
+Requires:
+5 Strength
+
+Weight: 4~
+
+@18=~This staff is one of the most prized possessions a wizard can acquire. Its unique design allows it to shoot bolts of pure magical energy at any target within 30 feet. It powers itself by harvesting an ambient arcane energy, that naturally emanates from magic users. As such, it will never run out of charges, but can only be used by wizards and sorcerers.
+
+Its shape and construction is reminiscent to that of a wand of magic missiles. It has a long shaft tipped with a distinct gem emanating with magical energy. However, unlike a fragile wand, it is indestructible. Its handle, also contains a control mechanism, that enables or disables the discharge of magical bolts. Therefore it can also be used as a regular melee weapon, if needed. Otherwise, magical bolts are released with just a swing.
+
+These staffs are quite rare on the Sword Coast and their true origins remain unknown. It is believed that they were originally devised by the mages of Netheril.
+
+The Staff of Wizardry, which you now hold in your hands, is the pinnacle of arcane craftsmanship. A masterpiece encapsulating the knowledge, research and study of many generations of wizards. The enchantments within it, make it more than capable of damaging all foes, save for the most powerful of entities within the Realms. 
+
+This is a Staff of Wizardry, that has been imprinted with aspects from the Enchantment school of magic. As such, it has a chance to confuse a target and render it useless in battle, on a successful hit. Also it adds the spell, Hold Monster, to its wielder's repertoire.
+
+STATISTICS:
+
+Combat abilities:
+- 25% chance of casting Rigid Thinking on target, on a successful hit
+
+Charged abilities:
+- Hold Monster once per day
+
+THAC0: +3
+Damage (melee): 1d6+3 (crushing)
+Damage (ranged): 2d2+3 (magical)
+Speed Factor: 1
+Proficiency Type: Quarterstaff
+Type: Two-handed
+Requires:
+5 Strength
+
+Weight: 4~
+
+@19=~This staff is one of the most prized possessions a wizard can acquire. Its unique design allows it to shoot bolts of pure magical energy at any target within 30 feet. It powers itself by harvesting an ambient arcane energy, that naturally emanates from magic users. As such, it will never run out of charges, but can only be used by wizards and sorcerers.
+
+Its shape and construction is reminiscent to that of a wand of magic missiles. It has a long shaft tipped with a distinct gem emanating with magical energy. However, unlike a fragile wand, it is indestructible. Its handle, also contains a control mechanism, that enables or disables the discharge of magical bolts. Therefore it can also be used as a regular melee weapon, if needed. Otherwise, magical bolts are released with just a swing.
+
+These staffs are quite rare on the Sword Coast and their true origins remain unknown. It is believed that they were originally devised by the mages of Netheril.
+
+The Staff of Wizardry, which you now hold in your hands, is the pinnacle of arcane craftsmanship. A masterpiece encapsulating the knowledge, research and study of many generations of wizards. The enchantments within it, make it more than capable of damaging all foes, save for the most powerful of entities within the Realms. 
+
+This is a Staff of Wizardry, that has been imprinted with aspects from the Illusion school of magic. As such, it has a chance to collapse the vital senses of a target, on a successful hit. Also it adds the spell, Shadow Door, to its wielder's repertoire.
+
+STATISTICS:
+
+Combat abilities:
+- 25% chance of casting Sensory Collapse on target, on a successful hit
+Sensory Collapse: Target is effected by Blindness and Deafness for 10 rounds (Save vs. Spell with -1 penalty negates the effect)
+
+Charged abilities:
+- Shadow Door once per day
+
+THAC0: +3
+Damage (melee): 1d6+3 (crushing)
+Damage (ranged): 2d2+3 (magical)
+Speed Factor: 1
+Proficiency Type: Quarterstaff
+Type: Two-handed
+Requires:
+5 Strength
+
+Weight: 4~
+
+@20=~This staff is one of the most prized possessions a wizard can acquire. Its unique design allows it to shoot bolts of pure magical energy at any target within 30 feet. It powers itself by harvesting an ambient arcane energy, that naturally emanates from magic users. As such, it will never run out of charges, but can only be used by wizards and sorcerers.
+
+Its shape and construction is reminiscent to that of a wand of magic missiles. It has a long shaft tipped with a distinct gem emanating with magical energy. However, unlike a fragile wand, it is indestructible. Its handle, also contains a control mechanism, that enables or disables the discharge of magical bolts. Therefore it can also be used as a regular melee weapon, if needed. Otherwise, magical bolts are released with just a swing.
+
+These staffs are quite rare on the Sword Coast and their true origins remain unknown. It is believed that they were originally devised by the mages of Netheril.
+
+The Staff of Wizardry, which you now hold in your hands, is the pinnacle of arcane craftsmanship. A masterpiece encapsulating the knowledge, research and study of many generations of wizards. The enchantments within it, make it more than capable of damaging all foes, save for the most powerful of entities within the Realms. 
+
+This is a Staff of Wizardry, that has been imprinted with aspects from the Invocation school of magic. As such, it has a chance to strike the target with lightning, on a successful hit. Also it adds the spell, Cloudkill, to its wielder's repertoire.
+
+STATISTICS:
+
+Combat abilities:
+- 25% chance of casting Lightning Bolt on target, on a successful hit (only effects target)
+
+Charged abilities:
+- Cloudkill once per day
+
+THAC0: +3
+Damage (melee): 1d6+3 (crushing)
+Damage (ranged): 2d2+3 (magical)
+Speed Factor: 1
+Proficiency Type: Quarterstaff
+Type: Two-handed
+Requires:
+5 Strength
+
+Weight: 4~
+
+@21=~This staff is one of the most prized possessions a wizard can acquire. Its unique design allows it to shoot bolts of pure magical energy at any target within 30 feet. It powers itself by harvesting an ambient arcane energy, that naturally emanates from magic users. As such, it will never run out of charges, but can only be used by wizards and sorcerers.
+
+Its shape and construction is reminiscent to that of a wand of magic missiles. It has a long shaft tipped with a distinct gem emanating with magical energy. However, unlike a fragile wand, it is indestructible. Its handle, also contains a control mechanism, that enables or disables the discharge of magical bolts. Therefore it can also be used as a regular melee weapon, if needed. Otherwise, magical bolts are released with just a swing.
+
+These staffs are quite rare on the Sword Coast and their true origins remain unknown. It is believed that they were originally devised by the mages of Netheril.
+
+The Staff of Wizardry, which you now hold in your hands, is the pinnacle of arcane craftsmanship. A masterpiece encapsulating the knowledge, research and study of many generations of wizards. The enchantments within it, make it more than capable of damaging all foes, save for the most powerful of entities within the Realms. 
+
+This is a Staff of Wizardry, that has been imprinted with aspects from the necromantic school of magic. As such, it has a chance to drain a target's vitality, on a successful hit. Also it adds the spell, Animate Dead, to its wielder's repertoire.
+
+STATISTICS:
+
+Combat abilities:
+- 25% chance of casting Vampiric Touch on target, on a successful hit
+
+Charged abilities:
+- Animate Dead once per day
+
+THAC0: +3
+Damage (melee): 1d6+3 (crushing)
+Damage (ranged): 2d2+3 (magical)
+Speed Factor: 1
+Proficiency Type: Quarterstaff
+Type: Two-handed
+Requires:
+5 Strength
+
+Weight: 4~
+
+@22=~This staff is one of the most prized possessions a wizard can acquire. Its unique design allows it to shoot bolts of pure magical energy at any target within 30 feet. It powers itself by harvesting an ambient arcane energy, that naturally emanates from magic users. As such, it will never run out of charges, but can only be used by wizards and sorcerers.
+
+Its shape and construction is reminiscent to that of a wand of magic missiles. It has a long shaft tipped with a distinct gem emanating with magical energy. However, unlike a fragile wand, it is indestructible. Its handle, also contains a control mechanism, that enables or disables the discharge of magical bolts. Therefore it can also be used as a regular melee weapon, if needed. Otherwise, magical bolts are released with just a swing.
+
+These staffs are quite rare on the Sword Coast and their true origins remain unknown. It is believed that they were originally devised by the mages of Netheril.
+
+The Staff of Wizardry, which you now hold in your hands, is the pinnacle of arcane craftsmanship. A masterpiece encapsulating the knowledge, research and study of many generations of wizards. The enchantments within it, make it more than capable of damaging all foes, save for the most powerful of entities within the Realms. 
+
+This is a Staff of Wizardry, that has been imprinted with aspects from the Alteration school of magic. As such, it has a chance to slow a target , on a successful hit. Also it adds the spell, Phase Shift, to its wielder's repertoire.
+
+STATISTICS:
+
+Combat abilities:
+- 25% chance of casting Slow on target, on a successful hit
+
+Charged abilities:
+- Phase Shift once per day
+Phase Shift: Instantly transports the caster to any place within his visual range
+
+THAC0: +3
+Damage (melee): 1d6+3 (crushing)
+Damage (ranged): 2d2+3 (magical)
+Speed Factor: 1
+Proficiency Type: Quarterstaff
+Type: Two-handed
+Requires:
+5 Strength
+
+Weight: 4~
+
+@23=~This staff is one of the most prized possessions a wizard can acquire. Its unique design allows it to shoot bolts of pure magical energy at any target within 30 feet. It powers itself by harvesting an ambient arcane energy, that naturally emanates from magic users. As such, it will never run out of charges, but can only be used by wizards and sorcerers.
+
+Its shape and construction is reminiscent to that of a wand of magic missiles. It has a long shaft tipped with a distinct gem emanating with magical energy. However, unlike a fragile wand, it is indestructible. Its handle, also contains a control mechanism, that enables or disables the discharge of magical bolts. Therefore it can also be used as a regular melee weapon, if needed. Otherwise, magical bolts are released with just a swing.
+
+These staffs are quite rare on the Sword Coast and their true origins remain unknown. It is believed that they were originally devised by the mages of Netheril.
+
+The Staff of Wizardry, which you now hold in your hands, is the pinnacle of arcane craftsmanship. A masterpiece encapsulating the knowledge, research and study of many generations of wizards. The enchantments within it, make it more than capable of damaging all foes, save for the most powerful of entities within the Realms. 
+
+This is a Staff of Wizardry, that has been imprinted with wild magic and as such, has adopted some of its unpredictability. There is a chance it may cast a harmful spell on a target, after a successful hit. The precise nature of the spell cannot be known however, until it is cast. Also it extends its wielder's repertoire with a spell, that causes wild surges to an unfortunate chosen spellcaster.
+
+STATISTICS:
+
+Combat abilities:
+- 24% chance of casting a harmful spell on target, on a successful hit.
+
+Charged abilities:
+- Wildstrike once per day
+Wildstrike: All spellcasting of the target is effected by wild surges in next 5 rounds
+
+THAC0: +3
+Damage (melee): 1d6+3 (crushing)
+Damage (ranged): 2d2+3 (magical)
+Speed Factor: 1
+Proficiency Type: Quarterstaff
+Type: Two-handed
+Requires:
+5 Strength
+
+Weight: 4~
+
+@24=~This staff is one of the most prized possessions a wizard can acquire. Its unique design allows it to shoot bolts of pure magical energy at any target within 30 feet. It powers itself by harvesting an ambient arcane energy, that naturally emanates from magic users. As such, it will never run out of charges, but can only be used by wizards and sorcerers.
+
+Its shape and construction is reminiscent to that of a wand of magic missiles. It has a long shaft tipped with a distinct gem emanating with magical energy. However, unlike a fragile wand, it is indestructible. Its handle, also contains a control mechanism, that enables or disables the discharge of magical bolts. Therefore it can also be used as a regular melee weapon, if needed. Otherwise, magical bolts are released with just a swing.
+
+These staffs are quite rare on the Sword Coast and their true origins remain unknown. It is believed that they were originally devised by the mages of Netheril.
+
+The Staff of Wizardry, which you now hold in your hands, is the pinnacle of arcane craftsmanship. A masterpiece encapsulating the knowledge, research and study of many generations of wizards. The enchantments within it, make it more than capable of damaging all foes, save for the most powerful of entities within the Realms. 
+
+This is a Staff of Wizardry, that has been imprinted with draconic magic. As such, it has a chance to empower itself and its wielder so that it is swung with the power of a Dragon. This will forcibly throw the enemy back and knock it unconscious, on a successful hit. Also it adds the spell, Dragon Fear, to its wielder's repertoire.
+
+STATISTICS:
+
+Combat abilities:
+- 25% chance of casting Wing Buffet on target on successful hit
+Wing Buffet: Target is thrown back and rendered unconscious for one round
+
+Charged abilities:
+- Dragon Fear once per day
+Dragon Fear: All enemies within 40 ft. Radius must Save vs. Spell with -4 penalty or flee in terror. Some creatures are immune to the effects of fear, including all undead.
+
+THAC0: +3
+Damage (melee): 1d6+3 (crushing)
+Damage (ranged): 2d2+3 (magical)
+Speed Factor: 1
+Proficiency Type: Quarterstaff
+Type: Two-handed
+Requires:
+5 Strength
+
+Weight: 4~
+
+@25=~Know Enemy~
+
+@26=~Blackout~
+
+@27=~Wildstrike~
+
+@28=~Ranged~
+
+@29=~Teleport~
+
+@30=~This staff is one of the most prized possessions a wizard can acquire. Its unique design allows it to shoot bolts of pure magical energy at any target within 30 feet. It powers itself by harvesting an ambient arcane energy, that naturally emanates from magic users. As such, it will never run out of charges, but can only be used by wizards and sorcerers.
+
+Its shape and construction is reminiscent to that of a wand of magic missiles. It has a long shaft tipped with a distinct gem emanating with magical energy. However, unlike a fragile wand, it is indestructible. Its handle, also contains a control mechanism, that enables or disables the discharge of magical bolts. Therefore it can also be used as a regular melee weapon, if needed. Otherwise, magical bolts are released with just a swing.
+
+These staffs are quite rare on the Sword Coast and their true origins remain unknown. It is believed that they were originally devised by the mages of Netheril.
+
+The Staff of Wizardry, which you now hold in your hands, is the pinnacle of arcane craftsmanship. A masterpiece encapsulating the knowledge, research and study of many generations of wizards. The enchantments within it, make it more than capable of damaging all foes, save for the most powerful of entities within the Realms.
+
+This is a Staff of Wizardry, that has been activated to suit the needs of common mages, rather than being imprinted with aspects from some school of magic. As such, it gives its wielder the ability to cast additional spell of his choice.
+
+STATISTICS:
+
+Special ability:
+- May cast any 5th-level spell once per day
+
+THAC0: +3
+Damage (melee): 1d6+3 (crushing)
+Damage (ranged): 2d2+3 (magical)
+Speed Factor: 1
+Proficiency Type: Quarterstaff
+Type: Two-handed
+Requires:
+5 Strength
+
+Weight: 4~
+
+@31=~Staff of Wizardry +5~
+
+@32=~Staff of Abjuration +5~
+
+@33=~Staff of Conjuration +5~
+
+@34=~Staff of Divination +5~
+
+@35=~Staff of Enchantment +5~
+
+@36=~Staff of Illusions +5~
+
+@37=~Staff of Invocation +5~
+
+@38=~Staff of Necromancy +5~
+
+@39=~Staff of Alteration +5~
+
+@40=~Staff of Wild Magic +5~
+
+@41=~Staff of Dragon Power +5~
+
+@42=~This staff is one of the most prized possessions a wizard can acquire. Its unique design allows it to shoot bolts of pure magical energy at any target within 30 feet. It powers itself by harvesting an ambient arcane energy, that naturally emanates from magic users. As such, it will never run out of charges, but can only be used by wizards and sorcerers.
+
+Its shape and construction is reminiscent to that of a wand of magic missiles. It has a long shaft tipped with a distinct gem emanating with magical energy. However, unlike a fragile wand, it is indestructible. Its handle, also contains a control mechanism, that enables or disables the discharge of magical bolts. Therefore it can also be used as a regular melee weapon, if needed. Otherwise, magical bolts are released with just a swing.
+
+These staffs are quite rare on the Sword Coast and their true origins remain unknown. It is believed that they were originally devised by the mages of Netheril.
+
+The Staff of Wizardry, which you now hold in your hands, is the pinnacle of arcane craftsmanship. A masterpiece encapsulating the knowledge, research and study of many generations of wizards. The enchantments within it, make it more than capable of damaging all foes, save for the most powerful of entities within the Realms. 
+
+This is a Staff of Wizardry, that has been imprinted with aspects from the Abjuration school of magic. Then, it was combined with Shard of Netheril, which further amplified its power. As such, it has an increased chance to remove spell protections from a target, on a successful hit. Also it adds two additional Abjuration spells to its wielder's repertoire.
+
+STATISTICS:
+
+Combat abilities:
+- 35% chance of casting Spell Thrust on target, on a successful hit
+
+Charged abilities:
+- Minor Spell Turning once per day
+- Pierce Shield once per day
+
+THAC0: +5
+Damage (melee): 1d6+5 (crushing)
+Damage (ranged): 2d2+5 (magical)
+Speed Factor: 1
+Proficiency Type: Quarterstaff
+Type: Two-handed
+Requires:
+5 Strength
+
+Weight: 4~
+
+@43=~This staff is one of the most prized possessions a wizard can acquire. Its unique design allows it to shoot bolts of pure magical energy at any target within 30 feet. It powers itself by harvesting an ambient arcane energy, that naturally emanates from magic users. As such, it will never run out of charges, but can only be used by wizards and sorcerers.
+
+Its shape and construction is reminiscent to that of a wand of magic missiles. It has a long shaft tipped with a distinct gem emanating with magical energy. However, unlike a fragile wand, it is indestructible. Its handle, also contains a control mechanism, that enables or disables the discharge of magical bolts. Therefore it can also be used as a regular melee weapon, if needed. Otherwise, magical bolts are released with just a swing.
+
+These staffs are quite rare on the Sword Coast and their true origins remain unknown. It is believed that they were originally devised by the mages of Netheril.
+
+The Staff of Wizardry, which you now hold in your hands, is the pinnacle of arcane craftsmanship. A masterpiece encapsulating the knowledge, research and study of many generations of wizards. The enchantments within it, make it more than capable of damaging all foes, save for the most powerful of entities within the Realms. 
+
+This is a Staff of Wizardry, that has been imprinted with aspects from the Conjuration school of magic. Then, it was combined with Shard of Netheril, which further amplified its power. As such, it has an increased chance to plague the target with a deadly swarm of insects, on a successful hit. Also it adds two additional Conjuration spells to its wielder's repertoire.
+
+STATISTICS:
+
+Combat abilities:
+- 35% chance of casting Summon Insect on target, on a successful hit
+
+Charged abilities:
+- Monster Summoning III once per day
+- Summon Fire Giant once per day
+Summon Fire Giant: Summons one Fire Giant to fight at caster's side for 15 rounds or until it's slained.
+
+
+THAC0: +5
+Damage (melee): 1d6+5 (crushing)
+Damage (ranged): 2d2+5 (magical)
+Speed Factor: 1
+Proficiency Type: Quarterstaff
+Type: Two-handed
+Requires:
+5 Strength
+
+Weight: 4~
+
+@44=~This staff is one of the most prized possessions a wizard can acquire. Its unique design allows it to shoot bolts of pure magical energy at any target within 30 feet. It powers itself by harvesting an ambient arcane energy, that naturally emanates from magic users. As such, it will never run out of charges, but can only be used by wizards and sorcerers.
+
+Its shape and construction is reminiscent to that of a wand of magic missiles. It has a long shaft tipped with a distinct gem emanating with magical energy. However, unlike a fragile wand, it is indestructible. Its handle, also contains a control mechanism, that enables or disables the discharge of magical bolts. Therefore it can also be used as a regular melee weapon, if needed. Otherwise, magical bolts are released with just a swing.
+
+These staffs are quite rare on the Sword Coast and their true origins remain unknown. It is believed that they were originally devised by the mages of Netheril.
+
+The Staff of Wizardry, which you now hold in your hands, is the pinnacle of arcane craftsmanship. A masterpiece encapsulating the knowledge, research and study of many generations of wizards. The enchantments within it, make it more than capable of damaging all foes, save for the most powerful of entities within the Realms. 
+
+This is a Staff of Wizardry, that has been imprinted with aspects from the Divination school of magic. Then, it was combined with Shard of Netheril, which further amplified its power. As such, it has an increased chance to expose target's weaknesses, on a successful hit. Also it adds two additional Divination spells to its wielder's repertoire.
+
+STATISTICS:
+
+Combat abilities:
+- 35% chance of casting Know Enemy on target, on a successful hit
+Know Enemy: Lowers AC, THAC0 and saving throws at -3 each for 10 rounds
+
+Charged abilities:
+- Oracle once per day
+- Prediction once per day
+Prediction: Caster gets bonus to +6 AC, -6 to THAC0, +3 to saves and becomes immune to backstab and normal missiles, for 5 rounds.
+
+THAC0: +5
+Damage (melee): 1d6+5 (crushing)
+Damage (ranged): 2d2+5 (magical)
+Speed Factor: 1
+Proficiency Type: Quarterstaff
+Type: Two-handed
+Requires:
+5 Strength
+
+Weight: 4~
+
+@45=~This staff is one of the most prized possessions a wizard can acquire. Its unique design allows it to shoot bolts of pure magical energy at any target within 30 feet. It powers itself by harvesting an ambient arcane energy, that naturally emanates from magic users. As such, it will never run out of charges, but can only be used by wizards and sorcerers.
+
+Its shape and construction is reminiscent to that of a wand of magic missiles. It has a long shaft tipped with a distinct gem emanating with magical energy. However, unlike a fragile wand, it is indestructible. Its handle, also contains a control mechanism, that enables or disables the discharge of magical bolts. Therefore it can also be used as a regular melee weapon, if needed. Otherwise, magical bolts are released with just a swing.
+
+These staffs are quite rare on the Sword Coast and their true origins remain unknown. It is believed that they were originally devised by the mages of Netheril.
+
+The Staff of Wizardry, which you now hold in your hands, is the pinnacle of arcane craftsmanship. A masterpiece encapsulating the knowledge, research and study of many generations of wizards. The enchantments within it, make it more than capable of damaging all foes, save for the most powerful of entities within the Realms. 
+
+This is a Staff of Wizardry, that has been imprinted with aspects from the Enchantment school of magic. Then, it was combined with Shard of Netheril, which further amplified its power. As such, it has a chance to confuse a target and render it useless in battle, on a successful hit. Also it adds two additional enchantment spells to its wielder's repertoire.
+
+STATISTICS:
+
+Combat abilities:
+- 35% chance of casting Rigid Thinking on target, on a successful hit
+
+Charged abilities:
+- Hold Monster once per day
+- Thrall once per day
+Thrall: If failed save vs. Spell at -2 penalty, target is permanently under complete control of the caster and acts as a party member. This spell also ignores mind shielding protections.
+
+THAC0: +5
+Damage (melee): 1d6+5 (crushing)
+Damage (ranged): 2d2+5 (magical)
+Speed Factor: 1
+Proficiency Type: Quarterstaff
+Type: Two-handed
+Requires:
+5 Strength
+
+Weight: 4~
+
+@46=~This staff is one of the most prized possessions a wizard can acquire. Its unique design allows it to shoot bolts of pure magical energy at any target within 30 feet. It powers itself by harvesting an ambient arcane energy, that naturally emanates from magic users. As such, it will never run out of charges, but can only be used by wizards and sorcerers.
+
+Its shape and construction is reminiscent to that of a wand of magic missiles. It has a long shaft tipped with a distinct gem emanating with magical energy. However, unlike a fragile wand, it is indestructible. Its handle, also contains a control mechanism, that enables or disables the discharge of magical bolts. Therefore it can also be used as a regular melee weapon, if needed. Otherwise, magical bolts are released with just a swing.
+
+These staffs are quite rare on the Sword Coast and their true origins remain unknown. It is believed that they were originally devised by the mages of Netheril.
+
+The Staff of Wizardry, which you now hold in your hands, is the pinnacle of arcane craftsmanship. A masterpiece encapsulating the knowledge, research and study of many generations of wizards. The enchantments within it, make it more than capable of damaging all foes, save for the most powerful of entities within the Realms. 
+
+This is a Staff of Wizardry, that has been imprinted with aspects from the Illusion school of magic. Then, it was combined with Shard of Netheril, which further amplified its power. As such, it has an increased chance to collapse the vital senses of a target, on a successful hit. Also it adds two additional illusion spells to its wielder's repertoire.
+
+STATISTICS:
+
+Combat abilities:
+- 35% chance of casting Sensory Collapse on target, on a successful hit
+Sensory Collapse: Target is effected by Blindness and Deafness for 10 rounds (Save vs. Spell with -1 penalty negates the effect)
+
+Charged abilities:
+- Shadow Door once per day
+- Simulacrum once per day
+
+THAC0: +5
+Damage (melee): 1d6+5 (crushing)
+Damage (ranged): 2d2+5 (magical)
+Speed Factor: 1
+Proficiency Type: Quarterstaff
+Type: Two-handed
+Requires:
+5 Strength
+
+Weight: 4~
+
+@47=~This staff is one of the most prized possessions a wizard can acquire. Its unique design allows it to shoot bolts of pure magical energy at any target within 30 feet. It powers itself by harvesting an ambient arcane energy, that naturally emanates from magic users. As such, it will never run out of charges, but can only be used by wizards and sorcerers.
+
+Its shape and construction is reminiscent to that of a wand of magic missiles. It has a long shaft tipped with a distinct gem emanating with magical energy. However, unlike a fragile wand, it is indestructible. Its handle, also contains a control mechanism, that enables or disables the discharge of magical bolts. Therefore it can also be used as a regular melee weapon, if needed. Otherwise, magical bolts are released with just a swing.
+
+These staffs are quite rare on the Sword Coast and their true origins remain unknown. It is believed that they were originally devised by the mages of Netheril.
+
+The Staff of Wizardry, which you now hold in your hands, is the pinnacle of arcane craftsmanship. A masterpiece encapsulating the knowledge, research and study of many generations of wizards. The enchantments within it, make it more than capable of damaging all foes, save for the most powerful of entities within the Realms. 
+
+This is a Staff of Wizardry, that has been imprinted with aspects from the Invocation school of magic. Then, it was combined with Shard of Netheril, which further amplified its power. As such, it has an increased chance to strike the target with lightning, on a successful hit. Also it adds two additional Invocation spells to its wielder's repertoire.
+
+STATISTICS:
+
+Combat abilities:
+- 35% chance of casting Lightning Bolt on target, on a successful hit (only effects target)
+
+Charged abilities:
+- Cloudkill once per day
+- Incendiary Cloud once per day
+
+THAC0: +5
+Damage (melee): 1d6+5 (crushing)
+Damage (ranged): 2d2+5 (magical)
+Speed Factor: 1
+Proficiency Type: Quarterstaff
+Type: Two-handed
+Requires:
+5 Strength
+
+Weight: 4~
+
+@48=~This staff is one of the most prized possessions a wizard can acquire. Its unique design allows it to shoot bolts of pure magical energy at any target within 30 feet. It powers itself by harvesting an ambient arcane energy, that naturally emanates from magic users. As such, it will never run out of charges, but can only be used by wizards and sorcerers.
+
+Its shape and construction is reminiscent to that of a wand of magic missiles. It has a long shaft tipped with a distinct gem emanating with magical energy. However, unlike a fragile wand, it is indestructible. Its handle, also contains a control mechanism, that enables or disables the discharge of magical bolts. Therefore it can also be used as a regular melee weapon, if needed. Otherwise, magical bolts are released with just a swing.
+
+These staffs are quite rare on the Sword Coast and their true origins remain unknown. It is believed that they were originally devised by the mages of Netheril.
+
+The Staff of Wizardry, which you now hold in your hands, is the pinnacle of arcane craftsmanship. A masterpiece encapsulating the knowledge, research and study of many generations of wizards. The enchantments within it, make it more than capable of damaging all foes, save for the most powerful of entities within the Realms. 
+
+This is a Staff of Wizardry, that has been imprinted with aspects from the necromantic school of magic. Then, it was combined with Shard of Netheril, which further amplified its power. As such, it has an increased chance to drain a target's vitality, on a successful hit. Also it adds two additional necromantic spells to its wielder's repertoire.
+
+STATISTICS:
+
+Combat abilities:
+- 35% chance of casting Vampiric Touch on target, on a successful hit
+
+Charged abilities:
+- Animate Dead once per day
+- Abi-Dalzim's Horrid Wilting once per day
+
+THAC0: +5
+Damage (melee): 1d6+5 (crushing)
+Damage (ranged): 2d2+5 (magical)
+Speed Factor: 1
+Proficiency Type: Quarterstaff
+Type: Two-handed
+Requires:
+5 Strength
+
+Weight: 4~
+
+@49=~This staff is one of the most prized possessions a wizard can acquire. Its unique design allows it to shoot bolts of pure magical energy at any target within 30 feet. It powers itself by harvesting an ambient arcane energy, that naturally emanates from magic users. As such, it will never run out of charges, but can only be used by wizards and sorcerers.
+
+Its shape and construction is reminiscent to that of a wand of magic missiles. It has a long shaft tipped with a distinct gem emanating with magical energy. However, unlike a fragile wand, it is indestructible. Its handle, also contains a control mechanism, that enables or disables the discharge of magical bolts. Therefore it can also be used as a regular melee weapon, if needed. Otherwise, magical bolts are released with just a swing.
+
+These staffs are quite rare on the Sword Coast and their true origins remain unknown. It is believed that they were originally devised by the mages of Netheril.
+
+The Staff of Wizardry, which you now hold in your hands, is the pinnacle of arcane craftsmanship. A masterpiece encapsulating the knowledge, research and study of many generations of wizards. The enchantments within it, make it more than capable of damaging all foes, save for the most powerful of entities within the Realms. 
+
+This is a Staff of Wizardry, that has been imprinted with aspects from the Alteration school of magic. Then, it was combined with Shard of Netheril, which further amplified its power. As such, it has an increased chance to slow a target , on a successful hit. Also it adds two additional Alteration spells to its wielder's repertoire.
+
+STATISTICS:
+
+Combat abilities:
+- 35% chance of casting Slow on target, on a successful hit
+
+Charged abilities:
+- Phase Shift once per day
+- Mass Polymorph Other once per day
+Phase Shift: Instantly transports the caster to any place within his visual range
+Mass Polymorph Other: Same as Polymoprh Other spell, but covers 30 ft. area and all enemies must save vs. Spell at -2 penalty.
+
+THAC0: +5
+Damage (melee): 1d6+5 (crushing)
+Damage (ranged): 2d2+5 (magical)
+Speed Factor: 1
+Proficiency Type: Quarterstaff
+Type: Two-handed
+Requires:
+5 Strength
+
+Weight: 4~
+
+@50=~This staff is one of the most prized possessions a wizard can acquire. Its unique design allows it to shoot bolts of pure magical energy at any target within 30 feet. It powers itself by harvesting an ambient arcane energy, that naturally emanates from magic users. As such, it will never run out of charges, but can only be used by wizards and sorcerers.
+
+Its shape and construction is reminiscent to that of a wand of magic missiles. It has a long shaft tipped with a distinct gem emanating with magical energy. However, unlike a fragile wand, it is indestructible. Its handle, also contains a control mechanism, that enables or disables the discharge of magical bolts. Therefore it can also be used as a regular melee weapon, if needed. Otherwise, magical bolts are released with just a swing.
+
+These staffs are quite rare on the Sword Coast and their true origins remain unknown. It is believed that they were originally devised by the mages of Netheril.
+
+The Staff of Wizardry, which you now hold in your hands, is the pinnacle of arcane craftsmanship. A masterpiece encapsulating the knowledge, research and study of many generations of wizards. The enchantments within it, make it more than capable of damaging all foes, save for the most powerful of entities within the Realms. 
+
+This is a Staff of Wizardry, that has been imprinted with wild magic and as such, has adopted some of its unpredictability. Later, it was combined with Shard of Netheril, which further amplified its power. There is an increased chance it may cast a harmful spell on a target, after a successful hit. The precise nature of the spell cannot be known however, until it is cast. Also it extends its wielder's repertoire with new wild magic spells.
+
+STATISTICS:
+
+Combat abilities:
+- 35% chance of casting a harmful spell on target, on a successful hit.
+
+Charged abilities:
+- Wildstrike once per day
+- Wild Sphere once per day
+Wildstrike: All spellcasting of the target is effected by wild surges in next 5 rounds
+Wild Sphere: All creatures within 30 ft. area are affected with wild surges for 5 rounds
+
+THAC0: +5
+Damage (melee): 1d6+5 (crushing)
+Damage (ranged): 2d2+5 (magical)
+Speed Factor: 1
+Proficiency Type: Quarterstaff
+Type: Two-handed
+Requires:
+5 Strength
+
+Weight: 4~
+
+@51=~This staff is one of the most prized possessions a wizard can acquire. Its unique design allows it to shoot bolts of pure magical energy at any target within 30 feet. It powers itself by harvesting an ambient arcane energy, that naturally emanates from magic users. As such, it will never run out of charges, but can only be used by wizards and sorcerers.
+
+Its shape and construction is reminiscent to that of a wand of magic missiles. It has a long shaft tipped with a distinct gem emanating with magical energy. However, unlike a fragile wand, it is indestructible. Its handle, also contains a control mechanism, that enables or disables the discharge of magical bolts. Therefore it can also be used as a regular melee weapon, if needed. Otherwise, magical bolts are released with just a swing.
+
+These staffs are quite rare on the Sword Coast and their true origins remain unknown. It is believed that they were originally devised by the mages of Netheril.
+
+The Staff of Wizardry, which you now hold in your hands, is the pinnacle of arcane craftsmanship. A masterpiece encapsulating the knowledge, research and study of many generations of wizards. The enchantments within it, make it more than capable of damaging all foes, save for the most powerful of entities within the Realms. 
+
+This is a Staff of Wizardry, that has been imprinted with draconic magic. Then, it was combined with Shard of Netheril, which further amplified its power. As such, it has a chance to empower itself and its wielder so that it is swung with the power of a Dragon. This will forcibly throw the enemy back and knock it unconscious, on a successful hit. Also it adds new dragon powers to its wielder's repertoire.
+
+STATISTICS:
+
+Combat abilities:
+- 35% chance of casting Wing Buffet on target, on successful hit
+Wing Buffet: Target is thrown back and rendered unconscious for one round
+
+Charged abilities:
+- Dragon Fear once per day
+- Lesser Dragon Form once per day
+Dragon Fear: All enemies within 40 ft. Radius must Save vs. Spell with -4 penalty or flee in terror. Some creatures are immune to the effects of fear, including all undead.
+Lesser Dragon Form: For 2 turns, caster is transformed into a small dragon and receives substantial melee bonuses.
+
+THAC0: +5
+Damage (melee): 1d6+5 (crushing)
+Damage (ranged): 2d2+5 (magical)
+Speed Factor: 1
+Proficiency Type: Quarterstaff
+Type: Two-handed
+Requires:
+5 Strength
+
+Weight: 4~
+
+@52=~This staff is one of the most prized possessions a wizard can acquire. Its unique design allows it to shoot bolts of pure magical energy at any target within 30 feet. It powers itself by harvesting an ambient arcane energy, that naturally emanates from magic users. As such, it will never run out of charges, but can only be used by wizards and sorcerers.
+
+Its shape and construction is reminiscent to that of a wand of magic missiles. It has a long shaft tipped with a distinct gem emanating with magical energy. However, unlike a fragile wand, it is indestructible. Its handle, also contains a control mechanism, that enables or disables the discharge of magical bolts. Therefore it can also be used as a regular melee weapon, if needed. Otherwise, magical bolts are released with just a swing.
+
+These staffs are quite rare on the Sword Coast and their true origins remain unknown. It is believed that they were originally devised by the mages of Netheril.
+
+The Staff of Wizardry, which you now hold in your hands, is the pinnacle of arcane craftsmanship. A masterpiece encapsulating the knowledge, research and study of many generations of wizards. The enchantments within it, make it more than capable of damaging all foes, save for the most powerful of entities within the Realms.
+
+This is a Staff of Wizardry, that has been activated to suit the needs of common mages, rather than being imprinted with aspects from some school of magic. Then, it was combined with Shard of Netheril, which further amplified its power. Now, it gives its wielder the ability to cast additional spells of his choice.
+
+STATISTICS:
+
+Special ability:
+- May cast any 5th-level spell once per day
+- May cast any 8th-level spell once per day
+
+
+THAC0: +5
+Damage (melee): 1d6+5 (crushing)
+Damage (ranged): 2d2+5 (magical)
+Speed Factor: 1
+Proficiency Type: Quarterstaff
+Type: Two-handed
+Requires:
+5 Strength
+
+Weight: 4~
+
+@53=~Conjure Swamp~
+
+@54=~Prediction~
+
+@55=~Thrall~
+
+@56=~Mass Polymorph Other~
+
+@57=~Wild Sphere~
+
+@58=~Lesser Dragon Form~
+
+@71=~Wizard's Staff~
+
+@72=~Wizard's Staff +1~
+
+@73=~It does not take years of study in the arcane to be able to tell that this finely crafted staff is highly enchanted. In shape and construction, it seems almost more reminiscent of a wand than a staff used for striking. Its precise workings however are lost on you, rendering it little more than a decorative bauble.
+
+STATISTICS:
+
+Damage: 1d6 (crushing)
+Speed Factor: 4
+Proficiency Type: Quarterstaff
+Type: Two-handed
+Requires:
+ 5 Strength
+
+Weight: 4~
+
+@74=~This staff is one of the most prized possessions a wizard can acquire. Its unique design allows it to shoot bolts of pure magical energy at its target within 30 feet. It powers itself by harvesting an ambient arcane energy, that naturally emanates from magic users. As such, it will never run out of charges, but can be used only by wizards and sorcerers.
+
+Its shape and construction is reminiscent to that of a wand of magic missiles. It has a long shaft tipped with a distinct gem emanating with magical energy. However, unlike a fragile wand, it is indestructible. Its handle, also contains a control mechanism, that enables or disables the discharge of magical bolts. Therefore it can also be used as a regular melee weapon, if needed. Otherwise, magical bolts are released with just a swing.
+
+These staffs are quite rare on the Sword Coast and their true origin remains unknown, though it is believed that they were originally devised by the mages of Netheril. The first one was found in a Netherese ruin by a research party; it was brought back, extensively studied and finally several copies were successfully created. However, the core technology of fueling the staff with the aura of its wielder's arcane magic is still not very thoroughly understood. Because of that, possible further enchanting is extremely dangerous, although rumor has it that some progress is being made.
+
+STATISTICS:
+
+THAC0: +1
+Damage (melee): 1d6+1 (crushing)
+Damage (ranged): 2d2+1 (magical)
+Speed Factor: 3
+Proficiency Type: Quarterstaff
+Type: Two-handed
+Requires:
+ 5 Strength
+
+Weight: 4~
+
+@75=~This staff is one of the most prized possessions a wizard can acquire. Its unique design allows it to shoot bolts of pure magical energy at any target within 30 feet. It powers itself by harvesting an ambient arcane energy, that naturally emanates from magic users. As such, it will never run out of charges, but can only be used by wizards and sorcerers.
+
+Its shape and construction is reminiscent to that of a wand of magic missiles. It has a long shaft tipped with a distinct gem emanating with magical energy. However, unlike a fragile wand, it is indestructible. Its handle, also contains a control mechanism, that enables or disables the discharge of magical bolts. Therefore it can also be used as a regular melee weapon, if needed. Otherwise, magical bolts are released with just a swing.
+
+These staffs are quite rare on the Sword Coast and their true origins remain unknown. It is believed that they were originally devised by the mages of Netheril.
+
+The Staff of Wizardry, which you now hold in your hands, is the pinnacle of arcane craftsmanship. A masterpiece encapsulating the knowledge, research and study of many generations of wizards. 
+
+However, the most intriguing ability of the staff, is to imprint the wielder's own magical prowess into the weapon. When activated, the staff will delve into the spellcaster's aura and merge with the strongest aspect of his arcane power, granting additional school-based abilities. And more than that, the staff will get a significant upgrade of its enchantment, making it more than capable of damaging all foes, save for the most powerful of entities within the Realms.
+
+STATISTICS:
+
+Special ability:
+When a wielder reaches 250 000 XP he can activate the staff with following effects:
+-A specialist mage can imprint his specialization into the staff, giving it additional school-based powers.
+-A generalist mage (including dual and multi-class) can either upgrade the staff, giving it additional powers, or choose any specialization, which will turn them into the respective specialists and imprint the staff the respective specialization.
+The effects are permanent.
+-The staff will get +3 enchantment.
+
+THAC0: +1
+Damage (melee): 1d6+1 (crushing)
+Damage (ranged): 2d2+1 (magical)
+Speed Factor: 1
+Proficiency Type: Quarterstaff
+Type: Two-handed
+Requires:
+5 Strength
+
+Weight: 4~
+
+@76=~This staff is one of the most prized possessions a wizard can acquire. Its unique design allows it to shoot bolts of pure magical energy at any target within 30 feet. It powers itself by harvesting an ambient arcane energy, that naturally emanates from magic users. As such, it will never run out of charges, but can only be used by wizards and sorcerers.
+
+Its shape and construction is reminiscent to that of a wand of magic missiles. It has a long shaft tipped with a distinct gem emanating with magical energy. However, unlike a fragile wand, it is indestructible. Its handle, also contains a control mechanism, that enables or disables the discharge of magical bolts. Therefore it can also be used as a regular melee weapon, if needed. Otherwise, magical bolts are released with just a swing.
+
+These staffs are quite rare on the Sword Coast and their true origins remain unknown. It is believed that they were originally devised by the mages of Netheril.
+
+The Staff of Wizardry, which you now hold in your hands, is the pinnacle of arcane craftsmanship. A masterpiece encapsulating the knowledge, research and study of many generations of wizards. The enchantments within it, make it more than capable of damaging all foes, save for the most powerful of entities within the Realms. 
+
+This is a Staff of Wizardry, that has been imprinted with aspects from the Abjuration school of magic. As such, it has a chance to remove spell protections from a target, on a successful hit. Also it adds the spell, Minor Spell Turning, to its wielder's repertoire.
+
+STATISTICS:
+
+Special ability:
+When a wielder reaches 1 000 000 XP he can upgrade the staff with +5 enchantment and more abilities.
+
+Combat abilities:
+- 25% chance of casting Spell Thrust on target, on a successful hit
+
+Charged abilities:
+- Minor Spell Turning once per day
+
+THAC0: +3
+Damage (melee): 1d6+3 (crushing)
+Damage (ranged): 2d2+3 (magical)
+Speed Factor: 1
+Proficiency Type: Quarterstaff
+Type: Two-handed
+Requires:
+5 Strength
+
+Weight: 4~
+
+@77=~This staff is one of the most prized possessions a wizard can acquire. Its unique design allows it to shoot bolts of pure magical energy at any target within 30 feet. It powers itself by harvesting an ambient arcane energy, that naturally emanates from magic users. As such, it will never run out of charges, but can only be used by wizards and sorcerers.
+
+Its shape and construction is reminiscent to that of a wand of magic missiles. It has a long shaft tipped with a distinct gem emanating with magical energy. However, unlike a fragile wand, it is indestructible. Its handle, also contains a control mechanism, that enables or disables the discharge of magical bolts. Therefore it can also be used as a regular melee weapon, if needed. Otherwise, magical bolts are released with just a swing.
+
+These staffs are quite rare on the Sword Coast and their true origins remain unknown. It is believed that they were originally devised by the mages of Netheril.
+
+The Staff of Wizardry, which you now hold in your hands, is the pinnacle of arcane craftsmanship. A masterpiece encapsulating the knowledge, research and study of many generations of wizards. The enchantments within it, make it more than capable of damaging all foes, save for the most powerful of entities within the Realms. 
+
+This is a Staff of Wizardry, that has been imprinted with aspects from the Conjuration school of magic. As such, it has a chance to plague the target with a deadly swarm of insects, on a successful hit. Also it adds the spell, Monster Summoning III, to its wielder's repertoire.
+
+STATISTICS:
+
+Special ability:
+When a wielder reaches 1 000 000 XP he can upgrade the staff with +5 enchantment and more abilities.
+
+Combat abilities:
+- 25% chance of casting Summon Insect on target, on a successful hit
+
+Charged abilities:
+- Monster Summoning III once per day
+
+THAC0: +3
+Damage (melee): 1d6+3 (crushing)
+Damage (ranged): 2d2+3 (magical)
+Speed Factor: 1
+Proficiency Type: Quarterstaff
+Type: Two-handed
+Requires:
+5 Strength
+
+Weight: 4~
+
+@78=~This staff is one of the most prized possessions a wizard can acquire. Its unique design allows it to shoot bolts of pure magical energy at any target within 30 feet. It powers itself by harvesting an ambient arcane energy, that naturally emanates from magic users. As such, it will never run out of charges, but can only be used by wizards and sorcerers.
+
+Its shape and construction is reminiscent to that of a wand of magic missiles. It has a long shaft tipped with a distinct gem emanating with magical energy. However, unlike a fragile wand, it is indestructible. Its handle, also contains a control mechanism, that enables or disables the discharge of magical bolts. Therefore it can also be used as a regular melee weapon, if needed. Otherwise, magical bolts are released with just a swing.
+
+These staffs are quite rare on the Sword Coast and their true origins remain unknown. It is believed that they were originally devised by the mages of Netheril.
+
+The Staff of Wizardry, which you now hold in your hands, is the pinnacle of arcane craftsmanship. A masterpiece encapsulating the knowledge, research and study of many generations of wizards. The enchantments within it, make it more than capable of damaging all foes, save for the most powerful of entities within the Realms. 
+
+This is a Staff of Wizardry, that has been imprinted with aspects from the Divination school of magic. As such, it has a chance to expose target's weaknesses, on a successful hit. Also it adds the spell, Oracle, to its wielder's repertoire.
+
+STATISTICS:
+
+Special ability:
+When a wielder reaches 1 000 000 XP he can upgrade the staff with +5 enchantment and more abilities.
+
+Combat abilities:
+- 25% chance of casting Know Enemy on target, on a successful hit
+Know Enemy: Lowers AC, THAC0 and saving throws at -3 each for 10 rounds
+
+Charged abilities:
+- Oracle once per day
+
+THAC0: +3
+Damage (melee): 1d6+3 (crushing)
+Damage (ranged): 2d2+3 (magical)
+Speed Factor: 1
+Proficiency Type: Quarterstaff
+Type: Two-handed
+Requires:
+5 Strength
+
+Weight: 4~
+
+@79=~This staff is one of the most prized possessions a wizard can acquire. Its unique design allows it to shoot bolts of pure magical energy at any target within 30 feet. It powers itself by harvesting an ambient arcane energy, that naturally emanates from magic users. As such, it will never run out of charges, but can only be used by wizards and sorcerers.
+
+Its shape and construction is reminiscent to that of a wand of magic missiles. It has a long shaft tipped with a distinct gem emanating with magical energy. However, unlike a fragile wand, it is indestructible. Its handle, also contains a control mechanism, that enables or disables the discharge of magical bolts. Therefore it can also be used as a regular melee weapon, if needed. Otherwise, magical bolts are released with just a swing.
+
+These staffs are quite rare on the Sword Coast and their true origins remain unknown. It is believed that they were originally devised by the mages of Netheril.
+
+The Staff of Wizardry, which you now hold in your hands, is the pinnacle of arcane craftsmanship. A masterpiece encapsulating the knowledge, research and study of many generations of wizards. The enchantments within it, make it more than capable of damaging all foes, save for the most powerful of entities within the Realms. 
+
+This is a Staff of Wizardry, that has been imprinted with aspects from the Enchantment school of magic. As such, it has a chance to confuse a target and render it useless in battle, on a successful hit. Also it adds the spell, Hold Monster, to its wielder's repertoire.
+
+STATISTICS:
+
+Special ability:
+When a wielder reaches 1 000 000 XP he can upgrade the staff with +5 enchantment and more abilities.
+
+Combat abilities:
+- 25% chance of casting Rigid Thinking on target, on a successful hit
+
+Charged abilities:
+- Hold Monster once per day
+
+THAC0: +3
+Damage (melee): 1d6+3 (crushing)
+Damage (ranged): 2d2+3 (magical)
+Speed Factor: 1
+Proficiency Type: Quarterstaff
+Type: Two-handed
+Requires:
+5 Strength
+
+Weight: 4~
+
+@80=~This staff is one of the most prized possessions a wizard can acquire. Its unique design allows it to shoot bolts of pure magical energy at any target within 30 feet. It powers itself by harvesting an ambient arcane energy, that naturally emanates from magic users. As such, it will never run out of charges, but can only be used by wizards and sorcerers.
+
+Its shape and construction is reminiscent to that of a wand of magic missiles. It has a long shaft tipped with a distinct gem emanating with magical energy. However, unlike a fragile wand, it is indestructible. Its handle, also contains a control mechanism, that enables or disables the discharge of magical bolts. Therefore it can also be used as a regular melee weapon, if needed. Otherwise, magical bolts are released with just a swing.
+
+These staffs are quite rare on the Sword Coast and their true origins remain unknown. It is believed that they were originally devised by the mages of Netheril.
+
+The Staff of Wizardry, which you now hold in your hands, is the pinnacle of arcane craftsmanship. A masterpiece encapsulating the knowledge, research and study of many generations of wizards. The enchantments within it, make it more than capable of damaging all foes, save for the most powerful of entities within the Realms. 
+
+This is a Staff of Wizardry, that has been imprinted with aspects from the Illusion school of magic. As such, it has a chance to collapse the vital senses of a target, on a successful hit. Also it adds the spell, Shadow Door, to its wielder's repertoire.
+
+STATISTICS:
+
+Special ability:
+When a wielder reaches 1 000 000 XP he can upgrade the staff with +5 enchantment and more abilities.
+
+Combat abilities:
+- 25% chance of casting Sensory Collapse on target, on a successful hit
+Sensory Collapse: Target is effected by Blindness and Deafness for 10 rounds (Save vs. Spell with -1 penalty negates the effect)
+
+Charged abilities:
+- Shadow Door once per day
+
+THAC0: +3
+Damage (melee): 1d6+3 (crushing)
+Damage (ranged): 2d2+3 (magical)
+Speed Factor: 1
+Proficiency Type: Quarterstaff
+Type: Two-handed
+Requires:
+5 Strength
+
+Weight: 4~
+
+@81=~This staff is one of the most prized possessions a wizard can acquire. Its unique design allows it to shoot bolts of pure magical energy at any target within 30 feet. It powers itself by harvesting an ambient arcane energy, that naturally emanates from magic users. As such, it will never run out of charges, but can only be used by wizards and sorcerers.
+
+Its shape and construction is reminiscent to that of a wand of magic missiles. It has a long shaft tipped with a distinct gem emanating with magical energy. However, unlike a fragile wand, it is indestructible. Its handle, also contains a control mechanism, that enables or disables the discharge of magical bolts. Therefore it can also be used as a regular melee weapon, if needed. Otherwise, magical bolts are released with just a swing.
+
+These staffs are quite rare on the Sword Coast and their true origins remain unknown. It is believed that they were originally devised by the mages of Netheril.
+
+The Staff of Wizardry, which you now hold in your hands, is the pinnacle of arcane craftsmanship. A masterpiece encapsulating the knowledge, research and study of many generations of wizards. The enchantments within it, make it more than capable of damaging all foes, save for the most powerful of entities within the Realms. 
+
+This is a Staff of Wizardry, that has been imprinted with aspects from the Invocation school of magic. As such, it has a chance to strike the target with lightning, on a successful hit. Also it adds the spell, Cloudkill, to its wielder's repertoire.
+
+STATISTICS:
+
+Special ability:
+When a wielder reaches 1 000 000 XP he can upgrade the staff with +5 enchantment and more abilities.
+
+Combat abilities:
+- 25% chance of casting Lightning Bolt on target, on a successful hit (only effects target)
+
+Charged abilities:
+- Cloudkill once per day
+
+THAC0: +3
+Damage (melee): 1d6+3 (crushing)
+Damage (ranged): 2d2+3 (magical)
+Speed Factor: 1
+Proficiency Type: Quarterstaff
+Type: Two-handed
+Requires:
+5 Strength
+
+Weight: 4~
+
+@82=~This staff is one of the most prized possessions a wizard can acquire. Its unique design allows it to shoot bolts of pure magical energy at any target within 30 feet. It powers itself by harvesting an ambient arcane energy, that naturally emanates from magic users. As such, it will never run out of charges, but can only be used by wizards and sorcerers.
+
+Its shape and construction is reminiscent to that of a wand of magic missiles. It has a long shaft tipped with a distinct gem emanating with magical energy. However, unlike a fragile wand, it is indestructible. Its handle, also contains a control mechanism, that enables or disables the discharge of magical bolts. Therefore it can also be used as a regular melee weapon, if needed. Otherwise, magical bolts are released with just a swing.
+
+These staffs are quite rare on the Sword Coast and their true origins remain unknown. It is believed that they were originally devised by the mages of Netheril.
+
+The Staff of Wizardry, which you now hold in your hands, is the pinnacle of arcane craftsmanship. A masterpiece encapsulating the knowledge, research and study of many generations of wizards. The enchantments within it, make it more than capable of damaging all foes, save for the most powerful of entities within the Realms. 
+
+This is a Staff of Wizardry, that has been imprinted with aspects from the necromantic school of magic. As such, it has a chance to drain a target's vitality, on a successful hit. Also it adds the spell, Animate Dead, to its wielder's repertoire.
+
+STATISTICS:
+
+Special ability:
+When a wielder reaches 1 000 000 XP he can upgrade the staff with +5 enchantment and more abilities.
+
+Combat abilities:
+- 25% chance of casting Vampiric Touch on target, on a successful hit
+
+Charged abilities:
+- Animate Dead once per day
+
+THAC0: +3
+Damage (melee): 1d6+3 (crushing)
+Damage (ranged): 2d2+3 (magical)
+Speed Factor: 1
+Proficiency Type: Quarterstaff
+Type: Two-handed
+Requires:
+5 Strength
+
+Weight: 4~
+
+@83=~This staff is one of the most prized possessions a wizard can acquire. Its unique design allows it to shoot bolts of pure magical energy at any target within 30 feet. It powers itself by harvesting an ambient arcane energy, that naturally emanates from magic users. As such, it will never run out of charges, but can only be used by wizards and sorcerers.
+
+Its shape and construction is reminiscent to that of a wand of magic missiles. It has a long shaft tipped with a distinct gem emanating with magical energy. However, unlike a fragile wand, it is indestructible. Its handle, also contains a control mechanism, that enables or disables the discharge of magical bolts. Therefore it can also be used as a regular melee weapon, if needed. Otherwise, magical bolts are released with just a swing.
+
+These staffs are quite rare on the Sword Coast and their true origins remain unknown. It is believed that they were originally devised by the mages of Netheril.
+
+The Staff of Wizardry, which you now hold in your hands, is the pinnacle of arcane craftsmanship. A masterpiece encapsulating the knowledge, research and study of many generations of wizards. The enchantments within it, make it more than capable of damaging all foes, save for the most powerful of entities within the Realms. 
+
+This is a Staff of Wizardry, that has been imprinted with aspects from the Alteration school of magic. As such, it has a chance to slow a target , on a successful hit. Also it adds the spell, Phase Shift, to its wielder's repertoire.
+
+STATISTICS:
+
+Special ability:
+When a wielder reaches 1 000 000 XP he can upgrade the staff with +5 enchantment and more abilities.
+
+Combat abilities:
+- 25% chance of casting Slow on target, on a successful hit
+
+Charged abilities:
+- Phase Shift once per day
+Phase Shift: Instantly transports the caster to any place within his visual range
+
+THAC0: +3
+Damage (melee): 1d6+3 (crushing)
+Damage (ranged): 2d2+3 (magical)
+Speed Factor: 1
+Proficiency Type: Quarterstaff
+Type: Two-handed
+Requires:
+5 Strength
+
+Weight: 4~
+
+@84=~This staff is one of the most prized possessions a wizard can acquire. Its unique design allows it to shoot bolts of pure magical energy at any target within 30 feet. It powers itself by harvesting an ambient arcane energy, that naturally emanates from magic users. As such, it will never run out of charges, but can only be used by wizards and sorcerers.
+
+Its shape and construction is reminiscent to that of a wand of magic missiles. It has a long shaft tipped with a distinct gem emanating with magical energy. However, unlike a fragile wand, it is indestructible. Its handle, also contains a control mechanism, that enables or disables the discharge of magical bolts. Therefore it can also be used as a regular melee weapon, if needed. Otherwise, magical bolts are released with just a swing.
+
+These staffs are quite rare on the Sword Coast and their true origins remain unknown. It is believed that they were originally devised by the mages of Netheril.
+
+The Staff of Wizardry, which you now hold in your hands, is the pinnacle of arcane craftsmanship. A masterpiece encapsulating the knowledge, research and study of many generations of wizards. The enchantments within it, make it more than capable of damaging all foes, save for the most powerful of entities within the Realms. 
+
+This is a Staff of Wizardry, that has been imprinted with wild magic and as such, has adopted some of its unpredictability. There is a chance it may cast a harmful spell on a target, after a successful hit. The precise nature of the spell cannot be known however, until it is cast. Also it extends its wielder's repertoire with a spell, that causes wild surges to an unfortunate chosen spellcaster.
+
+STATISTICS:
+
+Special ability:
+When a wielder reaches 1 000 000 XP he can upgrade the staff with +5 enchantment and more abilities.
+
+Combat abilities:
+- 24% chance of casting a harmful spell on target, on a successful hit.
+
+Charged abilities:
+- Wildstrike once per day
+Wildstrike: All spellcasting of the target is effected by wild surges in next 5 rounds
+
+THAC0: +3
+Damage (melee): 1d6+3 (crushing)
+Damage (ranged): 2d2+3 (magical)
+Speed Factor: 1
+Proficiency Type: Quarterstaff
+Type: Two-handed
+Requires:
+5 Strength
+
+Weight: 4~
+
+@85=~This staff is one of the most prized possessions a wizard can acquire. Its unique design allows it to shoot bolts of pure magical energy at any target within 30 feet. It powers itself by harvesting an ambient arcane energy, that naturally emanates from magic users. As such, it will never run out of charges, but can only be used by wizards and sorcerers.
+
+Its shape and construction is reminiscent to that of a wand of magic missiles. It has a long shaft tipped with a distinct gem emanating with magical energy. However, unlike a fragile wand, it is indestructible. Its handle, also contains a control mechanism, that enables or disables the discharge of magical bolts. Therefore it can also be used as a regular melee weapon, if needed. Otherwise, magical bolts are released with just a swing.
+
+These staffs are quite rare on the Sword Coast and their true origins remain unknown. It is believed that they were originally devised by the mages of Netheril.
+
+The Staff of Wizardry, which you now hold in your hands, is the pinnacle of arcane craftsmanship. A masterpiece encapsulating the knowledge, research and study of many generations of wizards. The enchantments within it, make it more than capable of damaging all foes, save for the most powerful of entities within the Realms. 
+
+This is a Staff of Wizardry, that has been imprinted with draconic magic. As such, it has a chance to empower itself and its wielder so that it is swung with the power of a Dragon. This will forcibly throw the enemy back and knock it unconscious, on a successful hit. Also it adds the spell, Dragon Fear, to its wielder's repertoire.
+
+STATISTICS:
+
+Special ability:
+When a wielder reaches 1 000 000 XP he can upgrade the staff with +5 enchantment and more abilities.
+
+Combat abilities:
+- 25% chance of casting Wing Buffet on target, on successful hit
+Wing Buffet: Target is thrown back and rendered unconscious for one round
+
+Charged abilities:
+- Dragon Fear once per day
+Dragon Fear: All enemies within 40 ft. Radius must Save vs. Spell with -4 penalty or flee in terror. Some creatures are immune to the effects of fear, including all undead.
+
+THAC0: +3
+Damage (melee): 1d6+3 (crushing)
+Damage (ranged): 2d2+3 (magical)
+Speed Factor: 1
+Proficiency Type: Quarterstaff
+Type: Two-handed
+Requires:
+5 Strength
+
+Weight: 4~
+
+@86=~This staff is one of the most prized possessions a wizard can acquire. Its unique design allows it to shoot bolts of pure magical energy at any target within 30 feet. It powers itself by harvesting an ambient arcane energy, that naturally emanates from magic users. As such, it will never run out of charges, but can only be used by wizards and sorcerers.
+
+Its shape and construction is reminiscent to that of a wand of magic missiles. It has a long shaft tipped with a distinct gem emanating with magical energy. However, unlike a fragile wand, it is indestructible. Its handle, also contains a control mechanism, that enables or disables the discharge of magical bolts. Therefore it can also be used as a regular melee weapon, if needed. Otherwise, magical bolts are released with just a swing.
+
+These staffs are quite rare on the Sword Coast and their true origins remain unknown. It is believed that they were originally devised by the mages of Netheril.
+
+The Staff of Wizardry, which you now hold in your hands, is the pinnacle of arcane craftsmanship. A masterpiece encapsulating the knowledge, research and study of many generations of wizards. The enchantments within it, make it more than capable of damaging all foes, save for the most powerful of entities within the Realms.
+
+This is a Staff of Wizardry, that has been activated to suit the needs of common mages, rather than being imprinted with aspects from some school of magic. As such, it gives its wielder the ability to cast additional spell of his choice.
+
+STATISTICS:
+
+Special ability:
+When a wielder reaches 1 000 000 XP he can upgrade the staff with +5 enchantment and more abilities.
+
+Special ability:
+- May cast any 5th-level spell once per day
+
+THAC0: +3
+Damage (melee): 1d6+3 (crushing)
+Damage (ranged): 2d2+3 (magical)
+Speed Factor: 1
+Proficiency Type: Quarterstaff
+Type: Two-handed
+Requires:
+5 Strength
+
+Weight: 4~
+
+@87=~This staff is one of the most prized possessions a wizard can acquire. Its unique design allows it to shoot bolts of pure magical energy at any target within 30 feet. It powers itself by harvesting an ambient arcane energy, that naturally emanates from magic users. As such, it will never run out of charges, but can only be used by wizards and sorcerers.
+
+Its shape and construction is reminiscent to that of a wand of magic missiles. It has a long shaft tipped with a distinct gem emanating with magical energy. However, unlike a fragile wand, it is indestructible. Its handle, also contains a control mechanism, that enables or disables the discharge of magical bolts. Therefore it can also be used as a regular melee weapon, if needed. Otherwise, magical bolts are released with just a swing.
+
+These staffs are quite rare on the Sword Coast and their true origins remain unknown. It is believed that they were originally devised by the mages of Netheril.
+
+The Staff of Wizardry, which you now hold in your hands, is the pinnacle of arcane craftsmanship. A masterpiece encapsulating the knowledge, research and study of many generations of wizards. The enchantments within it, make it more than capable of damaging all foes, save for the most powerful of entities within the Realms. 
+
+However, the most intriguing ability of the staff, is to imprint the wielder's own magical prowess into the weapon. When activated, the staff will delve into the spellcaster's aura and merge with the strongest aspect of his arcane power, granting additional school-based abilities.
+
+This staff is currently inactive, its gem doesn't emanate any energy. The wielder can wake it up with a mental command and during this initiation, he will be prompted to choose its appearance.
+
+STATISTICS:
+
+Special ability:
+A wielder must turn on the inactive staff. During this process, he will be prompted to choose its color set.
+
+When a wielder reaches 250 000 XP he can activate the staff with following effects:
+-A specialist mage can imprint his specialization into the staff, giving it additional school-based powers.
+-A generalist mage (including dual and multi-class) can either upgrade the staff, giving it additional powers, or choose any specialization, which will turn them into the respective specialists and imprint the staff the respective specialization.
+The effects are permanent.
+
+THAC0: +3
+Damage (melee): 1d6+3 (crushing)
+Damage (ranged): 2d2+3 (magical, disabled while inactive)
+Speed Factor: 1
+Proficiency Type: Quarterstaff
+Type: Two-handed
+Requires:
+5 Strength
+
+Weight: 4~
+
+@88=~This staff is one of the most prized possessions a wizard can acquire. Its unique design allows it to shoot bolts of pure magical energy at any target within 30 feet. It powers itself by harvesting an ambient arcane energy, that naturally emanates from magic users. As such, it will never run out of charges, but can only be used by wizards and sorcerers.
+
+Its shape and construction is reminiscent to that of a wand of magic missiles. It has a long shaft tipped with a distinct gem emanating with magical energy. However, unlike a fragile wand, it is indestructible. Its handle, also contains a control mechanism, that enables or disables the discharge of magical bolts. Therefore it can also be used as a regular melee weapon, if needed. Otherwise, magical bolts are released with just a swing.
+
+These staffs are quite rare on the Sword Coast and their true origins remain unknown. It is believed that they were originally devised by the mages of Netheril.
+
+The Staff of Wizardry, which you now hold in your hands, is the pinnacle of arcane craftsmanship. A masterpiece encapsulating the knowledge, research and study of many generations of wizards. 
+
+However, the most intriguing ability of the staff, is to imprint the wielder's own magical prowess into the weapon. When activated, the staff will delve into the spellcaster's aura and merge with the strongest aspect of his arcane power, granting additional school-based abilities. And more than that, the staff will get a significant upgrade of its enchantment, making it more than capable of damaging all foes, save for the most powerful of entities within the Realms.
+
+This staff is currently inactive, its gem doesn't emanate any energy. The wielder can wake it up with a mental command and during this initiation, he will be prompted to choose its appearance.
+
+STATISTICS:
+
+Special ability:
+A wielder must turn on the inactive staff. During this process, he will be prompted to choose its color set.
+
+When a wielder reaches 250 000 XP he can activate the staff with following effects:
+-A specialist mage can imprint his specialization into the staff, giving it additional school-based powers.
+-A generalist mage (including dual and multi-class) can either upgrade the staff, giving it additional powers, or choose any specialization, which will turn them into the respective specialists and imprint the staff the respective specialization.
+The effects are permanent.
+-The staff will get +3 enchantment.
+
+THAC0: +1
+Damage (melee): 1d6+1 (crushing)
+Damage (ranged): 2d2+1 (magical, disabled while inactive)
+Speed Factor: 1
+Proficiency Type: Quarterstaff
+Type: Two-handed
+Requires:
+5 Strength
+
+Weight: 4~
+
+@89=~This staff is one of the most prized possessions a wizard can acquire. Its unique design allows it to shoot bolts of pure magical energy at its target within 30 feet. It powers itself by harvesting an ambient arcane energy, that naturally emanates from magic users. As such, it will never run out of charges, but can be used only by wizards and sorcerers.
+
+Its shape and construction is reminiscent to that of a wand of magic missiles. It has a long shaft tipped with a distinct gem emanating with magical energy. However, unlike a fragile wand, it is indestructible. Its handle, also contains a control mechanism, that enables or disables the discharge of magical bolts. Therefore it can also be used as a regular melee weapon, if needed. Otherwise, magical bolts are released with just a swing.
+
+These staffs are quite rare on the Sword Coast and their true origin remains unknown, though it is believed that they were originally devised by the mages of Netheril. The first one was found in a Netherese ruin by a research party; it was brought back, extensively studied and finally several copies were successfully created. However, the core technology of fueling the staff with the aura of its wielder's arcane magic is still not very thoroughly understood. Because of that, possible further enchanting is extremely dangerous, although rumor has it that some progress is being made.
+
+This staff is currently inactive, its gem doesn't emanate any energy. The wielder can wake it up with a mental command and during this initiation, he will be prompted to choose its appearance.
+
+STATISTICS:
+
+Special ability:
+A wielder must turn on the inactive staff. During this process, he will be prompted to choose its color set.
+
+THAC0: +1
+Damage (melee): 1d6+1 (crushing)
+Damage (ranged): 2d2+1 (magical, disabled while inactive)
+Speed Factor: 3
+Proficiency Type: Quarterstaff
+Type: Two-handed
+Requires:
+ 5 Strength
+
+Weight: 4~
+
+@90=~Sensory Collapse~
+
+@91=~Phase Shift~
+
+@92=~Summon Fire Giant~
+
+@98=~UPGRADE~
+
+@99=~ACTIVATE~
+
+@100=~You try to focus your concentration on grasping the core of the staff. However, it eludes you. The staff hums momentarily, but otherwise remains dormant. Any more attempts to activate the staff will be futile, until you learn better control and mastery of your willpower.~
+
+@101=~When you begin to concentrate, the staff's core smoothly opens up to you. It starts to hum noticeably, as if it eagerly awaits your mental commands.~
+
+@102=~I want to imprint the staff with aspects from the magic school of Abjuration.~
+
+@103=~I want to imprint the staff with aspects from the magic school of Conjuration.~
+
+@104=~I want to imprint the staff with aspects from the magic school of Divination.~
+
+@105=~I want to imprint the staff with aspects from the magic school of Enchantment.~
+
+@106=~I want to imprint the staff with aspects from the magic school of Illusions.~
+
+@107=~I want to imprint the staff with aspects from the magic school of Invocation.~
+
+@108=~I want to imprint the staff with aspects from the magic school of Necromancy.~
+
+@109=~I want to imprint the staff with aspects from the magic school of Alteration.~
+
+@110=~I want to imprint the staff with wild magic.~
+
+@111=~I want to imprint the staff with my draconic magic.~
+
+@112=~I don't want to activate the staff right now.~
+
+@113=~Nevermind.~
+
+@114=~You send your mental commands, the staff's hum changes in pitch and vibrates visibly in your hands. The core is ready to expand and the process begins.~
+
+@115=~I want to empower the staff with aspects from all schools of magic.~
+
+@116=~Again, you try to focus your concentration on grasping the core of the staff. This time, however, the push is much stronger. Any more attempts to upgrade the staff will be futile, until you learn better control and mastery of your willpower.~
+
+@117=~When you begin to concentrate, the staff's core once more smoothly opens up to you. Again ,it starts to hum noticeably, as if it eagerly awaits your mental commands.~
+
+@118=~I want to upgrade the staff.~
+
+@119=~I don't want to upgrade the staff right now.~
+
+@150=~You put the circlet on your head and begin to concentrate. You can feel a mild pressure, as it starts to probe your mind. However, after a brief moment, the pressure stops and the circlet remains inactive. You obviously can't make use of it.~
+
+@151=~You put the circlet on your head and begin to concentrate. You feel a mild pressure, as it starts to probe your mind. The pressure rapidly increases and you start to feel dizzy. Then it suddenly stops. The circlet is finished probing your mind, you can choose now, in which school you want to specialize.~
+
+@152=~I want to specialize in the magic school of Abjuration.~
+
+@153=~I want to specialize in the magic school of Conjuration.~
+
+@154=~I want to specialize in the magic school of Divination.~
+
+@155=~I want to specialize in the magic school of Enchantment.~
+
+@156=~I want to specialize in the magic school of Illusions.~
+
+@157=~I want to specialize in the magic school of Invocation.~
+
+@158=~I want to specialize in the magic school of Necromancy.~
+
+@159=~I want to specialize in the magic school of Alteration.~
+
+@160=~I want to become a wild mage.~
+
+@162=~Nevermind.~
+
+@163=~I don't want to specialize right now.~
+
+@164=~You send your mental commands, and the pressure starts again. But this time it comes from within. Your newly revealed talent reaches out.~
+
+@165=~Circlet of Revelation~
+
+@166=~This ordinarily looking bronze circlet is actually infused with powerful magic of unknown origin, which allows only wizards to wear it. It can probe probe its wielder's mind and reveal a hidden talent for arcane magic craft. As a result, a wizard may become a specialist in a magic school of his choice.
+
+STATISTICS:
+
+Special abilities:
+When activated, generalist mage may become a specialist in a school of his choosing. This also applies to multi and dual-class mages.
+
+Weight: 1~
+
+@201=~Circlet~
+
+@202=~Circlet of the Archmagi~
+
+@203=~A circlet is a circular band, typically made of precious metal, worn on the head as an ornament or symbol of status. Circlets carrying low-level enchantments are commonly worn by mages across Faerûn.
+
+Weight: 1~
+
+@204=~This powerful circlet was enchanted to complement the robes customarily worn by archmages, building even further on their magical protection and benefits. Due to the nature of the enchantment, it can only be worn by Mages.
+
+STATISTICS:
+
+Equipped abilities:
+- Armor Class: +1
+- Saving Throws: +1
+- Intelligence: +1
+
+Weight: 1~
+
+@205=~Eilistraee's Boon +1~
+
+@206=~This circlet is made of the purest silver and embedded with a green and shimmering jewel that seems to emit a faint glow when caught by moonlight. It was blessed by the drow goddess Eilistraee, granting the wearer increased protection against harmful magic.
+
+STATISTICS:
+
+Equipped abilities:
+- Saving Throws: +1
+- Magic Resistance: +10%
+
+Weight: 1~
+
+@207=~Wizard's Hat~
+
+@208=~This is a very curiously looking hat, a seemingly fitting headgear for any proud mage.
+
+
+Weight: 1~
+
+@209=~This extraordinary piece of clothing belonged to a certain very famous wizard for a very long time. Though obviously, such a great wizard would own more than one hat. Whether he left this one on purpose or lost accidentally, it still carries some of his power. So anyone, lucky enough to come to possess this artifact can have a small glimpse of how it feels to be a real Archmage.
+
+Well, actually not everyone. Due to a very specific kind of enchantment, a wearer must somewhat synchronize with this hat in regard with its former owner. Therefore, only human male wizards are able to use it.
+
+STATISTICS:
+
+Equipped abilities:
+- Protects against critical hits
+- Charisma: +1 bonus
+- Magic Resistance: +5%
+
+Charged abilities:
+- Time Stop for a short period of time, once per day (duration scales with levels)
+
+Weight: 1~
+
+@210=~Wand Case~
+
+@211=~This case is perfectly designed for holding wands of all kinds. The special layout of its interior allows for dozens of wands to be safely stored within.
+
+STATISTICS:
+
+Weight: 2~
+
+@212=~Time Stop~
+
+@301=~Ooh, nice staff! You has one of the Staffs of Wizardry.~ [RGBOTSM]
+
+@302=~With a gem called Shard of Netheril, I can use a recipe and make it much better. If only you had it... Oh, next time maybe.~
+
+@303=~And you has Shard of Netheril too! I can use a recipe and make it much better. 10,000 gp is all I needs... You want?~
+
+@304=~I don't have that much gold.~
+
+@305=~Sure, take this Staff of Abjuration.~
+
+@306=~Sure, take this Staff of Conjuration.~
+
+@307=~Sure, take this Staff of Divination.~
+
+@308=~Sure, take this Staff of Enchantment.~
+
+@309=~Sure, take this Staff of Illusions.~
+
+@310=~Sure, take this Staff of Invocation.~
+
+@311=~Sure, take this Staff of Necromancy.~
+
+@312=~Sure, take this Staff of Alteration.~
+
+@313=~Sure, take this Staff of Wild Magic.~
+
+@314=~Sure, take this Staff of Dragon Power.~
+
+@315=~Sure, take this Staff of Wizardry.~
+
+@316=~No. What else?~
+
+@319=~Gem~
+
+@320=~Shard of Netheril~
+
+@321=~This piece of gem emanates an aura of unknown ancient magic. It is said, that mages of Netheril used these as trinkets and decoration. Now, it is an artifact of great potential.~
+
+@322=~This piece of gem emanates an aura of unknown magic.
+
+STATISTICS:
+
+Weight: 1~
+
+@350=~This type of staff is thoroughly linked of the image of the spellcasting profession, rare though it is. It is among the most powerful tools that a wizard can possess, the culmination of complex enchantments and endless study. This particular example is good in both melee and ranged combat, grants invisibility, and offers protection from charms and evil. It can also cast Spell Trap and Dispel Magic and launch a Fireball-Lightning Bolt combination. The quintessential Mage item.
+
+STATISTICS:
+
+Equipped abilities:
+– Armor Class: +2
+– Saving Throws: +2
+– Invisibility
+– Immunity to charm
+– Protection From Evil
+
+Combat abilities:
+– Dispel Magic at level 30 on each hit
+
+Charge abilities:
+– Fireball-Lightning Bolt three times per day
+  Fireball: 10d6 fire damage to all in a 30-ft. radius (Save vs. Spell for half)
+  Lightning: 10d6 electrical damage to all in its path (Save vs. Spell for half)
+  Range: 150 ft.
+
+– Spell Trap once per day
+  Duration: 8 hours or until 30 spell levels have been trapped
+  Area of Effect: The user
+
+THAC0: +1 (strikes as a +5 weapon)
+Damage (melee): 1d6+1 (crushing)
+Damage (ranged): 1d6+1 (magic)
+Speed Factor: 1
+Proficiency Type: Quarterstaff
+Type: Two-handed
+Requires:
+ 5 Strength
+
+Weight: 4~
+
+@351=~This type of staff is thoroughly linked of the image of the spellcasting profession, rare though it is. It is among the most powerful tools that a wizard can possess, the culmination of complex enchantments and endless study. This particular example is good in both melee and ranged combat and offers protection from charms and evil. It can also cast Spell Trap and Dispel Magic and launch a Fireball-Lightning Bolt combination. The quintessential Mage item.
+
+STATISTICS:
+
+Equipped abilities:
+– Armor Class: +2
+– Saving Throws: +2
+– Immunity to charm
+– Protection From Evil
+
+Combat abilities:
+– Dispel Magic at level 30 on each hit
+
+Charge abilities:
+– Fireball-Lightning Bolt three times per day
+  Fireball: 10d6 fire damage to all in a 30-ft. radius (Save vs. Spell for half)
+  Lightning: 10d6 electrical damage to all in its path (Save vs. Spell for half)
+  Range: 150 ft.
+
+– Spell Trap once per day
+  Duration: 8 hours or until 30 spell levels have been trapped
+  Area of Effect: The user
+
+THAC0: +1 (strikes as a +5 weapon)
+Damage (melee): 1d6+1 (crushing)
+Damage (ranged): 1d6+1 (magic)
+Speed Factor: 1
+Proficiency Type: Quarterstaff
+Type: Two-handed
+Requires:
+ 5 Strength
+
+Weight: 4~
+
+@352=~This type of staff is thoroughly linked of the image of the spellcasting profession, rare though it is. It is among the most powerful tools that a wizard can possess, the culmination of complex enchantments and endless study. This particular example is good in both melee and ranged combat, grants magic resistance, and offers protection from charms and evil. It can also cast Spell Trap and Dispel Magic and launch a Fireball-Lightning Bolt combination. The quintessential Mage item.
+
+STATISTICS:
+
+Equipped abilities:
+– Armor Class: +2
+– Saving Throws: +2
+– Magic resistance: +50%
+– Immunity to charm
+– Protection From Evil
+
+Combat abilities:
+– Dispel Magic at level 30 on each hit
+
+Charge abilities:
+– Fireball-Lightning Bolt three times per day
+  Fireball: 10d6 fire damage to all in a 30-ft. radius (Save vs. Spell for half)
+  Lightning: 10d6 electrical damage to all in its path (Save vs. Spell for half)
+  Range: 150 ft.
+
+– Spell Trap once per day
+  Duration: 8 hours or until 30 spell levels have been trapped
+  Area of Effect: The user
+
+THAC0: +1 (strikes as a +5 weapon)
+Damage (melee): 1d6+1 (crushing)
+Damage (ranged): 1d6+1 (magic)
+Speed Factor: 1
+Proficiency Type: Quarterstaff
+Type: Two-handed
+Requires:
+ 5 Strength
+
+Weight: 4~
+
+@353=~This type of staff is thoroughly linked of the image of the spellcasting profession, rare though it is. It is among the most powerful tools that a wizard can possess, the culmination of complex enchantments and endless study. This particular example is good in both melee and ranged combat, grants immunity to Time Stop, and offers protection from charms and evil. It can also cast Spell Trap and Dispel Magic and launch a Fireball-Lightning Bolt combination. The quintessential Mage item.
+
+STATISTICS:
+
+Equipped abilities:
+– Armor Class: +2
+– Saving Throws: +2
+– Immunity to Time Stop
+– Immunity to charm
+– Protection From Evil
+
+Combat abilities:
+– Dispel Magic at level 30 on each hit
+
+Charge abilities:
+– Fireball-Lightning Bolt three times per day
+  Fireball: 10d6 fire damage to all in a 30-ft. radius (Save vs. Spell for half)
+  Lightning: 10d6 electrical damage to all in its path (Save vs. Spell for half)
+  Range: 150 ft.
+
+– Spell Trap once per day
+  Duration: 8 hours or until 30 spell levels have been trapped
+  Area of Effect: The user
+
+THAC0: +1 (strikes as a +5 weapon)
+Damage (melee): 1d6+1 (crushing)
+Damage (ranged): 1d6+1 (magic)
+Speed Factor: 1
+Proficiency Type: Quarterstaff
+Type: Two-handed
+Requires:
+ 5 Strength
+
+Weight: 4~
+
+@354=~This type of staff is thoroughly linked of the image of the spellcasting profession, rare though it is. It is among the most powerful tools that a wizard can possess, the culmination of complex enchantments and endless study. This particular example is good in both melee and ranged combat, improves casting speed, and offers protection from charms and evil. It can also cast Spell Trap and Dispel Magic and launch a Fireball-Lightning Bolt combination. The quintessential Mage item.
+
+STATISTICS:
+
+Equipped abilities:
+– Armor Class: +2
+– Saving Throws: +2
+– Improves casting speed by 3
+– Immunity to charm
+– Protection From Evil
+
+Combat abilities:
+– Dispel Magic at level 30 on each hit
+
+Charge abilities:
+– Fireball-Lightning Bolt three times per day
+  Fireball: 10d6 fire damage to all in a 30-ft. radius (Save vs. Spell for half)
+  Lightning: 10d6 electrical damage to all in its path (Save vs. Spell for half)
+  Range: 150 ft.
+
+– Spell Trap once per day
+  Duration: 8 hours or until 30 spell levels have been trapped
+  Area of Effect: The user
+
+THAC0: +1 (strikes as a +5 weapon)
+Damage (melee): 1d6+1 (crushing)
+Damage (ranged): 1d6+1 (magic)
+Speed Factor: 1
+Proficiency Type: Quarterstaff
+Type: Two-handed
+Requires:
+ 5 Strength
+
+Weight: 4~
+
+@355=~This type of staff is thoroughly linked of the image of the spellcasting profession, rare though it is. It is among the most powerful tools that a wizard can possess, the culmination of complex enchantments and endless study. This particular example is good in both melee and ranged combat, slowly restores spells, and offers protection from charms and evil. It can also cast Spell Trap and Dispel Magic and launch a Fireball-Lightning Bolt combination. The quintessential Mage item.
+
+STATISTICS:
+
+Equipped abilities:
+– Armor Class: +2
+– Saving Throws: +2
+– Immunity to charm
+– Protection From Evil
+- Spell Restoration
+  Spell Restoration: Restores 1 cast wizard spell of 5th level and lower every hour. Spell of the higher level is always restored first.
+
+Combat abilities:
+– Dispel Magic at level 30 on each hit
+
+Charge abilities:
+– Fireball-Lightning Bolt three times per day
+  Fireball: 10d6 fire damage to all in a 30-ft. radius (Save vs. Spell for half)
+  Lightning: 10d6 electrical damage to all in its path (Save vs. Spell for half)
+  Range: 150 ft.
+
+– Spell Trap once per day
+  Duration: 8 hours or until 30 spell levels have been trapped
+  Area of Effect: The user
+
+THAC0: +1 (strikes as a +5 weapon)
+Damage (melee): 1d6+1 (crushing)
+Damage (ranged): 1d6+1 (magic)
+Speed Factor: 1
+Proficiency Type: Quarterstaff
+Type: Two-handed
+Requires:
+ 5 Strength
+
+Weight: 4~
+
+@401=~The familiar begins to materialise before you. Which form do you want it to take?~
+
+@402=~Drake~
+
+@403=~Imp~
+
+@404=~Rabbit~
+
+@405=~Cat~
+
+@406=~Groundhog~
+
+@407=~Spider~
+
+@408=~Lim Lim~
+
+@409=~Floating Skull~
+
+@410=~Mephit~
+
+@411=~Snake~
+
+@412=~How do you name your Familiar?~
+
+@413=~Isane~
+
+@414=~Kailey~
+
+@415=~Familiar~
+
+@416=~What area of expertise do you want your familiar to pursue?~
+
+@417=~Mage~
+
+@418=~Thief~
+
+@419=~While the spell is finishing, your familiar takes its final shape.~
+
+@420=~*train the familiar*~
+
+@421=~Your familiar has advanced to the next level.~
+
+@422=~All right, here you go.~
+
+@423=~This is your familiar currently hidden under a blanket within your backpack. Only its eyes glow from the depths of the fabric.
+
+STATISTICS:
+
+Level: 10
+Hit Points: 24 (+12 with each training)
+Armor Class: 2 (-2 with each training)
+Magic Resistance: 50%
+Resist Fire/Cold/Electricity/Acid: 50%
+Resist Slashing/Crushing/Piercing/Missile Damage: 25%
+Saving Throws: 13/15/14/16/16 (-2 with each training)
+
+Combat: 2 attacks per round for 1d6 damage
+THAC0: 16 (-3 with each training)
+
+Special Abilities:
+– Immunity to Sleep, Petrification and Level Drain
+– Regenerates 1 HP/round
+- Can either cast wizard spells or use thieving abilities
+
+Weight: 1~
+
+@424=~~ [JFLEA01]
+
+@425=~~ [JFLEA02]
+
+@426=~~ [JFLEA03]
+
+@427=~~ [JFLEA04]
+
+@428=~~ [JFLEA06]
+
+@429=~This is your familiar currently hidden under a blanket within your backpack. Only its eyes glow from the depths of the fabric.
+
+STATISTICS:
+
+Level: 15
+Hit Points: 48 (+12 with each training)
+Armor Class: -2 (-2 with each training)
+Magic Resistance: 50%
+Resist Fire/Cold/Electricity/Acid: 50%
+Resist Slashing/Crushing/Piercing/Missile Damage: 25%
+Saving Throws: 9/11/10/12/12 (-2 with each training)
+
+Combat: 2 attacks per round for 1d8 damage
+THAC0: 10 (-3 with each training)
+
+Special Abilities:
+– Immunity to Sleep, Petrification and Level Drain
+– Regenerates 1 HP/round
+- Can either cast wizard spells or use thieving abilities
+
+Weight: 1~
+
+@430=~Noticing a threatening tone of your voice, the familiar reluctantly gives you everything, it has stolen. "Bah, what a thief you are."~
+
+@431=~The small creature stares quizzically with wide eyes. Nervously, it backs away towards <CHARNAME>. Obviously, it doesn't want to talk to you.~
+
+@432=~The small creature reacts happily, when you approach it. "You wish something?" It awaits your attention.~
+
+@433=~The familiar coos with delight, its eyes whirling as you pat it. "You are very kind to me, my <PRO_LADYLORD>," it purrs.~
+
+@434=~The familiar looks up at you with a slightly bewildered expression. "You wish to ask *me* for advice, my <PRO_LADYLORD>?"~
+
+@435=~It looks at the darkness for a long moment before turning its eyes back at you. "Let us be away from this dark place, my <PRO_LADYLORD>. That is my advice."~
+
+@436=~The familiar looks about quizzically before turning its eyes back upon you. "We go to the place of the poor? The slums, my <PRO_LADYLORD>? I do not know."~
+
+@437=~The little creature chuckles to itself musically. "You must collect gold, my <PRO_LADYLORD>. Coins and coins enough to find your answers."~
+
+@438=~It almost seems to frown and looks around before continuing. "I do not know, my <PRO_LADYLORD>. You must continue these tasks, no?"~
+
+@439=~It ponders for a long moment, before turning back again. "We must stop this wizard. Save you and the little sister. That is my advice."~
+
+@440=~It looks around for a moment, its eyes dimming with fear. "We must be away from this place soon, my <PRO_LADYLORD>. Please?"~
+
+@441=~It growls menacingly, but not at you. "The wizard, my <PRO_LADYLORD>. He must die, and you must live."~
+
+@442=~The familiar grins with pleasure and gazes up at you. "So long as you are well, my <PRO_LADYLORD>, then I am well."~
+
+@443=~"I... I am hurt badly, my <PRO_LADYLORD>. I don't want to die, my <PRO_LADYLORD>. I want to stay with you." The creature whimpers a little and curls around your leg.~
+
+@444=~"I feel wonderful myself, my <PRO_LADYLORD>. I am fresh, and I stand ready to aid you against danger!"~
+
+@445=~The familiar smiles contentedly and then turns its eyes back to the path before you. "As you wish, my <PRO_LADYLORD>."~
+
+@446=~The little creature looks up at you for a moment. "You must survive, my <PRO_LADYLORD>. Your heritage places you in great danger!" It shakes its body agitatedly.~
+
+@447=~For a moment, the familiar growls fiercely. "The imposter must die, my <PRO_LADYLORD>! You must somehow go into the Throne of Bhaal and confront her!"~
+
+@448=~You offer the little creature some nuts and berries that you have stored, and it nibbles on a few of them but doesn't really seem all that hungry.~
+
+@449=~The familiar's eyes swirl with pleasure as it noisily gulps down a large quantity of nuts and berries that you have collected. Its wounds visibly start healing immediately.~
+
+@450=~The creature stares with open derision, then turns around while rudely commenting your appearance to itself. It scoots off to <CHARNAME>. Obviously, it doesn't want to talk to you...~
+
+@451=~The creature regards you suspiciously, wary of a kick or slap headed its way, before sidling a step or two closer. "Yeah, boss? You want something?"~
+
+@452=~"Oh, sure. Stick me in your smelly pack. Ever thought of putting some mint in there? Baaah..." Reluctantly, it crawls into your pack.~
+
+@453=~It seems disgusted as you pat it on the head. "Oh, now I'm a cute little bunny? Give me a break, boss." The familiar darts away and does a heebie-jeebie dance.~
+
+@454=~The skull shakes from one side to the other in an exaggerated fashion. "What? Now I'm your tourist guide? Do whatever you want, boss. Go kill a king or something, sheesh."~
+
+@455=~The familiar looks about. "What? Seems like a cheery enough place. Slaughter the locals, set yourself up as absolute ruler and tyrant. Works for me."~
+
+@456=~It looks at you suspiciously, its eyes squinting. "Hmph. Since when are you so interested in me, boss? Up 'til now, it's all been you, you, you."~
+
+@457=~It looks at you suspiciously. "Hmph. Since when are you so interested in me, boss? Up 'til now, it's all been you, you, you."~
+
+@458=~"But since you're asking, I could use healing. Running out of time here... you wouldn't want me to die, would you? *That* would be a shame..."~
+
+@459=~It looks ahead and sighs. "Oh, sure. Only, what, another fifty years of wanderin' around? Don't you ever settle down? Sheesh..."~
+
+@460=~The familiar reels from the blow. "HeeEEYY! Cripes! What wuz that for?! I did everything you told me to, boss! Sheesh! Some people..."~
+
+@461=~Another slap sends the skull to the floor, hitting it with a sound of a hollow crack. "Gaaah! Okay! You're the boss-<PRO_MANWOMAN>! YOU boss, ME just little follower! I get it!"~
+
+@462=~The familiar darts away at the last second. "Nyah! Thhhppppfffttt! You couldn't hit the broad side of a barn! You suck!" It dashes away before a reprisal can come.~
+
+@463=~"Oh, sure. Stick me in your smelly pack. Ever thought of sticking some mint in there? Baaah..." It reluctantly crawls in.~
+
+@464=~It shakes its head for a moment before replying. "There's big trouble, boss. The time has come for all you Bhaalspawn. The jig's up. Time to pay the piper, you know. Just don't get cracked is all I can say about it."~
+
+@465=~The creature grins. "Well... kill them before they kill you. That's what my grandpappy always said. Until he was, um, killed..."~
+
+@466=~You offer the creature a piece of dried meat. It sniffs it with disgust and rolls its eyes. "I don't really need nothin' to eat, boss. Maybe if I'm wounded." With that, it unceremoniously tosses the meat behind it.~
+
+@467=~You offer the skull a piece of dried meat. It looks at you quizzically. "I don't really need nothin' to eat, boss. As I'm undead and all that stuff, remember?"~
+
+@468=~The wounded creature takes a piece of dried meat gingerly from your pack and gulps it down greedily. As it munches away, it looks at you askance. "This don't mean I owes you nothin', boss."~
+
+@469=~The wounded skull takes a piece of dried meat with its teeth and gulps it down greedily. You are wondering about the nature of the process happening before you, as its wounds begin to heal. While it munches away, it looks at you askance. "This don't mean I owes you nothin', boss."~
+
+@470=~The familiar sighs, twitching slightly with curiosity as it looks up at you. "What is it now, <PRO_MANWOMAN>? I am hungry. I wish to be petted and fed."~
+
+@471=~"Aaaah..." Surprisingly, the skull appears to enjoy this activity. "Yees, this is good. It's been some time since I've been able to scratch myself."~
+
+@472=~The creature looks at you, fairly close to bewildered. "Me? I suppose I have thoughts that it would amuse me to share, but would you even regard them, <PRO_MANWOMAN>?"~
+
+@473=~The familiar thinks to itself for a few moments and then saunters away, presenting its rear to you. Apparently, it has tired of thinking.~
+
+@474=~It thinks for a long moment and then seems to drift off, yawning widely. It stares to nowhere with its empty eye sockets. "You can always scratch me some more. That is my advice."~
+
+@475=~It looks about balefully, holding its head down in fear. "This... is a place where I am food. I do not like this place. We should go elsewhere."~
+
+@476=~As the skull thinks, it starts to shake with uncharacteristic ferocity. "There is only one solution, <PRO_MANWOMAN>. For you to survive, the wizard must die. That is how it must be."~
+
+@477=~The creature seems to ponder saying something else, but eventually its attention drifts and it finds something more interesting than you elsewhere. Sauntering away, it presents its rear to you.~
+
+@478=~The small creature rolls its eyes and sighs petulantly. "Fine. But you are very cruel to me, you know."~
+
+@479=~The skull shakes from one side to the other with disagreement and sighs petulantly. "Fine. But you are very cruel to me, you know."~
+
+@480=~The creature watches you, pondering. "Well... perhaps. But I would not put it past you not to keep your word. *sigh* Oh, very well. It amuses me when you beg."~
+
+@481=~The familiar shrugs, bored. "I do not know what advice to give. The wizard is dead, you have your soul... can you not just leave?" It yawns widely. "Maybe build an army. Isn't that what you do?"~
+
+@482=~It freezes in the air as it thinks. "It... seems to me that there is a reason that all the children of Bhaal are coming together. You must end it, I think." It looks at you suddenly. "And, of course, you must win!"~
+
+@483=~Give me anything you have pickpocketed. Now!~
+
+@484=~*pet the skull*~
+
+@485=~The familiar sighs and turns its head disinterestedly to the path before you. "I would prefer to choose our path myself, but you'll no doubt want to be stubborn."~
+
+@486=~It looks right up, seemingly content to just be near you. It sighs and looks away briefly. "We are connected, you and I. If you are well, so am I."~
+
+@487=~I feel much stronger now.~
+
+@488=~As it thinks, it starts to growl with uncharacteristic ferocity. "There is only one solution, <MANWOMAN>. For you to survive, this evil must die. That is how it must be."~
+
+@489=~It looks at you with exaggerated annoyance. "What? Now I'm your tourist guide? Do whatever you want, boss. Go kill a king or something, sheesh."~
+
+@490=~The familiar chuckles to itself musically. "If you seek adventure, my <LADYLORD>, join the caravan."~
+
+@491=~It looks around for a moment, its eyes dimming with fear. "We need aid, my <LADYLORD>. We must press on."~
+
+@492=~The familiar chuckles to itself musically. "We should help the Great Druid, my <LADYLORD>. He seeks the same answers."~
+
+@493=~It ponders for a long moment, before turning back again. "Strange things are afoot in the Eye. We should investigate, my <LADYLORD>."~
+
+@494=~It ponders for a long moment, before turning back again. "There is so much to investigate, my <LADYLORD>. I do not know where to start."~
+
+@495=~The familiar looks about quizzically before turning its eyes back upon you. "These badges seem important, my <LADYLORD>. Perhaps there are more."~
+
+@496=~It growls menacingly, but not at you. "We know the source of evil, my <LADYLORD>. Now we must end it."~
+
+@497=~It almost seems to frown and looks around before continuing. "I do not know, my <LADYLORD>. We must find a way to broker peace with the tribes."~
+
+@498=~It looks at the surroundings for a long moment before turning back at you. "We must find a way to escape this place, my <LADYLORD>. That is my advice."~
+
+@499=~The familiar curses under its breath briefly. "Boss, that caravan may be our best bet to score some easy gold."~
+
+@500=~Spell Selection: 1st Level~
+
+@501=~Spell Selection: 3rd Level~
+
+@502=~Spell Selection: 5th Level~
+
+@503=~Spell Selection: 7th Level~
+
+@504=~Spell Selection: 9th Level~
+
+@505=~+50% to Pick Pockets~
+
+@506=~+50% to Open Locks~
+
+@507=~+50% to Find Traps~
+
+@508=~+50% to Hide in Shadows/Move Silently~
+
+@509=~Learn Spell: Grease~
+
+@510=~Learn Spell: Armor~
+
+@511=~Learn Spell: Burning Hands~
+
+@512=~Learn Spell: Charm Person~
+
+@513=~Learn Spell: Color Spray~
+
+@514=~Learn Spell: Blindness~
+
+@515=~Learn Spell: Friends~
+
+@516=~Learn Spell: Protection From Petrification~
+
+@517=~Learn Spell: Magic Missile~
+
+@518=~Learn Spell: Protection From Evil~
+
+@519=~Learn Spell: Shield~
+
+@520=~Learn Spell: Shocking Grasp~
+
+@521=~Learn Spell: Sleep~
+
+@522=~Learn Spell: Chill Touch~
+
+@523=~Learn Spell: Chromatic Orb~
+
+@524=~Learn Spell: Larloch's Minor Drain~
+
+@525=~Learn Spell: Reflected Image~
+
+@526=~Learn Spell: Spook~
+
+@527=~Learn Spell: Clairvoyance~
+
+@528=~Learn Spell: Remove Magic~
+
+@529=~Learn Spell: Flame Arrow~
+
+@530=~Learn Spell: Fireball~
+
+@531=~Learn Spell: Haste~
+
+@532=~Learn Spell: Hold Person~
+
+@533=~Learn Spell: Invisibility, 10' Radius~
+
+@534=~Learn Spell: Lightning Bolt~
+
+@535=~Learn Spell: Monster Summoning I~
+
+@536=~Learn Spell: Non-Detection~
+
+@537=~Learn Spell: Protection From Normal Missiles~
+
+@538=~Learn Spell: Slow~
+
+@539=~Learn Spell: Skull Trap~
+
+@540=~Learn Spell: Vampiric Touch~
+
+@541=~Learn Spell: Wraithform~
+
+@542=~Learn Spell: Dire Charm~
+
+@543=~Learn Spell: Ghost Armor~
+
+@544=~Learn Spell: Minor Spell Deflection~
+
+@545=~Learn Spell: Protection From Fire~
+
+@546=~Learn Spell: Protection From Cold~
+
+@547=~Learn Spell: Spell Thrust~
+
+@548=~Learn Spell: Detect Illusion~
+
+@549=~Learn Spell: Hold Undead~
+
+@550=~Learn Spell: Melf's Minute Meteors~
+
+@551=~Learn Spell: Dispel Magic~
+
+@552=~Learn Spell: Greater Malison~
+
+@553=~Learn Spell: Polymorph Self~
+
+@554=~Learn Spell: Animate Dead~
+
+@555=~Learn Spell: Cloudkill~
+
+@556=~Learn Spell: Cone of Cold~
+
+@557=~Learn Spell: Monster Summoning III~
+
+@558=~Learn Spell: Shadow Door~
+
+@559=~Learn Spell: Domination~
+
+@560=~Learn Spell: Hold Monster~
+
+@561=~Learn Spell: Chaos~
+
+@562=~Learn Spell: Feeblemind~
+
+@563=~Learn Spell: Spell Immunity~
+
+@564=~Learn Spell: Protection From Normal Weapons~
+
+@565=~Learn Spell: Protection From Electricity~
+
+@566=~Learn Spell: Breach~
+
+@567=~Learn Spell: Lower Resistance~
+
+@568=~Learn Spell: Oracle~
+
+@569=~Learn Spell: Conjure Lesser Fire Elemental~
+
+@570=~Learn Spell: Protection From Acid~
+
+@571=~Learn Spell: Phantom Blade~
+
+@572=~Learn Spell: Spell Shield~
+
+@573=~Learn Spell: Conjure Lesser Air Elemental~
+
+@574=~Learn Spell: Conjure Lesser Earth Elemental~
+
+@575=~Learn Spell: Minor Spell Turning~
+
+@576=~Learn Spell: Sunfire~
+
+@577=~Learn Spell: Tenser's Transformation~
+
+@578=~Learn Spell: True Sight~
+
+@579=~Learn Spell: Improved Haste~
+
+@580=~Learn Spell: Spell Turning~
+
+@581=~Learn Spell: Protection From The Elements~
+
+@582=~Learn Spell: Ruby Ray of Reversal~
+
+@583=~Learn Spell: Khelben's Warding Whip~
+
+@584=~Learn Spell: Cacofiend~
+
+@585=~Learn Spell: Mantle~
+
+@586=~Learn Spell: Spell Sequencer~
+
+@587=~Learn Spell: Sphere of Chaos~
+
+@588=~Learn Spell: Delayed Blast Fireball~
+
+@589=~Learn Spell: Finger of Death~
+
+@590=~Learn Spell: Prismatic Spray~
+
+@591=~Learn Spell: Power Word, Stun~
+
+@592=~Learn Spell: Mordenkainen's Sword~
+
+@593=~Learn Spell: Summon Efreeti~
+
+@594=~Learn Spell: Summon Djinni~
+
+@595=~Learn Spell: Summon Hakeashar~
+
+@596=~Learn Spell: Control Undead~
+
+@597=~Learn Spell: Mass Invisibility~
+
+@598=~Learn Spell: Spell Trap~
+
+@599=~Learn Spell: Spellstrike~
+
+@600=~Learn Spell: Gate~
+
+@601=~Learn Spell: Absolute Immunity~
+
+@602=~Learn Spell: Chain Contingency~
+
+@603=~Learn Spell: Time Stop~
+
+@604=~Learn Spell: Imprisonment~
+
+@605=~Learn Spell: Meteor Swarm~
+
+@606=~Learn Spell: Power Word, Kill~
+
+@607=~Learn Spell: Wail of the Banshee~
+
+@608=~Learn Spell: Energy Drain~
+
+@609=~Learn Spell: Black Blade of Disaster~
+
+@610=~Learn Spell: Shapechange~
+
+@611=~Learn Spell: Freedom~
+
+@612=~Learn Spell: Bigby's Crushing Hand~
+
+@613=~*feed the skull*~
+
+@620=~This is your cat familiar, currently curled up and safe within your backpack.
+
+STATISTICS:
+
+Level: 5
+Hit Points: 12 (+12 with each upgrade)
+Armor Class: 4 (-2 with each upgrade)
+Magic Resistance: 50%
+Resist Fire/Cold/Electricity/Acid: 50%
+Resist Slashing/Crushing/Piercing/Missile Damage: 25%
+Saving Throws: 15/17/16/18/18 (-2 with each upgrade)
+
+Combat: 2 attacks per round for 1d6 damage
+THAC0: 19 (-3 with each upgrade)
+
+Special Abilities:
+– Immunity to Sleep, Petrification and Level Drain
+– Regenerates 1 HP/round
+- Can either cast wizard spells or use thieving abilities
+
+Weight: 1~
+
+@621=~This is your cat familiar, currently curled up and safe within your backpack.
+
+STATISTICS:
+
+Level: 10
+Hit Points: 24 (+12 with each upgrade)
+Armor Class: 2 (-2 with each upgrade)
+Magic Resistance: 50%
+Resist Fire/Cold/Electricity/Acid: 50%
+Resist Slashing/Crushing/Piercing/Missile Damage: 25%
+Saving Throws: 13/15/14/16/16 (-2 with each upgrade)
+
+Combat: 2 attacks per round for 1d6 damage
+THAC0: 16 (-3 with each upgrade)
+
+Special Abilities:
+– Immunity to Sleep, Petrification and Level Drain
+– Regenerates 1 HP/round
+- Can either cast wizard spells or use thieving abilities
+
+Weight: 1~
+
+@622=~This is your cat familiar, currently curled up and safe within your backpack.
+
+STATISTICS:
+
+Level: 15
+Hit Points: 48 (+12 with each upgrade)
+Armor Class: -2 (-2 with each upgrade)
+Magic Resistance: 50%
+Resist Fire/Cold/Electricity/Acid: 50%
+Resist Slashing/Crushing/Piercing/Missile Damage: 25%
+Saving Throws: 9/11/10/12/12 (-2 with each upgrade)
+
+Combat: 2 attacks per round for 1d8 damage
+THAC0: 10 (-3 with each upgrade)
+
+Special Abilities:
+– Immunity to Sleep, Petrification and Level Drain
+– Regenerates 1 HP/round
+- Can either cast wizard spells or use thieving abilities
+
+Weight: 1~
+
+@623=~This is your familiar, a groudhog, currently curled up and safe in your backpack.
+
+STATISTICS:
+
+Level: 5
+Hit Points: 12 (+12 with each upgrade)
+Armor Class: 4 (-2 with each upgrade)
+Magic Resistance: 50%
+Resist Fire/Cold/Electricity/Acid: 50%
+Resist Slashing/Crushing/Piercing/Missile Damage: 25%
+Saving Throws: 15/17/16/18/18 (-2 with each upgrade)
+
+Combat: 2 attacks per round for 1d6 damage
+THAC0: 19 (-3 with each upgrade)
+
+Special Abilities:
+– Immunity to Sleep, Petrification and Level Drain
+– Regenerates 1 HP/round
+- Can either cast wizard spells or use thieving abilities
+
+Weight: 1~
+
+@624=~This is your familiar, a groudhog, currently curled up and safe in your backpack.
+
+STATISTICS:
+
+Level: 10
+Hit Points: 24 (+12 with each upgrade)
+Armor Class: 2 (-2 with each upgrade)
+Magic Resistance: 50%
+Resist Fire/Cold/Electricity/Acid: 50%
+Resist Slashing/Crushing/Piercing/Missile Damage: 25%
+Saving Throws: 13/15/14/16/16 (-2 with each upgrade)
+
+Combat: 2 attacks per round for 1d6 damage
+THAC0: 16 (-3 with each upgrade)
+
+Special Abilities:
+– Immunity to Sleep, Petrification and Level Drain
+– Regenerates 1 HP/round
+- Can either cast wizard spells or use thieving abilities
+
+Weight: 1~
+
+@625=~This is your familiar, a groudhog, currently curled up and safe in your backpack.
+
+STATISTICS:
+
+Level: 15
+Hit Points: 48 (+12 with each upgrade)
+Armor Class: -2 (-2 with each upgrade)
+Magic Resistance: 50%
+Resist Fire/Cold/Electricity/Acid: 50%
+Resist Slashing/Crushing/Piercing/Missile Damage: 25%
+Saving Throws: 9/11/10/12/12 (-2 with each upgrade)
+
+Combat: 2 attacks per round for 1d8 damage
+THAC0: 10 (-3 with each upgrade)
+
+Special Abilities:
+– Immunity to Sleep, Petrification and Level Drain
+– Regenerates 1 HP/round
+- Can either cast wizard spells or use thieving abilities
+
+Weight: 1~
+
+@626=~This is your familiar, a rabbit, currently curled up and safe within your backpack.
+
+STATISTICS:
+
+Level: 5
+Hit Points: 12 (+12 with each upgrade)
+Armor Class: 4 (-2 with each upgrade)
+Magic Resistance: 50%
+Resist Fire/Cold/Electricity/Acid: 50%
+Resist Slashing/Crushing/Piercing/Missile Damage: 25%
+Saving Throws: 15/17/16/18/18 (-2 with each upgrade)
+
+Combat: 2 attacks per round for 1d6 damage
+THAC0: 19 (-3 with each upgrade)
+
+Special Abilities:
+– Immunity to Sleep, Petrification and Level Drain
+– Regenerates 1 HP/round
+- Can either cast wizard spells or use thieving abilities
+
+Weight: 1~
+
+@627=~This is your familiar, a rabbit, currently curled up and safe within your backpack.
+
+STATISTICS:
+
+Level: 10
+Hit Points: 24 (+12 with each upgrade)
+Armor Class: 2 (-2 with each upgrade)
+Magic Resistance: 50%
+Resist Fire/Cold/Electricity/Acid: 50%
+Resist Slashing/Crushing/Piercing/Missile Damage: 25%
+Saving Throws: 13/15/14/16/16 (-2 with each upgrade)
+
+Combat: 2 attacks per round for 1d6 damage
+THAC0: 16 (-3 with each upgrade)
+
+Special Abilities:
+– Immunity to Sleep, Petrification and Level Drain
+– Regenerates 1 HP/round
+- Can either cast wizard spells or use thieving abilities
+
+Weight: 1~
+
+@628=~This is your familiar, a rabbit, currently curled up and safe within your backpack.
+
+STATISTICS:
+
+Level: 15
+Hit Points: 48 (+12 with each upgrade)
+Armor Class: -2 (-2 with each upgrade)
+Magic Resistance: 50%
+Resist Fire/Cold/Electricity/Acid: 50%
+Resist Slashing/Crushing/Piercing/Missile Damage: 25%
+Saving Throws: 9/11/10/12/12 (-2 with each upgrade)
+
+Combat: 2 attacks per round for 1d8 damage
+THAC0: 10 (-3 with each upgrade)
+
+Special Abilities:
+– Immunity to Sleep, Petrification and Level Drain
+– Regenerates 1 HP/round
+- Can either cast wizard spells or use thieving abilities
+
+Weight: 1~
+
+@629=~This is your familiar, a drake, currently curled up and safe within your backpack.
+
+STATISTICS:
+
+Level: 5
+Hit Points: 12 (+12 with each upgrade)
+Armor Class: 4 (-2 with each upgrade)
+Magic Resistance: 50%
+Resist Fire/Cold/Electricity/Acid: 50%
+Resist Slashing/Crushing/Piercing/Missile Damage: 25%
+Saving Throws: 15/17/16/18/18 (-2 with each upgrade)
+
+Combat: 2 attacks per round for 1d6 damage
+THAC0: 19 (-3 with each upgrade)
+
+Special Abilities:
+– Immunity to Sleep, Petrification and Level Drain
+– Regenerates 1 HP/round
+- Can either cast wizard spells or use thieving abilities
+
+Weight: 1~
+
+@630=~This is your familiar, a drake, currently curled up and safe within your backpack.
+
+STATISTICS:
+
+Level: 10
+Hit Points: 24 (+12 with each upgrade)
+Armor Class: 2 (-2 with each upgrade)
+Magic Resistance: 50%
+Resist Fire/Cold/Electricity/Acid: 50%
+Resist Slashing/Crushing/Piercing/Missile Damage: 25%
+Saving Throws: 13/15/14/16/16 (-2 with each upgrade)
+
+Combat: 2 attacks per round for 1d6 damage
+THAC0: 16 (-3 with each upgrade)
+
+Special Abilities:
+– Immunity to Sleep, Petrification and Level Drain
+– Regenerates 1 HP/round
+- Can either cast wizard spells or use thieving abilities
+
+Weight: 1~
+
+@631=~This is your familiar, a drake, currently curled up and safe within your backpack.
+
+STATISTICS:
+
+Level: 15
+Hit Points: 48 (+12 with each upgrade)
+Armor Class: -2 (-2 with each upgrade)
+Magic Resistance: 50%
+Resist Fire/Cold/Electricity/Acid: 50%
+Resist Slashing/Crushing/Piercing/Missile Damage: 25%
+Saving Throws: 9/11/10/12/12 (-2 with each upgrade)
+
+Combat: 2 attacks per round for 1d8 damage
+THAC0: 10 (-3 with each upgrade)
+
+Special Abilities:
+– Immunity to Sleep, Petrification and Level Drain
+– Regenerates 1 HP/round
+- Can either cast wizard spells or use thieving abilities
+
+Weight: 1~
+
+@632=~This is your familiar, an imp, currently grumpy yet safe within your backpack.
+
+STATISTICS:
+
+Level: 5
+Hit Points: 12 (+12 with each upgrade)
+Armor Class: 4 (-2 with each upgrade)
+Magic Resistance: 50%
+Resist Fire/Cold/Electricity/Acid: 50%
+Resist Slashing/Crushing/Piercing/Missile Damage: 25%
+Saving Throws: 15/17/16/18/18 (-2 with each upgrade)
+
+Combat: 2 attacks per round for 1d6 damage
+THAC0: 19 (-3 with each upgrade)
+
+Special Abilities:
+– Immunity to Sleep, Petrification and Level Drain
+– Regenerates 1 HP/round
+- Can either cast wizard spells or use thieving abilities
+
+Weight: 1~
+
+@633=~This is your familiar, an imp, currently grumpy yet safe within your backpack.
+
+STATISTICS:
+
+Level: 10
+Hit Points: 24 (+12 with each upgrade)
+Armor Class: 2 (-2 with each upgrade)
+Magic Resistance: 50%
+Resist Fire/Cold/Electricity/Acid: 50%
+Resist Slashing/Crushing/Piercing/Missile Damage: 25%
+Saving Throws: 13/15/14/16/16 (-2 with each upgrade)
+
+Combat: 2 attacks per round for 1d6 damage
+THAC0: 16 (-3 with each upgrade)
+
+Special Abilities:
+– Immunity to Sleep, Petrification and Level Drain
+– Regenerates 1 HP/round
+- Can either cast wizard spells or use thieving abilities
+
+Weight: 1~
+
+@634=~This is your familiar, an imp, currently grumpy yet safe within your backpack.
+
+STATISTICS:
+
+Level: 15
+Hit Points: 48 (+12 with each upgrade)
+Armor Class: -2 (-2 with each upgrade)
+Magic Resistance: 50%
+Resist Fire/Cold/Electricity/Acid: 50%
+Resist Slashing/Crushing/Piercing/Missile Damage: 25%
+Saving Throws: 9/11/10/12/12 (-2 with each upgrade)
+
+Combat: 2 attacks per round for 1d8 damage
+THAC0: 10 (-3 with each upgrade)
+
+Special Abilities:
+– Immunity to Sleep, Petrification and Level Drain
+– Regenerates 1 HP/round
+- Can either cast wizard spells or use thieving abilities
+
+Weight: 1~
+
+@635=~This is your familiar, an earth mephit, currently safe within your backpack.
+
+STATISTICS:
+
+Level: 5
+Hit Points: 12 (+12 with each upgrade)
+Armor Class: 4 (-2 with each upgrade)
+Magic Resistance: 50%
+Resist Fire/Cold/Electricity/Acid: 50%
+Resist Slashing/Crushing/Piercing/Missile Damage: 25%
+Saving Throws: 15/17/16/18/18 (-2 with each upgrade)
+
+Combat: 2 attacks per round for 1d6 damage
+THAC0: 19 (-3 with each upgrade)
+
+Special Abilities:
+– Immunity to Sleep, Petrification and Level Drain
+– Regenerates 1 HP/round
+- Can either cast wizard spells or use thieving abilities
+
+Weight: 1~
+
+@636=~This is your familiar, an earth mephit, currently safe within your backpack.
+
+STATISTICS:
+
+Level: 10
+Hit Points: 24 (+12 with each upgrade)
+Armor Class: 2 (-2 with each upgrade)
+Magic Resistance: 50%
+Resist Fire/Cold/Electricity/Acid: 50%
+Resist Slashing/Crushing/Piercing/Missile Damage: 25%
+Saving Throws: 13/15/14/16/16 (-2 with each upgrade)
+
+Combat: 2 attacks per round for 1d6 damage
+THAC0: 16 (-3 with each upgrade)
+
+Special Abilities:
+– Immunity to Sleep, Petrification and Level Drain
+– Regenerates 1 HP/round
+- Can either cast wizard spells or use thieving abilities
+
+Weight: 1~
+
+@637=~This is your familiar, an earth mephit, currently safe within your backpack.
+
+STATISTICS:
+
+Level: 15
+Hit Points: 48 (+12 with each upgrade)
+Armor Class: -2 (-2 with each upgrade)
+Magic Resistance: 50%
+Resist Fire/Cold/Electricity/Acid: 50%
+Resist Slashing/Crushing/Piercing/Missile Damage: 25%
+Saving Throws: 9/11/10/12/12 (-2 with each upgrade)
+
+Combat: 2 attacks per round for 1d8 damage
+THAC0: 10 (-3 with each upgrade)
+
+Special Abilities:
+– Immunity to Sleep, Petrification and Level Drain
+– Regenerates 1 HP/round
+- Can either cast wizard spells or use thieving abilities
+
+Weight: 1~
+
+@638=~This is your familiar, a spider, currently curled up and safe within your backpack.
+
+STATISTICS:
+
+Level: 5
+Hit Points: 12 (+12 with each upgrade)
+Armor Class: 4 (-2 with each upgrade)
+Magic Resistance: 50%
+Resist Fire/Cold/Electricity/Acid: 50%
+Resist Slashing/Crushing/Piercing/Missile Damage: 25%
+Saving Throws: 15/17/16/18/18 (-2 with each upgrade)
+
+Combat: 2 attacks per round for 1d6 damage
+THAC0: 19 (-3 with each upgrade)
+
+Special Abilities:
+– Immunity to Sleep, Petrification and Level Drain
+– Regenerates 1 HP/round
+- Can either cast wizard spells or use thieving abilities
+
+Weight: 1~
+
+@639=~This is your familiar, a spider, currently curled up and safe within your backpack.
+
+STATISTICS:
+
+Level: 10
+Hit Points: 24 (+12 with each upgrade)
+Armor Class: 2 (-2 with each upgrade)
+Magic Resistance: 50%
+Resist Fire/Cold/Electricity/Acid: 50%
+Resist Slashing/Crushing/Piercing/Missile Damage: 25%
+Saving Throws: 13/15/14/16/16 (-2 with each upgrade)
+
+Combat: 2 attacks per round for 1d6 damage
+THAC0: 16 (-3 with each upgrade)
+
+Special Abilities:
+– Immunity to Sleep, Petrification and Level Drain
+– Regenerates 1 HP/round
+- Can either cast wizard spells or use thieving abilities
+
+Weight: 1~
+
+@640=~This is your familiar, a spider, currently curled up and safe within your backpack.
+
+STATISTICS:
+
+Level: 15
+Hit Points: 48 (+12 with each upgrade)
+Armor Class: -2 (-2 with each upgrade)
+Magic Resistance: 50%
+Resist Fire/Cold/Electricity/Acid: 50%
+Resist Slashing/Crushing/Piercing/Missile Damage: 25%
+Saving Throws: 9/11/10/12/12 (-2 with each upgrade)
+
+Combat: 2 attacks per round for 1d8 damage
+THAC0: 10 (-3 with each upgrade)
+
+Special Abilities:
+– Immunity to Sleep, Petrification and Level Drain
+– Regenerates 1 HP/round
+- Can either cast wizard spells or use thieving abilities
+
+Weight: 1~
+
+@641=~This is your familiar, a Lim-Lim, currently curled up and safe within your backpack.
+
+STATISTICS:
+
+Level: 5
+Hit Points: 12 (+12 with each upgrade)
+Armor Class: 4 (-2 with each upgrade)
+Magic Resistance: 50%
+Resist Fire/Cold/Electricity/Acid: 50%
+Resist Slashing/Crushing/Piercing/Missile Damage: 25%
+Saving Throws: 15/17/16/18/18 (-2 with each upgrade)
+
+Combat: 2 attacks per round for 1d6 damage
+THAC0: 19 (-3 with each upgrade)
+
+Special Abilities:
+– Immunity to Sleep, Petrification and Level Drain
+– Regenerates 1 HP/round
+- Can either cast wizard spells or use thieving abilities
+
+Weight: 1~
+
+@642=~This is your familiar, a Lim-Lim, currently curled up and safe within your backpack.
+
+STATISTICS:
+
+Level: 10
+Hit Points: 24 (+12 with each upgrade)
+Armor Class: 2 (-2 with each upgrade)
+Magic Resistance: 50%
+Resist Fire/Cold/Electricity/Acid: 50%
+Resist Slashing/Crushing/Piercing/Missile Damage: 25%
+Saving Throws: 13/15/14/16/16 (-2 with each upgrade)
+
+Combat: 2 attacks per round for 1d6 damage
+THAC0: 16 (-3 with each upgrade)
+
+Special Abilities:
+– Immunity to Sleep, Petrification and Level Drain
+– Regenerates 1 HP/round
+- Can either cast wizard spells or use thieving abilities
+
+Weight: 1~
+
+@643=~This is your familiar, a Lim-Lim, currently curled up and safe within your backpack.
+
+STATISTICS:
+
+Level: 15
+Hit Points: 48 (+12 with each upgrade)
+Armor Class: -2 (-2 with each upgrade)
+Magic Resistance: 50%
+Resist Fire/Cold/Electricity/Acid: 50%
+Resist Slashing/Crushing/Piercing/Missile Damage: 25%
+Saving Throws: 9/11/10/12/12 (-2 with each upgrade)
+
+Combat: 2 attacks per round for 1d8 damage
+THAC0: 10 (-3 with each upgrade)
+
+Special Abilities:
+– Immunity to Sleep, Petrification and Level Drain
+– Regenerates 1 HP/round
+- Can either cast wizard spells or use thieving abilities
+
+Weight: 1~
+
+@644=~This is your familiar, a skull, currently safely residing within your backpack.
+
+STATISTICS:
+
+Level: 5
+Hit Points: 12 (+12 with each upgrade)
+Armor Class: 4 (-2 with each upgrade)
+Magic Resistance: 50%
+Resist Fire/Cold/Electricity/Acid: 50%
+Resist Slashing/Crushing/Piercing/Missile Damage: 25%
+Saving Throws: 15/17/16/18/18 (-2 with each upgrade)
+
+Combat: 2 attacks per round for 1d6 damage
+THAC0: 19 (-3 with each upgrade)
+
+Special Abilities:
+– Immunity to Sleep, Petrification and Level Drain
+– Regenerates 1 HP/round
+- Can either cast wizard spells or use thieving abilities
+
+Weight: 1~
+
+@645=~This is your familiar, a skull, currently safely residing within your backpack.
+
+STATISTICS:
+
+Level: 10
+Hit Points: 24 (+12 with each upgrade)
+Armor Class: 2 (-2 with each upgrade)
+Magic Resistance: 50%
+Resist Fire/Cold/Electricity/Acid: 50%
+Resist Slashing/Crushing/Piercing/Missile Damage: 25%
+Saving Throws: 13/15/14/16/16 (-2 with each upgrade)
+
+Combat: 2 attacks per round for 1d6 damage
+THAC0: 16 (-3 with each upgrade)
+
+Special Abilities:
+– Immunity to Sleep, Petrification and Level Drain
+– Regenerates 1 HP/round
+- Can either cast wizard spells or use thieving abilities
+
+Weight: 1~
+
+@646=~This is your familiar, a skull, currently safely residing within your backpack.
+
+STATISTICS:
+
+Level: 15
+Hit Points: 48 (+12 with each upgrade)
+Armor Class: -2 (-2 with each upgrade)
+Magic Resistance: 50%
+Resist Fire/Cold/Electricity/Acid: 50%
+Resist Slashing/Crushing/Piercing/Missile Damage: 25%
+Saving Throws: 9/11/10/12/12 (-2 with each upgrade)
+
+Combat: 2 attacks per round for 1d8 damage
+THAC0: 10 (-3 with each upgrade)
+
+Special Abilities:
+– Immunity to Sleep, Petrification and Level Drain
+– Regenerates 1 HP/round
+- Can either cast wizard spells or use thieving abilities
+
+Weight: 1~
+
+@647=~This is your cat familiar, currently curled up and safe within your backpack.
+
+STATISTICS:
+
+Level: 10
+Hit Points: 12 (+12 with each upgrade)
+Armor Class: 4 (-2 with each upgrade)
+Magic Resistance: 50%
+Resist Fire/Cold/Electricity/Acid: 50%
+Resist Slashing/Crushing/Piercing/Missile Damage: 25%
+Saving Throws: 15/17/16/18/18 (-2 with each upgrade)
+
+Combat: 2 attacks per round for 1d6 damage
+THAC0: 19 (-3 with each upgrade)
+
+Special Abilities:
+– Immunity to Sleep, Petrification and Level Drain
+– Regenerates 1 HP/round
+- Can either cast wizard spells or use thieving abilities
+
+Weight: 1~
+
+@648=~This is your familiar, a groudhog, currently curled up and safe in your backpack.
+
+STATISTICS:
+
+Level: 10
+Hit Points: 12 (+12 with each upgrade)
+Armor Class: 4 (-2 with each upgrade)
+Magic Resistance: 50%
+Resist Fire/Cold/Electricity/Acid: 50%
+Resist Slashing/Crushing/Piercing/Missile Damage: 25%
+Saving Throws: 15/17/16/18/18 (-2 with each upgrade)
+
+Combat: 2 attacks per round for 1d6 damage
+THAC0: 19 (-3 with each upgrade)
+
+Special Abilities:
+– Immunity to Sleep, Petrification and Level Drain
+– Regenerates 1 HP/round
+- Can either cast wizard spells or use thieving abilities
+
+Weight: 1~
+
+@649=~This is your familiar, a rabbit, currently curled up and safe within your backpack.
+
+STATISTICS:
+
+Level: 10
+Hit Points: 12 (+12 with each upgrade)
+Armor Class: 4 (-2 with each upgrade)
+Magic Resistance: 50%
+Resist Fire/Cold/Electricity/Acid: 50%
+Resist Slashing/Crushing/Piercing/Missile Damage: 25%
+Saving Throws: 15/17/16/18/18 (-2 with each upgrade)
+
+Combat: 2 attacks per round for 1d6 damage
+THAC0: 19 (-3 with each upgrade)
+
+Special Abilities:
+– Immunity to Sleep, Petrification and Level Drain
+– Regenerates 1 HP/round
+- Can either cast wizard spells or use thieving abilities
+
+Weight: 1~
+
+@650=~This is your familiar, a drake, currently curled up and safe within your backpack.
+
+STATISTICS:
+
+Level: 10
+Hit Points: 12 (+12 with each upgrade)
+Armor Class: 4 (-2 with each upgrade)
+Magic Resistance: 50%
+Resist Fire/Cold/Electricity/Acid: 50%
+Resist Slashing/Crushing/Piercing/Missile Damage: 25%
+Saving Throws: 15/17/16/18/18 (-2 with each upgrade)
+
+Combat: 2 attacks per round for 1d6 damage
+THAC0: 19 (-3 with each upgrade)
+
+Special Abilities:
+– Immunity to Sleep, Petrification and Level Drain
+– Regenerates 1 HP/round
+- Can either cast wizard spells or use thieving abilities
+
+Weight: 1~
+
+@651=~This is your familiar, an imp, currently grumpy yet safe within your backpack.
+
+STATISTICS:
+
+Level: 10
+Hit Points: 12 (+12 with each upgrade)
+Armor Class: 4 (-2 with each upgrade)
+Magic Resistance: 50%
+Resist Fire/Cold/Electricity/Acid: 50%
+Resist Slashing/Crushing/Piercing/Missile Damage: 25%
+Saving Throws: 15/17/16/18/18 (-2 with each upgrade)
+
+Combat: 2 attacks per round for 1d6 damage
+THAC0: 19 (-3 with each upgrade)
+
+Special Abilities:
+– Immunity to Sleep, Petrification and Level Drain
+– Regenerates 1 HP/round
+- Can either cast wizard spells or use thieving abilities
+
+Weight: 1~
+
+@652=~This is your familiar, an earth mephit, currently safe within your backpack.
+
+STATISTICS:
+
+Level: 10
+Hit Points: 12 (+12 with each upgrade)
+Armor Class: 4 (-2 with each upgrade)
+Magic Resistance: 50%
+Resist Fire/Cold/Electricity/Acid: 50%
+Resist Slashing/Crushing/Piercing/Missile Damage: 25%
+Saving Throws: 15/17/16/18/18 (-2 with each upgrade)
+
+Combat: 2 attacks per round for 1d6 damage
+THAC0: 19 (-3 with each upgrade)
+
+Special Abilities:
+– Immunity to Sleep, Petrification and Level Drain
+– Regenerates 1 HP/round
+- Can either cast wizard spells or use thieving abilities
+
+Weight: 1~
+
+@653=~This is your familiar, a spider, currently curled up and safe within your backpack.
+
+STATISTICS:
+
+Level: 10
+Hit Points: 12 (+12 with each upgrade)
+Armor Class: 4 (-2 with each upgrade)
+Magic Resistance: 50%
+Resist Fire/Cold/Electricity/Acid: 50%
+Resist Slashing/Crushing/Piercing/Missile Damage: 25%
+Saving Throws: 15/17/16/18/18 (-2 with each upgrade)
+
+Combat: 2 attacks per round for 1d6 damage
+THAC0: 19 (-3 with each upgrade)
+
+Special Abilities:
+– Immunity to Sleep, Petrification and Level Drain
+– Regenerates 1 HP/round
+- Can either cast wizard spells or use thieving abilities
+
+Weight: 1~
+
+@654=~This is your familiar, a Lim-Lim, currently curled up and safe within your backpack.
+
+STATISTICS:
+
+Level: 10
+Hit Points: 12 (+12 with each upgrade)
+Armor Class: 4 (-2 with each upgrade)
+Magic Resistance: 50%
+Resist Fire/Cold/Electricity/Acid: 50%
+Resist Slashing/Crushing/Piercing/Missile Damage: 25%
+Saving Throws: 15/17/16/18/18 (-2 with each upgrade)
+
+Combat: 2 attacks per round for 1d6 damage
+THAC0: 19 (-3 with each upgrade)
+
+Special Abilities:
+– Immunity to Sleep, Petrification and Level Drain
+– Regenerates 1 HP/round
+- Can either cast wizard spells or use thieving abilities
+
+Weight: 1~
+
+@655=~This is your familiar, a skull, currently safely residing within your backpack.
+
+STATISTICS:
+
+Level: 10
+Hit Points: 12 (+12 with each upgrade)
+Armor Class: 4 (-2 with each upgrade)
+Magic Resistance: 50%
+Resist Fire/Cold/Electricity/Acid: 50%
+Resist Slashing/Crushing/Piercing/Missile Damage: 25%
+Saving Throws: 15/17/16/18/18 (-2 with each upgrade)
+
+Combat: 2 attacks per round for 1d6 damage
+THAC0: 19 (-3 with each upgrade)
+
+Special Abilities:
+– Immunity to Sleep, Petrification and Level Drain
+– Regenerates 1 HP/round
+- Can either cast wizard spells or use thieving abilities
+
+Weight: 1~
+
+@656=~~ [IMPPP01]
+
+@657=~~ [IMPPP02]
+
+@658=~~ [IMPPP03]
+
+@659=~~ [IMPPP06]
+
+@660=~~ [IMPPP07]
+
+@700=~A spellcaster cannot have more than one familiar at the same time.~
+
+@701=~~
+
+@702=~The small dragon-like creature purrs quizzically with wide eyes. Nervously, it backs away towards Aerie. Obviously, it doesn't want to talk to you.~
+
+@703=~The small dragon-like creature flutters its wings happily, looking at Aerie with almost kaleidoscopic eyes. "You wish something?" It awaits her attention, tail flicking.~
+
+@704=~Come here. I want to pick you up and put you in my pack, where it's a bit safer.~
+
+@705=~Its eyes brighten, and it practically leaps into her arms, ready to be stowed amongst her belongings, where it can sleep and occasionally poke its head out.~
+
+@706=~The imp stares with open derision, sticking out its forked tongue rudely. It scoots off to Edwin. Obviously, it doesn't want to talk to you...~
+
+@707=~The impish creature regards Edwin suspiciously, wary of a kick or slap headed its way, before sidling a step or two closer. "Yeah, boss? You want something?"~
+
+@708=~Come here. You're going in my pack for now.~
+
+@709=~It rolls its eyes. "Oh, sure. Stick me in your smelly pack. Ever thought of sticking some mint in there? Baaah..." It reluctantly crawls in.~
+
+@710=~Before you stands the most peculiar creature, that you've ever seen. Its legs are oversized, but its arms are small, nearly vestigial, and a brightly speckled half-shell runs down its back. It sports twin pairs of insect-like wings, and has tiny black eyes and a mouth that always appears to be smiling gleefully. It seems to enjoy your attention, however after a brief moment, it runs back to Haer'Dalis.~
+
+@711=~The Lim-Lim looks up at Haer'Dalis. "Piyo! Piyo!" Its wings buzz happily when it realizes he is paying attention to it. "Piyo!"~
+
+@712=~I am all right, thank you. Come here. I want to pick you up and put you in my pack, where it's a bit safer.~
+
+@712=~"Piyo! Piyo!" The Lim-Lim bounces about merrily, its wings buzzing. It crawls inside his pack.~
+
+@713=~Imoen's cat looks at you with suspicion, and after a moment's inspection, it turns and gives you full view of its rear while it strolls to her.~
+
+@714=~The cat flicks its tail, its nose twitching slightly with curiosity as it looks up with dark eyes. "What is it, Imoen? I am hungry. I wish to be petted and fed."~
+
+@715=~Ooh you, come here. I want to pick you up and put you in my pack, where it's a bit safer. I have some peanuts too!~
+
+@716=~Its eyes brighten with the mention of food and it swiftly jumps into her arms. "All right, you have me." It crawls inside her pack, while chewing the nuts.~
+
+@717=~The rabbit looks at you with suspicion, and after a moment's inspection, it turns and gives you full view of its rear while it strolls to Jan. He claims it's a polymorphed lich, however, there is nothing in its behavior, that would indicate that.~
+
+@718=~The rabbit sighs, its nose twitching slightly as it looks up to Jan. "What is it now?"~
+
+@719=~You know, you are awfully grumpy, even for a polymorphed lich.~
+
+@720=~The rabbit sighs again. "I am not a lich, Jan. Just give me a piece of turnip and I'll be on my way."~
+
+@721=~Come here now. I want to pick you up and put you in my pack. It's not good for your old bones to jump around all day long.~
+
+@722=~The rabbit gives Jan a resigned look and slowly crawls inside his pack.~
+
+@723=~The small dragon-like creature purrs quizzically with wide eyes. Nervously, it backs away towards Nalia. Obviously, it doesn't want to talk to you.~
+
+@724=~The small dragon-like creature flutters its wings happily, looking at Nalia with almost kaleidoscopic eyes. "You wish something?" It awaits her attention, tail flicking.~
+
+@725=~Come here. I want to pick you up and put you in my pack, where it's a bit safer.~
+
+@726=~Its eyes brighten, and it practically leaps into her arms, ready to be stowed amongst her belongings, where it can sleep and occasionally poke its head out.~
+
+@727=~Neera's cat looks at you with suspicion, and after a moment's inspection, it turns and gives you full view of its rear while it strolls to her.~
+
+@728=~The cat flicks its tail, its nose twitching slightly with curiosity as it looks up with dark eyes. "What is it, girl?"~
+
+@729=~Come here. I want to pick you up and put you in my pack, where it's a bit safer.~
+
+@730=~Milo eyes her pack, and then reluctantly crawls inside. "Very well. It is better that you carry me. Do not bump me around so much this time though."~
+
+@731=~The little creature looks at you with suspicion, and after a moment's inspection, it turns and gives you full view of its rear while it strolls to Yoshimo.~
+
+@732=~The grounhog straightens up, its nose twitching slightly with curiosity as it looks up with dark eyes. "What is it, master Yoshimo?"~
+
+@733=~Come here. I want to pick you up and put you in my pack, where it's a bit safer.~
+
+@734=~It eyes his pack, and after a moment crawls inside. "All right. It is better that you carry me."~
+
+@735=~Laedraen~
+
+@736=~Ash~
+
+@737=~Joy~
+
+@738=~Jasmine~
+
+@739=~Skippy The Devourer~
+
+@740=~Rielia~
+
+@741=~Milo~
+
+@742=~Ishiko~
+
+@743=~D'Arhaech~
+
+@744=~Dailiah~
+
+@745=~Jasper~
+
+@746=~Corri~
+
+@747=~Jay~
+
+@748=~Walteph~
+
+@749=~Sapphire~
+
+@750=~Elbraen~
+
+@751=~Shammuabu'nechazz~
+
+@755=~The spider looks at you with hostility, seemingly ready to attack you at any moment. Only when Baeloth commands it, it looses interest in your presence and runs to him.~
+
+@756=~The spider stands without any movement in absolute obedience. "What do you wish of me, my Master?"~
+
+@757=~Come here. You're going in my pack for now.~
+
+@758=~It reacts readily, and crawls inside. "As you command".~
+
+@759=~The small dragon-like creature purrs quizzically with wide eyes. Nervously, it backs away towards Dynaheir. Obviously, it doesn't want to talk to you.~
+
+@760=~The small dragon-like creature flutters its wings happily, looking at Dynaheir with almost kaleidoscopic eyes. "You wish something?" It awaits her attention, tail flicking.~
+
+@761=~Come here. I want to pick you up and put you in my pack, where it's a bit safer.~
+
+@762=~Its eyes brighten, and it practically leaps into her arms, ready to be stowed amongst her belongings, where it can sleep and occasionally poke its head out.~
+
+@763=~The imp stares with open derision, sticking out its forked tongue rudely. It scoots off to Eldoth. Obviously, it doesn't want to talk to you...~
+
+@764=~The impish creature regards Eldoth suspiciously, wary of a kick or slap headed its way, before sidling a step or two closer. "Yeah, boss? You want something?"~
+
+@765=~Come here. You're going in my pack for now.~
+
+@766=~It rolls its eyes. "Oh, sure. Stick me in your smelly pack. Ever thought of sticking some mint in there? Baaah..." It reluctantly crawls in.~
+
+@767=~The little creature looks at you with suspicion, and after a moment's inspection, it turns and gives you full view of its rear while it strolls to Garrick.~
+
+@768=~The rabbit attentively straightens up, its nose twitching slightly with curiosity as it looks up with dark eyes. "What is it, master Garrick?"~
+
+@769=~Come here. I want to pick you up and put you in my pack, where it's a bit safer.~
+
+@770=~It eyes his pack, and after a moment crawls inside. "All right. It is better that you carry me."~
+
+@771=~The little creature looks at you with suspicion, and after a moment's inspection, it turns and gives you full view of its rear while it strolls to Khalid.~
+
+@772=~The grounhog hops happily as it looks up to Khalid. "You wish something?" It awaits his attention.~
+
+@773=~Come here. I want to pick you up and put you in my pack, where it's a bit safer.~
+
+@774=~Its eyes brighten, and it practically leaps into his arms, ready to be stowed amongst his belongings, where it can sleep and occasionally poke its head out.~
+
+@775=~Before you stands the most peculiar creature, that you've ever seen. Its legs are oversized, but its arms are small, nearly vestigial, and a brightly speckled half-shell runs down its back. It sports twin pairs of insect-like wings, and has tiny black eyes and a mouth that always appears to be smiling gleefully. It seems to enjoy your attention, however after a brief moment, it runs back to Quayle.~
+
+@776=~The Lim-Lim looks up at Quayle. "Piyo! Piyo!" Its wings buzz happily when it realizes he is paying attention to it. "Piyo!"~
+
+@777=~Hehehe, yes. Come here. I want to pick you up and put you in my pack, where it's a bit safer.~
+
+@778=~"Piyo! Piyo!" The Lim-Lim bounces about merrily, its wings buzzing. It crawls inside his pack.~
+
+@779=~The small dragon-like creature looks at you distinguishly with its wide eyes. After a moment, it slightly pretentiously turns around and head towards Safana. Obviously, it doesn't want to talk to you.~
+
+@780=~The dragon flicks its tail and flutters its wings with anticipation as it looks up with almost kaleidoscopic eyes. "What is it, Safana?"~
+
+@781=~Come here girl. I want to pick you up and put you in my pack, where it's a bit safer.~
+
+@782=~It eyes her pack, and then reluctantly crawls inside. "Very well. It is better that you carry me. Do not bump me around so much this time though."~
+
+@783=~Xan's familiar gives you a resigned look. After a moment's inspection, it turns and, obviously bored, strolls back to him.~
+
+@784=~The mephit sighs, and as it looks up to Xan, they both share a depressed look for a moment. "What is it, my master?"~
+
+@785=~Come here. I want to pick you up and put you in my pack, where it's a bit safer.~
+
+@786=~It sighs again and slowly crawls inside his pack. "Very well."~
+
+@787=~A human skull, levitating in the air before you, watches you with its empty eye sockets. It's apparently amused. A force, which keeps it above ground appears to be unknown, but makes you uneasy. After a while, its interest in you fades and it turns back to Xzar. You are relieved.~
+
+@788=~The skull turns to Xzar, its eye sockets watching his every unpredictable movement with great interest. "What do you wish from Shammuabu'nechazz, my dear friend?"~
+
+@789=~I want to share with you my latest master plan. Listen carefully.~
+
+@790=~After Xzar secretively whispers his ideas, following with occasional mad laughter, the skull stops to think. "Hmm, I can cook a spell or two for that, I'll need some time though."~
+
+@791=~Come to me then my friend. I will carry you now.~
+
+@792=~It flies inside his backpack, looking for appropriate space for it to concentrate. After a moment, it settles in. "All right, don't disturb me now."~
+
+@820=~This is Aerie's drake familiar, Laedraen, currently curled up and safe within her backpack.
+
+STATISTICS:
+
+Level: 10
+Hit Points: 24 (+12 with each upgrade)
+Armor Class: 2 (-2 with each upgrade)
+Magic Resistance: 50%
+Resist Fire/Cold/Electricity/Acid: 50%
+Resist Slashing/Crushing/Piercing/Missile Damage: 25%
+Saving Throws: 13/15/14/16/16 (-2 with each upgrade)
+
+Combat: 2 attacks per round for 1d6 damage
+THAC0: 16 (-3 with each upgrade)
+
+Special Abilities:
+– Immunity to Sleep, Petrification and Level Drain
+– Regenerates 1 HP/round
+- Can either cast wizard spells or use thieving abilities
+
+Weight: 1~
+
+@821=~This is Aerie's drake familiar, Laedraen, currently curled up and safe within her backpack.
+
+STATISTICS:
+
+Level: 15
+Hit Points: 48 (+12 with each upgrade)
+Armor Class: -2 (-2 with each upgrade)
+Magic Resistance: 50%
+Resist Fire/Cold/Electricity/Acid: 50%
+Resist Slashing/Crushing/Piercing/Missile Damage: 25%
+Saving Throws: 9/11/10/12/12 (-2 with each upgrade)
+
+Combat: 2 attacks per round for 1d8 damage
+THAC0: 10 (-3 with each upgrade)
+
+Special Abilities:
+– Immunity to Sleep, Petrification and Level Drain
+– Regenerates 1 HP/round
+- Can either cast wizard spells or use thieving abilities
+
+Weight: 1~
+
+@822=~This is Edwin's imp familiar, Ash, currently grumpy yet safe within his backpack.
+
+STATISTICS:
+
+Level: 10
+Hit Points: 24 (+12 with each upgrade)
+Armor Class: 2 (-2 with each upgrade)
+Magic Resistance: 50%
+Resist Fire/Cold/Electricity/Acid: 50%
+Resist Slashing/Crushing/Piercing/Missile Damage: 25%
+Saving Throws: 13/15/14/16/16 (-2 with each upgrade)
+
+Combat: 2 attacks per round for 1d6 damage
+THAC0: 16 (-3 with each upgrade)
+
+Special Abilities:
+– Immunity to Sleep, Petrification and Level Drain
+– Regenerates 1 HP/round
+- Can either cast wizard spells or use thieving abilities
+
+Weight: 1~
+
+@823=~This is Edwin's imp familiar, Ash, currently grumpy yet safe within his backpack.
+
+STATISTICS:
+
+Level: 15
+Hit Points: 48 (+12 with each upgrade)
+Armor Class: -2 (-2 with each upgrade)
+Magic Resistance: 50%
+Resist Fire/Cold/Electricity/Acid: 50%
+Resist Slashing/Crushing/Piercing/Missile Damage: 25%
+Saving Throws: 9/11/10/12/12 (-2 with each upgrade)
+
+Combat: 2 attacks per round for 1d8 damage
+THAC0: 10 (-3 with each upgrade)
+
+Special Abilities:
+– Immunity to Sleep, Petrification and Level Drain
+– Regenerates 1 HP/round
+- Can either cast wizard spells or use thieving abilities
+
+Weight: 1~
+
+@824=~This is Joy, a Lim-Lim familiar of Haer'Dalis, currently enjoying safety of his backpack.
+
+STATISTICS:
+
+Level: 10
+Hit Points: 24 (+12 with each upgrade)
+Armor Class: 2 (-2 with each upgrade)
+Magic Resistance: 50%
+Resist Fire/Cold/Electricity/Acid: 50%
+Resist Slashing/Crushing/Piercing/Missile Damage: 25%
+Saving Throws: 13/15/14/16/16 (-2 with each upgrade)
+
+Combat: 2 attacks per round for 1d6 damage
+THAC0: 16 (-3 with each upgrade)
+
+Special Abilities:
+– Immunity to Sleep, Petrification and Level Drain
+– Regenerates 1 HP/round
+- Can either cast wizard spells or use thieving abilities
+
+Weight: 1~
+
+@825=~This is Joy, a Lim-Lim familiar of Haer'Dalis, currently enjoying safety of his backpack.
+
+STATISTICS:
+
+Level: 15
+Hit Points: 48 (+12 with each upgrade)
+Armor Class: -2 (-2 with each upgrade)
+Magic Resistance: 50%
+Resist Fire/Cold/Electricity/Acid: 50%
+Resist Slashing/Crushing/Piercing/Missile Damage: 25%
+Saving Throws: 9/11/10/12/12 (-2 with each upgrade)
+
+Combat: 2 attacks per round for 1d8 damage
+THAC0: 10 (-3 with each upgrade)
+
+Special Abilities:
+– Immunity to Sleep, Petrification and Level Drain
+– Regenerates 1 HP/round
+- Can either cast wizard spells or use thieving abilities
+
+Weight: 1~
+
+@826=~This is Imoen's cat familiar, Jasmine, currently curled up and safe within her backpack.
+
+STATISTICS:
+
+Level: 10
+Hit Points: 24 (+12 with each upgrade)
+Armor Class: 2 (-2 with each upgrade)
+Magic Resistance: 50%
+Resist Fire/Cold/Electricity/Acid: 50%
+Resist Slashing/Crushing/Piercing/Missile Damage: 25%
+Saving Throws: 13/15/14/16/16 (-2 with each upgrade)
+
+Combat: 2 attacks per round for 1d6 damage
+THAC0: 16 (-3 with each upgrade)
+
+Special Abilities:
+– Immunity to Sleep, Petrification and Level Drain
+– Regenerates 1 HP/round
+- Can either cast wizard spells or use thieving abilities
+
+Weight: 1~
+
+@827=~This is Imoen's cat familiar, Jasmine, currently curled up and safe within her backpack.
+
+STATISTICS:
+
+Level: 15
+Hit Points: 48 (+12 with each upgrade)
+Armor Class: -2 (-2 with each upgrade)
+Magic Resistance: 50%
+Resist Fire/Cold/Electricity/Acid: 50%
+Resist Slashing/Crushing/Piercing/Missile Damage: 25%
+Saving Throws: 9/11/10/12/12 (-2 with each upgrade)
+
+Combat: 2 attacks per round for 1d8 damage
+THAC0: 10 (-3 with each upgrade)
+
+Special Abilities:
+– Immunity to Sleep, Petrification and Level Drain
+– Regenerates 1 HP/round
+- Can either cast wizard spells or use thieving abilities
+
+Weight: 1~
+
+@828=~This is Jan Jansen's rabbit familiar, called Skippy The Devourer, currently curled up and safe within his backpack. The creature is claimed by him to be a polymorphed lich.
+
+STATISTICS:
+
+Level: 10
+Hit Points: 24 (+12 with each upgrade)
+Armor Class: 2 (-2 with each upgrade)
+Magic Resistance: 50%
+Resist Fire/Cold/Electricity/Acid: 50%
+Resist Slashing/Crushing/Piercing/Missile Damage: 25%
+Saving Throws: 13/15/14/16/16 (-2 with each upgrade)
+
+Combat: 2 attacks per round for 1d6 damage
+THAC0: 16 (-3 with each upgrade)
+
+Special Abilities:
+– Immunity to Sleep, Petrification and Level Drain
+– Regenerates 1 HP/round
+- Can either cast wizard spells or use thieving abilities
+
+Weight: 1~
+
+@829=~This is Jan Jansen's rabbit familiar, called Skippy The Devourer, currently curled up and safe within his backpack. The creature is claimed by him to be a polymorphed lich.
+
+STATISTICS:
+
+Level: 15
+Hit Points: 48 (+12 with each upgrade)
+Armor Class: -2 (-2 with each upgrade)
+Magic Resistance: 50%
+Resist Fire/Cold/Electricity/Acid: 50%
+Resist Slashing/Crushing/Piercing/Missile Damage: 25%
+Saving Throws: 9/11/10/12/12 (-2 with each upgrade)
+
+Combat: 2 attacks per round for 1d8 damage
+THAC0: 10 (-3 with each upgrade)
+
+Special Abilities:
+– Immunity to Sleep, Petrification and Level Drain
+– Regenerates 1 HP/round
+- Can either cast wizard spells or use thieving abilities
+
+Weight: 1~
+
+@830=~This is Nalia's drake familiar, Rielia, currently curled up and safe within her backpack.
+
+STATISTICS:
+
+Level: 10
+Hit Points: 24 (+12 with each upgrade)
+Armor Class: 2 (-2 with each upgrade)
+Magic Resistance: 50%
+Resist Fire/Cold/Electricity/Acid: 50%
+Resist Slashing/Crushing/Piercing/Missile Damage: 25%
+Saving Throws: 13/15/14/16/16 (-2 with each upgrade)
+
+Combat: 2 attacks per round for 1d6 damage
+THAC0: 16 (-3 with each upgrade)
+
+Special Abilities:
+– Immunity to Sleep, Petrification and Level Drain
+– Regenerates 1 HP/round
+- Can either cast wizard spells or use thieving abilities
+
+Weight: 1~
+
+@831=~This is Nalia's drake familiar, Rielia, currently curled up and safe within her backpack.
+
+STATISTICS:
+
+Level: 15
+Hit Points: 48 (+12 with each upgrade)
+Armor Class: -2 (-2 with each upgrade)
+Magic Resistance: 50%
+Resist Fire/Cold/Electricity/Acid: 50%
+Resist Slashing/Crushing/Piercing/Missile Damage: 25%
+Saving Throws: 9/11/10/12/12 (-2 with each upgrade)
+
+Combat: 2 attacks per round for 1d8 damage
+THAC0: 10 (-3 with each upgrade)
+
+Special Abilities:
+– Immunity to Sleep, Petrification and Level Drain
+– Regenerates 1 HP/round
+- Can either cast wizard spells or use thieving abilities
+
+Weight: 1~
+
+@832=~This is Neera's cat familiar, Milo, currently curled up and safe within her backpack.
+
+STATISTICS:
+
+Level: 10
+Hit Points: 24 (+12 with each upgrade)
+Armor Class: 2 (-2 with each upgrade)
+Magic Resistance: 50%
+Resist Fire/Cold/Electricity/Acid: 50%
+Resist Slashing/Crushing/Piercing/Missile Damage: 25%
+Saving Throws: 13/15/14/16/16 (-2 with each upgrade)
+
+Combat: 2 attacks per round for 1d6 damage
+THAC0: 16 (-3 with each upgrade)
+
+Special Abilities:
+– Immunity to Sleep, Petrification and Level Drain
+– Regenerates 1 HP/round
+- Can either cast wizard spells or use thieving abilities
+
+Weight: 1~
+
+@833=~This is Neera's cat familiar, Milo, currently curled up and safe within her backpack.
+
+STATISTICS:
+
+Level: 15
+Hit Points: 48 (+12 with each upgrade)
+Armor Class: -2 (-2 with each upgrade)
+Magic Resistance: 50%
+Resist Fire/Cold/Electricity/Acid: 50%
+Resist Slashing/Crushing/Piercing/Missile Damage: 25%
+Saving Throws: 9/11/10/12/12 (-2 with each upgrade)
+
+Combat: 2 attacks per round for 1d8 damage
+THAC0: 10 (-3 with each upgrade)
+
+Special Abilities:
+– Immunity to Sleep, Petrification and Level Drain
+– Regenerates 1 HP/round
+- Can either cast wizard spells or use thieving abilities
+
+Weight: 1~
+
+@834=~This is Yoshimo's groundhog familiar, Ishiko, currently curled up and safe within his backpack.
+
+STATISTICS:
+
+Level: 10
+Hit Points: 24 (+12 with each upgrade)
+Armor Class: 2 (-2 with each upgrade)
+Magic Resistance: 50%
+Resist Fire/Cold/Electricity/Acid: 50%
+Resist Slashing/Crushing/Piercing/Missile Damage: 25%
+Saving Throws: 13/15/14/16/16 (-2 with each upgrade)
+
+Combat: 2 attacks per round for 1d6 damage
+THAC0: 16 (-3 with each upgrade)
+
+Special Abilities:
+– Immunity to Sleep, Petrification and Level Drain
+– Regenerates 1 HP/round
+- Can either cast wizard spells or use thieving abilities
+
+Weight: 1~
+
+@835=~This is Yoshimo's groundhog familiar, Ishiko, currently curled up and safe within his backpack.
+
+STATISTICS:
+
+Level: 15
+Hit Points: 48 (+12 with each upgrade)
+Armor Class: -2 (-2 with each upgrade)
+Magic Resistance: 50%
+Resist Fire/Cold/Electricity/Acid: 50%
+Resist Slashing/Crushing/Piercing/Missile Damage: 25%
+Saving Throws: 9/11/10/12/12 (-2 with each upgrade)
+
+Combat: 2 attacks per round for 1d8 damage
+THAC0: 10 (-3 with each upgrade)
+
+Special Abilities:
+– Immunity to Sleep, Petrification and Level Drain
+– Regenerates 1 HP/round
+- Can either cast wizard spells or use thieving abilities
+
+Weight: 1~
+
+@836=~This is Baeloth's spider familiar, D'Arhaech, currently waiting his orders within his backpack.
+
+STATISTICS:
+
+Level: 5
+Hit Points: 12 (+12 with each upgrade)
+Armor Class: 4 (-2 with each upgrade)
+Magic Resistance: 50%
+Resist Fire/Cold/Electricity/Acid: 50%
+Resist Slashing/Crushing/Piercing/Missile Damage: 25%
+Saving Throws: 15/17/16/18/18 (-2 with each upgrade)
+
+Combat: 2 attacks per round for 1d6 damage
+THAC0: 19 (-3 with each upgrade)
+
+Special Abilities:
+– Immunity to Sleep, Petrification and Level Drain
+– Regenerates 1 HP/round
+- Can either cast wizard spells or use thieving abilities
+
+Weight: 1~
+
+@837=~This is Dynaheir's drake familiar, Dailiah, currently curled up and safe within her backpack.
+
+STATISTICS:
+
+Level: 5
+Hit Points: 12 (+12 with each upgrade)
+Armor Class: 4 (-2 with each upgrade)
+Magic Resistance: 50%
+Resist Fire/Cold/Electricity/Acid: 50%
+Resist Slashing/Crushing/Piercing/Missile Damage: 25%
+Saving Throws: 15/17/16/18/18 (-2 with each upgrade)
+
+Combat: 2 attacks per round for 1d6 damage
+THAC0: 19 (-3 with each upgrade)
+
+Special Abilities:
+– Immunity to Sleep, Petrification and Level Drain
+– Regenerates 1 HP/round
+- Can either cast wizard spells or use thieving abilities
+
+Weight: 1~
+
+@838=~This is Edwin's imp familiar, Ash, currently grumpy yet safe within his backpack.
+
+STATISTICS:
+
+Level: 5
+Hit Points: 12 (+12 with each upgrade)
+Armor Class: 4 (-2 with each upgrade)
+Magic Resistance: 50%
+Resist Fire/Cold/Electricity/Acid: 50%
+Resist Slashing/Crushing/Piercing/Missile Damage: 25%
+Saving Throws: 15/17/16/18/18 (-2 with each upgrade)
+
+Combat: 2 attacks per round for 1d6 damage
+THAC0: 19 (-3 with each upgrade)
+
+Special Abilities:
+– Immunity to Sleep, Petrification and Level Drain
+– Regenerates 1 HP/round
+- Can either cast wizard spells or use thieving abilities
+
+Weight: 1~
+
+@839=~This is Eldoth's imp familiar, Jasper, currently grumpy yet safe within his backpack.
+
+STATISTICS:
+
+Level: 5
+Hit Points: 12 (+12 with each upgrade)
+Armor Class: 4 (-2 with each upgrade)
+Magic Resistance: 50%
+Resist Fire/Cold/Electricity/Acid: 50%
+Resist Slashing/Crushing/Piercing/Missile Damage: 25%
+Saving Throws: 15/17/16/18/18 (-2 with each upgrade)
+
+Combat: 2 attacks per round for 1d6 damage
+THAC0: 19 (-3 with each upgrade)
+
+Special Abilities:
+– Immunity to Sleep, Petrification and Level Drain
+– Regenerates 1 HP/round
+- Can either cast wizard spells or use thieving abilities
+
+Weight: 1~
+
+@840=~This is Garrick's rabbit familiar, Corri, currently curled up and safe within his backpack.
+
+STATISTICS:
+
+Level: 5
+Hit Points: 12 (+12 with each upgrade)
+Armor Class: 4 (-2 with each upgrade)
+Magic Resistance: 50%
+Resist Fire/Cold/Electricity/Acid: 50%
+Resist Slashing/Crushing/Piercing/Missile Damage: 25%
+Saving Throws: 15/17/16/18/18 (-2 with each upgrade)
+
+Combat: 2 attacks per round for 1d6 damage
+THAC0: 19 (-3 with each upgrade)
+
+Special Abilities:
+– Immunity to Sleep, Petrification and Level Drain
+– Regenerates 1 HP/round
+- Can either cast wizard spells or use thieving abilities
+
+Weight: 1~
+
+@841=~This is Imoen's cat familiar, Jasmine, currently curled up and safe within her backpack.
+
+STATISTICS:
+
+Level: 5
+Hit Points: 12 (+12 with each upgrade)
+Armor Class: 4 (-2 with each upgrade)
+Magic Resistance: 50%
+Resist Fire/Cold/Electricity/Acid: 50%
+Resist Slashing/Crushing/Piercing/Missile Damage: 25%
+Saving Throws: 15/17/16/18/18 (-2 with each upgrade)
+
+Combat: 2 attacks per round for 1d6 damage
+THAC0: 19 (-3 with each upgrade)
+
+Special Abilities:
+– Immunity to Sleep, Petrification and Level Drain
+– Regenerates 1 HP/round
+- Can either cast wizard spells or use thieving abilities
+
+Weight: 1~
+
+@842=~This is Khalid's groundhog familiar, Jay, currently curled up and safe within his backpack. Khalid swears, that any resemblance between its name and his wife's is purely accidental.
+
+STATISTICS:
+
+Level: 5
+Hit Points: 12 (+12 with each upgrade)
+Armor Class: 4 (-2 with each upgrade)
+Magic Resistance: 50%
+Resist Fire/Cold/Electricity/Acid: 50%
+Resist Slashing/Crushing/Piercing/Missile Damage: 25%
+Saving Throws: 15/17/16/18/18 (-2 with each upgrade)
+
+Combat: 2 attacks per round for 1d6 damage
+THAC0: 19 (-3 with each upgrade)
+
+Special Abilities:
+– Immunity to Sleep, Petrification and Level Drain
+– Regenerates 1 HP/round
+- Can either cast wizard spells or use thieving abilities
+
+Weight: 1~
+
+@843=~This is Neera's cat familiar, Milo, currently curled up and safe within her backpack.
+
+STATISTICS:
+
+Level: 5
+Hit Points: 12 (+12 with each upgrade)
+Armor Class: 4 (-2 with each upgrade)
+Magic Resistance: 50%
+Resist Fire/Cold/Electricity/Acid: 50%
+Resist Slashing/Crushing/Piercing/Missile Damage: 25%
+Saving Throws: 15/17/16/18/18 (-2 with each upgrade)
+
+Combat: 2 attacks per round for 1d6 damage
+THAC0: 19 (-3 with each upgrade)
+
+Special Abilities:
+– Immunity to Sleep, Petrification and Level Drain
+– Regenerates 1 HP/round
+- Can either cast wizard spells or use thieving abilities
+
+Weight: 1~
+
+@844=~This is Walteph, Quayle's Lim-Lim familiar, currently enjoying safety of his backpack.
+
+STATISTICS:
+
+Level: 5
+Hit Points: 12 (+12 with each upgrade)
+Armor Class: 4 (-2 with each upgrade)
+Magic Resistance: 50%
+Resist Fire/Cold/Electricity/Acid: 50%
+Resist Slashing/Crushing/Piercing/Missile Damage: 25%
+Saving Throws: 15/17/16/18/18 (-2 with each upgrade)
+
+Combat: 2 attacks per round for 1d6 damage
+THAC0: 19 (-3 with each upgrade)
+
+Special Abilities:
+– Immunity to Sleep, Petrification and Level Drain
+– Regenerates 1 HP/round
+- Can either cast wizard spells or use thieving abilities
+
+Weight: 1~
+
+@845=~This is Safana's drake familiar, Sapphire, currently curled up and safe within her backpack.
+
+STATISTICS:
+
+Level: 5
+Hit Points: 12 (+12 with each upgrade)
+Armor Class: 4 (-2 with each upgrade)
+Magic Resistance: 50%
+Resist Fire/Cold/Electricity/Acid: 50%
+Resist Slashing/Crushing/Piercing/Missile Damage: 25%
+Saving Throws: 15/17/16/18/18 (-2 with each upgrade)
+
+Combat: 2 attacks per round for 1d6 damage
+THAC0: 19 (-3 with each upgrade)
+
+Special Abilities:
+– Immunity to Sleep, Petrification and Level Drain
+– Regenerates 1 HP/round
+- Can either cast wizard spells or use thieving abilities
+
+Weight: 1~
+
+@846=~This is Xan's mephit familiar, Elbraen, currently depressed yet safe within his backpack.
+
+STATISTICS:
+
+Level: 5
+Hit Points: 12 (+12 with each upgrade)
+Armor Class: 4 (-2 with each upgrade)
+Magic Resistance: 50%
+Resist Fire/Cold/Electricity/Acid: 50%
+Resist Slashing/Crushing/Piercing/Missile Damage: 25%
+Saving Throws: 15/17/16/18/18 (-2 with each upgrade)
+
+Combat: 2 attacks per round for 1d6 damage
+THAC0: 19 (-3 with each upgrade)
+
+Special Abilities:
+– Immunity to Sleep, Petrification and Level Drain
+– Regenerates 1 HP/round
+- Can either cast wizard spells or use thieving abilities
+
+Weight: 1~
+
+@847=~This is Xzar's undead familiar, Shammuabu'nechazz, currently residing within his backpack. Its exact nature is unknown, however, it does share similar traits with demiliches.
+
+STATISTICS:
+
+Level: 5
+Hit Points: 12 (+12 with each upgrade)
+Armor Class: 4 (-2 with each upgrade)
+Magic Resistance: 50%
+Resist Fire/Cold/Electricity/Acid: 50%
+Resist Slashing/Crushing/Piercing/Missile Damage: 25%
+Saving Throws: 15/17/16/18/18 (-2 with each upgrade)
+
+Combat: 2 attacks per round for 1d6 damage
+THAC0: 19 (-3 with each upgrade)
+
+Special Abilities:
+– Immunity to Sleep, Petrification and Level Drain
+– Regenerates 1 HP/round
+- Can either cast wizard spells or use thieving abilities
+
+Weight: 1~
+
+
+
+@881=~Artifact~
+
+@882=~Mallon's Shifting Heart~
+
+@883=~This mysteriously glowing spherical artifact emanates a powerful magic aura.
+
+Weight: 1~
+
+@884=~This mysteriously glowing spherical artifact is one of the famous shifting stones, rare jewels imbued with powerful teleportation magic. It belonged to an amnian archmage Mallon Eqoa, a pioneer of mass warping techniques, whose passion led him to an unfortunate fate.
+
+Mallon's vision was a world made prosperous by an instant global trade and permanent interconnection of its population. His ideas included broadly distributed magical stones, that would allow instant traveling. So, he sought a way to contain a powerful magic within a convenient shape, to be easily used by untrained, common people. It is said, that during one of his experiments, he was pulled into a multi-dimensional vortex and his body was shred to pieces. Such is the fate of pioneers.
+
+Everything that was left of his work were few functioning prototypes with a regional range. The only thing, that his followers were able do, was to give his creations fancy names. This one is called a "Shifting Heart" and is allegedly Mallon's most favourite, because it allowed him to travel over his homeland.
+
+STATISTICS:
+
+Charge abilities:
+- Teleports a party among areas within the region of Amn
+
+Weight: 1~
+
+@885=~Mallon's Warping Eye~
+
+@886=~This mysteriously glowing spherical artifact is one of the famous shifting stones, rare jewels imbued with powerful teleportation magic. It belonged to an amnian archmage Mallon Eqoa, a pioneer of mass warping techniques, whose passion led him to an unfortunate fate.
+
+Mallon's vision was a world made prosperous by an instant global trade and permanent interconnection of its population. His ideas included broadly distributed magical stones, that would allow instant traveling. So, he sought a way to contain a powerful magic within a convenient shape, to be easily used by untrained, common people. It is said, that during one of his experiments, he was pulled into a multi-dimensional vortex and his body was shred to pieces. Such is the fate of pioneers.
+
+Everything that was left of his work were few functioning prototypes with a regional range. The only thing, that his followers were able do, was to give his creations fancy names. This one is called a "Warping Eye" and allows the user to travel over a region of Tethyr.
+
+STATISTICS:
+
+Charge abilities:
+- Teleports a party among areas within the region of Tethyr
+
+Weight: 1~
+
+@891=~When you put your hands on the sphere, an image spurs in your mind. It takes you far above the surface of Faerûn, where you can see an entire Amn below. With enough focus, you are able to move anywhere with a speed of sight.~
+
+@892=~You put your hands on the sphere, but there is no reaction. You are likely in a place outside of the reach of its magic.~
+
+@901=~Waukeen's Promenade~
+
+@902=~Slums~
+
+@903=~Bridge District~
+
+@904=~Docks~
+
+@905=~Government District~
+
+@906=~Temple District~
+
+@907=~Graveyard~
+
+@908=~City Gates~
+
+@909=~de'Arnise Hold~
+
+@910=~Windspear Hills~
+
+@911=~Imnesvale in Umar Hills~
+
+@912=~Temple Ruins in Umar Hills~
+
+@913=~Trademeet~
+
+@914=~Druid Grove~
+
+@915=~Abandoned Amphitheater~
+
+@916=~Heretic Temple~
+
+@917=~Wild Forest~
+
+@918=~Hidden Refuge~
+
+@919=~Helmite Camp~
+
+@920=~Resurrection Gorge~
+
+@921=~Watcher's Keep~
+
+@922=~Underdark Exit~
+
+@923=~Forest of Tethir~
+
+@924=~North Forest~
+
+@925=~Small Teeth Pass~
+
+@926=~Suldanessellar~
+
+@927=~Nowhere~
+
+@928=~North Forest~
+
+@929=~Forest of Mir~
+
+@930=~Marching Mountains~
+
+@931=~Siege Camp~
+
+@932=~The Oasis~
+
+@933=~Amkethran~
+
+@934=~Sendai's Enclave~
+
+@935=~Abazigail's Lair~
+
+@936=~Deepstone Clanhold~
+
+@937=~Clearing~
+
+
+
+
+
+@1001=~Add Staff of Wizardry~
+
+@1002=~Add custom inventory animation to the Staff of Wizardry~
+
+@1003=~Add ranged attack and a tweak to the Staff of the Magi~
+
+@1004=~Add circlets~
+
+@1009=~Add Wizard's Staff~
+
+@1011=~Add Circlet of Revelation~
+
+@1012=~Add inventory animation to circlets~
+
+@1013=~Add robe tweaks~
+
+@1014=~Add robes with original colorsets~
+
+@1015=~Add robes with no colorsets~
+
+@1016=~Add Robes of Archimagi with colorsets from Mr. Pennyway's Cosmetic Changes mod~
+
+@1017=~Add Wizard's Hat~
+
+@1020=~Skipping BG1:EE content~
+
+@1021=~Skipping BG2:EE content~
+
+@1022=~Skipping IWD:EE content~
+
+@1027=~Skipping EE content~
+
+@1028=~Add Customizable Familiars~
+
+@1029=~Add Familiars for NPC Mages~
+
+@1030=~Add Lim-Lim Walk Sound Fix~
+
+@1031=~Add Resized Skull Animation~
+
+@1032=~Add Custom Names for Familiar (this option will override preset names)~
+
+@1033=~Add One Name~
+
+@1034=~Add Two Names~
+
+@1035=~Add Three Names~
+
+@1047=~Enter the first name.~
+
+@1048=~Enter the second name.~
+
+@1049=~Enter the third name.~
+
+@1050=~Enter the first name.~
+
+@1051=~Enter the second name.~
+
+@1052=~Enter the third name.~
+
+@1053=~Enter the first name.~
+
+@1054=~Enter the second name.~
+
+@1055=~Enter the third name.~
+
+@1056=~Skipping BG(2):EE content~
+
+@1057=~Skipping BG2:EE and IWD:EE content~
+
+@1058=~Wizard's Staffs~
+
+@1059=~Other Items and Tweaks~
+
+@1060=~Familiars~
+
+@1061=~Add Wizard's Staff with 7 old color sets~
+
+@1062=~Add Wizard's Staff with 14 new color sets~
+
+@1063=~Add Wand Case~
+
+@1064=~Add ranged attack only~
+
+@1065=~Add ranged attack + remove invisibility~
+
+@1066=~Add ranged attack + replace invisibility with magic resistance~
+
+@1067=~Add ranged attack + replace invisibility with immunity to time stop~
+
+@1068=~Add ranged attack + replace invisibility with increase of casting speed~
+
+@1069=~Add ranged attack + replace invisibility with spell restoration~
+
+@1070=~Add More scrolls of Find Familiar in shops~
+
+@1071=~Add a stone of teleportation~

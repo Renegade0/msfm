@@ -1,0 +1,1133 @@
+BACKUP ~msfm/backup~
+AUTHOR ~Pecca~
+VERSION ~v1.55~
+
+LANGUAGE
+	~English~ ~msfm/tra~ ~msfm/tra/english.tra~
+LANGUAGE 
+	~Polski (by Cahir)~ ~msfm/tra/english.tra~ ~msfm/tra/polish.tra~	
+
+/////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////
+///  WIZARD'S STAFF OLD COLORS (BG:EE)
+/////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////
+
+BEGIN @1061
+
+GROUP @1058
+
+REQUIRE_PREDICATE GAME_IS ~bgee~ @1020
+
+SUBCOMPONENT @1009
+
+COPY ~msfm/content/bg1_wizardstaff/rgwstaf1.itm~ ~override~
+	SAY NAME1 @71
+	SAY NAME2 @72
+	SAY UNIDENTIFIED_DESC @73
+	SAY DESC @74
+
+ADD_PROJECTILE ~msfm/content/bg2_wizardstaff/RGWSMM02.PRO~
+ADD_PROJECTILE ~msfm/content/bg2_wizardstaff/RGWSMM03.PRO~
+ADD_PROJECTILE ~msfm/content/bg2_wizardstaff/RGWSMM04.PRO~
+ADD_PROJECTILE ~msfm/content/bg2_wizardstaff/RGWSMM05.PRO~
+ADD_PROJECTILE ~msfm/content/bg2_wizardstaff/RGWSMM06.PRO~
+ADD_PROJECTILE ~msfm/content/bg2_wizardstaff/RGWSMM07.PRO~
+  
+COPY ~msfm/content/bg1_wizardstaff/rgwstaf2.itm~ ~override~
+	SAY NAME1 @71
+	SAY NAME2 @72
+	SAY UNIDENTIFIED_DESC @73
+	SAY DESC @74
+	WRITE_SHORT 0x09c ~RGWSMM02~
+
+COPY ~msfm/content/bg1_wizardstaff/rgwstaf3.itm~ ~override~
+	SAY NAME1 @71
+	SAY NAME2 @72
+	SAY UNIDENTIFIED_DESC @73
+	SAY DESC @74
+	WRITE_SHORT 0x09c ~RGWSMM03~
+
+COPY ~msfm/content/bg1_wizardstaff/rgwstaf4.itm~ ~override~
+	SAY NAME1 @71
+	SAY NAME2 @72
+	SAY UNIDENTIFIED_DESC @73
+	SAY DESC @74
+	WRITE_SHORT 0x09c ~RGWSMM04~
+
+COPY ~msfm/content/bg1_wizardstaff/rgwstaf5.itm~ ~override~
+	SAY NAME1 @71
+	SAY NAME2 @72
+	SAY UNIDENTIFIED_DESC @73
+	SAY DESC @74
+	WRITE_SHORT 0x09c ~RGWSMM05~
+
+COPY ~msfm/content/bg1_wizardstaff/rgwstaf6.itm~ ~override~
+	SAY NAME1 @71
+	SAY NAME2 @72
+	SAY UNIDENTIFIED_DESC @73
+	SAY DESC @74
+	WRITE_SHORT 0x09c ~RGWSMM06~
+
+COPY ~msfm/content/bg1_wizardstaff/rgwstaf7.itm~ ~override~
+	SAY NAME1 @71
+	SAY NAME2 @72
+	SAY UNIDENTIFIED_DESC @73
+	SAY DESC @74
+	WRITE_SHORT 0x09c ~RGWSMM07~
+
+COPY ~msfm/content/bg1_wizardstaff/rgwstaf2.bam~ ~override~
+COPY ~msfm/content/bg1_wizardstaff/rgwstaf3.bam~ ~override~
+COPY ~msfm/content/bg1_wizardstaff/rgwstaf5.bam~ ~override~
+COPY ~msfm/content/bg1_wizardstaff/rgwstaf6.bam~ ~override~
+COPY ~msfm/content/bg1_wizardstaff/rgwstaf7.bam~ ~override~
+COPY ~msfm/content/bg1_wizardstaff/WPLGSINV.bam~ ~override~
+COPY ~msfm/content/bg1_wizardstaff/WPMGSINV.bam~ ~override~
+COPY ~msfm/content/bg1_wizardstaff/WPNGSINV.bam~ ~override~
+COPY ~msfm/content/bg1_wizardstaff/WPSGSINV.bam~ ~override~
+
+COPY ~msfm/content/bg2_wizardstaff/rgwsmm02.bam~ ~override~
+COPY ~msfm/content/bg2_wizardstaff/rgwsmm03.bam~ ~override~
+COPY ~msfm/content/bg2_wizardstaff/rgwsmm04.bam~ ~override~
+COPY ~msfm/content/bg2_wizardstaff/rgwsmm05.bam~ ~override~
+COPY ~msfm/content/bg2_wizardstaff/rgwsmm06.bam~ ~override~
+COPY ~msfm/content/bg2_wizardstaff/rgwsmm07.bam~ ~override~
+
+APPEND ~tooltip.2da~
+~rgwstaf1 27628 15529 -1~
+APPEND ~tooltip.2da~
+~rgwstaf2 27628 15529 -1~
+APPEND ~tooltip.2da~
+~rgwstaf3 27628 15529 -1~
+APPEND ~tooltip.2da~
+~rgwstaf4 27628 15529 -1~
+APPEND ~tooltip.2da~
+~rgwstaf5 27628 15529 -1~
+APPEND ~tooltip.2da~
+~rgwstaf6 27628 15529 -1~
+APPEND ~tooltip.2da~
+~rgwstaf7 27628 15529 -1~
+
+COPY_EXISTING ~highhedg.sto~ ~override~
+ADD_STORE_ITEM ~rgwstaf1~   AFTER  ~misc72~ #0 #0 #0 ~IDENTIFIED~ #1
+COPY_EXISTING ~bpxith02.sto~ ~override~
+ADD_STORE_ITEM ~rgwstaf1~ #0 #0 #0 ~IDENTIFIED~ #1
+COPY_EXISTING ~bpxith03.sto~ ~override~
+ADD_STORE_ITEM ~rgwstaf1~ #0 #0 #0 ~IDENTIFIED~ #1
+
+COPY_EXISTING ~highhedg.sto~ ~override~
+ADD_STORE_ITEM ~rgwstaf2~   AFTER  ~rgwstaf1~ #0 #0 #0 ~IDENTIFIED~ #1
+COPY_EXISTING ~bpxith02.sto~ ~override~
+ADD_STORE_ITEM ~rgwstaf2~ #0 #0 #0 ~IDENTIFIED~ #1
+COPY_EXISTING ~bpxith03.sto~ ~override~
+ADD_STORE_ITEM ~rgwstaf2~ #0 #0 #0 ~IDENTIFIED~ #1
+
+COPY_EXISTING ~highhedg.sto~ ~override~
+ADD_STORE_ITEM ~rgwstaf3~   AFTER  ~rgwstaf2~ #0 #0 #0 ~IDENTIFIED~ #1
+COPY_EXISTING ~bpxith02.sto~ ~override~
+ADD_STORE_ITEM ~rgwstaf3~ #0 #0 #0 ~IDENTIFIED~ #1
+COPY_EXISTING ~bpxith03.sto~ ~override~
+ADD_STORE_ITEM ~rgwstaf3~ #0 #0 #0 ~IDENTIFIED~ #1
+
+COPY_EXISTING ~highhedg.sto~ ~override~
+ADD_STORE_ITEM ~rgwstaf4~   AFTER  ~rgwstaf3~ #0 #0 #0 ~IDENTIFIED~ #1
+COPY_EXISTING ~bpxith02.sto~ ~override~
+ADD_STORE_ITEM ~rgwstaf4~ #0 #0 #0 ~IDENTIFIED~ #1
+COPY_EXISTING ~bpxith03.sto~ ~override~
+ADD_STORE_ITEM ~rgwstaf4~ #0 #0 #0 ~IDENTIFIED~ #1
+
+COPY_EXISTING ~highhedg.sto~ ~override~
+ADD_STORE_ITEM ~rgwstaf5~   AFTER  ~rgwstaf4~ #0 #0 #0 ~IDENTIFIED~ #1
+COPY_EXISTING ~bpxith02.sto~ ~override~
+ADD_STORE_ITEM ~rgwstaf5~ #0 #0 #0 ~IDENTIFIED~ #1
+COPY_EXISTING ~bpxith03.sto~ ~override~
+ADD_STORE_ITEM ~rgwstaf5~ #0 #0 #0 ~IDENTIFIED~ #1
+
+COPY_EXISTING ~highhedg.sto~ ~override~
+ADD_STORE_ITEM ~rgwstaf6~   AFTER  ~rgwstaf5~ #0 #0 #0 ~IDENTIFIED~ #1
+COPY_EXISTING ~bpxith02.sto~ ~override~
+ADD_STORE_ITEM ~rgwstaf6~ #0 #0 #0 ~IDENTIFIED~ #1
+COPY_EXISTING ~bpxith03.sto~ ~override~
+ADD_STORE_ITEM ~rgwstaf6~ #0 #0 #0 ~IDENTIFIED~ #1
+
+COPY_EXISTING ~highhedg.sto~ ~override~
+ADD_STORE_ITEM ~rgwstaf7~   AFTER  ~rgwstaf6~ #0 #0 #0 ~IDENTIFIED~ #1
+COPY_EXISTING ~bpxith02.sto~ ~override~
+ADD_STORE_ITEM ~rgwstaf7~ #0 #0 #0 ~IDENTIFIED~ #1
+COPY_EXISTING ~bpxith03.sto~ ~override~
+ADD_STORE_ITEM ~rgwstaf7~ #0 #0 #0 ~IDENTIFIED~ #1
+
+/////////////////////////////////////////////////////////////////////////////////
+///  WIZARD'S STAFF NEW COLORS (BG:EE)
+/////////////////////////////////////////////////////////////////////////////////
+
+BEGIN @1062
+
+GROUP @1058
+
+REQUIRE_PREDICATE GAME_IS ~bgee~ @1020
+
+SUBCOMPONENT @1009
+
+COPY ~msfm/content/bg1_wizardstaff/rgwstaf.itm~ ~override~
+	SAY NAME1 @71
+	SAY NAME2 @72
+	SAY UNIDENTIFIED_DESC @73
+	SAY DESC @89
+  
+COPY ~msfm/content/bg1_wizardstaff/rgwsg01.itm~ ~override~
+	SAY NAME1 @71
+	SAY NAME2 @72
+	SAY UNIDENTIFIED_DESC @73
+	SAY DESC @74
+
+COPY ~msfm/content/bg1_wizardstaff/rgwsg01.itm~ ~override/rgwsh01.itm~
+  	SAY NAME1 @71
+  	SAY NAME2 @72
+  	SAY UNIDENTIFIED_DESC @73
+  	SAY DESC @74
+	WRITE_SHORT 0x116 ~0x15~
+	WRITE_SHORT 0x146 ~0x15~
+	WRITE_SHORT 0x176 ~0xB7~
+	WRITE_SHORT 0x1a6 ~0xE~
+	WRITE_ASCII 0x03a ~RGWSBH1~ #8
+	WRITE_ASCII 0x076 ~RGWSBH1~ #8
+	WRITE_ASCII 0x0ae ~RGWSBH1~ #8
+
+ADD_PROJECTILE ~msfm/content/bg2_wizardstaff/RGWSMM02.PRO~
+ADD_PROJECTILE ~msfm/content/bg2_wizardstaff/RGWSMM03.PRO~
+ADD_PROJECTILE ~msfm/content/bg2_wizardstaff/RGWSMM04.PRO~
+ADD_PROJECTILE ~msfm/content/bg2_wizardstaff/RGWSMM05.PRO~
+ADD_PROJECTILE ~msfm/content/bg2_wizardstaff/RGWSMM06.PRO~
+ADD_PROJECTILE ~msfm/content/bg2_wizardstaff/RGWSMM07.PRO~
+	
+COPY ~msfm/content/bg1_wizardstaff/rgwsg01.itm~ ~override/rgwsg02.itm~
+  	SAY NAME1 @71
+  	SAY NAME2 @72
+  	SAY UNIDENTIFIED_DESC @73
+  	SAY DESC @74
+	WRITE_SHORT 0x0e6 ~0x82~
+	WRITE_SHORT 0x09c ~RGWSMM02~
+	WRITE_ASCII 0x03a ~RGWSBG2~ #8
+	WRITE_ASCII 0x076 ~RGWSBG2~ #8
+	WRITE_ASCII 0x0ae ~RGWSBG2~ #8	
+
+COPY ~msfm/content/bg1_wizardstaff/rgwsg01.itm~ ~override/rgwsh02.itm~
+  	SAY NAME1 @71
+  	SAY NAME2 @72
+  	SAY UNIDENTIFIED_DESC @73
+  	SAY DESC @74
+	WRITE_SHORT 0x0e6 ~0x82~
+	WRITE_SHORT 0x116 ~0x15~
+	WRITE_SHORT 0x146 ~0x15~
+	WRITE_SHORT 0x176 ~0xB7~
+	WRITE_SHORT 0x1a6 ~0xE~
+	WRITE_SHORT 0x09c ~RGWSMM02~
+	WRITE_ASCII 0x03a ~RGWSBH2~ #8
+	WRITE_ASCII 0x076 ~RGWSBH2~ #8
+	WRITE_ASCII 0x0ae ~RGWSBH2~ #8
+	
+COPY ~msfm/content/bg1_wizardstaff/rgwsg01.itm~ ~override/rgwsg03.itm~
+  	SAY NAME1 @71
+  	SAY NAME2 @72
+  	SAY UNIDENTIFIED_DESC @73
+  	SAY DESC @74
+	WRITE_SHORT 0x0e6 ~0x74~
+	WRITE_SHORT 0x09c ~RGWSMM03~
+	WRITE_ASCII 0x03a ~RGWSBG3~ #8
+	WRITE_ASCII 0x076 ~RGWSBG3~ #8
+	WRITE_ASCII 0x0ae ~RGWSBG3~ #8
+
+COPY ~msfm/content/bg1_wizardstaff/rgwsg01.itm~ ~override/rgwsh03.itm~
+  	SAY NAME1 @71
+  	SAY NAME2 @72
+  	SAY UNIDENTIFIED_DESC @73
+  	SAY DESC @74
+	WRITE_SHORT 0x0e6 ~0x74~
+	WRITE_SHORT 0x116 ~0x15~
+	WRITE_SHORT 0x146 ~0x15~
+	WRITE_SHORT 0x176 ~0xB7~
+	WRITE_SHORT 0x1a6 ~0xE~
+	WRITE_SHORT 0x09c ~RGWSMM03~
+	WRITE_ASCII 0x03a ~RGWSBH3~ #8
+	WRITE_ASCII 0x076 ~RGWSBH3~ #8
+	WRITE_ASCII 0x0ae ~RGWSBH3~ #8
+	
+COPY ~msfm/content/bg1_wizardstaff/rgwsg01.itm~ ~override/rgwsg04.itm~
+  	SAY NAME1 @71
+  	SAY NAME2 @72
+  	SAY UNIDENTIFIED_DESC @73
+  	SAY DESC @74
+	WRITE_SHORT 0x0e6 ~0x43~
+	WRITE_SHORT 0x09c ~RGWSMM04~
+	WRITE_ASCII 0x03a ~RGWSBG4~ #8
+	WRITE_ASCII 0x076 ~RGWSBG4~ #8
+	WRITE_ASCII 0x0ae ~RGWSBG4~ #8
+
+COPY ~msfm/content/bg1_wizardstaff/rgwsg01.itm~ ~override/rgwsh04.itm~
+  	SAY NAME1 @71
+  	SAY NAME2 @72
+  	SAY UNIDENTIFIED_DESC @73
+  	SAY DESC @74
+	WRITE_SHORT 0x0e6 ~0x43~
+	WRITE_SHORT 0x116 ~0x15~
+	WRITE_SHORT 0x146 ~0x15~
+	WRITE_SHORT 0x176 ~0xB7~
+	WRITE_SHORT 0x1a6 ~0xE~
+	WRITE_SHORT 0x09c ~RGWSMM04~
+	WRITE_ASCII 0x03a ~RGWSBH4~ #8
+	WRITE_ASCII 0x076 ~RGWSBH4~ #8
+	WRITE_ASCII 0x0ae ~RGWSBH4~ #8	
+	
+COPY ~msfm/content/bg1_wizardstaff/rgwsg01.itm~ ~override/rgwsg05.itm~
+  	SAY NAME1 @71
+  	SAY NAME2 @72
+  	SAY UNIDENTIFIED_DESC @73
+  	SAY DESC @74
+	WRITE_SHORT 0x0e6 ~0x2E~
+	WRITE_SHORT 0x09c ~RGWSMM05~
+	WRITE_ASCII 0x03a ~RGWSBG5~ #8
+	WRITE_ASCII 0x076 ~RGWSBG5~ #8
+	WRITE_ASCII 0x0ae ~RGWSBG5~ #8
+
+COPY ~msfm/content/bg1_wizardstaff/rgwsg01.itm~ ~override/rgwsh05.itm~
+  	SAY NAME1 @71
+  	SAY NAME2 @72
+  	SAY UNIDENTIFIED_DESC @73
+  	SAY DESC @74
+	WRITE_SHORT 0x0e6 ~0x2E~
+	WRITE_SHORT 0x116 ~0x15~
+	WRITE_SHORT 0x146 ~0x15~
+	WRITE_SHORT 0x176 ~0xB7~
+	WRITE_SHORT 0x1a6 ~0xE~
+	WRITE_SHORT 0x09c ~RGWSMM05~
+	WRITE_ASCII 0x03a ~RGWSBH5~ #8
+	WRITE_ASCII 0x076 ~RGWSBH5~ #8
+	WRITE_ASCII 0x0ae ~RGWSBH5~ #8
+	
+COPY ~msfm/content/bg1_wizardstaff/rgwsg01.itm~ ~override/rgwsg06.itm~
+  	SAY NAME1 @71
+  	SAY NAME2 @72
+  	SAY UNIDENTIFIED_DESC @73
+  	SAY DESC @74
+	WRITE_SHORT 0x0e6 ~0xE~
+	WRITE_SHORT 0x09c ~RGWSMM06~
+	WRITE_ASCII 0x03a ~RGWSBG6~ #8
+	WRITE_ASCII 0x076 ~RGWSBG6~ #8
+	WRITE_ASCII 0x0ae ~RGWSBG6~ #8
+
+COPY ~msfm/content/bg1_wizardstaff/rgwsg01.itm~ ~override/rgwsh06.itm~
+  	SAY NAME1 @71
+  	SAY NAME2 @72
+  	SAY UNIDENTIFIED_DESC @73
+  	SAY DESC @74
+	WRITE_SHORT 0x0e6 ~0xE~
+	WRITE_SHORT 0x116 ~0x15~
+	WRITE_SHORT 0x146 ~0x15~
+	WRITE_SHORT 0x176 ~0xB7~
+	WRITE_SHORT 0x1a6 ~0xE~
+	WRITE_SHORT 0x09c ~RGWSMM06~
+	WRITE_ASCII 0x03a ~RGWSBH6~ #8
+	WRITE_ASCII 0x076 ~RGWSBH6~ #8
+	WRITE_ASCII 0x0ae ~RGWSBH6~ #8
+	
+COPY ~msfm/content/bg1_wizardstaff/rgwsg01.itm~ ~override/rgwsg07.itm~
+  	SAY NAME1 @71
+  	SAY NAME2 @72
+  	SAY UNIDENTIFIED_DESC @73
+  	SAY DESC @74
+	WRITE_SHORT 0x0e6 ~0x3A~
+	WRITE_SHORT 0x09c ~RGWSMM07~
+	WRITE_ASCII 0x03a ~RGWSBG7~ #8
+	WRITE_ASCII 0x076 ~RGWSBG7~ #8
+	WRITE_ASCII 0x0ae ~RGWSBG7~ #8
+
+COPY ~msfm/content/bg1_wizardstaff/rgwsg01.itm~ ~override/rgwsh07.itm~
+  	SAY NAME1 @71
+  	SAY NAME2 @72
+  	SAY UNIDENTIFIED_DESC @73
+  	SAY DESC @74
+	WRITE_SHORT 0x0e6 ~0x3A~
+	WRITE_SHORT 0x116 ~0x15~
+	WRITE_SHORT 0x146 ~0x15~
+	WRITE_SHORT 0x176 ~0xB7~
+	WRITE_SHORT 0x1a6 ~0xE~
+	WRITE_SHORT 0x09c ~RGWSMM07~
+	WRITE_ASCII 0x03a ~RGWSBH7~ #8
+	WRITE_ASCII 0x076 ~RGWSBH7~ #8
+	WRITE_ASCII 0x0ae ~RGWSBH7~ #8
+
+COPY ~msfm/content/bg2_wizardstaff/rgwstaf.2da~ ~override~
+COPY ~msfm/content/bg2_wizardstaff/rgwstaf.spl~ ~override~
+COPY ~msfm/content/bg2_wizardstaff/rgwstag1.spl~ ~override~
+COPY ~msfm/content/bg2_wizardstaff/rgwstag2.spl~ ~override~
+COPY ~msfm/content/bg2_wizardstaff/rgwstag3.spl~ ~override~
+COPY ~msfm/content/bg2_wizardstaff/rgwstag4.spl~ ~override~
+COPY ~msfm/content/bg2_wizardstaff/rgwstag5.spl~ ~override~
+COPY ~msfm/content/bg2_wizardstaff/rgwstag6.spl~ ~override~
+COPY ~msfm/content/bg2_wizardstaff/rgwstag7.spl~ ~override~
+COPY ~msfm/content/bg2_wizardstaff/rgwstah1.spl~ ~override~
+COPY ~msfm/content/bg2_wizardstaff/rgwstah2.spl~ ~override~
+COPY ~msfm/content/bg2_wizardstaff/rgwstah3.spl~ ~override~
+COPY ~msfm/content/bg2_wizardstaff/rgwstah4.spl~ ~override~
+COPY ~msfm/content/bg2_wizardstaff/rgwstah5.spl~ ~override~
+COPY ~msfm/content/bg2_wizardstaff/rgwstah6.spl~ ~override~
+COPY ~msfm/content/bg2_wizardstaff/rgwstah7.spl~ ~override~
+
+COPY ~msfm/content/bg2_wizardstaff/rgwsbg0.bam~ ~override~
+COPY ~msfm/content/bg2_wizardstaff/rgwsbg1.bam~ ~override~
+COPY ~msfm/content/bg2_wizardstaff/rgwsbg2.bam~ ~override~
+COPY ~msfm/content/bg2_wizardstaff/rgwsbg3.bam~ ~override~
+COPY ~msfm/content/bg2_wizardstaff/rgwsbg4.bam~ ~override~
+COPY ~msfm/content/bg2_wizardstaff/rgwsbg5.bam~ ~override~
+COPY ~msfm/content/bg2_wizardstaff/rgwsbg6.bam~ ~override~
+COPY ~msfm/content/bg2_wizardstaff/rgwsbg7.bam~ ~override~
+COPY ~msfm/content/bg2_wizardstaff/rgwsbh0.bam~ ~override~
+COPY ~msfm/content/bg2_wizardstaff/rgwsbh1.bam~ ~override~
+COPY ~msfm/content/bg2_wizardstaff/rgwsbh2.bam~ ~override~
+COPY ~msfm/content/bg2_wizardstaff/rgwsbh3.bam~ ~override~
+COPY ~msfm/content/bg2_wizardstaff/rgwsbh4.bam~ ~override~
+COPY ~msfm/content/bg2_wizardstaff/rgwsbh5.bam~ ~override~
+COPY ~msfm/content/bg2_wizardstaff/rgwsbh6.bam~ ~override~
+COPY ~msfm/content/bg2_wizardstaff/rgwsbh7.bam~ ~override~
+
+COPY ~msfm/content/bg2_wizardstaff/rgwsmm02.bam~ ~override~
+COPY ~msfm/content/bg2_wizardstaff/rgwsmm03.bam~ ~override~
+COPY ~msfm/content/bg2_wizardstaff/rgwsmm04.bam~ ~override~
+COPY ~msfm/content/bg2_wizardstaff/rgwsmm05.bam~ ~override~
+COPY ~msfm/content/bg2_wizardstaff/rgwsmm06.bam~ ~override~
+COPY ~msfm/content/bg2_wizardstaff/rgwsmm07.bam~ ~override~
+
+COPY ~msfm/content/bg1_wizardstaff/WPLGSINV.bam~ ~override~
+COPY ~msfm/content/bg1_wizardstaff/WPMGSINV.bam~ ~override~
+COPY ~msfm/content/bg1_wizardstaff/WPNGSINV.bam~ ~override~
+COPY ~msfm/content/bg1_wizardstaff/WPSGSINV.bam~ ~override~
+
+APPEND ~tooltip.2da~
+~rgwstg01 27628 15529 -1~
+APPEND ~tooltip.2da~
+~rgwstg02 27628 15529 -1~
+APPEND ~tooltip.2da~
+~rgwstg03 27628 15529 -1~
+APPEND ~tooltip.2da~
+~rgwstg04 27628 15529 -1~
+APPEND ~tooltip.2da~
+~rgwstg05 27628 15529 -1~
+APPEND ~tooltip.2da~
+~rgwstg06 27628 15529 -1~
+APPEND ~tooltip.2da~
+~rgwstg07 27628 15529 -1~
+APPEND ~tooltip.2da~
+~rgwsth01 27628 15529 -1~
+APPEND ~tooltip.2da~
+~rgwsth02 27628 15529 -1~
+APPEND ~tooltip.2da~
+~rgwsth03 27628 15529 -1~
+APPEND ~tooltip.2da~
+~rgwsth04 27628 15529 -1~
+APPEND ~tooltip.2da~
+~rgwsth05 27628 15529 -1~
+APPEND ~tooltip.2da~
+~rgwsth06 27628 15529 -1~
+APPEND ~tooltip.2da~
+~rgwsth07 27628 15529 -1~
+
+COPY_EXISTING ~highhedg.sto~ ~override~
+ADD_STORE_ITEM ~rgwstaf~   AFTER  ~misc72~ #0 #0 #0 ~IDENTIFIED~ #6
+COPY_EXISTING ~bpxith02.sto~ ~override~
+ADD_STORE_ITEM ~rgwstaf~ #0 #0 #0 ~IDENTIFIED~ #6
+COPY_EXISTING ~bpxith03.sto~ ~override~
+ADD_STORE_ITEM ~rgwstaf~ #0 #0 #0 ~IDENTIFIED~ #6
+
+/////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////
+///  STAFF OF WIZARDRY (BG2:EE IWD:EE)
+/////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////
+
+BEGIN @1001
+
+GROUP @1058
+
+REQUIRE_PREDICATE GAME_IS ~bg2ee eet iwdee~ @1057
+
+INCLUDE ~msfm/lib/sow.tph~
+
+/////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////
+///  CUSTOM INVENTORY ANIMATION FOR THE STAFF OF WIZARDRY
+/////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////
+
+BEGIN @1002
+
+GROUP @1058
+
+REQUIRE_PREDICATE GAME_IS ~bg2ee eet iwdee~ @1057
+
+COPY ~msfm/content/bg2_wizardstaff/WPLGSINV.bam~ ~override~
+COPY ~msfm/content/bg2_wizardstaff/WPMGSINV.bam~ ~override~
+COPY ~msfm/content/bg2_wizardstaff/WPNGSINV.bam~ ~override~
+COPY ~msfm/content/bg2_wizardstaff/WPSGSINV.bam~ ~override~
+
+/////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////
+///  RANGED ATTACK FOR THE STAFF OF THE MAGI (BG2:EE)
+/////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////
+
+BEGIN @1064
+
+GROUP @1058
+
+REQUIRE_PREDICATE GAME_IS ~bg2ee eet~ @1021
+
+SUBCOMPONENT @1003
+
+ADD_PROJECTILE ~msfm/content/bg2_sota/RGSTAF11.PRO~
+COPY ~msfm/content/bg2_sota/1orig.itm~ ~override/staf11.itm~
+	SAY DESC @350
+	WRITE_SHORT 0x09c ~RGSTAF11~
+COPY ~msfm/content/bg2_wizardstaff/RGWSMM04.bam~ ~override~
+
+OUTER_SET ability1strref = RESOLVE_STR_REF(@28)
+
+COPY_EXISTING ~tooltip.2da~ ~override/tooltip.2da~
+SET_2DA_ENTRY 26 1 4 ~%ability1strref%~
+SET_2DA_ENTRY 26 2 4 ~15529~
+SET_2DA_ENTRY 26 3 4 ~3895~
+
+/////////////////////////////////////////////////////////////////////////////////
+///  RANGED ATTACK FOR SOTA + REMOVE INVISIBILITY (BG2:EE)
+/////////////////////////////////////////////////////////////////////////////////
+
+BEGIN @1065
+
+SUBCOMPONENT @1003
+
+ADD_PROJECTILE ~msfm/content/bg2_sota/RGSTAF11.PRO~
+COPY ~msfm/content/bg2_sota/2noinvis.itm~ ~override/staf11.itm~
+	SAY DESC @351
+	WRITE_SHORT 0x09c ~RGSTAF11~
+COPY ~msfm/content/bg2_wizardstaff/RGWSMM04.bam~ ~override~
+
+OUTER_SET ability1strref = RESOLVE_STR_REF(@28)
+
+COPY_EXISTING ~tooltip.2da~ ~override/tooltip.2da~
+SET_2DA_ENTRY 26 1 4 ~%ability1strref%~
+SET_2DA_ENTRY 26 2 4 ~15529~
+SET_2DA_ENTRY 26 3 4 ~3895~
+
+/////////////////////////////////////////////////////////////////////////////////
+///  RA FOR SOTA + REPLACE INVIS WITH MR 50% (BG2:EE)
+/////////////////////////////////////////////////////////////////////////////////
+
+BEGIN @1066
+
+SUBCOMPONENT @1003
+
+ADD_PROJECTILE ~msfm/content/bg2_sota/RGSTAF11.PRO~
+COPY ~msfm/content/bg2_sota/3magres.itm~ ~override/staf11.itm~
+	SAY DESC @352
+	WRITE_SHORT 0x09c ~RGSTAF11~
+COPY ~msfm/content/bg2_wizardstaff/RGWSMM04.bam~ ~override~
+
+OUTER_SET ability1strref = RESOLVE_STR_REF(@28)
+
+COPY_EXISTING ~tooltip.2da~ ~override/tooltip.2da~
+SET_2DA_ENTRY 26 1 4 ~%ability1strref%~
+SET_2DA_ENTRY 26 2 4 ~15529~
+SET_2DA_ENTRY 26 3 4 ~3895~
+
+/////////////////////////////////////////////////////////////////////////////////
+///  RA FOR SOTA + REPLACE INVIS WITH IMMUNITY TO TIME STOP (BG2:EE)
+/////////////////////////////////////////////////////////////////////////////////
+
+BEGIN @1067
+
+SUBCOMPONENT @1003
+
+ADD_PROJECTILE ~msfm/content/bg2_sota/RGSTAF11.PRO~
+COPY ~msfm/content/bg2_sota/4tstop.itm~ ~override/staf11.itm~
+	SAY DESC @353
+	WRITE_SHORT 0x09c ~RGSTAF11~
+COPY ~msfm/content/bg2_wizardstaff/RGWSMM04.bam~ ~override~
+
+OUTER_SET ability1strref = RESOLVE_STR_REF(@28)
+
+COPY_EXISTING ~tooltip.2da~ ~override/tooltip.2da~
+SET_2DA_ENTRY 26 1 4 ~%ability1strref%~
+SET_2DA_ENTRY 26 2 4 ~15529~
+SET_2DA_ENTRY 26 3 4 ~3895~
+
+/////////////////////////////////////////////////////////////////////////////////
+///  RA FOR SOTA + REPLACE INVIS WITH CAST SPEED BONUS +3 (BG2:EE)
+/////////////////////////////////////////////////////////////////////////////////
+
+BEGIN @1068
+
+SUBCOMPONENT @1003
+
+ADD_PROJECTILE ~msfm/content/bg2_sota/RGSTAF11.PRO~
+COPY ~msfm/content/bg2_sota/5cspeed.itm~ ~override/staf11.itm~
+	SAY DESC @354
+	WRITE_SHORT 0x09c ~RGSTAF11~
+COPY ~msfm/content/bg2_wizardstaff/RGWSMM04.bam~ ~override~
+
+OUTER_SET ability1strref = RESOLVE_STR_REF(@28)
+
+COPY_EXISTING ~tooltip.2da~ ~override/tooltip.2da~
+SET_2DA_ENTRY 26 1 4 ~%ability1strref%~
+SET_2DA_ENTRY 26 2 4 ~15529~
+SET_2DA_ENTRY 26 3 4 ~3895~
+
+/////////////////////////////////////////////////////////////////////////////////
+///  RA FOR SOTA + REPLACE INVIS WITH SPELL RESTORATION (BG2:EE)
+/////////////////////////////////////////////////////////////////////////////////
+
+BEGIN @1069
+
+SUBCOMPONENT @1003
+
+ADD_PROJECTILE ~msfm/content/bg2_sota/RGSTAF11.PRO~
+COPY ~msfm/content/bg2_sota/6restsp.itm~ ~override/staf11.itm~
+	SAY DESC @355
+	WRITE_SHORT 0x09c ~RGSTAF11~
+COPY ~msfm/content/bg2_sota/rgstaf11.eff~ ~override~
+COPY ~msfm/content/bg2_wizardstaff/RGWSMM04.bam~ ~override~
+
+OUTER_SET ability1strref = RESOLVE_STR_REF(@28)
+
+COPY_EXISTING ~tooltip.2da~ ~override/tooltip.2da~
+SET_2DA_ENTRY 26 1 4 ~%ability1strref%~
+SET_2DA_ENTRY 26 2 4 ~15529~
+SET_2DA_ENTRY 26 3 4 ~3895~
+
+/////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////
+///  CIRCLETS
+/////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////
+
+BEGIN @1004
+
+GROUP @1059
+
+REQUIRE_PREDICATE GAME_IS ~bgee bg2ee eet iwdee~ @1027
+
+ACTION_IF GAME_IS ~bgee~ THEN BEGIN
+
+COPY ~msfm/content/bg1_headgear/CEFW4INV.BAM~ ~override~
+COPY ~msfm/content/bg1_headgear/CEMW4INV.BAM~ ~override~
+COPY ~msfm/content/bg1_headgear/CHFW4INV.BAM~ ~override~
+COPY ~msfm/content/bg1_headgear/CHMW4INV.BAM~ ~override~
+COPY ~msfm/content/bg1_headgear/wpljbinv.bam~ ~override~
+COPY ~msfm/content/bg1_headgear/wpmjbinv.bam~ ~override~
+COPY ~msfm/content/bg1_headgear/wpnjbinv.bam~ ~override~
+COPY ~msfm/content/bg1_headgear/wpsjbinv.bam~ ~override~
+
+COPY_EXISTING ~highhedg.sto~ ~override~
+ADD_STORE_ITEM ~band02~   AFTER  ~misc72~ #0 #0 #0 ~IDENTIFIED~ #1
+COPY_EXISTING ~bpxith02.sto~ ~override~
+ADD_STORE_ITEM ~band02~ #0 #0 #0 ~IDENTIFIED~ #1
+COPY_EXISTING ~bpxith03.sto~ ~override~
+ADD_STORE_ITEM ~band02~ #0 #0 #0 ~IDENTIFIED~ #1
+COPY_EXISTING ~highhedg.sto~ ~override~
+ADD_STORE_ITEM ~band03~   AFTER  ~band02~ #0 #0 #0 ~IDENTIFIED~ #1
+COPY_EXISTING ~bpxith02.sto~ ~override~
+ADD_STORE_ITEM ~band03~ #0 #0 #0 ~IDENTIFIED~ #1
+COPY_EXISTING ~bpxith03.sto~ ~override~
+ADD_STORE_ITEM ~band03~ #0 #0 #0 ~IDENTIFIED~ #1
+COPY_EXISTING ~highhedg.sto~ ~override~
+ADD_STORE_ITEM ~band04~   AFTER  ~band03~ #0 #0 #0 ~IDENTIFIED~ #1
+COPY_EXISTING ~bpxith02.sto~ ~override~
+ADD_STORE_ITEM ~band04~ #0 #0 #0 ~IDENTIFIED~ #1
+COPY_EXISTING ~bpxith03.sto~ ~override~
+ADD_STORE_ITEM ~band04~ #0 #0 #0 ~IDENTIFIED~ #1
+
+END
+
+ACTION_IF GAME_IS ~bg2ee eet~ THEN BEGIN
+
+COPY ~msfm/content/bg2_headgear/rgcirc01.itm~ ~override~
+  	SAY NAME1 @201
+  	SAY NAME2 @205
+  	SAY UNIDENTIFIED_DESC @203
+  	SAY DESC @206
+
+COPY_EXISTING ~garlena.sto~ ~override~
+ADD_STORE_ITEM ~rgcirc01~   AFTER  ~sw1h58~ #0 #0 #0 ~IDENTIFIED~ #1
+COPY_EXISTING ~ohbimim.sto~ ~override~
+ADD_STORE_ITEM ~rgcirc01~ #0 #0 #0 ~IDENTIFIED~ #1
+
+COPY ~msfm/content/bg2_headgear/rgcirc02.itm~ ~override~
+  	SAY NAME1 @201
+  	SAY NAME2 @202
+  	SAY UNIDENTIFIED_DESC @203
+  	SAY DESC @204
+
+COPY_EXISTING ~garlena.sto~ ~override~
+ADD_STORE_ITEM ~rgcirc02~   AFTER  ~rgcirc01~ #0 #0 #0 ~IDENTIFIED~ #1
+COPY_EXISTING ~ohbimim.sto~ ~override~
+ADD_STORE_ITEM ~rgcirc02~ #0 #0 #0 ~IDENTIFIED~ #1
+
+END
+
+ACTION_IF GAME_IS ~iwdee~ THEN BEGIN
+
+COPY ~msfm/content/bg2_headgear/rgcirc01.itm~ ~override~
+  	SAY NAME1 @201
+  	SAY NAME2 @205
+  	SAY UNIDENTIFIED_DESC @203
+  	SAY DESC @206
+
+COPY_EXISTING ~kuork0.sto~ ~override~
+ADD_STORE_ITEM ~rgcirc01~   AFTER  ~bagh03~ #0 #0 #0 ~IDENTIFIED~ #1
+
+COPY ~msfm/content/bg2_headgear/rgcirc02.itm~ ~override~
+  	SAY NAME1 @201
+  	SAY NAME2 @202
+  	SAY UNIDENTIFIED_DESC @203
+  	SAY DESC @204
+
+COPY_EXISTING ~kuork0.sto~ ~override~
+ADD_STORE_ITEM ~rgcirc02~   AFTER  ~rgcirc01~ #0 #0 #0 ~IDENTIFIED~ #1
+
+END
+
+/////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////
+///  CIRCLETS OF REVELATION (BG:EE)
+/////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////
+
+BEGIN @1011
+
+GROUP @1059
+
+REQUIRE_PREDICATE GAME_IS ~bgee~ @1020
+
+COPY ~msfm/content/bg1_headgear/rgcspec.itm~ ~override~
+  	SAY NAME2 @165
+	SAY DESC @166
+
+COPY ~msfm/content/bg2_wizardstaff/rgwsrema.spl~ ~override~
+COPY ~msfm/content/bg2_wizardstaff/rgwsremb.spl~ ~override~
+COPY ~msfm/content/bg2_wizardstaff/rgwsremc.spl~ ~override~
+COPY ~msfm/content/bg2_wizardstaff/rgwsremd.spl~ ~override~
+COPY ~msfm/content/bg2_wizardstaff/rgwsreme.spl~ ~override~
+COPY ~msfm/content/bg2_wizardstaff/rgwsremf.spl~ ~override~
+COPY ~msfm/content/bg2_wizardstaff/rgwsremg.spl~ ~override~
+COPY ~msfm/content/bg2_wizardstaff/rgwsremh.spl~ ~override~
+COPY ~msfm/content/bg2_wizardstaff/rgwsadds.spl~ ~override~
+
+COMPILE ~msfm/dialog/bg2_wstaf/rgcspec.d~
+	
+OUTER_SET label = RESOLVE_STR_REF(@99)
+
+APPEND ~ITEMDIAL.2da~
+~RGCSPEC %label% RGCSPEC~
+UNLESS ~RGCSPEC~
+
+COPY_EXISTING ~highhedg.sto~ ~override~
+ADD_STORE_ITEM ~rgcspec~   AFTER  ~misc72~ #0 #0 #0 ~IDENTIFIED~ #1
+
+
+/////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////
+///  WIZARD'S HAT
+/////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////
+
+BEGIN @1017
+
+GROUP @1059
+
+REQUIRE_PREDICATE GAME_IS ~bgee bg2ee eet iwdee~ @1027
+
+COPY ~msfm/content/bg2_wizhat~ ~override~
+
+COPY ~msfm/content/bg2_wizhat/rgwhat01.itm~ ~override~
+	SAY NAME1 @207
+	SAY NAME2 @207
+	SAY UNIDENTIFIED_DESC @208
+	SAY DESC @209
+	
+COPY ~msfm/content/bg2_wizhat/rgwhatts.spl~ ~override~
+	SAY NAME1 @212
+	
+ACTION_IF GAME_IS ~bgee~ THEN BEGIN
+COPY_EXISTING ~highhedg.sto~ ~override~
+ADD_STORE_ITEM ~rgwhat01~   AFTER  ~wand02~ #0 #0 #0 ~IDENTIFIED~ #1
+END
+
+ACTION_IF GAME_IS ~bg2ee eet~ THEN BEGIN
+COPY_EXISTING ~garlena.sto~ ~override~
+ADD_STORE_ITEM ~rgwhat01~   AFTER  ~bag06b~ #0 #0 #0 ~IDENTIFIED~ #1
+END
+
+ACTION_IF GAME_IS ~iwdee~ THEN BEGIN
+COPY_EXISTING ~kuork0.sto~ ~override~
+ADD_STORE_ITEM ~rgwhat01~   AFTER  ~bagh03~ #0 #0 #0 ~IDENTIFIED~ #1
+END
+
+
+/////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////
+///  WAND CASE
+/////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////
+
+BEGIN @1063
+
+GROUP @1059
+
+REQUIRE_PREDICATE GAME_IS ~bgee bg2ee eet iwdee~ @1027
+
+COPY ~msfm/content/wand_case/rgwandc1.bam~ ~override~
+COPY ~msfm/content/wand_case/rgwandc1.bmp~ ~override~
+COPY ~msfm/content/wand_case/rgwandc1.sto~ ~override~
+	SAY STORE_NAME @209
+COPY ~msfm/content/wand_case/rgwandc1.itm~ ~override~
+	SAY NAME1 @210
+	SAY NAME2 @210
+	SAY IDENTIFIED_DESC @211
+	SAY UNIDENTIFIED_DESC @211
+
+ACTION_IF GAME_IS ~bgee~ THEN BEGIN
+COPY_EXISTING ~highhedg.sto~ ~override~
+ADD_STORE_ITEM ~rgwandc1~   AFTER  ~wand02~ #0 #0 #0 ~IDENTIFIED~ #1
+END
+
+ACTION_IF GAME_IS ~bg2ee eet~ THEN BEGIN
+COPY_EXISTING ~garlena.sto~ ~override~
+ADD_STORE_ITEM ~rgwandc1~   AFTER  ~bag06b~ #0 #0 #0 ~IDENTIFIED~ #1
+END
+
+ACTION_IF GAME_IS ~iwdee~ THEN BEGIN
+COPY_EXISTING ~kuork0.sto~ ~override~
+ADD_STORE_ITEM ~rgwandc1~   AFTER  ~bagh03~ #0 #0 #0 ~IDENTIFIED~ #1
+END
+
+/////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////
+///  STONE OF TELEPORTATION (BG2:EE)
+/////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////
+
+BEGIN @1071
+
+GROUP @1059
+
+REQUIRE_PREDICATE GAME_IS ~bg2ee eet~ @1021
+
+COPY ~msfm/content/bg2_teleport~ ~override~
+
+COPY ~msfm/content/bg2_teleport/rgtlsoa.itm~ ~override~
+	SAY NAME1 @881
+	SAY NAME2 @882
+	SAY UNIDENTIFIED_DESC @883
+	SAY DESC @884
+
+COPY ~msfm/content/bg2_teleport/rgtlsoa.cre~ ~override~
+	SAY NAME1 @882
+	SAY NAME2 @882
+	
+COPY ~msfm/content/bg2_teleport/rgtltob.itm~ ~override~
+	SAY NAME1 @881
+	SAY NAME2 @885
+	SAY UNIDENTIFIED_DESC @883
+	SAY DESC @886
+
+COPY ~msfm/content/bg2_teleport/rgtltob.cre~ ~override~
+	SAY NAME1 @885
+	SAY NAME2 @885
+
+COMPILE ~msfm/dialog/bg2_teleport/rgtelsoa.d~
+COMPILE ~msfm/dialog/bg2_teleport/rgteltob.d~
+
+COMPILE ~msfm/bcs/bg2_teleport/rgtlbald.baf~
+COPY_EXISTING ~baldur.bcs~ ~override~
+EXTEND_BOTTOM ~baldur.bcs~ ~msfm/bcs/bg2_teleport/rgtlbald.baf~
+
+COMPILE ~msfm/bcs/bg2_teleport/rgtlbd25.baf~
+COPY_EXISTING ~baldur25.bcs~ ~override~
+EXTEND_BOTTOM ~baldur25.bcs~ ~msfm/bcs/bg2_teleport/rgtlbd25.baf~
+
+COPY_EXISTING ~AR1202.are~ ~override~
+SET ~container_to_add_to~ = 11
+SPRINT ~item_to_add~ ~rgtlsoa~
+SET ~charges1~ = 20
+SET ~charges2~ = 0
+SET ~charges3~ = 0
+LAUNCH_PATCH_MACRO ~ADD_AREA_ITEM~
+BUT_ONLY_IF_IT_CHANGES	
+
+COPY_EXISTING ~AR5504.are~ ~override~
+SET ~container_to_add_to~ = 3
+SPRINT ~item_to_add~ ~rgtltob~
+SET ~charges1~ = 10
+SET ~charges2~ = 0
+SET ~charges3~ = 0
+LAUNCH_PATCH_MACRO ~ADD_AREA_ITEM~
+BUT_ONLY_IF_IT_CHANGES	
+
+/////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////
+///  ROBE TWEAKS - robes with original colorsets
+/////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////
+
+BEGIN @1014
+
+GROUP @1059
+
+REQUIRE_PREDICATE GAME_IS ~bgee bg2ee eet iwdee~ @1027
+
+SUBCOMPONENT @1013
+
+INCLUDE ~msfm/lib/robes_original.tph~
+
+/////////////////////////////////////////////////////////////////////////////////
+///  ROBE TWEAKS - robes with no colorsets
+/////////////////////////////////////////////////////////////////////////////////
+
+BEGIN @1015
+
+SUBCOMPONENT @1013
+
+INCLUDE ~msfm/lib/robes_colorless.tph~
+
+/////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////
+///  ROBES OF ARCHMAGI WITH COLORSETS FROM Cosmetic Changes mod (BG:EE)
+/////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////
+
+BEGIN @1016
+
+GROUP @1059
+
+REQUIRE_PREDICATE GAME_IS ~bgee bg2ee eet iwdee~ @1027
+
+INCLUDE ~msfm/lib/robes_cosmetic.tph~
+
+/////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////
+///  CUSTOMIZABLE FAMILIARS
+/////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////
+
+BEGIN @1028
+
+GROUP @1060
+
+REQUIRE_PREDICATE GAME_IS ~bgee bg2ee eet iwdee~ @1027
+
+INCLUDE ~msfm/lib/familiars.tph~
+
+/////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////
+///  NAME FAMILIAR ONE SLOT
+/////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////
+
+BEGIN @1033
+
+GROUP @1060
+
+REQUIRE_PREDICATE GAME_IS ~bgee bg2ee eet iwdee~ @1027
+
+SUBCOMPONENT @1032
+
+ACTION_IF GAME_IS ~bgee~ THEN BEGIN
+PRINT @1047
+ACTION_READLN rg_name1
+STRING_SET_EVALUATE 31532 ~%rg_name1%~
+END
+
+ACTION_IF GAME_IS ~bg2ee eet~ THEN BEGIN
+PRINT @1050
+ACTION_READLN rg_name4
+STRING_SET_EVALUATE 72633 ~%rg_name4%~
+END
+
+ACTION_IF GAME_IS ~iwdee~ THEN BEGIN
+PRINT @1053
+ACTION_READLN rg_name7
+STRING_SET_EVALUATE 35266 ~%rg_name7%~
+END
+
+/////////////////////////////////////////////////////////////////////////////////
+///  NAME FAMILIAR TWO SLOTS
+/////////////////////////////////////////////////////////////////////////////////
+
+BEGIN @1034
+
+GROUP @1060
+
+REQUIRE_PREDICATE GAME_IS ~bgee bg2ee eet iwdee~ @1027
+
+SUBCOMPONENT @1032
+
+ACTION_IF GAME_IS ~bgee~ THEN BEGIN
+PRINT @1047
+ACTION_READLN rg_name1
+STRING_SET_EVALUATE 31532 ~%rg_name1%~
+END
+
+ACTION_IF GAME_IS ~bg2ee eet~ THEN BEGIN
+PRINT @1050
+ACTION_READLN rg_name4
+STRING_SET_EVALUATE 72633 ~%rg_name4%~
+END
+
+ACTION_IF GAME_IS ~iwdee~ THEN BEGIN
+PRINT @1053
+ACTION_READLN rg_name7
+STRING_SET_EVALUATE 35266 ~%rg_name7%~
+END
+
+ACTION_IF GAME_IS ~bgee~ THEN BEGIN
+PRINT @1048
+ACTION_READLN rg_name2
+STRING_SET_EVALUATE 31535 ~%rg_name2%~
+END
+
+ACTION_IF GAME_IS ~bg2ee eet~ THEN BEGIN
+PRINT @1051
+ACTION_READLN rg_name5
+STRING_SET_EVALUATE 72689 ~%rg_name5%~
+END
+
+ACTION_IF GAME_IS ~iwdee~ THEN BEGIN
+PRINT @1054
+ACTION_READLN rg_name8
+STRING_SET_EVALUATE 35267 ~%rg_name8%~
+END
+
+/////////////////////////////////////////////////////////////////////////////////
+///  NAME FAMILIAR THREE SLOTS
+/////////////////////////////////////////////////////////////////////////////////
+
+BEGIN @1035
+
+GROUP @1060
+
+REQUIRE_PREDICATE GAME_IS ~bgee bg2ee eet iwdee~ @1027
+
+SUBCOMPONENT @1032
+
+ACTION_IF GAME_IS ~bgee~ THEN BEGIN
+PRINT @1047
+ACTION_READLN rg_name1
+STRING_SET_EVALUATE 31532 ~%rg_name1%~
+END
+
+ACTION_IF GAME_IS ~bg2ee eet~ THEN BEGIN
+PRINT @1050
+ACTION_READLN rg_name4
+STRING_SET_EVALUATE 72633 ~%rg_name4%~
+END
+
+ACTION_IF GAME_IS ~iwdee~ THEN BEGIN
+PRINT @1053
+ACTION_READLN rg_name7
+STRING_SET_EVALUATE 35266 ~%rg_name7%~
+END
+
+ACTION_IF GAME_IS ~bgee~ THEN BEGIN
+PRINT @1048
+ACTION_READLN rg_name2
+STRING_SET_EVALUATE 31535 ~%rg_name2%~
+END
+
+ACTION_IF GAME_IS ~bg2ee eet~ THEN BEGIN
+PRINT @1051
+ACTION_READLN rg_name5
+STRING_SET_EVALUATE 72689 ~%rg_name5%~
+END
+
+ACTION_IF GAME_IS ~iwdee~ THEN BEGIN
+PRINT @1054
+ACTION_READLN rg_name8
+STRING_SET_EVALUATE 35267 ~%rg_name8%~
+END
+
+ACTION_IF GAME_IS ~bgee~ THEN BEGIN
+PRINT @1049
+ACTION_READLN rg_name3
+STRING_SET_EVALUATE 31538 ~%rg_name3%~
+END
+
+ACTION_IF GAME_IS ~bg2ee eet~ THEN BEGIN
+PRINT @1052
+ACTION_READLN rg_name6
+STRING_SET_EVALUATE 72690 ~%rg_name6%~
+END
+
+ACTION_IF GAME_IS ~iwdee~ THEN BEGIN
+PRINT @1055
+ACTION_READLN rg_name9
+STRING_SET_EVALUATE 35268 ~%rg_name9%~
+END
+
+/////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////
+///  FAMILIARS FOR NPC MAGES
+/////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////
+
+BEGIN @1029
+
+GROUP @1060
+
+REQUIRE_PREDICATE GAME_IS ~bgee bg2ee eet~ @1056
+
+INCLUDE ~msfm/lib/familiars_npcs.tph~
+
+/////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////
+///  RESIZED FLOATING SKULL ANIMATION
+/////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////
+
+BEGIN @1031
+
+GROUP @1060
+
+REQUIRE_PREDICATE GAME_IS ~bgee bg2ee eet iwdee~ @1027
+
+COPY ~msfm/sprites/skullresized~ ~override~
+
+/////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////
+///  MORE SCROLLS FIND FAMILIAR IN SHOPS
+/////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////
+
+BEGIN @1070
+
+GROUP @1060
+
+REQUIRE_PREDICATE GAME_IS ~bgee bg2ee eet~ @1056
+
+ACTION_IF GAME_IS ~bgee~ THEN BEGIN
+
+COPY_EXISTING ~highhedg.sto~ ~override~
+ADD_STORE_ITEM ~scrl6d~   AFTER  ~scrl84~ #0 #0 #0 ~IDENTIFIED~ #2
+COPY_EXISTING ~sto0703.sto~ ~override~
+ADD_STORE_ITEM ~scrl6d~   AFTER  ~scrl84~ #0 #0 #0 ~IDENTIFIED~ #3
+COPY_EXISTING ~bpding01.sto~ ~override~
+ADD_STORE_ITEM ~scrl6d~   AFTER  ~scrl84~ #0 #0 #0 ~IDENTIFIED~ #6
+
+END
+
+ACTION_IF GAME_IS ~bg2ee eet~ THEN BEGIN
+
+COPY_EXISTING ~scrolls.sto~ ~override~
+ADD_STORE_ITEM ~scrl6d~   AFTER  ~scrl84~ #0 #0 #0 ~IDENTIFIED~ #2
+COPY_EXISTING ~garlena.sto~ ~override~
+ADD_STORE_ITEM ~scrl6d~   AFTER  ~scrl84~ #0 #0 #0 ~IDENTIFIED~ #3
+
+END

@@ -1,0 +1,44 @@
+IF
+	!InParty("Safana")
+	Global("rgfnoneforsafana","GLOBAL",1)
+THEN
+	RESPONSE #100
+		RemoveFamiliar()
+		DestroySelf()
+		SetGlobal("rgfnoneforsafana","GLOBAL",0)
+END
+
+IF
+	Die()
+	Global("rgfnoneforsafana","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("rgfnoneforsafana","GLOBAL",0)
+END
+
+IF
+	XPGT("Safana",88999)
+	Class(Myself,SORCERER)
+	Global("rgfwupg","LOCALS",0)
+THEN
+	RESPONSE #100
+		DisplayStringHead(Myself,@487)
+		AddSpecialAbility("RGFAW01")
+		ApplySpellRES("RGFAHP1",Myself)
+		SetGlobal("rgfwupg","LOCALS",1)
+END
+
+IF
+	XPGT("Safana",88999)
+	Class(Myself,THIEF)
+	Global("rgftupg","LOCALS",0)
+THEN
+	RESPONSE #100
+		DisplayStringHead(Myself,@487)
+		AddSpecialAbility("RGFAT04")
+		AddSpecialAbility("RGFAT03")
+		AddSpecialAbility("RGFAT02")
+		AddSpecialAbility("RGFAT01")
+		ApplySpellRES("RGFAHP1",Myself)
+		SetGlobal("rgftupg","LOCALS",1)
+END

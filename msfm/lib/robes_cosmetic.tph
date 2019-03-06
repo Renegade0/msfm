@@ -1,0 +1,462 @@
+COPY_EXISTING ~clck15.itm~ ~override~
+	LPF DELETE_ITEM_EQEFFECT
+		INT_VAR
+		  opcode_to_delete = 7
+	END
+
+	LPF ADD_ITEM_EQEFFECT
+        INT_VAR
+          opcode = 7
+          target = 1
+          parameter1 = 105
+          parameter2 = 5
+          timing = 2
+	END
+
+	LPF ADD_ITEM_EQEFFECT
+        INT_VAR
+          opcode = 7
+          target = 1
+          parameter1 = 28
+          parameter2 = 0
+          timing = 2
+	END
+
+	LPF ADD_ITEM_EQEFFECT
+        INT_VAR
+          opcode = 7
+          target = 1
+          parameter1 = 90
+          parameter2 = 4
+          timing = 2
+	END
+
+	LPF ADD_ITEM_EQEFFECT
+        INT_VAR
+          opcode = 7
+          target = 1
+          parameter1 = 25
+          parameter2 = 1
+          timing = 2
+	END
+
+	LPF ADD_ITEM_EQEFFECT
+        INT_VAR
+          opcode = 7
+          target = 1
+          parameter1 = 105
+          parameter2 = 2
+          timing = 2
+	END
+
+COPY_EXISTING ~clck16.itm~ ~override~
+	LPF DELETE_ITEM_EQEFFECT
+		INT_VAR
+		  opcode_to_delete = 7
+	END	
+	
+	LPF ADD_ITEM_EQEFFECT
+        INT_VAR
+          opcode = 7
+          target = 1
+          parameter1 = 110
+          parameter2 = 5
+          timing = 2
+	END
+
+	LPF ADD_ITEM_EQEFFECT
+        INT_VAR
+          opcode = 7
+          target = 1
+          parameter1 = 110
+          parameter2 = 0
+          timing = 2
+	END
+
+	LPF ADD_ITEM_EQEFFECT
+        INT_VAR
+          opcode = 7
+          target = 1
+          parameter1 = 169
+          parameter2 = 1
+          timing = 2
+	END
+
+	LPF ADD_ITEM_EQEFFECT
+        INT_VAR
+          opcode = 7
+          target = 1
+          parameter1 = 110
+          parameter2 = 2
+          timing = 2
+	END
+
+	LPF ADD_ITEM_EQEFFECT
+        INT_VAR
+          opcode = 7
+          target = 1
+          parameter1 = 169
+          parameter2 = 4
+          timing = 2
+	END
+	
+COPY_EXISTING ~clck17.itm~ ~override~
+	LPF DELETE_ITEM_EQEFFECT
+		INT_VAR
+		  opcode_to_delete = 7
+	END	
+	
+	LPF ADD_ITEM_EQEFFECT
+        INT_VAR
+          opcode = 7
+          target = 1
+          parameter1 = 25
+          parameter2 = 5
+          timing = 2
+	END
+
+	LPF ADD_ITEM_EQEFFECT
+        INT_VAR
+          opcode = 7
+          target = 1
+          parameter1 = 97
+          parameter2 = 0
+          timing = 2
+	END
+
+	LPF ADD_ITEM_EQEFFECT
+        INT_VAR
+          opcode = 7
+          target = 1
+          parameter1 = 136
+          parameter2 = 4
+          timing = 2
+	END
+
+	LPF ADD_ITEM_EQEFFECT
+        INT_VAR
+          opcode = 7
+          target = 1
+          parameter1 = 136
+          parameter2 = 1
+          timing = 2
+	END
+
+	LPF ADD_ITEM_EQEFFECT
+        INT_VAR
+          opcode = 7
+          target = 1
+          parameter1 = 47
+          parameter2 = 2
+          timing = 2
+	END
+	
+ACTION_IF FILE_EXISTS_IN_GAME ~rgclc15a.itm~ THEN BEGIN
+
+COPY_EXISTING ~rgclc15a.itm~ ~override~
+	LPF DELETE_ITEM_EQEFFECT
+		INT_VAR
+		  opcode_to_delete = 7
+	END
+
+	LPF ADD_ITEM_EQEFFECT
+        INT_VAR
+          opcode = 7
+          target = 1
+          parameter1 = 105
+          parameter2 = 5
+          timing = 2
+	END
+
+	LPF ADD_ITEM_EQEFFECT
+        INT_VAR
+          opcode = 7
+          target = 1
+          parameter1 = 28
+          parameter2 = 0
+          timing = 2
+	END
+
+	LPF ADD_ITEM_EQEFFECT
+        INT_VAR
+          opcode = 7
+          target = 1
+          parameter1 = 90
+          parameter2 = 4
+          timing = 2
+	END
+
+	LPF ADD_ITEM_EQEFFECT
+        INT_VAR
+          opcode = 7
+          target = 1
+          parameter1 = 25
+          parameter2 = 1
+          timing = 2
+	END
+
+	LPF ADD_ITEM_EQEFFECT
+        INT_VAR
+          opcode = 7
+          target = 1
+          parameter1 = 105
+          parameter2 = 2
+          timing = 2
+	END
+
+COPY_EXISTING ~rgclc15b.itm~ ~override~
+	LPF DELETE_ITEM_EQEFFECT
+		INT_VAR
+		  opcode_to_delete = 7
+	END
+
+	LPF ADD_ITEM_EQEFFECT
+        INT_VAR
+          opcode = 7
+          target = 1
+          parameter1 = 105
+          parameter2 = 5
+          timing = 2
+	END
+
+	LPF ADD_ITEM_EQEFFECT
+        INT_VAR
+          opcode = 7
+          target = 1
+          parameter1 = 28
+          parameter2 = 0
+          timing = 2
+	END
+
+	LPF ADD_ITEM_EQEFFECT
+        INT_VAR
+          opcode = 7
+          target = 1
+          parameter1 = 90
+          parameter2 = 4
+          timing = 2
+	END
+
+	LPF ADD_ITEM_EQEFFECT
+        INT_VAR
+          opcode = 7
+          target = 1
+          parameter1 = 25
+          parameter2 = 1
+          timing = 2
+	END
+
+	LPF ADD_ITEM_EQEFFECT
+        INT_VAR
+          opcode = 7
+          target = 1
+          parameter1 = 105
+          parameter2 = 2
+          timing = 2
+	END
+
+COPY_EXISTING ~rgclc16a.itm~ ~override~
+	LPF DELETE_ITEM_EQEFFECT
+		INT_VAR
+		  opcode_to_delete = 7
+	END	
+	
+	LPF ADD_ITEM_EQEFFECT
+        INT_VAR
+          opcode = 7
+          target = 1
+          parameter1 = 110
+          parameter2 = 5
+          timing = 2
+	END
+
+	LPF ADD_ITEM_EQEFFECT
+        INT_VAR
+          opcode = 7
+          target = 1
+          parameter1 = 110
+          parameter2 = 0
+          timing = 2
+	END
+
+	LPF ADD_ITEM_EQEFFECT
+        INT_VAR
+          opcode = 7
+          target = 1
+          parameter1 = 169
+          parameter2 = 1
+          timing = 2
+	END
+
+	LPF ADD_ITEM_EQEFFECT
+        INT_VAR
+          opcode = 7
+          target = 1
+          parameter1 = 110
+          parameter2 = 2
+          timing = 2
+	END
+
+	LPF ADD_ITEM_EQEFFECT
+        INT_VAR
+          opcode = 7
+          target = 1
+          parameter1 = 169
+          parameter2 = 4
+          timing = 2
+	END
+
+COPY_EXISTING ~rgclc16b.itm~ ~override~
+	LPF DELETE_ITEM_EQEFFECT
+		INT_VAR
+		  opcode_to_delete = 7
+	END	
+	
+	LPF ADD_ITEM_EQEFFECT
+        INT_VAR
+          opcode = 7
+          target = 1
+          parameter1 = 110
+          parameter2 = 5
+          timing = 2
+	END
+
+	LPF ADD_ITEM_EQEFFECT
+        INT_VAR
+          opcode = 7
+          target = 1
+          parameter1 = 110
+          parameter2 = 0
+          timing = 2
+	END
+
+	LPF ADD_ITEM_EQEFFECT
+        INT_VAR
+          opcode = 7
+          target = 1
+          parameter1 = 169
+          parameter2 = 1
+          timing = 2
+	END
+
+	LPF ADD_ITEM_EQEFFECT
+        INT_VAR
+          opcode = 7
+          target = 1
+          parameter1 = 110
+          parameter2 = 2
+          timing = 2
+	END
+
+	LPF ADD_ITEM_EQEFFECT
+        INT_VAR
+          opcode = 7
+          target = 1
+          parameter1 = 169
+          parameter2 = 4
+          timing = 2
+	END
+	
+COPY_EXISTING ~rgclc17a.itm~ ~override~
+	LPF DELETE_ITEM_EQEFFECT
+		INT_VAR
+		  opcode_to_delete = 7
+	END	
+	
+	LPF ADD_ITEM_EQEFFECT
+        INT_VAR
+          opcode = 7
+          target = 1
+          parameter1 = 25
+          parameter2 = 5
+          timing = 2
+	END
+
+	LPF ADD_ITEM_EQEFFECT
+        INT_VAR
+          opcode = 7
+          target = 1
+          parameter1 = 97
+          parameter2 = 0
+          timing = 2
+	END
+
+	LPF ADD_ITEM_EQEFFECT
+        INT_VAR
+          opcode = 7
+          target = 1
+          parameter1 = 136
+          parameter2 = 4
+          timing = 2
+	END
+
+	LPF ADD_ITEM_EQEFFECT
+        INT_VAR
+          opcode = 7
+          target = 1
+          parameter1 = 136
+          parameter2 = 1
+          timing = 2
+	END
+
+	LPF ADD_ITEM_EQEFFECT
+        INT_VAR
+          opcode = 7
+          target = 1
+          parameter1 = 47
+          parameter2 = 2
+          timing = 2
+	END
+
+COPY_EXISTING ~rgclc17b.itm~ ~override~
+	LPF DELETE_ITEM_EQEFFECT
+		INT_VAR
+		  opcode_to_delete = 7
+	END	
+	
+	LPF ADD_ITEM_EQEFFECT
+        INT_VAR
+          opcode = 7
+          target = 1
+          parameter1 = 25
+          parameter2 = 5
+          timing = 2
+	END
+
+	LPF ADD_ITEM_EQEFFECT
+        INT_VAR
+          opcode = 7
+          target = 1
+          parameter1 = 97
+          parameter2 = 0
+          timing = 2
+	END
+
+	LPF ADD_ITEM_EQEFFECT
+        INT_VAR
+          opcode = 7
+          target = 1
+          parameter1 = 136
+          parameter2 = 4
+          timing = 2
+	END
+
+	LPF ADD_ITEM_EQEFFECT
+        INT_VAR
+          opcode = 7
+          target = 1
+          parameter1 = 136
+          parameter2 = 1
+          timing = 2
+	END
+
+	LPF ADD_ITEM_EQEFFECT
+        INT_VAR
+          opcode = 7
+          target = 1
+          parameter1 = 47
+          parameter2 = 2
+          timing = 2
+	END
+
+END

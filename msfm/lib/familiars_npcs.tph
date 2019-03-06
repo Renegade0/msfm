@@ -1,0 +1,1231 @@
+/////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////
+///  FAMILIARS FOR NPC MAGES
+/////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////
+
+ACTION_IF !FILE_EXISTS_IN_GAME ~rgfadra.bam~ THEN BEGIN
+
+COPY ~msfm/content/bg1_familiars/rgfadra.bam~ ~override~
+
+COPY ~msfm/content/bg1_familiars/rgfaimp.bam~ ~override~
+
+COPY ~msfm/content/bg1_familiars/rgfalim.bam~ ~override~
+
+COPY ~msfm/content/bg1_familiars/rgfamep.bam~ ~override~
+
+COPY ~msfm/content/bg1_familiars/rgfasku.bam~ ~override~
+
+COPY ~msfm/content/bg1_familiars/rgfaspi.bam~ ~override~
+
+COPY ~msfm/content/bg1_familiars/rgfalimd.bmp~ ~override~
+
+COPY ~msfm/content/bg1_familiars/rgfa101.spl~ ~override~
+  SAY NAME1 @509
+  SAY UNIDENTIFIED_DESC @509
+
+COPY ~msfm/content/bg1_familiars/rgfa101.spl~ ~override/rgfa102.spl~
+  SAY NAME1 @510
+  SAY UNIDENTIFIED_DESC @510
+  WRITE_ASCII 0x076 ~SPWI102B~ #8
+  WRITE_ASCII 0x0ae ~SPWI102~ #8
+
+COPY ~msfm/content/bg1_familiars/rgfa101.spl~ ~override/rgfa103.spl~
+  SAY NAME1 @511
+  SAY UNIDENTIFIED_DESC @511
+  WRITE_ASCII 0x076 ~SPWI103B~ #8
+  WRITE_ASCII 0x0ae ~SPWI103~ #8
+
+COPY ~msfm/content/bg1_familiars/rgfa101.spl~ ~override/rgfa104.spl~
+  SAY NAME1 @512
+  SAY UNIDENTIFIED_DESC @512
+  WRITE_ASCII 0x076 ~SPWI104B~ #8
+  WRITE_ASCII 0x0ae ~SPWI104~ #8
+
+COPY ~msfm/content/bg1_familiars/rgfa101.spl~ ~override/rgfa105.spl~
+  SAY NAME1 @513
+  SAY UNIDENTIFIED_DESC @513
+  WRITE_ASCII 0x076 ~SPWI105B~ #8
+  WRITE_ASCII 0x0ae ~SPWI105~ #8
+
+COPY ~msfm/content/bg1_familiars/rgfa101.spl~ ~override/rgfa106.spl~
+  SAY NAME1 @514
+  SAY UNIDENTIFIED_DESC @514
+  WRITE_ASCII 0x076 ~SPWI106B~ #8
+  WRITE_ASCII 0x0ae ~SPWI106~ #8
+
+COPY ~msfm/content/bg1_familiars/rgfa101.spl~ ~override/rgfa107.spl~
+  SAY NAME1 @515
+  SAY UNIDENTIFIED_DESC @515
+  WRITE_ASCII 0x076 ~SPWI107B~ #8
+  WRITE_ASCII 0x0ae ~SPWI107~ #8
+
+COPY ~msfm/content/bg1_familiars/rgfa101.spl~ ~override/rgfa108.spl~
+  SAY NAME1 @516
+  SAY UNIDENTIFIED_DESC @516
+  WRITE_ASCII 0x076 ~SPWI108B~ #8
+  WRITE_ASCII 0x0ae ~SPWI108~ #8
+
+COPY ~msfm/content/bg1_familiars/rgfa101.spl~ ~override/rgfa112.spl~
+  SAY NAME1 @517
+  SAY UNIDENTIFIED_DESC @517
+  WRITE_ASCII 0x076 ~SPWI112B~ #8
+  WRITE_ASCII 0x0ae ~SPWI112~ #8
+
+COPY ~msfm/content/bg1_familiars/rgfa101.spl~ ~override/rgfa113.spl~
+  SAY NAME1 @518
+  SAY UNIDENTIFIED_DESC @518
+  WRITE_ASCII 0x076 ~SPWI113B~ #8
+  WRITE_ASCII 0x0ae ~SPWI113~ #8
+
+COPY ~msfm/content/bg1_familiars/rgfa101.spl~ ~override/rgfa114.spl~
+  SAY NAME1 @519
+  SAY UNIDENTIFIED_DESC @519
+  WRITE_ASCII 0x076 ~SPWI114B~ #8
+  WRITE_ASCII 0x0ae ~SPWI114~ #8
+
+COPY ~msfm/content/bg1_familiars/rgfa101.spl~ ~override/rgfa115.spl~
+  SAY NAME1 @520
+  SAY UNIDENTIFIED_DESC @520
+  WRITE_ASCII 0x076 ~SPWI115B~ #8
+  WRITE_ASCII 0x0ae ~SPWI115~ #8
+
+COPY ~msfm/content/bg1_familiars/rgfa101.spl~ ~override/rgfa116.spl~
+  SAY NAME1 @521
+  SAY UNIDENTIFIED_DESC @521
+  WRITE_ASCII 0x076 ~SPWI116B~ #8
+  WRITE_ASCII 0x0ae ~SPWI116~ #8
+
+COPY ~msfm/content/bg1_familiars/rgfa101.spl~ ~override/rgfa117.spl~
+  SAY NAME1 @522
+  SAY UNIDENTIFIED_DESC @522
+  WRITE_ASCII 0x076 ~SPWI117B~ #8
+  WRITE_ASCII 0x0ae ~SPWI117~ #8
+
+COPY ~msfm/content/bg1_familiars/rgfa101.spl~ ~override/rgfa118.spl~
+  SAY NAME1 @523
+  SAY UNIDENTIFIED_DESC @523
+  WRITE_ASCII 0x076 ~SPWI118B~ #8
+  WRITE_ASCII 0x0ae ~SPWI118~ #8
+
+COPY ~msfm/content/bg1_familiars/rgfa101.spl~ ~override/rgfa119.spl~
+  SAY NAME1 @524
+  SAY UNIDENTIFIED_DESC @524
+  WRITE_ASCII 0x076 ~SPWI119B~ #8
+  WRITE_ASCII 0x0ae ~SPWI119~ #8
+
+COPY ~msfm/content/bg1_familiars/rgfa101.spl~ ~override/rgfa120.spl~
+  SAY NAME1 @525
+  SAY UNIDENTIFIED_DESC @525
+  WRITE_ASCII 0x076 ~SPWI120B~ #8
+  WRITE_ASCII 0x0ae ~SPWI120~ #8
+
+COPY ~msfm/content/bg1_familiars/rgfa101.spl~ ~override/rgfa125.spl~
+  SAY NAME1 @526
+  SAY UNIDENTIFIED_DESC @526
+  WRITE_ASCII 0x076 ~SPWI125B~ #8
+  WRITE_ASCII 0x0ae ~SPWI125~ #8
+
+COPY ~msfm/content/bg1_familiars/rgfa101.spl~ ~override/rgfa301.spl~
+  SAY NAME1 @527
+  SAY UNIDENTIFIED_DESC @527
+  WRITE_ASCII 0x076 ~SPWI301B~ #8
+  WRITE_ASCII 0x0ae ~SPWI301~ #8
+
+COPY ~msfm/content/bg1_familiars/rgfa101.spl~ ~override/rgfa302.spl~
+  SAY NAME1 @528
+  SAY UNIDENTIFIED_DESC @528
+  WRITE_ASCII 0x076 ~SPWI326B~ #8
+  WRITE_ASCII 0x0ae ~SPWI302~ #8
+
+COPY ~msfm/content/bg1_familiars/rgfa101.spl~ ~override/rgfa303.spl~
+  SAY NAME1 @529
+  SAY UNIDENTIFIED_DESC @529
+  WRITE_ASCII 0x076 ~SPWI303B~ #8
+  WRITE_ASCII 0x0ae ~SPWI303~ #8
+
+COPY ~msfm/content/bg1_familiars/rgfa101.spl~ ~override/rgfa304.spl~
+  SAY NAME1 @530
+  SAY UNIDENTIFIED_DESC @530
+  WRITE_ASCII 0x076 ~SPWI304B~ #8
+  WRITE_ASCII 0x0ae ~SPWI304~ #8
+
+COPY ~msfm/content/bg1_familiars/rgfa101.spl~ ~override/rgfa305.spl~
+  SAY NAME1 @531
+  SAY UNIDENTIFIED_DESC @531
+  WRITE_ASCII 0x076 ~SPWI305B~ #8
+  WRITE_ASCII 0x0ae ~SPWI305~ #8
+
+COPY ~msfm/content/bg1_familiars/rgfa101.spl~ ~override/rgfa306.spl~
+  SAY NAME1 @532
+  SAY UNIDENTIFIED_DESC @532
+  WRITE_ASCII 0x076 ~SPPR208B~ #8
+  WRITE_ASCII 0x0ae ~SPWI306~ #8
+
+COPY ~msfm/content/bg1_familiars/rgfa101.spl~ ~override/rgfa307.spl~
+  SAY NAME1 @533
+  SAY UNIDENTIFIED_DESC @533
+  WRITE_ASCII 0x076 ~SPWI307B~ #8
+  WRITE_ASCII 0x0ae ~SPWI307~ #8
+
+COPY ~msfm/content/bg1_familiars/rgfa101.spl~ ~override/rgfa308.spl~
+  SAY NAME1 @534
+  SAY UNIDENTIFIED_DESC @534
+  WRITE_ASCII 0x076 ~SPWI308B~ #8
+  WRITE_ASCII 0x0ae ~SPWI308~ #8
+
+COPY ~msfm/content/bg1_familiars/rgfa101.spl~ ~override/rgfa309.spl~
+  SAY NAME1 @535
+  SAY UNIDENTIFIED_DESC @535
+  WRITE_ASCII 0x076 ~SPWI309B~ #8
+  WRITE_ASCII 0x0ae ~SPWI309~ #8
+
+COPY ~msfm/content/bg1_familiars/rgfa101.spl~ ~override/rgfa310.spl~
+  SAY NAME1 @536
+  SAY UNIDENTIFIED_DESC @536
+  WRITE_ASCII 0x076 ~SPWI310B~ #8
+  WRITE_ASCII 0x0ae ~SPWI310~ #8
+
+COPY ~msfm/content/bg1_familiars/rgfa101.spl~ ~override/rgfa311.spl~
+  SAY NAME1 @537
+  SAY UNIDENTIFIED_DESC @537
+  WRITE_ASCII 0x076 ~SPWI311B~ #8
+  WRITE_ASCII 0x0ae ~SPWI311~ #8
+
+COPY ~msfm/content/bg1_familiars/rgfa101.spl~ ~override/rgfa312.spl~
+  SAY NAME1 @538
+  SAY UNIDENTIFIED_DESC @538
+  WRITE_ASCII 0x076 ~SPWI312B~ #8
+  WRITE_ASCII 0x0ae ~SPWI312~ #8
+
+COPY ~msfm/content/bg1_familiars/rgfa101.spl~ ~override/rgfa313.spl~
+  SAY NAME1 @539
+  SAY UNIDENTIFIED_DESC @539
+  WRITE_ASCII 0x076 ~SPWI313B~ #8
+  WRITE_ASCII 0x0ae ~SPWI313~ #8
+
+COPY ~msfm/content/bg1_familiars/rgfa101.spl~ ~override/rgfa314.spl~
+  SAY NAME1 @540
+  SAY UNIDENTIFIED_DESC @540
+  WRITE_ASCII 0x076 ~SPWI314B~ #8
+  WRITE_ASCII 0x0ae ~SPWI314~ #8
+
+COPY ~msfm/content/bg1_familiars/rgfa101.spl~ ~override/rgfa315.spl~
+  SAY NAME1 @541
+  SAY UNIDENTIFIED_DESC @541
+  WRITE_ASCII 0x076 ~SPWI315B~ #8
+  WRITE_ASCII 0x0ae ~SPWI315~ #8
+
+COPY ~msfm/content/bg1_familiars/rgfa101.spl~ ~override/rgfa316.spl~
+  SAY NAME1 @542
+  SAY UNIDENTIFIED_DESC @542
+  WRITE_ASCII 0x076 ~SPWI316B~ #8
+  WRITE_ASCII 0x0ae ~SPWI316~ #8
+
+COPY ~msfm/content/bg1_familiars/rgfa101.spl~ ~override/rgfa317.spl~
+  SAY NAME1 @543
+  SAY UNIDENTIFIED_DESC @543
+  WRITE_ASCII 0x076 ~SPWI317B~ #8
+  WRITE_ASCII 0x0ae ~SPWI317~ #8
+
+COPY ~msfm/content/bg1_familiars/rgfa101.spl~ ~override/rgfa318.spl~
+  SAY NAME1 @544
+  SAY UNIDENTIFIED_DESC @544
+  WRITE_ASCII 0x076 ~SPWI318B~ #8
+  WRITE_ASCII 0x0ae ~SPWI318~ #8
+
+COPY ~msfm/content/bg1_familiars/rgfa101.spl~ ~override/rgfa319.spl~
+  SAY NAME1 @545
+  SAY UNIDENTIFIED_DESC @545
+  WRITE_ASCII 0x076 ~SPWI319B~ #8
+  WRITE_ASCII 0x0ae ~SPWI319~ #8
+
+COPY ~msfm/content/bg1_familiars/rgfa101.spl~ ~override/rgfa320.spl~
+  SAY NAME1 @546
+  SAY UNIDENTIFIED_DESC @546
+  WRITE_ASCII 0x076 ~SPWI320B~ #8
+  WRITE_ASCII 0x0ae ~SPWI320~ #8
+
+COPY ~msfm/content/bg1_familiars/rgfa101.spl~ ~override/rgfa321.spl~
+  SAY NAME1 @547
+  SAY UNIDENTIFIED_DESC @547
+  WRITE_ASCII 0x076 ~SPWI321B~ #8
+  WRITE_ASCII 0x0ae ~SPWI321~ #8
+
+COPY ~msfm/content/bg1_familiars/rgfa101.spl~ ~override/rgfa322.spl~
+  SAY NAME1 @548
+  SAY UNIDENTIFIED_DESC @548
+  WRITE_ASCII 0x076 ~SPWI322B~ #8
+  WRITE_ASCII 0x0ae ~SPWI322~ #8
+
+COPY ~msfm/content/bg1_familiars/rgfa101.spl~ ~override/rgfa324.spl~
+  SAY NAME1 @549
+  SAY UNIDENTIFIED_DESC @549
+  WRITE_ASCII 0x076 ~SPWI324B~ #8
+  WRITE_ASCII 0x0ae ~SPWI324~ #8
+
+COPY ~msfm/content/bg1_familiars/rgfa101.spl~ ~override/rgfa325.spl~
+  SAY NAME1 @550
+  SAY UNIDENTIFIED_DESC @550
+  WRITE_ASCII 0x076 ~SPWI325B~ #8
+  WRITE_ASCII 0x0ae ~SPWI325~ #8
+
+COPY ~msfm/content/bg1_familiars/rgfa101.spl~ ~override/rgfa326.spl~
+  SAY NAME1 @551
+  SAY UNIDENTIFIED_DESC @551
+  WRITE_ASCII 0x076 ~SPWI302B~ #8
+  WRITE_ASCII 0x0ae ~SPWI326~ #8
+
+COPY ~msfm/content/bg1_familiars/rgfa101.spl~ ~override/rgfa412.spl~
+  SAY NAME1 @552
+  SAY UNIDENTIFIED_DESC @552
+  WRITE_ASCII 0x076 ~SPWI412B~ #8
+  WRITE_ASCII 0x0ae ~SPWI412~ #8
+
+COPY ~msfm/content/bg1_familiars/rgfa101.spl~ ~override/rgfa416.spl~
+  SAY NAME1 @553
+  SAY UNIDENTIFIED_DESC @553
+  WRITE_ASCII 0x076 ~SPWI416B~ #8
+  WRITE_ASCII 0x0ae ~SPWI416~ #8
+
+COPY ~msfm/content/bg1_familiars/rgfa101.spl~ ~override/rgfa501.spl~
+  SAY NAME1 @554
+  SAY UNIDENTIFIED_DESC @554
+  WRITE_ASCII 0x076 ~SPWI501B~ #8
+  WRITE_ASCII 0x0ae ~SPWI501~ #8
+
+COPY ~msfm/content/bg1_familiars/rgfa101.spl~ ~override/rgfa502.spl~
+  SAY NAME1 @555
+  SAY UNIDENTIFIED_DESC @555
+  WRITE_ASCII 0x076 ~SPWI502B~ #8
+  WRITE_ASCII 0x0ae ~SPWI502~ #8
+
+COPY ~msfm/content/bg1_familiars/rgfa101.spl~ ~override/rgfa503.spl~
+  SAY NAME1 @556
+  SAY UNIDENTIFIED_DESC @556
+  WRITE_ASCII 0x076 ~SPWI503B~ #8
+  WRITE_ASCII 0x0ae ~SPWI503~ #8
+
+COPY ~msfm/content/bg1_familiars/rgfa101.spl~ ~override/rgfa504.spl~
+  SAY NAME1 @557
+  SAY UNIDENTIFIED_DESC @557
+  WRITE_ASCII 0x076 ~SPWI504B~ #8
+  WRITE_ASCII 0x0ae ~SPWI504~ #8
+
+COPY ~msfm/content/bg1_familiars/rgfa101.spl~ ~override/rgfa505.spl~
+  SAY NAME1 @558
+  SAY UNIDENTIFIED_DESC @558
+  WRITE_ASCII 0x076 ~SPWI505B~ #8
+  WRITE_ASCII 0x0ae ~SPWI505~ #8
+
+COPY ~msfm/content/bg1_familiars/rgfa101.spl~ ~override/rgfa506.spl~
+  SAY NAME1 @559
+  SAY UNIDENTIFIED_DESC @559
+  WRITE_ASCII 0x076 ~SPWI506B~ #8
+  WRITE_ASCII 0x0ae ~SPWI506~ #8
+
+COPY ~msfm/content/bg1_familiars/rgfa101.spl~ ~override/rgfa507.spl~
+  SAY NAME1 @560
+  SAY UNIDENTIFIED_DESC @560
+  WRITE_ASCII 0x076 ~SPWI507B~ #8
+  WRITE_ASCII 0x0ae ~SPWI507~ #8
+
+COPY ~msfm/content/bg1_familiars/rgfa101.spl~ ~override/rgfa508.spl~
+  SAY NAME1 @561
+  SAY UNIDENTIFIED_DESC @561
+  WRITE_ASCII 0x076 ~SPWI508B~ #8
+  WRITE_ASCII 0x0ae ~SPWI508~ #8
+
+COPY ~msfm/content/bg1_familiars/rgfa101.spl~ ~override/rgfa509.spl~
+  SAY NAME1 @562
+  SAY UNIDENTIFIED_DESC @562
+  WRITE_ASCII 0x076 ~SPWI509B~ #8
+  WRITE_ASCII 0x0ae ~SPWI509~ #8
+
+COPY ~msfm/content/bg1_familiars/rgfa101.spl~ ~override/rgfa510.spl~
+  SAY NAME1 @563
+  SAY UNIDENTIFIED_DESC @563
+  WRITE_ASCII 0x076 ~SPWI510B~ #8
+  WRITE_ASCII 0x0ae ~SPWI510~ #8
+
+COPY ~msfm/content/bg1_familiars/rgfa101.spl~ ~override/rgfa511.spl~
+  SAY NAME1 @564
+  SAY UNIDENTIFIED_DESC @564
+  WRITE_ASCII 0x076 ~SPWI511B~ #8
+  WRITE_ASCII 0x0ae ~SPWI511~ #8
+
+COPY ~msfm/content/bg1_familiars/rgfa101.spl~ ~override/rgfa512.spl~
+  SAY NAME1 @565
+  SAY UNIDENTIFIED_DESC @565
+  WRITE_ASCII 0x076 ~SPWI512B~ #8
+  WRITE_ASCII 0x0ae ~SPWI512~ #8
+
+COPY ~msfm/content/bg1_familiars/rgfa101.spl~ ~override/rgfa513.spl~
+  SAY NAME1 @566
+  SAY UNIDENTIFIED_DESC @566
+  WRITE_ASCII 0x076 ~SPWI513B~ #8
+  WRITE_ASCII 0x0ae ~SPWI513~ #8
+
+COPY ~msfm/content/bg1_familiars/rgfa101.spl~ ~override/rgfa514.spl~
+  SAY NAME1 @567
+  SAY UNIDENTIFIED_DESC @567
+  WRITE_ASCII 0x076 ~SPWI514B~ #8
+  WRITE_ASCII 0x0ae ~SPWI514~ #8
+
+COPY ~msfm/content/bg1_familiars/rgfa101.spl~ ~override/rgfa515.spl~
+  SAY NAME1 @568
+  SAY UNIDENTIFIED_DESC @568
+  WRITE_ASCII 0x076 ~SPWI515B~ #8
+  WRITE_ASCII 0x0ae ~SPWI515~ #8
+
+COPY ~msfm/content/bg1_familiars/rgfa101.spl~ ~override/rgfa516.spl~
+  SAY NAME1 @569
+  SAY UNIDENTIFIED_DESC @569
+  WRITE_ASCII 0x076 ~SPWI516B~ #8
+  WRITE_ASCII 0x0ae ~SPWI516~ #8
+
+COPY ~msfm/content/bg1_familiars/rgfa101.spl~ ~override/rgfa517.spl~
+  SAY NAME1 @570
+  SAY UNIDENTIFIED_DESC @570
+  WRITE_ASCII 0x076 ~SPWI517B~ #8
+  WRITE_ASCII 0x0ae ~SPWI517~ #8
+
+COPY ~msfm/content/bg1_familiars/rgfa101.spl~ ~override/rgfa518.spl~
+  SAY NAME1 @571
+  SAY UNIDENTIFIED_DESC @571
+  WRITE_ASCII 0x076 ~SPWI518B~ #8
+  WRITE_ASCII 0x0ae ~SPWI518~ #8
+
+COPY ~msfm/content/bg1_familiars/rgfa101.spl~ ~override/rgfa519.spl~
+  SAY NAME1 @572
+  SAY UNIDENTIFIED_DESC @572
+  WRITE_ASCII 0x076 ~SPWI801B~ #8
+  WRITE_ASCII 0x0ae ~SPWI519~ #8
+
+COPY ~msfm/content/bg1_familiars/rgfa101.spl~ ~override/rgfa520.spl~
+  SAY NAME1 @573
+  SAY UNIDENTIFIED_DESC @573
+  WRITE_ASCII 0x076 ~SPWI520B~ #8
+  WRITE_ASCII 0x0ae ~SPWI520~ #8
+
+COPY ~msfm/content/bg1_familiars/rgfa101.spl~ ~override/rgfa521.spl~
+  SAY NAME1 @574
+  SAY UNIDENTIFIED_DESC @574
+  WRITE_ASCII 0x076 ~SPWI521B~ #8
+  WRITE_ASCII 0x0ae ~SPWI521~ #8
+
+COPY ~msfm/content/bg1_familiars/rgfa101.spl~ ~override/rgfa522.spl~
+  SAY NAME1 @575
+  SAY UNIDENTIFIED_DESC @575
+  WRITE_ASCII 0x076 ~SPWI522B~ #8
+  WRITE_ASCII 0x0ae ~SPWI522~ #8
+
+COPY ~msfm/content/bg1_familiars/rgfa101.spl~ ~override/rgfa523.spl~
+  SAY NAME1 @576
+  SAY UNIDENTIFIED_DESC @576
+  WRITE_ASCII 0x076 ~SPWI523B~ #8
+  WRITE_ASCII 0x0ae ~SPWI523~ #8
+
+COPY ~msfm/content/bg1_familiars/rgfa101.spl~ ~override/rgfa603.spl~
+  SAY NAME1 @577
+  SAY UNIDENTIFIED_DESC @577
+  WRITE_ASCII 0x076 ~SPWI603B~ #8
+  WRITE_ASCII 0x0ae ~SPWI603~ #8
+
+COPY ~msfm/content/bg1_familiars/rgfa101.spl~ ~override/rgfa609.spl~
+  SAY NAME1 @578
+  SAY UNIDENTIFIED_DESC @578
+  WRITE_ASCII 0x076 ~SPWI609B~ #8
+  WRITE_ASCII 0x0ae ~SPWI609~ #8
+
+COPY ~msfm/content/bg1_familiars/rgfa101.spl~ ~override/rgfa613.spl~
+  SAY NAME1 @579
+  SAY UNIDENTIFIED_DESC @579
+  WRITE_ASCII 0x076 ~SPWI613B~ #8
+  WRITE_ASCII 0x0ae ~SPWI613~ #8
+
+COPY ~msfm/content/bg1_familiars/rgfa101.spl~ ~override/rgfa701.spl~
+  SAY NAME1 @580
+  SAY UNIDENTIFIED_DESC @580
+  WRITE_ASCII 0x076 ~SPWI701B~ #8
+  WRITE_ASCII 0x0ae ~SPWI701~ #8
+
+COPY ~msfm/content/bg1_familiars/rgfa101.spl~ ~override/rgfa702.spl~
+  SAY NAME1 @581
+  SAY UNIDENTIFIED_DESC @581
+  WRITE_ASCII 0x076 ~SPWI702B~ #8
+  WRITE_ASCII 0x0ae ~SPWI702~ #8
+
+COPY ~msfm/content/bg1_familiars/rgfa101.spl~ ~override/rgfa704.spl~
+  SAY NAME1 @582
+  SAY UNIDENTIFIED_DESC @582
+  WRITE_ASCII 0x076 ~SPWI704B~ #8
+  WRITE_ASCII 0x0ae ~SPWI704~ #8
+
+COPY ~msfm/content/bg1_familiars/rgfa101.spl~ ~override/rgfa705.spl~
+  SAY NAME1 @583
+  SAY UNIDENTIFIED_DESC @583
+  WRITE_ASCII 0x076 ~SPWI705B~ #8
+  WRITE_ASCII 0x0ae ~SPWI705~ #8
+
+COPY ~msfm/content/bg1_familiars/rgfa101.spl~ ~override/rgfa707.spl~
+  SAY NAME1 @584
+  SAY UNIDENTIFIED_DESC @584
+  WRITE_ASCII 0x076 ~SPWI707B~ #8
+  WRITE_ASCII 0x0ae ~SPWI707~ #8
+
+COPY ~msfm/content/bg1_familiars/rgfa101.spl~ ~override/rgfa708.spl~
+  SAY NAME1 @585
+  SAY UNIDENTIFIED_DESC @585
+  WRITE_ASCII 0x076 ~SPWI708B~ #8
+  WRITE_ASCII 0x0ae ~SPWI708~ #8
+
+COPY ~msfm/content/bg1_familiars/rgfa101.spl~ ~override/rgfa711.spl~
+  SAY NAME1 @587
+  SAY UNIDENTIFIED_DESC @587
+  WRITE_ASCII 0x076 ~SPWI711B~ #8
+  WRITE_ASCII 0x0ae ~SPWI711~ #8
+
+COPY ~msfm/content/bg1_familiars/rgfa101.spl~ ~override/rgfa712.spl~
+  SAY NAME1 @588
+  SAY UNIDENTIFIED_DESC @588
+  WRITE_ASCII 0x076 ~SPWI712B~ #8
+  WRITE_ASCII 0x0ae ~SPWI712~ #8
+
+COPY ~msfm/content/bg1_familiars/rgfa101.spl~ ~override/rgfa713.spl~
+  SAY NAME1 @589
+  SAY UNIDENTIFIED_DESC @589
+  WRITE_ASCII 0x076 ~SPWI713B~ #8
+  WRITE_ASCII 0x0ae ~SPWI713~ #8
+
+COPY ~msfm/content/bg1_familiars/rgfa101.spl~ ~override/rgfa714.spl~
+  SAY NAME1 @590
+  SAY UNIDENTIFIED_DESC @590
+  WRITE_ASCII 0x076 ~SPWI714B~ #8
+  WRITE_ASCII 0x0ae ~SPWI714~ #8
+
+COPY ~msfm/content/bg1_familiars/rgfa101.spl~ ~override/rgfa715.spl~
+  SAY NAME1 @591
+  SAY UNIDENTIFIED_DESC @591
+  WRITE_ASCII 0x076 ~SPWI715B~ #8
+  WRITE_ASCII 0x0ae ~SPWI715~ #8
+
+COPY ~msfm/content/bg1_familiars/rgfa101.spl~ ~override/rgfa716.spl~
+  SAY NAME1 @592
+  SAY UNIDENTIFIED_DESC @592
+  WRITE_ASCII 0x076 ~SPWI716B~ #8
+  WRITE_ASCII 0x0ae ~SPWI716~ #8
+
+COPY ~msfm/content/bg1_familiars/rgfa101.spl~ ~override/rgfa717.spl~
+  SAY NAME1 @593
+  SAY UNIDENTIFIED_DESC @593
+  WRITE_ASCII 0x076 ~SPWI717B~ #8
+  WRITE_ASCII 0x0ae ~SPWI717~ #8
+
+COPY ~msfm/content/bg1_familiars/rgfa101.spl~ ~override/rgfa718.spl~
+  SAY NAME1 @594
+  SAY UNIDENTIFIED_DESC @594
+  WRITE_ASCII 0x076 ~SPWI718B~ #8
+  WRITE_ASCII 0x0ae ~SPWI718~ #8
+
+COPY ~msfm/content/bg1_familiars/rgfa101.spl~ ~override/rgfa719.spl~
+  SAY NAME1 @595
+  SAY UNIDENTIFIED_DESC @595
+  WRITE_ASCII 0x076 ~SPWI719B~ #8
+  WRITE_ASCII 0x0ae ~SPWI719~ #8
+
+COPY ~msfm/content/bg1_familiars/rgfa101.spl~ ~override/rgfa720.spl~
+  SAY NAME1 @596
+  SAY UNIDENTIFIED_DESC @596
+  WRITE_ASCII 0x076 ~SPWI720B~ #8
+  WRITE_ASCII 0x0ae ~SPWI720~ #8
+
+COPY ~msfm/content/bg1_familiars/rgfa101.spl~ ~override/rgfa721.spl~
+  SAY NAME1 @597
+  SAY UNIDENTIFIED_DESC @597
+  WRITE_ASCII 0x076 ~SPWI721B~ #8
+  WRITE_ASCII 0x0ae ~SPWI721~ #8
+
+COPY ~msfm/content/bg1_familiars/rgfa101.spl~ ~override/rgfa902.spl~
+  SAY NAME1 @598
+  SAY UNIDENTIFIED_DESC @598
+  WRITE_ASCII 0x076 ~SPWI902B~ #8
+  WRITE_ASCII 0x0ae ~SPWI902~ #8
+
+COPY ~msfm/content/bg1_familiars/rgfa101.spl~ ~override/rgfa903.spl~
+  SAY NAME1 @599
+  SAY UNIDENTIFIED_DESC @599
+  WRITE_ASCII 0x076 ~SPWI903B~ #8
+  WRITE_ASCII 0x0ae ~SPWI903~ #8
+
+COPY ~msfm/content/bg1_familiars/rgfa101.spl~ ~override/rgfa905.spl~
+  SAY NAME1 @600
+  SAY UNIDENTIFIED_DESC @600
+  WRITE_ASCII 0x076 ~SPWI905B~ #8
+  WRITE_ASCII 0x0ae ~SPWI905~ #8
+
+COPY ~msfm/content/bg1_familiars/rgfa101.spl~ ~override/rgfa907.spl~
+  SAY NAME1 @601
+  SAY UNIDENTIFIED_DESC @601
+  WRITE_ASCII 0x076 ~SPWI907B~ #8
+  WRITE_ASCII 0x0ae ~SPWI907~ #8
+
+COPY ~msfm/content/bg1_familiars/rgfa101.spl~ ~override/rgfa909.spl~
+  SAY NAME1 @603
+  SAY UNIDENTIFIED_DESC @603
+  WRITE_ASCII 0x076 ~SPWI909B~ #8
+  WRITE_ASCII 0x0ae ~SPWI909~ #8
+
+COPY ~msfm/content/bg1_familiars/rgfa101.spl~ ~override/rgfa910.spl~
+  SAY NAME1 @604
+  SAY UNIDENTIFIED_DESC @604
+  WRITE_ASCII 0x076 ~SPWI910B~ #8
+  WRITE_ASCII 0x0ae ~SPWI910~ #8
+
+COPY ~msfm/content/bg1_familiars/rgfa101.spl~ ~override/rgfa911.spl~
+  SAY NAME1 @605
+  SAY UNIDENTIFIED_DESC @605
+  WRITE_ASCII 0x076 ~SPWI911B~ #8
+  WRITE_ASCII 0x0ae ~SPWI911~ #8
+
+COPY ~msfm/content/bg1_familiars/rgfa101.spl~ ~override/rgfa912.spl~
+  SAY NAME1 @606
+  SAY UNIDENTIFIED_DESC @606
+  WRITE_ASCII 0x076 ~SPWI912B~ #8
+  WRITE_ASCII 0x0ae ~SPWI912~ #8
+
+COPY ~msfm/content/bg1_familiars/rgfa101.spl~ ~override/rgfa913.spl~
+  SAY NAME1 @607
+  SAY UNIDENTIFIED_DESC @607
+  WRITE_ASCII 0x076 ~SPWI913B~ #8
+  WRITE_ASCII 0x0ae ~SPWI913~ #8
+
+COPY ~msfm/content/bg1_familiars/rgfa101.spl~ ~override/rgfa914.spl~
+  SAY NAME1 @608
+  SAY UNIDENTIFIED_DESC @608
+  WRITE_ASCII 0x076 ~SPWI914B~ #8
+  WRITE_ASCII 0x0ae ~SPWI914~ #8
+
+COPY ~msfm/content/bg1_familiars/rgfa101.spl~ ~override/rgfa915.spl~
+  SAY NAME1 @609
+  SAY UNIDENTIFIED_DESC @609
+  WRITE_ASCII 0x076 ~SPWI915B~ #8
+  WRITE_ASCII 0x0ae ~SPWI915~ #8
+
+COPY ~msfm/content/bg1_familiars/rgfa101.spl~ ~override/rgfa916.spl~
+  SAY NAME1 @610
+  SAY UNIDENTIFIED_DESC @610
+  WRITE_ASCII 0x076 ~SPWI916B~ #8
+  WRITE_ASCII 0x0ae ~SPWI916~ #8
+
+COPY ~msfm/content/bg1_familiars/rgfa101.spl~ ~override/rgfa917.spl~
+  SAY NAME1 @611
+  SAY UNIDENTIFIED_DESC @611
+  WRITE_ASCII 0x076 ~SPWI917B~ #8
+  WRITE_ASCII 0x0ae ~SPWI917~ #8
+
+COPY ~msfm/content/bg1_familiars/rgfa101.spl~ ~override/rgfa918.spl~
+  SAY NAME1 @612
+  SAY UNIDENTIFIED_DESC @612
+  WRITE_ASCII 0x076 ~SPWI918B~ #8
+  WRITE_ASCII 0x0ae ~SPWI918~ #8
+
+COPY ~msfm/content/bg1_familiars/rgfaw01.2da~ ~override~
+
+COPY ~msfm/content/bg1_familiars/rgfaw01.bam~ ~override~
+
+COPY ~msfm/content/bg1_familiars/rgfaw03.2da~ ~override~
+
+COPY ~msfm/content/bg1_familiars/rgfaw03.bam~ ~override~
+
+COPY ~msfm/content/bg1_familiars/rgfaw05.2da~ ~override~
+
+COPY ~msfm/content/bg1_familiars/rgfaw05.bam~ ~override~
+
+COPY ~msfm/content/bg1_familiars/rgfaw07.2da~ ~override~
+
+COPY ~msfm/content/bg1_familiars/rgfaw07.bam~ ~override~
+
+COPY ~msfm/content/bg1_familiars/rgfaw09.2da~ ~override~
+
+COPY ~msfm/content/bg1_familiars/rgfaw09.bam~ ~override~
+
+COPY ~msfm/content/bg1_familiars/rgfaw01.spl~ ~override~
+  SAY NAME1 @500
+  SAY UNIDENTIFIED_DESC @500
+
+COPY ~msfm/content/bg1_familiars/rgfaw03.spl~ ~override~
+  SAY NAME1 @501
+  SAY UNIDENTIFIED_DESC @501
+
+COPY ~msfm/content/bg1_familiars/rgfaw05.spl~ ~override~
+  SAY NAME1 @502
+  SAY UNIDENTIFIED_DESC @502
+
+COPY ~msfm/content/bg1_familiars/rgfaw07.spl~ ~override~
+  SAY NAME1 @503
+  SAY UNIDENTIFIED_DESC @503
+
+COPY ~msfm/content/bg1_familiars/rgfaw09.spl~ ~override~
+  SAY NAME1 @504
+  SAY UNIDENTIFIED_DESC @504
+
+COPY ~msfm/content/bg1_familiars/rgfat01.bam~ ~override~
+
+COPY ~msfm/content/bg1_familiars/rgfat02.bam~ ~override~
+
+COPY ~msfm/content/bg1_familiars/rgfat03.bam~ ~override~
+
+COPY ~msfm/content/bg1_familiars/rgfat04.bam~ ~override~
+
+COPY ~msfm/content/bg1_familiars/rgfat01.spl~ ~override~
+  SAY NAME1 @505
+  SAY UNIDENTIFIED_DESC @505
+
+COPY ~msfm/content/bg1_familiars/rgfat05.spl~ ~override~
+  SAY NAME1 @505
+  SAY UNIDENTIFIED_DESC @505
+
+COPY ~msfm/content/bg1_familiars/rgfat09.spl~ ~override~
+  SAY NAME1 @505
+  SAY UNIDENTIFIED_DESC @505
+
+COPY ~msfm/content/bg1_familiars/rgfat13.spl~ ~override~
+  SAY NAME1 @505
+  SAY UNIDENTIFIED_DESC @505
+
+COPY ~msfm/content/bg1_familiars/rgfat17.spl~ ~override~
+  SAY NAME1 @505
+  SAY UNIDENTIFIED_DESC @505
+
+COPY ~msfm/content/bg1_familiars/rgfat02.spl~ ~override~
+  SAY NAME1 @506
+  SAY UNIDENTIFIED_DESC @506
+
+COPY ~msfm/content/bg1_familiars/rgfat06.spl~ ~override~
+  SAY NAME1 @506
+  SAY UNIDENTIFIED_DESC @506
+
+COPY ~msfm/content/bg1_familiars/rgfat10.spl~ ~override~
+  SAY NAME1 @506
+  SAY UNIDENTIFIED_DESC @506
+
+COPY ~msfm/content/bg1_familiars/rgfat14.spl~ ~override~
+  SAY NAME1 @506
+  SAY UNIDENTIFIED_DESC @506
+
+COPY ~msfm/content/bg1_familiars/rgfat18.spl~ ~override~
+  SAY NAME1 @506
+  SAY UNIDENTIFIED_DESC @506
+
+COPY ~msfm/content/bg1_familiars/rgfat03.spl~ ~override~
+  SAY NAME1 @507
+  SAY UNIDENTIFIED_DESC @507
+
+COPY ~msfm/content/bg1_familiars/rgfat07.spl~ ~override~
+  SAY NAME1 @507
+  SAY UNIDENTIFIED_DESC @507
+
+COPY ~msfm/content/bg1_familiars/rgfat11.spl~ ~override~
+  SAY NAME1 @507
+  SAY UNIDENTIFIED_DESC @507
+
+COPY ~msfm/content/bg1_familiars/rgfat15.spl~ ~override~
+  SAY NAME1 @507
+  SAY UNIDENTIFIED_DESC @507
+
+COPY ~msfm/content/bg1_familiars/rgfat19.spl~ ~override~
+  SAY NAME1 @507
+  SAY UNIDENTIFIED_DESC @507
+
+COPY ~msfm/content/bg1_familiars/rgfat04.spl~ ~override~
+  SAY NAME1 @508
+  SAY UNIDENTIFIED_DESC @508
+
+COPY ~msfm/content/bg1_familiars/rgfat08.spl~ ~override~
+  SAY NAME1 @508
+  SAY UNIDENTIFIED_DESC @508
+
+COPY ~msfm/content/bg1_familiars/rgfat12.spl~ ~override~
+  SAY NAME1 @508
+  SAY UNIDENTIFIED_DESC @508
+
+COPY ~msfm/content/bg1_familiars/rgfat16.spl~ ~override~
+  SAY NAME1 @508
+  SAY UNIDENTIFIED_DESC @508
+
+COPY ~msfm/content/bg1_familiars/rgfat20.spl~ ~override~
+  SAY NAME1 @508
+  SAY UNIDENTIFIED_DESC @508
+
+COPY ~msfm/content/bg1_familiars/rgfpor0.spl~ ~override~
+
+COPY ~msfm/content/bg1_familiars/rgfpor1.spl~ ~override~
+
+COPY ~msfm/content/bg1_familiars/rgfpor1a.spl~ ~override~
+
+COPY ~msfm/content/bg1_familiars/rgfpor1b.spl~ ~override~
+
+COPY ~msfm/content/bg1_familiars/rgfpor2.spl~ ~override~
+
+COPY ~msfm/content/bg1_familiars/rgfpor3.spl~ ~override~
+
+COPY ~msfm/content/bg1_familiars/rgfpor4.spl~ ~override~
+
+COPY ~msfm/content/bg1_familiars/rgfpor5.spl~ ~override~
+
+COPY ~msfm/content/bg1_familiars/rgfpor5a.spl~ ~override~
+
+COPY ~msfm/content/bg1_familiars/rgfpor6.spl~ ~override~
+
+COPY ~msfm/content/bg1_familiars/rgfpor7.spl~ ~override~
+
+COPY ~msfm/content/bg1_familiars/rgfpor8.spl~ ~override~
+
+COPY ~msfm/content/bg1_familiars/rgfpor9.spl~ ~override~
+
+COPY ~msfm/content/bg1_familiars/rgreghp1.itm~ ~override~
+
+COPY ~msfm/content/bg1_familiars/rgfahp1.spl~ ~override~
+
+COPY ~msfm/portraits~ ~override~
+
+COPY ~msfm/sprites/limlim~ ~override~
+
+COPY ~msfm/sounds/limlim~ ~override~
+
+
+END
+
+ACTION_IF GAME_IS ~bgee~ THEN BEGIN
+
+STRING_SET ~24383~ @701
+
+COPY ~msfm/content/bg1_familnpcs/rgfnbae.itm~ ~override~
+  SAY NAME1 @743
+  SAY NAME2 @743
+  SAY UNIDENTIFIED_DESC @836
+  SAY DESC @836
+
+ COPY ~msfm/content/bg1_familnpcs/rgfndyn.itm~ ~override~
+  SAY NAME1 @744
+  SAY NAME2 @744
+  SAY UNIDENTIFIED_DESC @837
+  SAY DESC @837
+
+COPY ~msfm/content/bg1_familnpcs/rgfnedw.itm~ ~override~
+  SAY NAME1 @736
+  SAY NAME2 @736
+  SAY UNIDENTIFIED_DESC @838
+  SAY DESC @838
+
+COPY ~msfm/content/bg1_familnpcs/rgfneld.itm~ ~override~
+  SAY NAME1 @745
+  SAY NAME2 @745
+  SAY UNIDENTIFIED_DESC @839
+  SAY DESC @839
+
+COPY ~msfm/content/bg1_familnpcs/rgfngar.itm~ ~override~
+  SAY NAME1 @746
+  SAY NAME2 @746
+  SAY UNIDENTIFIED_DESC @840
+  SAY DESC @840
+
+COPY ~msfm/content/bg1_familnpcs/rgfnimo.itm~ ~override~
+  SAY NAME1 @738
+  SAY NAME2 @738
+  SAY UNIDENTIFIED_DESC @841
+  SAY DESC @841
+
+COPY ~msfm/content/bg1_familnpcs/rgfnkha.itm~ ~override~
+  SAY NAME1 @747
+  SAY NAME2 @747
+  SAY UNIDENTIFIED_DESC @842
+  SAY DESC @842
+
+COPY ~msfm/content/bg1_familnpcs/rgfnnee.itm~ ~override~
+  SAY NAME1 @741
+  SAY NAME2 @741
+  SAY UNIDENTIFIED_DESC @843
+  SAY DESC @843
+
+COPY ~msfm/content/bg1_familnpcs/rgfnqua.itm~ ~override~
+  SAY NAME1 @748
+  SAY NAME2 @748
+  SAY UNIDENTIFIED_DESC @844
+  SAY DESC @844
+
+COPY ~msfm/content/bg1_familnpcs/rgfnsaf.itm~ ~override~
+  SAY NAME1 @749
+  SAY NAME2 @749
+  SAY UNIDENTIFIED_DESC @845
+  SAY DESC @845
+
+COPY ~msfm/content/bg1_familnpcs/rgfnxan.itm~ ~override~
+  SAY NAME1 @750
+  SAY NAME2 @750
+  SAY UNIDENTIFIED_DESC @846
+  SAY DESC @846
+
+COPY ~msfm/content/bg1_familnpcs/rgfnxza.itm~ ~override~
+  SAY NAME1 @751
+  SAY NAME2 @751
+  SAY UNIDENTIFIED_DESC @847
+  SAY DESC @847
+
+COPY ~msfm/content/bg1_familnpcs/rgfnbae.cre~ ~override~
+  SAY NAME1 @743
+  SAY NAME2 @743
+
+COPY ~msfm/content/bg1_familnpcs/rgfndyn.cre~ ~override~
+  SAY NAME1 @744
+  SAY NAME2 @744
+  SAY BATTLE_CRY1 @658
+  SAY DAMAGE @659
+  SAY DYING @660
+  SAY SELECT_COMMON1 @656
+  SAY SELECT_COMMON2 @657
+ 
+COPY ~msfm/content/bg1_familnpcs/rgfnedw.cre~ ~override~
+  SAY NAME1 @736
+  SAY NAME2 @736
+
+COPY ~msfm/content/bg1_familnpcs/rgfneld.cre~ ~override~
+  SAY NAME1 @745
+  SAY NAME2 @745
+
+COPY ~msfm/content/bg1_familnpcs/rgfngar.cre~ ~override~
+  SAY NAME1 @746
+  SAY NAME2 @746
+
+COPY ~msfm/content/bg1_familnpcs/rgfnimo.cre~ ~override~
+  SAY NAME1 @738
+  SAY NAME2 @738
+
+COPY ~msfm/content/bg1_familnpcs/rgfnkha.cre~ ~override~
+  SAY NAME1 @747
+  SAY NAME2 @747
+
+COPY ~msfm/content/bg1_familnpcs/rgfnnee.cre~ ~override~
+  SAY NAME1 @741
+  SAY NAME2 @741
+
+COPY ~msfm/content/bg1_familnpcs/rgfnqua.cre~ ~override~
+  SAY NAME1 @748
+  SAY NAME2 @748
+
+COPY ~msfm/content/bg1_familnpcs/rgfnsaf.cre~ ~override~
+  SAY NAME1 @749
+  SAY NAME2 @749
+  SAY BATTLE_CRY1 @658
+  SAY DAMAGE @659
+  SAY DYING @660
+  SAY SELECT_COMMON1 @656
+  SAY SELECT_COMMON2 @657
+
+COPY ~msfm/content/bg1_familnpcs/rgfnxan.cre~ ~override~
+  SAY NAME1 @750
+  SAY NAME2 @750
+
+COPY ~msfm/content/bg1_familnpcs/rgfnxza.cre~ ~override~
+  SAY NAME1 @751
+  SAY NAME2 @751
+
+COMPILE ~msfm/dialog/bg1_famnpc~
+
+COMPILE ~msfm/bcs/bg1_famnpcs/rgfnbae.baf~
+
+COMPILE ~msfm/bcs/bg1_famnpcs/rgfndyn.baf~
+
+COMPILE ~msfm/bcs/bg1_famnpcs/rgfnedw.baf~
+
+COMPILE ~msfm/bcs/bg1_famnpcs/rgfneld.baf~
+
+COMPILE ~msfm/bcs/bg1_famnpcs/rgfngar.baf~
+
+COMPILE ~msfm/bcs/bg1_famnpcs/rgfnimo.baf~
+
+COMPILE ~msfm/bcs/bg1_famnpcs/rgfnkha.baf~
+
+COMPILE ~msfm/bcs/bg1_famnpcs/rgfnnee.baf~
+
+COMPILE ~msfm/bcs/bg1_famnpcs/rgfnqua.baf~
+
+COMPILE ~msfm/bcs/bg1_famnpcs/rgfnsaf.baf~
+
+COMPILE ~msfm/bcs/bg1_famnpcs/rgfnxan.baf~
+
+COMPILE ~msfm/bcs/bg1_famnpcs/rgfnxza.baf~
+
+COPY_EXISTING ~baeloth.bcs~ ~override~
+EXTEND_BOTTOM ~baeloth.bcs~ ~msfm/bcs/bg1_famnpcs/rgfnbaex.baf~
+
+COPY_EXISTING ~dynaheir.bcs~ ~override~
+EXTEND_BOTTOM ~dynaheir.bcs~ ~msfm/bcs/bg1_famnpcs/rgfndynx.baf~
+
+COPY_EXISTING ~edwin.bcs~ ~override~
+EXTEND_BOTTOM ~edwin.bcs~ ~msfm/bcs/bg1_famnpcs/rgfnedwx.baf~
+
+COPY_EXISTING ~eldoth.bcs~ ~override~
+EXTEND_BOTTOM ~eldoth.bcs~ ~msfm/bcs/bg1_famnpcs/rgfneldx.baf~
+
+COPY_EXISTING ~garrick.bcs~ ~override~
+EXTEND_BOTTOM ~garrick.bcs~ ~msfm/bcs/bg1_famnpcs/rgfngarx.baf~
+
+COPY_EXISTING ~imoen.bcs~ ~override~
+EXTEND_BOTTOM ~imoen.bcs~ ~msfm/bcs/bg1_famnpcs/rgfnimox.baf~
+
+COPY_EXISTING ~khalid.bcs~ ~override~
+EXTEND_BOTTOM ~khalid.bcs~ ~msfm/bcs/bg1_famnpcs/rgfnkhax.baf~
+
+COPY_EXISTING ~neera.bcs~ ~override~
+EXTEND_BOTTOM ~neera.bcs~ ~msfm/bcs/bg1_famnpcs/rgfnneex.baf~
+
+COPY_EXISTING ~quayle.bcs~ ~override~
+EXTEND_BOTTOM ~quayle.bcs~ ~msfm/bcs/bg1_famnpcs/rgfnquax.baf~
+
+COPY_EXISTING ~safana.bcs~ ~override~
+EXTEND_BOTTOM ~safana.bcs~ ~msfm/bcs/bg1_famnpcs/rgfnsafx.baf~
+
+COPY_EXISTING ~xan.bcs~ ~override~
+EXTEND_BOTTOM ~xan.bcs~ ~msfm/bcs/bg1_famnpcs/rgfnxanx.baf~
+
+COPY_EXISTING ~xzar.bcs~ ~override~
+EXTEND_BOTTOM ~xzar.bcs~ ~msfm/bcs/bg1_famnpcs/rgfnxzax.baf~
+
+END
+
+ACTION_IF GAME_IS ~bg2ee eet~ THEN BEGIN
+
+STRING_SET ~8538~ @701
+
+COPY ~msfm/content/bg2_familnpcs/rgfnaer.itm~ ~override~
+  SAY NAME1 @735
+  SAY NAME2 @735
+  SAY UNIDENTIFIED_DESC @820
+  SAY DESC @820
+  
+COPY ~msfm/content/bg2_familnpcs/rgfnaer1.itm~ ~override~
+  SAY NAME1 @735
+  SAY NAME2 @735
+  SAY UNIDENTIFIED_DESC @821
+  SAY DESC @821
+
+COPY ~msfm/content/bg2_familnpcs/rgfnedw.itm~ ~override~
+  SAY NAME1 @736
+  SAY NAME2 @736
+  SAY UNIDENTIFIED_DESC @822
+  SAY DESC @822
+  
+COPY ~msfm/content/bg2_familnpcs/rgfnedw1.itm~ ~override~
+  SAY NAME1 @736
+  SAY NAME2 @736
+  SAY UNIDENTIFIED_DESC @823
+  SAY DESC @823
+
+COPY ~msfm/content/bg2_familnpcs/rgfnhae.itm~ ~override~
+  SAY NAME1 @737
+  SAY NAME2 @737
+  SAY UNIDENTIFIED_DESC @824
+  SAY DESC @824
+  
+COPY ~msfm/content/bg2_familnpcs/rgfnhae1.itm~ ~override~
+  SAY NAME1 @737
+  SAY NAME2 @737
+  SAY UNIDENTIFIED_DESC @825
+  SAY DESC @825
+
+COPY ~msfm/content/bg2_familnpcs/rgfnimo.itm~ ~override~
+  SAY NAME1 @738
+  SAY NAME2 @738
+  SAY UNIDENTIFIED_DESC @826
+  SAY DESC @826
+  
+COPY ~msfm/content/bg2_familnpcs/rgfnimo1.itm~ ~override~
+  SAY NAME1 @738
+  SAY NAME2 @738
+  SAY UNIDENTIFIED_DESC @827
+  SAY DESC @827
+
+COPY ~msfm/content/bg2_familnpcs/rgfnjan.itm~ ~override~
+  SAY NAME1 @739
+  SAY NAME2 @739
+  SAY UNIDENTIFIED_DESC @828
+  SAY DESC @828
+  
+COPY ~msfm/content/bg2_familnpcs/rgfnjan1.itm~ ~override~
+  SAY NAME1 @739
+  SAY NAME2 @739
+  SAY UNIDENTIFIED_DESC @829
+  SAY DESC @829
+
+COPY ~msfm/content/bg2_familnpcs/rgfnnal.itm~ ~override~
+  SAY NAME1 @740
+  SAY NAME2 @740
+  SAY UNIDENTIFIED_DESC @830
+  SAY DESC @830
+  
+COPY ~msfm/content/bg2_familnpcs/rgfnnal1.itm~ ~override~
+  SAY NAME1 @740
+  SAY NAME2 @740
+  SAY UNIDENTIFIED_DESC @831
+  SAY DESC @831
+
+COPY ~msfm/content/bg2_familnpcs/rgfnnee.itm~ ~override~
+  SAY NAME1 @741
+  SAY NAME2 @741
+  SAY UNIDENTIFIED_DESC @832
+  SAY DESC @832
+  
+COPY ~msfm/content/bg2_familnpcs/rgfnnee1.itm~ ~override~
+  SAY NAME1 @741
+  SAY NAME2 @741
+  SAY UNIDENTIFIED_DESC @833
+  SAY DESC @833
+
+COPY ~msfm/content/bg2_familnpcs/rgfnyos.itm~ ~override~
+  SAY NAME1 @742
+  SAY NAME2 @742
+  SAY UNIDENTIFIED_DESC @834
+  SAY DESC @834
+
+COPY ~msfm/content/bg2_familnpcs/rgfnaer.cre~ ~override~
+  SAY NAME1 @735
+  SAY NAME2 @735
+
+COPY ~msfm/content/bg2_familnpcs/rgfnaer1.cre~ ~override~
+  SAY NAME1 @735
+  SAY NAME2 @735
+
+COPY ~msfm/content/bg2_familnpcs/rgfnedw.cre~ ~override~
+  SAY NAME1 @736
+  SAY NAME2 @736
+
+COPY ~msfm/content/bg2_familnpcs/rgfnedw1.cre~ ~override~
+  SAY NAME1 @736
+  SAY NAME2 @736
+
+COPY ~msfm/content/bg2_familnpcs/rgfnhae.cre~ ~override~
+  SAY NAME1 @737
+  SAY NAME2 @737
+
+COPY ~msfm/content/bg2_familnpcs/rgfnhae1.cre~ ~override~
+  SAY NAME1 @737
+  SAY NAME2 @737
+
+COPY ~msfm/content/bg2_familnpcs/rgfnimo.cre~ ~override~
+  SAY NAME1 @738
+  SAY NAME2 @738
+
+COPY ~msfm/content/bg2_familnpcs/rgfnimo1.cre~ ~override~
+  SAY NAME1 @738
+  SAY NAME2 @738
+
+COPY ~msfm/content/bg2_familnpcs/rgfnjan.cre~ ~override~
+  SAY NAME1 @739
+  SAY NAME2 @739
+
+COPY ~msfm/content/bg2_familnpcs/rgfnjan1.cre~ ~override~
+  SAY NAME1 @739
+  SAY NAME2 @739
+
+COPY ~msfm/content/bg2_familnpcs/rgfnnal.cre~ ~override~
+  SAY NAME1 @740
+  SAY NAME2 @740
+
+COPY ~msfm/content/bg2_familnpcs/rgfnnal1.cre~ ~override~
+  SAY NAME1 @740
+  SAY NAME2 @740
+
+COPY ~msfm/content/bg2_familnpcs/rgfnnee.cre~ ~override~
+  SAY NAME1 @741
+  SAY NAME2 @741
+
+COPY ~msfm/content/bg2_familnpcs/rgfnnee1.cre~ ~override~
+  SAY NAME1 @741
+  SAY NAME2 @741
+
+COPY ~msfm/content/bg2_familnpcs/rgfnyos.cre~ ~override~
+  SAY NAME1 @742
+  SAY NAME2 @742
+
+COMPILE ~msfm/dialog/bg2_famnpc~
+
+COMPILE ~msfm/bcs/bg2_famnpcs/rgfnaer.baf~
+
+COMPILE ~msfm/bcs/bg2_famnpcs/rgfnedw.baf~
+
+COMPILE ~msfm/bcs/bg2_famnpcs/rgfnhae.baf~
+
+COMPILE ~msfm/bcs/bg2_famnpcs/rgfnimo.baf~
+
+COMPILE ~msfm/bcs/bg2_famnpcs/rgfnjan.baf~
+
+COMPILE ~msfm/bcs/bg2_famnpcs/rgfnnal.baf~
+
+COMPILE ~msfm/bcs/bg2_famnpcs/rgfnnee.baf~
+
+COMPILE ~msfm/bcs/bg2_famnpcs/rgfnyos.baf~
+
+COMPILE ~msfm/bcs/bg2_famnpcs/rgfnaer1.baf~
+
+COMPILE ~msfm/bcs/bg2_famnpcs/rgfnedw1.baf~
+
+COMPILE ~msfm/bcs/bg2_famnpcs/rgfnhae1.baf~
+
+COMPILE ~msfm/bcs/bg2_famnpcs/rgfnimo1.baf~
+
+COMPILE ~msfm/bcs/bg2_famnpcs/rgfnjan1.baf~
+
+COMPILE ~msfm/bcs/bg2_famnpcs/rgfnnal1.baf~
+
+COMPILE ~msfm/bcs/bg2_famnpcs/rgfnnee1.baf~
+
+COMPILE ~msfm/bcs/bg2_famnpcs/rgfnyos1.baf~
+
+COPY_EXISTING ~aerie.bcs~ ~override~
+EXTEND_BOTTOM ~aerie.bcs~ ~msfm/bcs/bg2_famnpcs/rgfnaerx.baf~
+
+COPY_EXISTING ~aeri25.bcs~ ~override~
+EXTEND_BOTTOM ~aeri25.bcs~ ~msfm/bcs/bg2_famnpcs/rgfnaery.baf~
+
+COPY_EXISTING ~edwin.bcs~ ~override~
+EXTEND_BOTTOM ~edwin.bcs~ ~msfm/bcs/bg2_famnpcs/rgfnedwx.baf~
+
+COPY_EXISTING ~edwi25.bcs~ ~override~
+EXTEND_BOTTOM ~edwi25.bcs~ ~msfm/bcs/bg2_famnpcs/rgfnedwy.baf~
+
+COPY_EXISTING ~haerdali.bcs~ ~override~
+EXTEND_BOTTOM ~haerdali.bcs~ ~msfm/bcs/bg2_famnpcs/rgfnhaex.baf~
+
+COPY_EXISTING ~haer25.bcs~ ~override~
+EXTEND_BOTTOM ~haer25.bcs~ ~msfm/bcs/bg2_famnpcs/rgfnhaey.baf~
+
+COPY_EXISTING ~imoen2.bcs~ ~override~
+EXTEND_BOTTOM ~imoen2.bcs~ ~msfm/bcs/bg2_famnpcs/rgfnimox.baf~
+
+COPY_EXISTING ~imoe25.bcs~ ~override~
+EXTEND_BOTTOM ~imoe25.bcs~ ~msfm/bcs/bg2_famnpcs/rgfnimoy.baf~
+
+COPY_EXISTING ~jan.bcs~ ~override~
+EXTEND_BOTTOM ~jan.bcs~ ~msfm/bcs/bg2_famnpcs/rgfnjanx.baf~
+
+COPY_EXISTING ~jan25.bcs~ ~override~
+EXTEND_BOTTOM ~jan25.bcs~ ~msfm/bcs/bg2_famnpcs/rgfnjany.baf~
+
+COPY_EXISTING ~nalia.bcs~ ~override~
+EXTEND_BOTTOM ~nalia.bcs~ ~msfm/bcs/bg2_famnpcs/rgfnnalx.baf~
+
+COPY_EXISTING ~nali25.bcs~ ~override~
+EXTEND_BOTTOM ~nali25.bcs~ ~msfm/bcs/bg2_famnpcs/rgfnnaly.baf~
+
+COPY_EXISTING ~neera.bcs~ ~override~
+EXTEND_BOTTOM ~neera.bcs~ ~msfm/bcs/bg2_famnpcs/rgfnneex.baf~
+
+COPY_EXISTING ~neer25.bcs~ ~override~
+EXTEND_BOTTOM ~neer25.bcs~ ~msfm/bcs/bg2_famnpcs/rgfnneey.baf~
+
+COPY_EXISTING ~yoshimo.bcs~ ~override~
+EXTEND_BOTTOM ~yoshimo.bcs~ ~msfm/bcs/bg2_famnpcs/rgfnyosx.baf~
+
+END

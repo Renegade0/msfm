@@ -1,0 +1,1539 @@
+IF
+	Global("ItemMaker","GLOBAL",40)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsg11a",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",41)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsg11b",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",42)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsg11c",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",43)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsg11d",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",44)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsg11e",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",45)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsg11f",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",46)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsg11g",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",47)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsg11h",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",48)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsg11i",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",49)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsg11j",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",50)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsg11k",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",51)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsg12a",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",52)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsg12b",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",53)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsg12c",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",54)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsg12d",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",55)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsg12e",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",56)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsg12f",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",57)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsg12g",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",58)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsg12h",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",59)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsg12i",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",60)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsg12j",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",61)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsg12k",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",62)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsg13a",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",63)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsg13b",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",64)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsg13c",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",65)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsg13d",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",66)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsg13e",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",67)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsg13f",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",68)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsg13g",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",69)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsg13h",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",70)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsg13i",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",71)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsg13j",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",72)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsg13k",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",73)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsg14a",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",74)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsg14b",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",75)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsg14c",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",76)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsg14d",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",77)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsg14e",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",78)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsg14f",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",79)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsg14g",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",80)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsg14h",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",81)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsg14i",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",82)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsg14j",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",83)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsg14k",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",84)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsg15a",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",85)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsg15b",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",86)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsg15c",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",87)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsg15d",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",88)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsg15e",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",89)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsg15f",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",90)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsg15g",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",91)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsg15h",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",92)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsg15i",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",93)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsg15j",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",94)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsg15k",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",95)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsg16a",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",96)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsg16b",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",97)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsg16c",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",98)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsg16d",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",99)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsg16e",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",100)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsg16f",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",101)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsg16g",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",102)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsg16h",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",103)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsg16i",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",104)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsg16j",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",105)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsg16k",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",106)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsg17a",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",107)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsg17b",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",108)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsg17c",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",109)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsg17d",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",110)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsg17e",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",111)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsg17f",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",112)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsg17g",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",113)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsg17h",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",114)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsg17i",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",115)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsg17j",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",116)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsg17k",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",40)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsh11a",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",41)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsh11b",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",42)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsh11c",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",43)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsh11d",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",44)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsh11e",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",45)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsh11f",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",46)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsh11g",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",47)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsh11h",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",48)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsh11i",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",49)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsh11j",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",50)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsh11k",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",51)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsh12a",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",52)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsh12b",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",53)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsh12c",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",54)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsh12d",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",55)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsh12e",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",56)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsh12f",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",57)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsh12g",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",58)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsh12h",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",59)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsh12i",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",60)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsh12j",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",61)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsh12k",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",62)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsh13a",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",63)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsh13b",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",64)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsh13c",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",65)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsh13d",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",66)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsh13e",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",67)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsh13f",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",68)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsh13g",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",69)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsh13h",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",70)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsh13i",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",71)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsh13j",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",72)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsh13k",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",73)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsh14a",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",74)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsh14b",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",75)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsh14c",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",76)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsh14d",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",77)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsh14e",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",78)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsh14f",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",79)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsh14g",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",80)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsh14h",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",81)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsh14i",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",82)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsh14j",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",83)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsh14k",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",84)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsh15a",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",85)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsh15b",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",86)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsh15c",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",87)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsh15d",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",88)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsh15e",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",89)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsh15f",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",90)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsh15g",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",91)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsh15h",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",92)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsh15i",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",93)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsh15j",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",94)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsh15k",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",95)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsh16a",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",96)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsh16b",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",97)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsh16c",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",98)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsh16d",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",99)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsh16e",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",100)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsh16f",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",101)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsh16g",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",102)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsh16h",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",103)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsh16i",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",104)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsh16j",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",105)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsh16k",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",106)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsh17a",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",107)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsh17b",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",108)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsh17c",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",109)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsh17d",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",110)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsh17e",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",111)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsh17f",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",112)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsh17g",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",113)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsh17h",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",114)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsh17i",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",115)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsh17j",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("ItemMaker","GLOBAL",116)
+	Global("ImpForgeStuff","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("ImpForgeStuff","GLOBAL",0)
+		GiveItemCreate("rgwsh17k",Player1,0,0,0)
+		StartDialogueNoSet(Player1)
+END

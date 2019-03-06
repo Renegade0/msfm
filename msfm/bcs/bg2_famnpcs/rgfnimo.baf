@@ -1,0 +1,71 @@
+IF
+	!InParty("Imoen2")
+	Global("rgfnoneforimoen","GLOBAL",1)
+THEN
+	RESPONSE #100
+		RemoveFamiliar()
+		DestroySelf()
+		SetGlobal("rgfnoneforimoen","GLOBAL",0)
+END
+
+IF
+	Die()
+	Global("rgfnoneforimoen","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("rgfnoneforimoen","GLOBAL",0)
+END
+
+IF
+	XPGT("Imoen2",499999)
+	Class(Myself,SORCERER)
+	Global("rgfwupg","LOCALS",0)
+THEN
+	RESPONSE #100
+		DisplayStringHead(Myself,@487)
+		AddSpecialAbility("RGFAW05")
+		ApplySpellRES("RGFAHP1",Myself)
+		SetGlobal("rgfwupg","LOCALS",1)
+END
+
+IF
+	XPGT("Imoen2",2499999)
+	Class(Myself,SORCERER)
+	Global("rgfwupg","LOCALS",1)
+THEN
+	RESPONSE #100
+		DisplayStringHead(Myself,@487)
+		AddSpecialAbility("RGFAW07")
+		ApplySpellRES("RGFAHP1",Myself)
+		SetGlobal("rgfwupg","LOCALS",2)
+END
+
+IF
+	XPGT("Imoen2",499999)
+	Class(Myself,THIEF)
+	Global("rgftupg","LOCALS",0)
+THEN
+	RESPONSE #100
+		DisplayStringHead(Myself,@487)
+		AddSpecialAbility("RGFAT12")
+		AddSpecialAbility("RGFAT11")
+		AddSpecialAbility("RGFAT10")
+		AddSpecialAbility("RGFAT09")
+		ApplySpellRES("RGFAHP1",Myself)
+		SetGlobal("rgftupg","LOCALS",1)
+END
+
+IF
+	XPGT("Imoen2",2499999)
+	Class(Myself,THIEF)
+	Global("rgftupg","LOCALS",1)
+THEN
+	RESPONSE #100
+		DisplayStringHead(Myself,@487)
+		AddSpecialAbility("RGFAT16")
+		AddSpecialAbility("RGFAT15")
+		AddSpecialAbility("RGFAT14")
+		AddSpecialAbility("RGFAT13")
+		ApplySpellRES("RGFAHP1",Myself)
+		SetGlobal("rgftupg","LOCALS",2)
+END

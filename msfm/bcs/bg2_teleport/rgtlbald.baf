@@ -1,0 +1,231 @@
+IF
+	AreaCheck("AR0700")
+	Global("rgtlar0700","GLOBAL",0)
+THEN
+	RESPONSE #100
+		SetGlobal("rgtlar0700","GLOBAL",1)
+END
+
+IF
+	AreaCheck("AR0400")
+	Global("rgtlar0400","GLOBAL",0)
+THEN
+	RESPONSE #100
+		SetGlobal("rgtlar0400","GLOBAL",1)
+END
+
+IF
+	AreaCheck("AR0500")
+	Global("rgtlar0500","GLOBAL",0)
+THEN
+	RESPONSE #100
+		SetGlobal("rgtlar0500","GLOBAL",1)
+END
+
+IF
+	AreaCheck("AR0300")
+	Global("rgtlar0300","GLOBAL",0)
+THEN
+	RESPONSE #100
+		SetGlobal("rgtlar0300","GLOBAL",1)
+END
+
+IF
+	AreaCheck("AR1000")
+	Global("rgtlar1000","GLOBAL",0)
+THEN
+	RESPONSE #100
+		SetGlobal("rgtlar1000","GLOBAL",1)
+END
+
+IF
+	AreaCheck("AR0900")
+	Global("rgtlar0900","GLOBAL",0)
+THEN
+	RESPONSE #100
+		SetGlobal("rgtlar0900","GLOBAL",1)
+END
+
+IF
+	AreaCheck("AR0800")
+	Global("rgtlar0800","GLOBAL",0)
+THEN
+	RESPONSE #100
+		SetGlobal("rgtlar0800","GLOBAL",1)
+END
+
+IF
+	AreaCheck("AR0020")
+	Global("rgtlar0020","GLOBAL",0)
+THEN
+	RESPONSE #100
+		SetGlobal("rgtlar0020","GLOBAL",1)
+END
+
+IF
+	AreaCheck("AR1300")
+	Global("rgtlar1300","GLOBAL",0)
+THEN
+	RESPONSE #100
+		SetGlobal("rgtlar1300","GLOBAL",1)
+END
+
+IF
+	AreaCheck("AR1304")
+	Global("rgtlar1304","GLOBAL",0)
+THEN
+	RESPONSE #100
+		SetGlobal("rgtlar1304","GLOBAL",1)
+END
+
+IF
+	AreaCheck("AR1200")
+	Global("rgtlar1200","GLOBAL",0)
+THEN
+	RESPONSE #100
+		SetGlobal("rgtlar1200","GLOBAL",1)
+END
+
+IF
+	AreaCheck("AR1100")
+	Global("rgtlar1100","GLOBAL",0)
+THEN
+	RESPONSE #100
+		SetGlobal("rgtlar1100","GLOBAL",1)
+END
+
+IF
+	AreaCheck("AR1404")
+	Global("rgtlar1404","GLOBAL",0)
+THEN
+	RESPONSE #100
+		SetGlobal("rgtlar1404","GLOBAL",1)
+END
+
+IF
+	AreaCheck("AR1400")
+	Global("rgtlar1400","GLOBAL",0)
+THEN
+	RESPONSE #100
+		SetGlobal("rgtlar1400","GLOBAL",1)
+END
+
+IF
+	AreaCheck("AR2000")
+	Global("rgtlar2000","GLOBAL",0)
+THEN
+	RESPONSE #100
+		SetGlobal("rgtlar2000","GLOBAL",1)
+END
+
+IF
+	AreaCheck("AR1900")
+	Global("rgtlar1900","GLOBAL",0)
+THEN
+	RESPONSE #100
+		SetGlobal("rgtlar1900","GLOBAL",1)
+END
+
+IF
+	AreaCheck("OH4000")
+	Global("rgtloh4000","GLOBAL",0)
+THEN
+	RESPONSE #100
+		SetGlobal("rgtloh4000","GLOBAL",1)
+END
+
+IF
+	AreaCheck("OH4100")
+	Global("rgtloh4100","GLOBAL",0)
+THEN
+	RESPONSE #100
+		SetGlobal("rgtloh4100","GLOBAL",1)
+END
+
+IF
+	AreaCheck("OH6000")
+	Global("rgtloh6000","GLOBAL",0)
+THEN
+	RESPONSE #100
+		SetGlobal("rgtloh6000","GLOBAL",1)
+END
+
+IF
+	AreaCheck("OH6100")
+	Global("rgtloh6100","GLOBAL",0)
+THEN
+	RESPONSE #100
+		SetGlobal("rgtloh6100","GLOBAL",1)
+END
+
+IF
+	AreaCheck("OH6200")
+	Global("rgtloh6200","GLOBAL",0)
+THEN
+	RESPONSE #100
+		SetGlobal("rgtloh6200","GLOBAL",1)
+END
+
+IF
+	AreaCheck("OH5300")
+	Global("rgtloh5300","GLOBAL",0)
+THEN
+	RESPONSE #100
+		SetGlobal("rgtloh5300","GLOBAL",1)
+END
+
+IF
+	AreaCheck("OH5100")
+	Global("rgtloh5100","GLOBAL",0)
+THEN
+	RESPONSE #100
+		SetGlobal("rgtloh5100","GLOBAL",1)
+END
+
+IF
+	AreaCheck("AR3000")
+	Global("rgtlar3000","GLOBAL",0)
+THEN
+	RESPONSE #100
+		SetGlobal("rgtlar3000","GLOBAL",1)
+END
+
+IF
+	AreaCheck("AR2500")
+	Global("rgtlar2500","GLOBAL",0)
+THEN
+	RESPONSE #100
+		SetGlobal("rgtlar2500","GLOBAL",1)
+END
+
+IF
+	AreaCheck("AR2600")
+	Global("rgtlar2600","GLOBAL",0)
+THEN
+	RESPONSE #100
+		SetGlobal("rgtlar2600","GLOBAL",1)
+END
+
+IF
+	AreaCheck("AR1800")
+	Global("rgtlar1800","GLOBAL",0)
+THEN
+	RESPONSE #100
+		SetGlobal("rgtlar1800","GLOBAL",1)
+END
+
+IF
+	AreaCheck("AR1700")
+	Global("rgtlar1700","GLOBAL",0)
+THEN
+	RESPONSE #100
+		SetGlobal("rgtlar1700","GLOBAL",1)
+END
+
+IF
+	AreaCheck("AR2800")
+	Global("rgtlar2800","GLOBAL",0)
+THEN
+	RESPONSE #100
+		SetGlobal("rgtlar2800","GLOBAL",1)
+END

@@ -1,0 +1,29 @@
+IF
+	SpellCast(Myself,WIZARD_FIND_FAMILAR) // SPWI123.SPL (Find Familiar)
+	Global("rgfnoneforedwin","GLOBAL",0)
+THEN
+	RESPONSE #100
+		CreateCreatureObject("rgfnedw",Myself,0,0,0)
+		CreateVisualEffectObject("SPANISUM","rgfnedw")
+		ActionOverride("rgfnedw",MakeGlobal())
+		ActionOverride("rgfnedw",ChangeEnemyAlly(Myself,FAMILIAR))
+		ActionOverride("rgfnedw",AddFamiliar())
+		SetGlobal("rgfnoneforedwin","GLOBAL",1)
+END
+
+IF
+	SpellCast(Myself,WIZARD_FIND_FAMILAR) // SPWI123.SPL (Find Familiar)
+	Global("rgfnoneforedwin","GLOBAL",1)
+THEN
+	RESPONSE #100
+		DisplayString(Myself,@700)
+END
+
+IF
+	Global("rgfnedw","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("rgfnedw","GLOBAL",0)
+		MoveGlobalObject("rgfnedw",Myself)
+END
+

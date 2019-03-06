@@ -1,0 +1,4037 @@
+﻿@1=~Kostur czarodzieja~
+
+@2=~Kostur czarów~
+
+@3=~Kostur odrzucania~
+
+@4=~Kostur sprowadzania~
+
+@5=~Kostur poznania~
+
+@6=~Kostur zaczarowań~
+
+@7=~Kostur iluzji~
+
+@8=~Kostur inwokacji~
+
+@9=~Kostur nekromancji~
+
+@10=~Kostur przemian~
+
+@11=~Kostur dzikiej magii~
+
+@12=~Kostur smoczej potęgi~
+
+@13=~Nie trzeba lat studiów nad sztukami tajemnymi by stwierdzić, że ten precyzyjnie wykonany kostur jest silnie zaczarowany. Kształtem i budową przypomina bardziej różdżkę, niż kij używany do walki. Jego precyzyjny mechanizm nie robi jednak na tobie wrażenia, czyniąc go niczym więcej, niż dekoracyjną błyskotką.
+
+PARAMETRY:
+
+Obrażenia: 1k6
+Typ obrażeń: obuchowe
+Opóźnienie: 4
+Rodzaj biegłości: kij
+Typ broni: 2-ręczna
+Wymagania:
+– Siła: 5
+
+Waga: 4~
+
+@14=~Kostur ten jest jedną z najbardziej cenionych rzeczy, jaką może zdobyć mag. Jego niepowtarzalna konstrukcja pozwala mu strzelać pociskami czystej magicznej energii w dowolny cel znajdujący się w zasięgu 10 metrów. Przedmiot ten ładuje się samoczynnie, czerpiąc z otoczenia magiczną energię emanującą w naturalny sposób ze wszystkich użytkowników magii. Dzięki temu nigdy nie wyczerpie zgromadzonych ładunków, lecz może być używany jedynie przez magów i czarowników.
+
+Kształtem i konstrukcją kostur ten przypomina różdżkę magicznych pocisków. Posiada długi trzonek zakończony sporej wielkości klejnotem, z którego nieustannie emanuje magiczna energia. W odróżnieniu od delikatnej różdżki jest on jednak niezniszczalny. W trzonek wbudowany został również mechanizm kontrolny, który steruje uwalnianiem magicznych pocisków. Kostur może być dzięki temu używany jako broń do walki wręcz, jeśli tylko zajdzie taka potrzeba. W przeciwnym wypadku magiczne pociski uwalniane są zwykłym machnięciem.
+
+Kostury te są rzadkością na Wybrzeżu Mieczy, a ich prawdziwe pochodzenie pozostaje nieznane. Uważa się, że zostały po raz pierwszy stworzone przez magów z Netherilu.
+
+Kostur czarów, który właśnie trzymasz w dłoni, stanowi szczyt magicznego rzemiosła. Jest dziełem sztuki, będącym owocem wiedzy, badań i eksperymentów wielu pokoleń magów. Zawarte w nim zaklęcia czynią go zdolnym do zranienia dowolnego wroga, z wyjątkiem najpotężniejszych istot zamieszkujących Krainy.
+
+Najbardziej intrygującą właściwością kostura, jest jednakże możliwość odciśnięcia w nim magicznych zdolności jego właściciela. Aktywowany, zgłębia aurę dzierżącej go osoby, łącząc się z najsilniejszym aspektem jej magicznych mocy i zapewniając tym samym dodatkowe zdolności, związane z konkretną szkołą magii.
+
+PARAMETRY:
+
+Specjalne:
+Po osiągnięciu 250000 PD osoba władająca kosturem może aktywować poniższe efekty:
+– Mag specjalista może odcisnąć na kosturze piętno specjalizacji, obdarzając go dodatkowymi mocami związanymi z daną szkołą magii
+– Zwykły mag (w tym dwu lub wieloklasowiec) może albo ulepszyć kostur, obdarzając go dodatkowymi mocami, albo wybrać dowolną specjalizację, co w konsekwencji zmieni go w specjalistę wybranej szkoły magii i sprawi, że kostur zostanie obdarzony mocami tej szkoły
+Uzyskane efekty mają działanie stałe.
+
+Obrażenia (walka wręcz): 1k6 +3
+Obrażenia (dystansowe): 2k2 +3
+TraK0: +3
+Typ obrażeń (walka wręcz): obuchowe
+Typ obrażeń (dystansowe): magiczne
+Opóźnienie: 1
+Rodzaj biegłości: kij
+Typ broni: 2-ręczna
+Wymagania:
+– Siła: 5
+
+Waga: 4~
+
+@15=~Kostur ten jest jedną z najbardziej cenionych rzeczy, jaką może zdobyć mag. Jego niepowtarzalna konstrukcja pozwala mu strzelać pociskami czystej magicznej energii w dowolny cel znajdujący się w zasięgu 10 metrów. Przedmiot ten ładuje się samoczynnie, czerpiąc z otoczenia magiczną energię emanującą w naturalny sposób ze wszystkich użytkowników magii. Dzięki temu nigdy nie wyczerpie zgromadzonych ładunków, lecz może być używany jedynie przez magów i czarowników.
+
+Kształtem i konstrukcją kostur ten przypomina różdżkę magicznych pocisków. Posiada długi trzonek zakończony sporej wielkości klejnotem, z którego nieustannie emanuje magiczna energia. W odróżnieniu od delikatnej różdżki jest on jednak niezniszczalny. W trzonek wbudowany został również mechanizm kontrolny, który steruje uwalnianiem magicznych pocisków. Kostur może być dzięki temu używany jako broń do walki wręcz, jeśli tylko zajdzie taka potrzeba. W przeciwnym wypadku magiczne pociski uwalniane są zwykłym machnięciem.
+
+Kostury te są rzadkością na Wybrzeżu Mieczy, a ich prawdziwe pochodzenie pozostaje nieznane. Uważa się, że zostały po raz pierwszy stworzone przez magów z Netherilu.
+
+Kostur czarów, który właśnie trzymasz w dłoni, stanowi szczyt magicznego rzemiosła. Jest dziełem sztuki, będącym owocem wiedzy, badań i eksperymentów wielu pokoleń magów. Zawarte w nim zaklęcia czynią go zdolnym do zranienia dowolnego wroga, z wyjątkiem najpotężniejszych istot zamieszkujących Krainy.
+
+Ten egzemplarz Kostura czarów został naznaczony piętnem magicznej szkoły Odrzucania, dzięki czemu każdy zadany nim cios ma szansę rozproszyć zaklęcia chroniące trafioną istotę. Ponadto, dodaje on do repertuaru właściciela zaklęcie Mniejszego odbicia czaru.
+
+PARAMETRY:
+
+Specjalne:
+– 25% szans na rzucenie zaklęcia Zbicie czaru, po trafieniu
+
+Właściwości ładunków:
+– Mniejsze odbicie czaru, raz dziennie
+
+Obrażenia (walka wręcz): 1k6 +3
+Obrażenia (dystansowe): 2k2 +3
+TraK0: +3
+Typ obrażeń (walka wręcz): obuchowe
+Typ obrażeń (dystansowe): magiczne
+Opóźnienie: 1
+Rodzaj biegłości: kij
+Typ broni: 2-ręczna
+Wymagania:
+– Siła: 5
+
+Waga: 4~
+
+@16=~Kostur ten jest jedną z najbardziej cenionych rzeczy, jaką może zdobyć mag. Jego niepowtarzalna konstrukcja pozwala mu strzelać pociskami czystej magicznej energii w dowolny cel znajdujący się w zasięgu 10 metrów. Przedmiot ten ładuje się samoczynnie, czerpiąc z otoczenia magiczną energię emanującą w naturalny sposób ze wszystkich użytkowników magii. Dzięki temu nigdy nie wyczerpie zgromadzonych ładunków, lecz może być używany jedynie przez magów i czarowników.
+
+Kształtem i konstrukcją kostur ten przypomina różdżkę magicznych pocisków. Posiada długi trzonek zakończony sporej wielkości klejnotem, z którego nieustannie emanuje magiczna energia. W odróżnieniu od delikatnej różdżki jest on jednak niezniszczalny. W trzonek wbudowany został również mechanizm kontrolny, który steruje uwalnianiem magicznych pocisków. Kostur może być dzięki temu używany jako broń do walki wręcz, jeśli tylko zajdzie taka potrzeba. W przeciwnym wypadku magiczne pociski uwalniane są zwykłym machnięciem.
+
+Kostury te są rzadkością na Wybrzeżu Mieczy, a ich prawdziwe pochodzenie pozostaje nieznane. Uważa się, że zostały po raz pierwszy stworzone przez magów z Netherilu.
+
+Kostur czarów, który właśnie trzymasz w dłoni, stanowi szczyt magicznego rzemiosła. Jest dziełem sztuki, będącym owocem wiedzy, badań i eksperymentów wielu pokoleń magów. Zawarte w nim zaklęcia czynią go zdolnym do zranienia dowolnego wroga, z wyjątkiem najpotężniejszych istot zamieszkujących Krainy.
+
+Ten egzemplarz Kostura czarów został naznaczony piętnem magicznej szkoły Sprowadzania, dzięki czemu każdy zadany nim cios ma szansę zesłać na trafioną istotę zabójczy rój insektów. Ponadto, dodaje on do repertuaru właściciela zaklęcie Przywołania potwora III.
+
+PARAMETRY:
+
+Specjalne:
+– 25% szans na rzucenie zaklęcia Wezwanie owadów, po trafieniu
+
+Właściwości ładunków:
+– Przywołanie potwora III, raz dziennie
+
+Obrażenia (walka wręcz): 1k6 +3
+Obrażenia (dystansowe): 2k2 +3
+TraK0: +3
+Typ obrażeń (walka wręcz): obuchowe
+Typ obrażeń (dystansowe): magiczne
+Opóźnienie: 1
+Rodzaj biegłości: kij
+Typ broni: 2-ręczna
+Wymagania:
+– Siła: 5
+
+Waga: 4~
+
+@17=~Kostur ten jest jedną z najbardziej cenionych rzeczy, jaką może zdobyć mag. Jego niepowtarzalna konstrukcja pozwala mu strzelać pociskami czystej magicznej energii w dowolny cel znajdujący się w zasięgu 10 metrów. Przedmiot ten ładuje się samoczynnie, czerpiąc z otoczenia magiczną energię emanującą w naturalny sposób ze wszystkich użytkowników magii. Dzięki temu nigdy nie wyczerpie zgromadzonych ładunków, lecz może być używany jedynie przez magów i czarowników.
+
+Kształtem i konstrukcją kostur ten przypomina różdżkę magicznych pocisków. Posiada długi trzonek zakończony sporej wielkości klejnotem, z którego nieustannie emanuje magiczna energia. W odróżnieniu od delikatnej różdżki jest on jednak niezniszczalny. W trzonek wbudowany został również mechanizm kontrolny, który steruje uwalnianiem magicznych pocisków. Kostur może być dzięki temu używany jako broń do walki wręcz, jeśli tylko zajdzie taka potrzeba. W przeciwnym wypadku magiczne pociski uwalniane są zwykłym machnięciem.
+
+Kostury te są rzadkością na Wybrzeżu Mieczy, a ich prawdziwe pochodzenie pozostaje nieznane. Uważa się, że zostały po raz pierwszy stworzone przez magów z Netherilu.
+
+Kostur czarów, który właśnie trzymasz w dłoni, stanowi szczyt magicznego rzemiosła. Jest dziełem sztuki, będącym owocem wiedzy, badań i eksperymentów wielu pokoleń magów. Zawarte w nim zaklęcia czynią go zdolnym do zranienia dowolnego wroga, z wyjątkiem najpotężniejszych istot zamieszkujących Krainy.
+
+Ten egzemplarz Kostura czarów został naznaczony piętnem magicznej szkoły Poznania, dzięki czemu każdy zadany nim cios ma szansę na obnażenie słabości trafionej istoty. Ponadto, dodaje on do repertuaru właściciela zaklęcie Wyroczni.
+
+PARAMETRY:
+
+Specjalne:
+– 25% szans na rzucenie czaru Poznanie wroga, po trafieniu
+Poznanie wroga: KP, TraK0 i rzuty obronne zostają obniżone o 3 na okres dziesięciu rund.
+
+Właściwości ładunków:
+– Wyrocznia, raz dziennie
+
+Obrażenia (walka wręcz): 1k6 +3
+Obrażenia (dystansowe): 2k2 +3
+TraK0: +3
+Typ obrażeń (walka wręcz): obuchowe
+Typ obrażeń (dystansowe): magiczne
+Opóźnienie: 1
+Rodzaj biegłości: kij
+Typ broni: 2-ręczna
+Wymagania:
+– Siła: 5
+
+Waga: 4~
+
+@18=~Kostur ten jest jedną z najbardziej cenionych rzeczy, jaką może zdobyć mag. Jego niepowtarzalna konstrukcja pozwala mu strzelać pociskami czystej magicznej energii w dowolny cel znajdujący się w zasięgu 10 metrów. Przedmiot ten ładuje się samoczynnie, czerpiąc z otoczenia magiczną energię emanującą w naturalny sposób ze wszystkich użytkowników magii. Dzięki temu nigdy nie wyczerpie zgromadzonych ładunków, lecz może być używany jedynie przez magów i czarowników.
+
+Kształtem i konstrukcją kostur ten przypomina różdżkę magicznych pocisków. Posiada długi trzonek zakończony sporej wielkości klejnotem, z którego nieustannie emanuje magiczna energia. W odróżnieniu od delikatnej różdżki jest on jednak niezniszczalny. W trzonek wbudowany został również mechanizm kontrolny, który steruje uwalnianiem magicznych pocisków. Kostur może być dzięki temu używany jako broń do walki wręcz, jeśli tylko zajdzie taka potrzeba. W przeciwnym wypadku magiczne pociski uwalniane są zwykłym machnięciem.
+
+Kostury te są rzadkością na Wybrzeżu Mieczy, a ich prawdziwe pochodzenie pozostaje nieznane. Uważa się, że zostały po raz pierwszy stworzone przez magów z Netherilu.
+
+Kostur czarów, który właśnie trzymasz w dłoni, stanowi szczyt magicznego rzemiosła. Jest dziełem sztuki, będącym owocem wiedzy, badań i eksperymentów wielu pokoleń magów. Zawarte w nim zaklęcia czynią go zdolnym do zranienia dowolnego wroga, z wyjątkiem najpotężniejszych istot zamieszkujących Krainy.
+
+Ten egzemplarz Kostura czarów został naznaczony piętnem magicznej szkoły Zaczarowań, dzięki czemu każdy zadany nim cios ma szansę na unieruchomienie trafionej istoty. Ponadto, dodaje on do repertuaru właściciela zaklęcie Dominacji.
+
+PARAMETRY:
+
+Specjalne:
+– 25% szans na rzucenie czaru Bezmyślność, po trafieniu
+
+Właściwości ładunków:
+– Unieruchomienie potwora, raz dziennie
+
+Obrażenia (walka wręcz): 1k6 +3
+Obrażenia (dystansowe): 2k2 +3
+TraK0: +3
+Typ obrażeń (walka wręcz): obuchowe
+Typ obrażeń (dystansowe): magiczne
+Opóźnienie: 1
+Rodzaj biegłości: kij
+Typ broni: 2-ręczna
+Wymagania:
+– Siła: 5
+
+Waga: 4~
+
+@19=~Kostur ten jest jedną z najbardziej cenionych rzeczy, jaką może zdobyć mag. Jego niepowtarzalna konstrukcja pozwala mu strzelać pociskami czystej magicznej energii w dowolny cel znajdujący się w zasięgu 10 metrów. Przedmiot ten ładuje się samoczynnie, czerpiąc z otoczenia magiczną energię emanującą w naturalny sposób ze wszystkich użytkowników magii. Dzięki temu nigdy nie wyczerpie zgromadzonych ładunków, lecz może być używany jedynie przez magów i czarowników.
+
+Kształtem i konstrukcją kostur ten przypomina różdżkę magicznych pocisków. Posiada długi trzonek zakończony sporej wielkości klejnotem, z którego nieustannie emanuje magiczna energia. W odróżnieniu od delikatnej różdżki jest on jednak niezniszczalny. W trzonek wbudowany został również mechanizm kontrolny, który steruje uwalnianiem magicznych pocisków. Kostur może być dzięki temu używany jako broń do walki wręcz, jeśli tylko zajdzie taka potrzeba. W przeciwnym wypadku magiczne pociski uwalniane są zwykłym machnięciem.
+
+Kostury te są rzadkością na Wybrzeżu Mieczy, a ich prawdziwe pochodzenie pozostaje nieznane. Uważa się, że zostały po raz pierwszy stworzone przez magów z Netherilu.
+
+Kostur czarów, który właśnie trzymasz w dłoni, stanowi szczyt magicznego rzemiosła. Jest dziełem sztuki, będącym owocem wiedzy, badań i eksperymentów wielu pokoleń magów. Zawarte w nim zaklęcia czynią go zdolnym do zranienia dowolnego wroga, z wyjątkiem najpotężniejszych istot zamieszkujących Krainy.
+
+Ten egzemplarz Kostura czarów został naznaczony piętnem magicznej szkoły Iluzji, dzięki czemu każdy zadany nim cios ma szansę osłabić podstawowe zmysły trafionej istoty. Ponadto, dodaje on do repertuaru właściciela zaklęcie Drzwi z cienia.
+
+PARAMETRY:
+
+Specjalne:
+– 25% szans na rzucenie czaru Zaburzenie zmysłów, po trafieniu
+Zaćmienie: Cel znajduje się przez dziesięć rund pod wpływem czarów Oślepienie i Głuchota (rzut obronny przeciw czarom z modyfikatorem -1 neguje). 
+
+Właściwości ładunków:
+– Drzwi z cienia, raz dziennie
+
+Obrażenia (walka wręcz): 1k6 +3
+Obrażenia (dystansowe): 2k2 +3
+TraK0: +3
+Typ obrażeń (walka wręcz): obuchowe
+Typ obrażeń (dystansowe): magiczne
+Opóźnienie: 1
+Rodzaj biegłości: kij
+Typ broni: 2-ręczna
+Wymagania:
+– Siła: 5
+
+Waga: 4~
+
+@20=~Kostur ten jest jedną z najbardziej cenionych rzeczy, jaką może zdobyć mag. Jego niepowtarzalna konstrukcja pozwala mu strzelać pociskami czystej magicznej energii w dowolny cel znajdujący się w zasięgu 10 metrów. Przedmiot ten ładuje się samoczynnie, czerpiąc z otoczenia magiczną energię emanującą w naturalny sposób ze wszystkich użytkowników magii. Dzięki temu nigdy nie wyczerpie zgromadzonych ładunków, lecz może być używany jedynie przez magów i czarowników.
+
+Kształtem i konstrukcją kostur ten przypomina różdżkę magicznych pocisków. Posiada długi trzonek zakończony sporej wielkości klejnotem, z którego nieustannie emanuje magiczna energia. W odróżnieniu od delikatnej różdżki jest on jednak niezniszczalny. W trzonek wbudowany został również mechanizm kontrolny, który steruje uwalnianiem magicznych pocisków. Kostur może być dzięki temu używany jako broń do walki wręcz, jeśli tylko zajdzie taka potrzeba. W przeciwnym wypadku magiczne pociski uwalniane są zwykłym machnięciem.
+
+Kostury te są rzadkością na Wybrzeżu Mieczy, a ich prawdziwe pochodzenie pozostaje nieznane. Uważa się, że zostały po raz pierwszy stworzone przez magów z Netherilu.
+
+Kostur czarów, który właśnie trzymasz w dłoni, stanowi szczyt magicznego rzemiosła. Jest dziełem sztuki, będącym owocem wiedzy, badań i eksperymentów wielu pokoleń magów. Zawarte w nim zaklęcia czynią go zdolnym do zranienia dowolnego wroga, z wyjątkiem najpotężniejszych istot zamieszkujących Krainy.
+
+Ten egzemplarz Kostura czarów został naznaczony piętnem magicznej szkoły Inwokacji, dzięki czemu każdy zadany nim cios ma szansę porazić trafioną istotę błyskawicą. Ponadto, dodaje on do repertuaru właściciela zaklęcie Zabójczej chmury.
+
+PARAMETRY:
+
+Specjalne:
+– 25% szans na rzucenie czaru Błyskawica, po trafieniu (wpływa tylko na wybrany cel)
+
+Właściwości ładunków:
+– Zabójcza chmura, raz dziennie
+
+Obrażenia (walka wręcz): 1k6 +3
+Obrażenia (dystansowe): 2k2 +3
+TraK0: +3
+Typ obrażeń (walka wręcz): obuchowe
+Typ obrażeń (dystansowe): magiczne
+Opóźnienie: 1
+Rodzaj biegłości: kij
+Typ broni: 2-ręczna
+Wymagania:
+– Siła: 5
+
+Waga: 4~
+
+@21=~Kostur ten jest jedną z najbardziej cenionych rzeczy, jaką może zdobyć mag. Jego niepowtarzalna konstrukcja pozwala mu strzelać pociskami czystej magicznej energii w dowolny cel znajdujący się w zasięgu 10 metrów. Przedmiot ten ładuje się samoczynnie, czerpiąc z otoczenia magiczną energię emanującą w naturalny sposób ze wszystkich użytkowników magii. Dzięki temu nigdy nie wyczerpie zgromadzonych ładunków, lecz może być używany jedynie przez magów i czarowników.
+
+Kształtem i konstrukcją kostur ten przypomina różdżkę magicznych pocisków. Posiada długi trzonek zakończony sporej wielkości klejnotem, z którego nieustannie emanuje magiczna energia. W odróżnieniu od delikatnej różdżki jest on jednak niezniszczalny. W trzonek wbudowany został również mechanizm kontrolny, który steruje uwalnianiem magicznych pocisków. Kostur może być dzięki temu używany jako broń do walki wręcz, jeśli tylko zajdzie taka potrzeba. W przeciwnym wypadku magiczne pociski uwalniane są zwykłym machnięciem.
+
+Kostury te są rzadkością na Wybrzeżu Mieczy, a ich prawdziwe pochodzenie pozostaje nieznane. Uważa się, że zostały po raz pierwszy stworzone przez magów z Netherilu.
+
+Kostur czarów, który właśnie trzymasz w dłoni, stanowi szczyt magicznego rzemiosła. Jest dziełem sztuki, będącym owocem wiedzy, badań i eksperymentów wielu pokoleń magów. Zawarte w nim zaklęcia czynią go zdolnym do zranienia dowolnego wroga, z wyjątkiem najpotężniejszych istot zamieszkujących Krainy.
+
+Ten egzemplarz Kostura czarów został naznaczony piętnem magicznej szkoły Nekromancji, dzięki czemu każdy zadany nim cios ma szansę wyssać siły życiowe z trafionej istoty. Ponadto, dodaje on do repertuaru właściciela zaklęcie Animacji martwego.
+
+PARAMETRY:
+
+Specjalne:
+– 25% szans na rzucenie czaru Wampiryczne dotknięcie, po trafieniu
+
+Właściwości ładunków:
+– Animacja martwego, raz dziennie
+
+Obrażenia (walka wręcz): 1k6 +3
+Obrażenia (dystansowe): 2k2 +3
+TraK0: +3
+Typ obrażeń (walka wręcz): obuchowe
+Typ obrażeń (dystansowe): magiczne
+Opóźnienie: 1
+Rodzaj biegłości: kij
+Typ broni: 2-ręczna
+Wymagania:
+– Siła: 5
+
+Waga: 4~
+
+@22=~Kostur ten jest jedną z najbardziej cenionych rzeczy, jaką może zdobyć mag. Jego niepowtarzalna konstrukcja pozwala mu strzelać pociskami czystej magicznej energii w dowolny cel znajdujący się w zasięgu 10 metrów. Przedmiot ten ładuje się samoczynnie, czerpiąc z otoczenia magiczną energię emanującą w naturalny sposób ze wszystkich użytkowników magii. Dzięki temu nigdy nie wyczerpie zgromadzonych ładunków, lecz może być używany jedynie przez magów i czarowników.
+
+Kształtem i konstrukcją kostur ten przypomina różdżkę magicznych pocisków. Posiada długi trzonek zakończony sporej wielkości klejnotem, z którego nieustannie emanuje magiczna energia. W odróżnieniu od delikatnej różdżki jest on jednak niezniszczalny. W trzonek wbudowany został również mechanizm kontrolny, który steruje uwalnianiem magicznych pocisków. Kostur może być dzięki temu używany jako broń do walki wręcz, jeśli tylko zajdzie taka potrzeba. W przeciwnym wypadku magiczne pociski uwalniane są zwykłym machnięciem.
+
+Kostury te są rzadkością na Wybrzeżu Mieczy, a ich prawdziwe pochodzenie pozostaje nieznane. Uważa się, że zostały po raz pierwszy stworzone przez magów z Netherilu.
+
+Kostur czarów, który właśnie trzymasz w dłoni, stanowi szczyt magicznego rzemiosła. Jest dziełem sztuki, będącym owocem wiedzy, badań i eksperymentów wielu pokoleń magów. Zawarte w nim zaklęcia czynią go zdolnym do zranienia dowolnego wroga, z wyjątkiem najpotężniejszych istot zamieszkujących Krainy.
+
+Ten egzemplarz Kostura czarów został naznaczony piętnem magicznej szkoły Przemian, dzięki czemu każdy zadany nim cios ma szansę spowolnić trafioną istotę. Ponadto, dodaje on do repertuaru właściciela zaklęcie Teleportacji.
+
+PARAMETRY:
+
+Specjalne:
+– 25% szans na rzucenie czaru Spowolnienie ruchów, po trafieniu
+
+Właściwości ładunków:
+– Przesunięcie fazowe, raz dziennie
+Przesunięcie fazowe: natychmiast przenosi rzucającego do dowolnego miejsca w zasięgu wzroku.
+
+Obrażenia (walka wręcz): 1k6 +3
+Obrażenia (dystansowe): 2k2 +3
+TraK0: +3
+Typ obrażeń (walka wręcz): obuchowe
+Typ obrażeń (dystansowe): magiczne
+Opóźnienie: 1
+Rodzaj biegłości: kij
+Typ broni: 2-ręczna
+Wymagania:
+– Siła: 5
+
+Waga: 4~
+
+@23=~Kostur ten jest jedną z najbardziej cenionych rzeczy, jaką może zdobyć mag. Jego niepowtarzalna konstrukcja pozwala mu strzelać pociskami czystej magicznej energii w dowolny cel znajdujący się w zasięgu 10 metrów. Przedmiot ten ładuje się samoczynnie, czerpiąc z otoczenia magiczną energię emanującą w naturalny sposób ze wszystkich użytkowników magii. Dzięki temu nigdy nie wyczerpie zgromadzonych ładunków, lecz może być używany jedynie przez magów i czarowników.
+
+Kształtem i konstrukcją kostur ten przypomina różdżkę magicznych pocisków. Posiada długi trzonek zakończony sporej wielkości klejnotem, z którego nieustannie emanuje magiczna energia. W odróżnieniu od delikatnej różdżki jest on jednak niezniszczalny. W trzonek wbudowany został również mechanizm kontrolny, który steruje uwalnianiem magicznych pocisków. Kostur może być dzięki temu używany jako broń do walki wręcz, jeśli tylko zajdzie taka potrzeba. W przeciwnym wypadku magiczne pociski uwalniane są zwykłym machnięciem.
+
+Kostury te są rzadkością na Wybrzeżu Mieczy, a ich prawdziwe pochodzenie pozostaje nieznane. Uważa się, że zostały po raz pierwszy stworzone przez magów z Netherilu.
+
+Kostur czarów, który właśnie trzymasz w dłoni, stanowi szczyt magicznego rzemiosła. Jest dziełem sztuki, będącym owocem wiedzy, badań i eksperymentów wielu pokoleń magów. Zawarte w nim zaklęcia czynią go zdolnym do zranienia dowolnego wroga, z wyjątkiem najpotężniejszych istot zamieszkujących Krainy.
+
+Ten egzemplarz Kostura czarów został naznaczony piętnem dzikiej magii, dzięki czemu odziedziczył część jej nieprzewidywalnej natury. Każdy zadany nim cios ma szansę objąć trafioną istotę działaniem raniącego zaklęcia, którego dokładna natura nie będzie jednak znana, dopóki nie zostanie ono rzucone. Ponadto, kostur dodaje do repertuaru właściciela czar, sprawiajacy że wybrana, posługująca się magią, istota dostaje się w obszar działania fali dzikiej energii.
+
+PARAMETRY:
+
+Specjalne:
+– 24% szans na rzucenie raniącego zaklęcia, po trafieniu
+
+Właściwości ładunków:
+– Uderzenie dzikiej energii, raz dziennie
+Uderzenie dzikiej energii: wszystkie czary rzucane przez cel w przeciągu pięciu kolejnych rund objęte są działaniem fali dzikiej energii.
+
+Obrażenia (walka wręcz): 1k6 +3
+Obrażenia (dystansowe): 2k2 +3
+TraK0: +3
+Typ obrażeń (walka wręcz): obuchowe
+Typ obrażeń (dystansowe): magiczne
+Opóźnienie: 1
+Rodzaj biegłości: kij
+Typ broni: 2-ręczna
+Wymagania:
+– Siła: 5
+
+Waga: 4~
+
+@24=~Kostur ten jest jedną z najbardziej cenionych rzeczy, jaką może zdobyć mag. Jego niepowtarzalna konstrukcja pozwala mu strzelać pociskami czystej magicznej energii w dowolny cel znajdujący się w zasięgu 10 metrów. Przedmiot ten ładuje się samoczynnie, czerpiąc z otoczenia magiczną energię emanującą w naturalny sposób ze wszystkich użytkowników magii. Dzięki temu nigdy nie wyczerpie zgromadzonych ładunków, lecz może być używany jedynie przez magów i czarowników.
+
+Kształtem i konstrukcją kostur ten przypomina różdżkę magicznych pocisków. Posiada długi trzonek zakończony sporej wielkości klejnotem, z którego nieustannie emanuje magiczna energia. W odróżnieniu od delikatnej różdżki jest on jednak niezniszczalny. W trzonek wbudowany został również mechanizm kontrolny, który steruje uwalnianiem magicznych pocisków. Kostur może być dzięki temu używany jako broń do walki wręcz, jeśli tylko zajdzie taka potrzeba. W przeciwnym wypadku magiczne pociski uwalniane są zwykłym machnięciem.
+
+Kostury te są rzadkością na Wybrzeżu Mieczy, a ich prawdziwe pochodzenie pozostaje nieznane. Uważa się, że zostały po raz pierwszy stworzone przez magów z Netherilu.
+
+Kostur czarów, który właśnie trzymasz w dłoni, stanowi szczyt magicznego rzemiosła. Jest dziełem sztuki, będącym owocem wiedzy, badań i eksperymentów wielu pokoleń magów. Zawarte w nim zaklęcia czynią go zdolnym do zranienia dowolnego wroga, z wyjątkiem najpotężniejszych istot zamieszkujących Krainy.
+
+Ten egzemplarz Kostura czarów został naznaczony piętnem smoczej magii, dzięki czemu każdy zadany nim cios ma szansę obdarzyć dzierżącą go osobę olbrzymią siłą, pozwalającą jej uderzać z siłą smoka, w wyniku czego trafiona istota zostaje odepchnięta i traci przytomność. Ponadto, dodaje on do repertuaru właściciela zaklęcie Smoczy strach.
+
+PARAMETRY:
+
+Specjalne:
+– 25% szans na rzucenie czaru Uderzenie skrzydeł, po trafieniu
+Uderzenie skrzydeł: cel zostaje odepchnięty i traci przytomność na jedną rundę.
+
+Właściwości ładunków:
+– Smoczy strach, raz dziennie
+Smoczy strach: Wszyscy wrogowie znajdujący się w promieniu 13 metrów uciekają ze strachu (rzut obronny przeciw czarom z modyfikatorem -4 neguje). Niektóre istoty, takie jak nieumarli, są odporne na efekty wywołujące strach.
+
+Obrażenia (walka wręcz): 1k6 +3
+Obrażenia (dystansowe): 2k2 +3
+TraK0: +3
+Typ obrażeń (walka wręcz): obuchowe
+Typ obrażeń (dystansowe): magiczne
+Opóźnienie: 1
+Rodzaj biegłości: kij
+Typ broni: 2-ręczna
+Wymagania:
+– Siła: 5
+
+Waga: 4~
+
+@25=~Poznanie wroga~
+
+@26=~Zaćmienie~
+
+@27=~Uderzenie dzikiej energii~
+
+@28=~Dystansowy~
+
+@29=~Teleportacja~
+
+@30=~Kostur ten jest jedną z najbardziej cenionych rzeczy, jaką może zdobyć mag. Jego niepowtarzalna konstrukcja pozwala mu strzelać pociskami czystej magicznej energii w dowolny cel znajdujący się w zasięgu 10 metrów. Przedmiot ten ładuje się samoczynnie, czerpiąc z otoczenia magiczną energię emanującą w naturalny sposób ze wszystkich użytkowników magii. Dzięki temu nigdy nie wyczerpie zgromadzonych ładunków, lecz może być używany jedynie przez magów i czarowników.
+
+Kształtem i konstrukcją kostur ten przypomina różdżkę magicznych pocisków. Posiada długi trzonek zakończony sporej wielkości klejnotem, z którego nieustannie emanuje magiczna energia. W odróżnieniu od delikatnej różdżki jest on jednak niezniszczalny. W trzonek wbudowany został również mechanizm kontrolny, który steruje uwalnianiem magicznych pocisków. Kostur może być dzięki temu używany jako broń do walki wręcz, jeśli tylko zajdzie taka potrzeba. W przeciwnym wypadku magiczne pociski uwalniane są zwykłym machnięciem.
+
+Kostury te są rzadkością na Wybrzeżu Mieczy, a ich prawdziwe pochodzenie pozostaje nieznane. Uważa się, że zostały po raz pierwszy stworzone przez magów z Netherilu.
+
+Kostur czarów, który właśnie trzymasz w dłoni, stanowi szczyt magicznego rzemiosła. Jest dziełem sztuki, będącym owocem wiedzy, badań i eksperymentów wielu pokoleń magów. Zawarte w nim zaklęcia czynią go zdolnym do zranienia dowolnego wroga, z wyjątkiem najpotężniejszych istot zamieszkujących Krainy.
+
+Ten egzemplarz Kostura czarów nie został naznaczony piętnem żadnej konkretnej szkoły magii, lecz w zamian został aktywowany w taki sposób, by służyć celom zwykłych magów. W efekcie, jego właściciel zyskuje możliwość rzucenia dodatkowego, wybranego przez siebie zaklęcia.
+
+PARAMETRY:
+
+Specjalne:
+– Pozwala rzucić dowolny 5. poziomowy czar, raz dziennie
+
+Obrażenia (walka wręcz): 1k6 +3
+Obrażenia (dystansowe): 2k2 +3
+TraK0: +3
+Typ obrażeń (walka wręcz): obuchowe
+Typ obrażeń (dystansowe): magiczne
+Opóźnienie: 1
+Rodzaj biegłości: kij
+Typ broni: 2-ręczna
+Wymagania:
+– Siła: 5
+
+Waga: 4~
+
+@31=~Kostur czarów +5~
+
+@32=~Kostur odrzucania +5~
+
+@33=~Kostur sprowadzania +5~
+
+@34=~Kostur poznania +5~
+
+@35=~Kostur zaczarowań +5~
+
+@36=~Kostur iluzji +5~
+
+@37=~Kostur inwokacji +5~
+
+@38=~Kostur nekromancji +5~
+
+@39=~Kostur przemian +5~
+
+@40=~Kostur dzikiej magii +5~
+
+@41=~Kostur smoczej potęgi +5~
+
+@42=~Kostur ten jest jedną z najbardziej cenionych rzeczy, jaką może zdobyć mag. Jego niepowtarzalna konstrukcja pozwala mu strzelać pociskami czystej magicznej energii w dowolny cel znajdujący się w zasięgu 10 metrów. Przedmiot ten ładuje się samoczynnie, czerpiąc z otoczenia magiczną energię emanującą w naturalny sposób ze wszystkich użytkowników magii. Dzięki temu nigdy nie wyczerpie zgromadzonych ładunków, lecz może być używany jedynie przez magów i czarowników.
+
+Kształtem i konstrukcją kostur ten przypomina różdżkę magicznych pocisków. Posiada długi trzonek zakończony sporej wielkości klejnotem, z którego nieustannie emanuje magiczna energia. W odróżnieniu od delikatnej różdżki jest on jednak niezniszczalny. W trzonek wbudowany został również mechanizm kontrolny, który steruje uwalnianiem magicznych pocisków. Kostur może być dzięki temu używany jako broń do walki wręcz, jeśli tylko zajdzie taka potrzeba. W przeciwnym wypadku magiczne pociski uwalniane są zwykłym machnięciem.
+
+Kostury te są rzadkością na Wybrzeżu Mieczy, a ich prawdziwe pochodzenie pozostaje nieznane. Uważa się, że zostały po raz pierwszy stworzone przez magów z Netherilu.
+
+Kostur czarów, który właśnie trzymasz w dłoni, stanowi szczyt magicznego rzemiosła. Jest dziełem sztuki, będącym owocem wiedzy, badań i eksperymentów wielu pokoleń magów. Zawarte w nim zaklęcia czynią go zdolnym do zranienia dowolnego wroga, z wyjątkiem najpotężniejszych istot zamieszkujących Krainy.
+
+Ten egzemplarz Kostura czarów został naznaczony piętnem magicznej szkoły Odrzucania. Następnie połączono go z Odłamkiem z Netherilu, wzmacniając tym samym jego działanie. W efekcie, każdy zadany nim cios ma zwiększoną szansę na rozproszenie zaklęć chroniących trafioną istotę. Ponadto, dodaje on do repertuaru właściciela dwa dodatkowe zaklęcia ze szkoły Odrzucania.
+
+PARAMETRY:
+
+Specjalne:
+– 35% szans na rzucenie czaru Zbicie czaru, po trafieniu
+
+Właściwości ładunków:
+– Mniejsze odbicie czaru, raz dziennie
+– Przebicie tarczy, raz dziennie
+
+Obrażenia (walka wręcz): 1k6 +5
+Obrażenia (dystansowe): 2k2 +5
+TraK0: +5
+Typ obrażeń (walka wręcz): obuchowe
+Typ obrażeń (dystansowe): magiczne
+Opóźnienie: 1
+Rodzaj biegłości: kij
+Typ broni: 2-ręczna
+Wymagania:
+– Siła: 5
+
+Waga: 4~
+
+@43=~Kostur ten jest jedną z najbardziej cenionych rzeczy, jaką może zdobyć mag. Jego niepowtarzalna konstrukcja pozwala mu strzelać pociskami czystej magicznej energii w dowolny cel znajdujący się w zasięgu 10 metrów. Przedmiot ten ładuje się samoczynnie, czerpiąc z otoczenia magiczną energię emanującą w naturalny sposób ze wszystkich użytkowników magii. Dzięki temu nigdy nie wyczerpie zgromadzonych ładunków, lecz może być używany jedynie przez magów i czarowników.
+
+Kształtem i konstrukcją kostur ten przypomina różdżkę magicznych pocisków. Posiada długi trzonek zakończony sporej wielkości klejnotem, z którego nieustannie emanuje magiczna energia. W odróżnieniu od delikatnej różdżki jest on jednak niezniszczalny. W trzonek wbudowany został również mechanizm kontrolny, który steruje uwalnianiem magicznych pocisków. Kostur może być dzięki temu używany jako broń do walki wręcz, jeśli tylko zajdzie taka potrzeba. W przeciwnym wypadku magiczne pociski uwalniane są zwykłym machnięciem.
+
+Kostury te są rzadkością na Wybrzeżu Mieczy, a ich prawdziwe pochodzenie pozostaje nieznane. Uważa się, że zostały po raz pierwszy stworzone przez magów z Netherilu.
+
+Kostur czarów, który właśnie trzymasz w dłoni, stanowi szczyt magicznego rzemiosła. Jest dziełem sztuki, będącym owocem wiedzy, badań i eksperymentów wielu pokoleń magów. Zawarte w nim zaklęcia czynią go zdolnym do zranienia dowolnego wroga, z wyjątkiem najpotężniejszych istot zamieszkujących Krainy.
+
+Ten egzemplarz Kostura czarów został naznaczony piętnem magicznej szkoły Sprowadzania. Następnie połączono go z Odłamkiem z Netherilu, wzmacniając tym samym jego działanie. W efekcie, każdy zadany nim cios ma zwiększoną szansę na zesłanie na trafioną istotę zabójczego roju insektów. Ponadto, dodaje on do repertuaru właściciela dwa dodatkowe zaklęcia ze szkoły Sprowadzania.
+
+PARAMETRY:
+
+Specjalne:
+– 35% szans na rzucenie czaru Wezwanie owadów, po trafieniu
+
+Właściwości ładunków:
+– Przywołanie potwora III, raz dziennie
+– Przywołanie ognistego olbrzyma, raz dziennie
+Przywołanie ognistego olbrzyma: przyzywa ognistego olbrzyma, który będzie walczył u boku czarującego przez piętnaście rund lub dopóki nie zostanie zabity.
+
+Obrażenia (walka wręcz): 1k6 +5
+Obrażenia (dystansowe): 2k2 +5
+TraK0: +5
+Typ obrażeń (walka wręcz): obuchowe
+Typ obrażeń (dystansowe): magiczne
+Opóźnienie: 1
+Rodzaj biegłości: kij
+Typ broni: 2-ręczna
+Wymagania:
+– Siła: 5
+
+Waga: 4~
+
+@44=~Kostur ten jest jedną z najbardziej cenionych rzeczy, jaką może zdobyć mag. Jego niepowtarzalna konstrukcja pozwala mu strzelać pociskami czystej magicznej energii w dowolny cel znajdujący się w zasięgu 10 metrów. Przedmiot ten ładuje się samoczynnie, czerpiąc z otoczenia magiczną energię emanującą w naturalny sposób ze wszystkich użytkowników magii. Dzięki temu nigdy nie wyczerpie zgromadzonych ładunków, lecz może być używany jedynie przez magów i czarowników.
+
+Kształtem i konstrukcją kostur ten przypomina różdżkę magicznych pocisków. Posiada długi trzonek zakończony sporej wielkości klejnotem, z którego nieustannie emanuje magiczna energia. W odróżnieniu od delikatnej różdżki jest on jednak niezniszczalny. W trzonek wbudowany został również mechanizm kontrolny, który steruje uwalnianiem magicznych pocisków. Kostur może być dzięki temu używany jako broń do walki wręcz, jeśli tylko zajdzie taka potrzeba. W przeciwnym wypadku magiczne pociski uwalniane są zwykłym machnięciem.
+
+Kostury te są rzadkością na Wybrzeżu Mieczy, a ich prawdziwe pochodzenie pozostaje nieznane. Uważa się, że zostały po raz pierwszy stworzone przez magów z Netherilu.
+
+Kostur czarów, który właśnie trzymasz w dłoni, stanowi szczyt magicznego rzemiosła. Jest dziełem sztuki, będącym owocem wiedzy, badań i eksperymentów wielu pokoleń magów. Zawarte w nim zaklęcia czynią go zdolnym do zranienia dowolnego wroga, z wyjątkiem najpotężniejszych istot zamieszkujących Krainy.
+
+Ten egzemplarz Kostura czarów został naznaczony piętnem magicznej szkoły Poznania. Następnie połączono go z Odłamkiem z Netherilu, wzmacniając tym samym jego działanie. W efekcie, każdy zadany nim cios ma zwiększoną szansę na obnażenie słabości trafionej istoty. Ponadto, dodaje on do repertuaru właściciela dwa dodatkowe zaklęcia ze szkoły Poznania.
+
+PARAMETRY:
+
+Specjalne:
+– 35% szans na rzucenie czaru Poznanie wroga, po trafieniu
+Poznanie wroga: KP, TraK0 i rzuty obronne zostają obniżone o 3 na dziesięć rund.
+
+Właściwości ładunków:
+– Wyrocznia, raz dziennie
+– Przewidywanie, raz dziennie
+Przewidywanie: rzucający otrzymuje na okres pięciu rund premię +6 do KP, -6 do TraK0 i +3 do wszystkich rzutów obronnych, a ponadto staje się niewrażliwy na cios w plecy oraz zwykłe pociski.
+
+Obrażenia (walka wręcz): 1k6 +5
+Obrażenia (dystansowe): 2k2 +5
+TraK0: +5
+Typ obrażeń (walka wręcz): obuchowe
+Typ obrażeń (dystansowe): magiczne
+Opóźnienie: 1
+Rodzaj biegłości: kij
+Typ broni: 2-ręczna
+Wymagania:
+– Siła: 5
+
+Waga: 4~
+
+@45=~Kostur ten jest jedną z najbardziej cenionych rzeczy, jaką może zdobyć mag. Jego niepowtarzalna konstrukcja pozwala mu strzelać pociskami czystej magicznej energii w dowolny cel znajdujący się w zasięgu 10 metrów. Przedmiot ten ładuje się samoczynnie, czerpiąc z otoczenia magiczną energię emanującą w naturalny sposób ze wszystkich użytkowników magii. Dzięki temu nigdy nie wyczerpie zgromadzonych ładunków, lecz może być używany jedynie przez magów i czarowników.
+
+Kształtem i konstrukcją kostur ten przypomina różdżkę magicznych pocisków. Posiada długi trzonek zakończony sporej wielkości klejnotem, z którego nieustannie emanuje magiczna energia. W odróżnieniu od delikatnej różdżki jest on jednak niezniszczalny. W trzonek wbudowany został również mechanizm kontrolny, który steruje uwalnianiem magicznych pocisków. Kostur może być dzięki temu używany jako broń do walki wręcz, jeśli tylko zajdzie taka potrzeba. W przeciwnym wypadku magiczne pociski uwalniane są zwykłym machnięciem.
+
+Kostury te są rzadkością na Wybrzeżu Mieczy, a ich prawdziwe pochodzenie pozostaje nieznane. Uważa się, że zostały po raz pierwszy stworzone przez magów z Netherilu.
+
+Kostur czarów, który właśnie trzymasz w dłoni, stanowi szczyt magicznego rzemiosła. Jest dziełem sztuki, będącym owocem wiedzy, badań i eksperymentów wielu pokoleń magów. Zawarte w nim zaklęcia czynią go zdolnym do zranienia dowolnego wroga, z wyjątkiem najpotężniejszych istot zamieszkujących Krainy.
+
+Ten egzemplarz Kostura czarów został naznaczony piętnem magicznej szkoły Zaczarowań. Następnie połączono go z Odłamkiem z Netherilu, wzmacniając tym samym jego działanie. W efekcie, każdy zadany nim cios ma zwiększoną szansę na unieruchomienie trafionej istoty. Ponadto, dodaje on do repertuaru właściciela dwa dodatkowe zaklęcia ze szkoły Zaczarowań.
+
+PARAMETRY:
+
+Specjalne:
+– 35% szans na rzucenie czaru Bezmyślność, po trafieniu
+
+Właściwości ładunków:
+– Unieruchomienie potwora, raz dziennie
+– Zniewolenie, raz dziennie
+Zniewolenie: cel, któremu nie w powiedzie się rzut obronny przeciw czarom z modyfikatorem -2, dostaje się na zawsze pod całkowitą kontrolę rzucającego i traktowany jest jak członek drużyny. Oprócz tego czar ten ignoruje zaklęcia osłaniające umysł.
+
+Obrażenia (walka wręcz): 1k6 +5
+Obrażenia (dystansowe): 2k2 +5
+TraK0: +5
+Typ obrażeń (walka wręcz): obuchowe
+Typ obrażeń (dystansowe): magiczne
+Opóźnienie: 1
+Rodzaj biegłości: kij
+Typ broni: 2-ręczna
+Wymagania:
+– Siła: 5
+
+Waga: 4~
+
+@46=~Kostur ten jest jedną z najbardziej cenionych rzeczy, jaką może zdobyć mag. Jego niepowtarzalna konstrukcja pozwala mu strzelać pociskami czystej magicznej energii w dowolny cel znajdujący się w zasięgu 10 metrów. Przedmiot ten ładuje się samoczynnie, czerpiąc z otoczenia magiczną energię emanującą w naturalny sposób ze wszystkich użytkowników magii. Dzięki temu nigdy nie wyczerpie zgromadzonych ładunków, lecz może być używany jedynie przez magów i czarowników.
+
+Kształtem i konstrukcją kostur ten przypomina różdżkę magicznych pocisków. Posiada długi trzonek zakończony sporej wielkości klejnotem, z którego nieustannie emanuje magiczna energia. W odróżnieniu od delikatnej różdżki jest on jednak niezniszczalny. W trzonek wbudowany został również mechanizm kontrolny, który steruje uwalnianiem magicznych pocisków. Kostur może być dzięki temu używany jako broń do walki wręcz, jeśli tylko zajdzie taka potrzeba. W przeciwnym wypadku magiczne pociski uwalniane są zwykłym machnięciem.
+
+Kostury te są rzadkością na Wybrzeżu Mieczy, a ich prawdziwe pochodzenie pozostaje nieznane. Uważa się, że zostały po raz pierwszy stworzone przez magów z Netherilu.
+
+Kostur czarów, który właśnie trzymasz w dłoni, stanowi szczyt magicznego rzemiosła. Jest dziełem sztuki, będącym owocem wiedzy, badań i eksperymentów wielu pokoleń magów. Zawarte w nim zaklęcia czynią go zdolnym do zranienia dowolnego wroga, z wyjątkiem najpotężniejszych istot zamieszkujących Krainy.
+
+Ten egzemplarz Kostura czarów został naznaczony piętnem magicznej szkoły Iluzji. Następnie połączono go z Odłamkiem z Netherilu, wzmacniając tym samym jego działanie. W efekcie, każdy zadany nim cios ma zwiększoną szansę na osłabienie podstawowych zmysłów trafionej istoty. Ponadto, dodaje on do repertuaru właściciela dwa dodatkowe zaklęcia ze szkoły Iluzji.
+
+PARAMETRY:
+
+Specjalne:
+– 35% szans na rzucenie czaru Zaburzenie zmysłów, po trafieniu
+Zaburzenie zmysłów: cel znajduje się przez dziesięć rund pod wpływem czarów Oślepienie i Głuchota (rzut obronny przeciw czarom z modyfikatorem -1 neguje).
+
+Właściwości ładunków:
+– Drzwi z cienia, raz dziennie
+– Mamidło, raz dziennie
+
+Obrażenia (walka wręcz): 1k6 +5
+Obrażenia (dystansowe): 2k2 +5
+TraK0: +5
+Typ obrażeń (walka wręcz): obuchowe
+Typ obrażeń (dystansowe): magiczne
+Opóźnienie: 1
+Rodzaj biegłości: kij
+Typ broni: 2-ręczna
+Wymagania:
+– Siła: 5
+
+Waga: 4~
+
+@47=~Kostur ten jest jedną z najbardziej cenionych rzeczy, jaką może zdobyć mag. Jego niepowtarzalna konstrukcja pozwala mu strzelać pociskami czystej magicznej energii w dowolny cel znajdujący się w zasięgu 10 metrów. Przedmiot ten ładuje się samoczynnie, czerpiąc z otoczenia magiczną energię emanującą w naturalny sposób ze wszystkich użytkowników magii. Dzięki temu nigdy nie wyczerpie zgromadzonych ładunków, lecz może być używany jedynie przez magów i czarowników.
+
+Kształtem i konstrukcją kostur ten przypomina różdżkę magicznych pocisków. Posiada długi trzonek zakończony sporej wielkości klejnotem, z którego nieustannie emanuje magiczna energia. W odróżnieniu od delikatnej różdżki jest on jednak niezniszczalny. W trzonek wbudowany został również mechanizm kontrolny, który steruje uwalnianiem magicznych pocisków. Kostur może być dzięki temu używany jako broń do walki wręcz, jeśli tylko zajdzie taka potrzeba. W przeciwnym wypadku magiczne pociski uwalniane są zwykłym machnięciem.
+
+Kostury te są rzadkością na Wybrzeżu Mieczy, a ich prawdziwe pochodzenie pozostaje nieznane. Uważa się, że zostały po raz pierwszy stworzone przez magów z Netherilu.
+
+Kostur czarów, który właśnie trzymasz w dłoni, stanowi szczyt magicznego rzemiosła. Jest dziełem sztuki, będącym owocem wiedzy, badań i eksperymentów wielu pokoleń magów. Zawarte w nim zaklęcia czynią go zdolnym do zranienia dowolnego wroga, z wyjątkiem najpotężniejszych istot zamieszkujących Krainy.
+
+Ten egzemplarz Kostura czarów został naznaczony piętnem magicznej szkoły Inwokacji. Następnie połączono go z Odłamkiem z Netherilu, wzmacniając tym samym jego działanie. W efekcie, każdy zadany nim cios ma zwiększoną szansę na porażenie trafionej istoty błyskawicą. Ponadto, dodaje on do repertuaru właściciela dwa dodatkowe zaklęcia ze szkoły Inwokacji.
+
+PARAMETRY:
+
+Specjalne:
+– 35% szans na rzucenie czaru Błyskawica, po trafieniu (wpływa tylko na wybrany cel)
+
+Właściwości ładunków:
+– Zabójcza chmura, raz dziennie
+– Zapalająca chmura, raz dziennie
+
+Obrażenia (walka wręcz): 1k6 +5
+Obrażenia (dystansowe): 2k2 +5
+TraK0: +5
+Typ obrażeń (walka wręcz): obuchowe
+Typ obrażeń (dystansowe): magiczne
+Opóźnienie: 1
+Rodzaj biegłości: kij
+Typ broni: 2-ręczna
+Wymagania:
+– Siła: 5
+
+Waga: 4~
+
+@48=~Kostur ten jest jedną z najbardziej cenionych rzeczy, jaką może zdobyć mag. Jego niepowtarzalna konstrukcja pozwala mu strzelać pociskami czystej magicznej energii w dowolny cel znajdujący się w zasięgu 10 metrów. Przedmiot ten ładuje się samoczynnie, czerpiąc z otoczenia magiczną energię emanującą w naturalny sposób ze wszystkich użytkowników magii. Dzięki temu nigdy nie wyczerpie zgromadzonych ładunków, lecz może być używany jedynie przez magów i czarowników.
+
+Kształtem i konstrukcją kostur ten przypomina różdżkę magicznych pocisków. Posiada długi trzonek zakończony sporej wielkości klejnotem, z którego nieustannie emanuje magiczna energia. W odróżnieniu od delikatnej różdżki jest on jednak niezniszczalny. W trzonek wbudowany został również mechanizm kontrolny, który steruje uwalnianiem magicznych pocisków. Kostur może być dzięki temu używany jako broń do walki wręcz, jeśli tylko zajdzie taka potrzeba. W przeciwnym wypadku magiczne pociski uwalniane są zwykłym machnięciem.
+
+Kostury te są rzadkością na Wybrzeżu Mieczy, a ich prawdziwe pochodzenie pozostaje nieznane. Uważa się, że zostały po raz pierwszy stworzone przez magów z Netherilu.
+
+Kostur czarów, który właśnie trzymasz w dłoni, stanowi szczyt magicznego rzemiosła. Jest dziełem sztuki, będącym owocem wiedzy, badań i eksperymentów wielu pokoleń magów. Zawarte w nim zaklęcia czynią go zdolnym do zranienia dowolnego wroga, z wyjątkiem najpotężniejszych istot zamieszkujących Krainy.
+
+Ten egzemplarz Kostura czarów został naznaczony piętnem magicznej szkoły Nekromancji. Następnie połączono go z Odłamkiem z Netherilu, wzmacniając tym samym jego działanie. W efekcie, każdy zadany nim cios ma zwiększoną szansę na wyssanie sił życiowych z trafionej istoty. Ponadto, dodaje on do repertuaru właściciela dwa dodatkowe zaklęcia ze szkoły Nekromancji.
+
+PARAMETRY:
+
+Specjalne:
+– 35% szans na rzucenie czaru Wampiryczne dotknięcie, po trafieniu
+
+Właściwości ładunków:
+– Animacja martwego, raz dziennie
+– Plugawy uwiąd Abi-Dalzima, raz dziennie
+
+Obrażenia (walka wręcz): 1k6 +5
+Obrażenia (dystansowe): 2k2 +5
+TraK0: +5
+Typ obrażeń (walka wręcz): obuchowe
+Typ obrażeń (dystansowe): magiczne
+Opóźnienie: 1
+Rodzaj biegłości: kij
+Typ broni: 2-ręczna
+Wymagania:
+– Siła: 5
+
+Waga: 4~
+
+@49=~Kostur ten jest jedną z najbardziej cenionych rzeczy, jaką może zdobyć mag. Jego niepowtarzalna konstrukcja pozwala mu strzelać pociskami czystej magicznej energii w dowolny cel znajdujący się w zasięgu 10 metrów. Przedmiot ten ładuje się samoczynnie, czerpiąc z otoczenia magiczną energię emanującą w naturalny sposób ze wszystkich użytkowników magii. Dzięki temu nigdy nie wyczerpie zgromadzonych ładunków, lecz może być używany jedynie przez magów i czarowników.
+
+Kształtem i konstrukcją kostur ten przypomina różdżkę magicznych pocisków. Posiada długi trzonek zakończony sporej wielkości klejnotem, z którego nieustannie emanuje magiczna energia. W odróżnieniu od delikatnej różdżki jest on jednak niezniszczalny. W trzonek wbudowany został również mechanizm kontrolny, który steruje uwalnianiem magicznych pocisków. Kostur może być dzięki temu używany jako broń do walki wręcz, jeśli tylko zajdzie taka potrzeba. W przeciwnym wypadku magiczne pociski uwalniane są zwykłym machnięciem.
+
+Kostury te są rzadkością na Wybrzeżu Mieczy, a ich prawdziwe pochodzenie pozostaje nieznane. Uważa się, że zostały po raz pierwszy stworzone przez magów z Netherilu.
+
+Kostur czarów, który właśnie trzymasz w dłoni, stanowi szczyt magicznego rzemiosła. Jest dziełem sztuki, będącym owocem wiedzy, badań i eksperymentów wielu pokoleń magów. Zawarte w nim zaklęcia czynią go zdolnym do zranienia dowolnego wroga, z wyjątkiem najpotężniejszych istot zamieszkujących Krainy.
+
+Ten egzemplarz Kostura czarów został naznaczony piętnem magicznej szkoły Przemian. Następnie połączono go z Odłamkiem z Netherilu, wzmacniając tym samym jego działanie. W efekcie, każdy zadany nim cios ma zwiększoną szansę na spowolnienie trafionej istoty. Ponadto, dodaje on do repertuaru właściciela dwa dodatkowe zaklęcia ze szkoły Przemian.
+
+PARAMETRY:
+
+Specjalne:
+– 35% szans na rzucenie czaru Spowolnienie ruchów, po trafieniu
+
+Właściwości ładunków:
+– Przesunięcie fazowe, raz dziennie
+– Masowe polimorfowanie innego, raz dziennie
+Przesunięcie fazowe: natychmiast przenosi rzucającego do dowolnego miejsca w zasięgu wzroku.
+Masowe polimorfowanie innego: Podobnie jak Polimorfowanie innego, ale działa na obszarze o promieniu 10 metrów, zaś wszyscy wrogowie muszą wykonać rzut obronny przeciw czarom z modyfikatorem -2.
+
+Obrażenia (walka wręcz): 1k6 +5
+Obrażenia (dystansowe): 2k2 +5
+TraK0: +5
+Typ obrażeń (walka wręcz): obuchowe
+Typ obrażeń (dystansowe): magiczne
+Opóźnienie: 1
+Rodzaj biegłości: kij
+Typ broni: 2-ręczna
+Wymagania:
+– Siła: 5
+
+Waga: 4~
+
+@50=~Kostur ten jest jedną z najbardziej cenionych rzeczy, jaką może zdobyć mag. Jego niepowtarzalna konstrukcja pozwala mu strzelać pociskami czystej magicznej energii w dowolny cel znajdujący się w zasięgu 10 metrów. Przedmiot ten ładuje się samoczynnie, czerpiąc z otoczenia magiczną energię emanującą w naturalny sposób ze wszystkich użytkowników magii. Dzięki temu nigdy nie wyczerpie zgromadzonych ładunków, lecz może być używany jedynie przez magów i czarowników.
+
+Kształtem i konstrukcją kostur ten przypomina różdżkę magicznych pocisków. Posiada długi trzonek zakończony sporej wielkości klejnotem, z którego nieustannie emanuje magiczna energia. W odróżnieniu od delikatnej różdżki jest on jednak niezniszczalny. W trzonek wbudowany został również mechanizm kontrolny, który steruje uwalnianiem magicznych pocisków. Kostur może być dzięki temu używany jako broń do walki wręcz, jeśli tylko zajdzie taka potrzeba. W przeciwnym wypadku magiczne pociski uwalniane są zwykłym machnięciem.
+
+Kostury te są rzadkością na Wybrzeżu Mieczy, a ich prawdziwe pochodzenie pozostaje nieznane. Uważa się, że zostały po raz pierwszy stworzone przez magów z Netherilu.
+
+Kostur czarów, który właśnie trzymasz w dłoni, stanowi szczyt magicznego rzemiosła. Jest dziełem sztuki, będącym owocem wiedzy, badań i eksperymentów wielu pokoleń magów. Zawarte w nim zaklęcia czynią go zdolnym do zranienia dowolnego wroga, z wyjątkiem najpotężniejszych istot zamieszkujących Krainy.
+
+Ten egzemplarz Kostura czarów został naznaczony piętnem dzikiej magii, dzięki czemu odziedziczył część jej nieprzewidywalnej natury. Następnie połączono go z Odłamkiem z Netherilu, wzmacniając tym samym jego działanie. W efekcie, każdy zadany nim cios ma zwiększoną szansę na objęcie trafionej istoty działaniem raniącego zaklęcia, którego dokładna natura nie będzie jednak znana, dopóki nie zostanie ono rzucone. Ponadto, kostur dodaje do repertuaru właściciela nowe zaklęcia dzikiej magii.
+
+PARAMETRY:
+
+Specjalne:
+– 35% szans na rzucenie raniącego zaklęcia, po trafieniu
+
+Właściwości ładunków:
+– Uderzenie dzikiej energii, raz dziennie
+– Sfera dzikiej energii, raz dziennie
+Uderzenie dzikiej energii: wszystkie czary rzucane przez cel w przeciągu pięciu kolejnych rund objęte są działaniem fali dzikiej energii.
+Sfera dzikiej energii: wszystkie istoty w promieniu 10 metrów objęte są działaniem fali dzikiej energii przez pięć rund.
+
+Obrażenia (walka wręcz): 1k6 +5
+Obrażenia (dystansowe): 2k2 +5
+TraK0: +5
+Typ obrażeń (walka wręcz): obuchowe
+Typ obrażeń (dystansowe): magiczne
+Opóźnienie: 1
+Rodzaj biegłości: kij
+Typ broni: 2-ręczna
+Wymagania:
+– Siła: 5
+
+Waga: 4~
+
+@51=~Kostur ten jest jedną z najbardziej cenionych rzeczy, jaką może zdobyć mag. Jego niepowtarzalna konstrukcja pozwala mu strzelać pociskami czystej magicznej energii w dowolny cel znajdujący się w zasięgu 10 metrów. Przedmiot ten ładuje się samoczynnie, czerpiąc z otoczenia magiczną energię emanującą w naturalny sposób ze wszystkich użytkowników magii. Dzięki temu nigdy nie wyczerpie zgromadzonych ładunków, lecz może być używany jedynie przez magów i czarowników.
+
+Kształtem i konstrukcją kostur ten przypomina różdżkę magicznych pocisków. Posiada długi trzonek zakończony sporej wielkości klejnotem, z którego nieustannie emanuje magiczna energia. W odróżnieniu od delikatnej różdżki jest on jednak niezniszczalny. W trzonek wbudowany został również mechanizm kontrolny, który steruje uwalnianiem magicznych pocisków. Kostur może być dzięki temu używany jako broń do walki wręcz, jeśli tylko zajdzie taka potrzeba. W przeciwnym wypadku magiczne pociski uwalniane są zwykłym machnięciem.
+
+Kostury te są rzadkością na Wybrzeżu Mieczy, a ich prawdziwe pochodzenie pozostaje nieznane. Uważa się, że zostały po raz pierwszy stworzone przez magów z Netherilu.
+
+Kostur czarów, który właśnie trzymasz w dłoni, stanowi szczyt magicznego rzemiosła. Jest dziełem sztuki, będącym owocem wiedzy, badań i eksperymentów wielu pokoleń magów. Zawarte w nim zaklęcia czynią go zdolnym do zranienia dowolnego wroga, z wyjątkiem najpotężniejszych istot zamieszkujących Krainy.
+
+Ten egzemplarz Kostura czarów został naznaczony piętnem smoczej magii. Następnie połączono go z Odłamkiem z Netherilu, wzmacniając tym samym jego działanie. W efekcie, każdy zadany nim cios ma zwiększoną szansę na obdarzenie dzierżącej go osoby olbrzymią siłą, pozwalającą jej uderzać z siłą smoka, w wyniku czego trafiona istota zostaje odepchnięta i traci przytomność. Ponadto, dodaje on do repertuaru właściciela nowe smocze moce.
+
+PARAMETRY:
+
+Specjalne:
+– 35% szans na rzucenie czaru Uderzenie skrzydeł, po trafieniu
+Uderzenie skrzydeł: cel zostaje odepchnięty i traci przytomność na jedną rundę.
+
+Właściwości ładunków:
+– Smoczy strach, raz dziennie
+– Pomniejsza smocza forma, raz dziennie
+Smoczy strach: wszyscy wrogowie znajdujący się w promieniu 13 metrów uciekają ze strachu (rzut obronny przeciw czarom z modyfikatorem -4 neguje). Niektóre istoty, takie jak nieumarli, są odporne na efekty wywołujące strach.
+Pomniejsza smocza forma: rzucający zostaje na dwie tury przemieniony w małego smoka, otrzymując znaczne premie do walki wręcz.
+
+Obrażenia (walka wręcz): 1k6 +5
+Obrażenia (dystansowe): 2k2 +5
+TraK0: +5
+Typ obrażeń (walka wręcz): obuchowe
+Typ obrażeń (dystansowe): magiczne
+Opóźnienie: 1
+Rodzaj biegłości: kij
+Typ broni: 2-ręczna
+Wymagania:
+– Siła: 5
+
+Waga: 4~
+
+@52=~Kostur ten jest jedną z najbardziej cenionych rzeczy, jaką może zdobyć mag. Jego niepowtarzalna konstrukcja pozwala mu strzelać pociskami czystej magicznej energii w dowolny cel znajdujący się w zasięgu 10 metrów. Przedmiot ten ładuje się samoczynnie, czerpiąc z otoczenia magiczną energię emanującą w naturalny sposób ze wszystkich użytkowników magii. Dzięki temu nigdy nie wyczerpie zgromadzonych ładunków, lecz może być używany jedynie przez magów i czarowników.
+
+Kształtem i konstrukcją kostur ten przypomina różdżkę magicznych pocisków. Posiada długi trzonek zakończony sporej wielkości klejnotem, z którego nieustannie emanuje magiczna energia. W odróżnieniu od delikatnej różdżki jest on jednak niezniszczalny. W trzonek wbudowany został również mechanizm kontrolny, który steruje uwalnianiem magicznych pocisków. Kostur może być dzięki temu używany jako broń do walki wręcz, jeśli tylko zajdzie taka potrzeba. W przeciwnym wypadku magiczne pociski uwalniane są zwykłym machnięciem.
+
+Kostury te są rzadkością na Wybrzeżu Mieczy, a ich prawdziwe pochodzenie pozostaje nieznane. Uważa się, że zostały po raz pierwszy stworzone przez magów z Netherilu.
+
+Kostur czarów, który właśnie trzymasz w dłoni, stanowi szczyt magicznego rzemiosła. Jest dziełem sztuki, będącym owocem wiedzy, badań i eksperymentów wielu pokoleń magów. Zawarte w nim zaklęcia czynią go zdolnym do zranienia dowolnego wroga, z wyjątkiem najpotężniejszych istot zamieszkujących Krainy.
+
+Ten egzemplarz Kostura czarów nie został naznaczony piętnem żadnej konkretnej szkoły magii, lecz w zamian został aktywowany w taki sposób, by służyć celom zwykłych magów. Następnie połączono go z Odłamkiem z Netherilu, wzmacniając tym samym jego działanie. W efekcie, pozwala on właścicielowi na rzucenie dodatkowych, wybranych przez niego czarów.
+
+PARAMETRY:
+
+Specjalne:
+– Pozwala rzucić dowolny 5. poziomowy czar, raz dziennie
+– Pozwala rzucić dowolny 8. poziomowy czar, raz dziennie
+
+Obrażenia (walka wręcz): 1k6 +5
+Obrażenia (dystansowe): 2k2 +5
+TraK0: +5
+Typ obrażeń (walka wręcz): obuchowe
+Typ obrażeń (dystansowe): magiczne
+Opóźnienie: 1
+Rodzaj biegłości: kij
+Typ broni: 2-ręczna
+Wymagania:
+– Siła: 5
+
+Waga: 4~
+
+@53=~Sprowadzenie bagna~
+
+@54=~Przewidywanie~
+
+@55=~Zniewolenie~
+
+@56=~Masowe polimorfowanie innego~
+
+@57=~Sfera dzikiej energii~
+
+@58=~Pomniejsza smocza forma~
+
+@71=~Kostur czarodzieja~
+
+@72=~Kostur czarodzieja +1~
+
+@73=~Nie trzeba lat studiów nad sztukami tajemnymi by stwierdzić, że ten precyzyjnie wykonany kostur jest silnie zaczarowany. Kształtem i budową przypomina bardziej różdżkę, niż kij używany do walki. Jego precyzyjny mechanizm nie robi jednak na tobie wrażenia, czyniąc go niczym więcej, niż dekoracyjną błyskotką.
+
+PARAMETRY:
+
+Obrażenia: 1k6
+Tyo obrażeń: obuchowe
+Opóźnienie: 4
+Rodzaj biegłości: kij
+Typ broni: 2-ręczna
+Wymagania:
+– Siła: 5
+
+Waga: 4~
+
+@74=~Kostur ten jest jedną z najbardziej cenionych rzeczy, jaką może zdobyć mag. Jego niepowtarzalna konstrukcja pozwala mu strzelać pociskami czystej magicznej energii w dowolny cel znajdujący się w zasięgu 10 metrów. Przedmiot ten ładuje się samoczynnie, czerpiąc z otoczenia magiczną energię emanującą w naturalny sposób ze wszystkich użytkowników magii. Dzięki temu nigdy nie wyczerpie zgromadzonych ładunków, lecz może być używany jedynie przez magów i czarowników.
+
+Kształtem i konstrukcją kostur ten przypomina różdżkę magicznych pocisków. Posiada długi trzonek zakończony sporej wielkości klejnotem, z którego nieustannie emanuje magiczna energia. W odróżnieniu od delikatnej różdżki jest on jednak niezniszczalny. W trzonek wbudowany został również mechanizm kontrolny, który steruje uwalnianiem magicznych pocisków. Kostur może być dzięki temu używany jako broń do walki wręcz, jeśli tylko zajdzie taka potrzeba. W przeciwnym wypadku magiczne pociski uwalniane są zwykłym machnięciem.
+
+Kostury te są rzadkością na Wybrzeżu Mieczy, a ich prawdziwe pochodzenie pozostaje nieznane. Uważa się, że zostały po raz pierwszy stworzone przez magów z Netherilu. Pierwszy z nich odnaleziony został w netheryjskich ruinach przez jedną z grup badawczych. Intensywne badania przeprowadzone na znalezisku doprowadziły do stworzenia kilku jego kopii, choć technologia nasycania kostura magiczną aurą jego właściciela wciąż nie została do końca zrozumiana. W związku z tym, dalsze jego ulepszanie jest nadzwyczaj niebezpieczne, mimo iż chodzą słuchy, że poczyniono w tym kierunku pewien postęp.
+
+PARAMETRY:
+
+Obrażenia (walka wręcz): 1k6 +1
+Obrażenia (dystansowe): 2k2 +1
+TraK0: +1
+Typ obrażeń (walka wręcz): obuchowe
+Typ obrażeń (dystansowe): magiczne
+Opóźnienie: 3
+Rodzaj biegłości: kij
+Typ broni: 2-ręczna
+Wymagania:
+– Siła: 5
+
+Waga: 4~
+
+@75=~Kostur ten jest jedną z najbardziej cenionych rzeczy, jaką może zdobyć mag. Jego niepowtarzalna konstrukcja pozwala mu strzelać pociskami czystej magicznej energii w dowolny cel znajdujący się w zasięgu 10 metrów. Przedmiot ten ładuje się samoczynnie, czerpiąc z otoczenia magiczną energię emanującą w naturalny sposób ze wszystkich użytkowników magii. Dzięki temu nigdy nie wyczerpie zgromadzonych ładunków, lecz może być używany jedynie przez magów i czarowników.
+
+Kształtem i konstrukcją kostur ten przypomina różdżkę magicznych pocisków. Posiada długi trzonek zakończony sporej wielkości klejnotem, z którego nieustannie emanuje magiczna energia. W odróżnieniu od delikatnej różdżki jest on jednak niezniszczalny. W trzonek wbudowany został również mechanizm kontrolny, który steruje uwalnianiem magicznych pocisków. Kostur może być dzięki temu używany jako broń do walki wręcz, jeśli tylko zajdzie taka potrzeba. W przeciwnym wypadku magiczne pociski uwalniane są zwykłym machnięciem.
+
+Kostury te są rzadkością na Wybrzeżu Mieczy, a ich prawdziwe pochodzenie pozostaje nieznane. Uważa się, że zostały po raz pierwszy stworzone przez magów z Netherilu.
+
+Kostur czarów, który właśnie trzymasz w dłoni, stanowi szczyt magicznego rzemiosła. Jest dziełem sztuki, będącym owocem wiedzy, badań i eksperymentów wielu pokoleń magów.
+
+Najbardziej intrygującą właściwością kostura, jest jednakże możliwość odciśnięcia w nim magicznych zdolności jego właściciela. Aktywowany, zgłębia aurę dzierżącej go osoby, łącząc się z najsilniejszym aspektem jej magicznych mocy i zapewniając tym samym dodatkowe zdolności, związane z konkretną szkołą magii. Co więcej, aktywacja sprawia, że znacząco wzrasta również stopień umagicznienia kostura, pozwalając mu ranić wszystkich wrogów, z wyjątkiem najpotężnieszych istot w Krainach.
+
+PARAMETRY:
+
+Specjalne:
+Po osiągnięciu 250000 PD osoba władająca kosturem może aktywować poniższe efekty:
+– Mag specjalista może odcisnąć na kosturze piętno specjalizacji, obdarzając go dodatkowymi mocami związanymi z daną szkołą magii
+– Zwykły mag (w tym dwu lub wieloklasowiec) może albo ulepszyć kostur, obdarzając go dodatkowymi mocami, albo wybrać dowolną specjalizację, co w konsekwencji zmieni go w specjalistę wybranej szkoły magii i sprawi, że kostur zostanie obdarzony mocami tej szkoły
+Uzyskane efekty mają działanie stałe.
+– Kostur uzyskuje stopień umagicznienia +3
+
+Obrażenia (walka wręcz): 1k6 +1
+Obrażenia (dystansowe): 2k2 +1
+TraK0: +1
+Typ obrażeń (walka wręcz): obuchowe
+Typ obrażeń (dystansowe): magiczne
+Opóźnienie: 1
+Rodzaj biegłości: kij
+Typ broni: 2-ręczna
+Wymagania:
+– Siła: 5
+
+Waga: 4~
+
+@76=~Kostur ten jest jedną z najbardziej cenionych rzeczy, jaką może zdobyć mag. Jego niepowtarzalna konstrukcja pozwala mu strzelać pociskami czystej magicznej energii w dowolny cel znajdujący się w zasięgu 10 metrów. Przedmiot ten ładuje się samoczynnie, czerpiąc z otoczenia magiczną energię emanującą w naturalny sposób ze wszystkich użytkowników magii. Dzięki temu nigdy nie wyczerpie zgromadzonych ładunków, lecz może być używany jedynie przez magów i czarowników.
+
+Kształtem i konstrukcją kostur ten przypomina różdżkę magicznych pocisków. Posiada długi trzonek zakończony sporej wielkości klejnotem, z którego nieustannie emanuje magiczna energia. W odróżnieniu od delikatnej różdżki jest on jednak niezniszczalny. W trzonek wbudowany został również mechanizm kontrolny, który steruje uwalnianiem magicznych pocisków. Kostur może być dzięki temu używany jako broń do walki wręcz, jeśli tylko zajdzie taka potrzeba. W przeciwnym wypadku magiczne pociski uwalniane są zwykłym machnięciem.
+
+Kostury te są rzadkością na Wybrzeżu Mieczy, a ich prawdziwe pochodzenie pozostaje nieznane. Uważa się, że zostały po raz pierwszy stworzone przez magów z Netherilu.
+
+Kostur czarów, który właśnie trzymasz w dłoni, stanowi szczyt magicznego rzemiosła. Jest dziełem sztuki, będącym owocem wiedzy, badań i eksperymentów wielu pokoleń magów. Zawarte w nim zaklęcia pozwalają ranić wszystkich wrogów, z wyjątkiem najpotężnieszych istot w Krainach.
+
+Ten egzemplarz Kostura czarów został naznaczony piętnem magicznej szkoły Odrzucania, dzięki czemu każdy zadany nim cios ma szansę rozproszyć zaklęcia chroniące trafioną istotę. Ponadto, dodaje on do repertuaru właściciela zaklęcie Mniejszego odbicia czaru.
+
+PARAMETRY:
+
+Specjalne:
+– Po osiągnięciu 1000000 PD osoba władająca kosturem może ulepszyć kostur, zwiększając stopień umagicznienia do +5 oraz obdarzając go kolejnymi właściwościami
+– 25% szans na rzucenie zaklęcia Zbicie czaru, po trafieniu
+
+Właściwości ładunków:
+– Mniejsze odbicie czaru, raz dziennie
+
+Obrażenia (walka wręcz): 1k6 +3
+Obrażenia (dystansowe): 2k2 +3
+TraK0: +3
+Typ obrażeń (walka wręcz): obuchowe
+Typ obrażeń (dystansowe): magiczne
+Opóźnienie: 1
+Rodzaj biegłości: kij
+Typ broni: 2-ręczna
+Wymagania:
+– Siła: 5
+
+Waga: 4~
+
+@77=~Kostur ten jest jedną z najbardziej cenionych rzeczy, jaką może zdobyć mag. Jego niepowtarzalna konstrukcja pozwala mu strzelać pociskami czystej magicznej energii w dowolny cel znajdujący się w zasięgu 10 metrów. Przedmiot ten ładuje się samoczynnie, czerpiąc z otoczenia magiczną energię emanującą w naturalny sposób ze wszystkich użytkowników magii. Dzięki temu nigdy nie wyczerpie zgromadzonych ładunków, lecz może być używany jedynie przez magów i czarowników.
+
+Kształtem i konstrukcją kostur ten przypomina różdżkę magicznych pocisków. Posiada długi trzonek zakończony sporej wielkości klejnotem, z którego nieustannie emanuje magiczna energia. W odróżnieniu od delikatnej różdżki jest on jednak niezniszczalny. W trzonek wbudowany został również mechanizm kontrolny, który steruje uwalnianiem magicznych pocisków. Kostur może być dzięki temu używany jako broń do walki wręcz, jeśli tylko zajdzie taka potrzeba. W przeciwnym wypadku magiczne pociski uwalniane są zwykłym machnięciem.
+
+Kostury te są rzadkością na Wybrzeżu Mieczy, a ich prawdziwe pochodzenie pozostaje nieznane. Uważa się, że zostały po raz pierwszy stworzone przez magów z Netherilu.
+
+Kostur czarów, który właśnie trzymasz w dłoni, stanowi szczyt magicznego rzemiosła. Jest dziełem sztuki, będącym owocem wiedzy, badań i eksperymentów wielu pokoleń magów. Zawarte w nim zaklęcia pozwalają ranić wszystkich wrogów, z wyjątkiem najpotężnieszych istot w Krainach.
+
+Ten egzemplarz Kostura czarów został naznaczony piętnem magicznej szkoły Sprowadzania, dzięki czemu każdy zadany nim cios ma szansę zesłać na trafioną istotę zabójczy rój insektów. Ponadto, dodaje on do repertuaru właściciela zaklęcie Przywołania potwora III.
+
+PARAMETRY:
+
+Specjalne:
+– Po osiągnięciu 1000000 PD osoba władająca kosturem może ulepszyć kostur, zwiększając stopień umagicznienia do +5 oraz obdarzając go kolejnymi właściwościami
+– 25% szans na rzucenie zaklęcia Wezwanie owadów, po trafieniu
+
+Właściwości ładunków:
+– Przywołanie potwora III, raz dziennie
+
+Obrażenia (walka wręcz): 1k6 +3
+Obrażenia (dystansowe): 2k2 +3
+TraK0: +3
+Typ obrażeń (walka wręcz): obuchowe
+Typ obrażeń (dystansowe): magiczne
+Opóźnienie: 1
+Rodzaj biegłości: kij
+Typ broni: 2-ręczna
+Wymagania:
+– Siła: 5
+
+Waga: 4~
+
+@78=~Kostur ten jest jedną z najbardziej cenionych rzeczy, jaką może zdobyć mag. Jego niepowtarzalna konstrukcja pozwala mu strzelać pociskami czystej magicznej energii w dowolny cel znajdujący się w zasięgu 10 metrów. Przedmiot ten ładuje się samoczynnie, czerpiąc z otoczenia magiczną energię emanującą w naturalny sposób ze wszystkich użytkowników magii. Dzięki temu nigdy nie wyczerpie zgromadzonych ładunków, lecz może być używany jedynie przez magów i czarowników.
+
+Kształtem i konstrukcją kostur ten przypomina różdżkę magicznych pocisków. Posiada długi trzonek zakończony sporej wielkości klejnotem, z którego nieustannie emanuje magiczna energia. W odróżnieniu od delikatnej różdżki jest on jednak niezniszczalny. W trzonek wbudowany został również mechanizm kontrolny, który steruje uwalnianiem magicznych pocisków. Kostur może być dzięki temu używany jako broń do walki wręcz, jeśli tylko zajdzie taka potrzeba. W przeciwnym wypadku magiczne pociski uwalniane są zwykłym machnięciem.
+
+Kostury te są rzadkością na Wybrzeżu Mieczy, a ich prawdziwe pochodzenie pozostaje nieznane. Uważa się, że zostały po raz pierwszy stworzone przez magów z Netherilu.
+
+Kostur czarów, który właśnie trzymasz w dłoni, stanowi szczyt magicznego rzemiosła. Jest dziełem sztuki, będącym owocem wiedzy, badań i eksperymentów wielu pokoleń magów. Zawarte w nim zaklęcia pozwalają ranić wszystkich wrogów, z wyjątkiem najpotężnieszych istot w Krainach.
+
+Ten egzemplarz Kostura czarów został naznaczony piętnem magicznej szkoły Poznania, dzięki czemu każdy zadany nim cios ma szansę na obnażenie słabości trafionej istoty. Ponadto, dodaje on do repertuaru właściciela zaklęcie Wyroczni.
+
+PARAMETRY:
+
+Specjalne:
+– Po osiągnięciu 1000000 PD osoba władająca kosturem może ulepszyć kostur, zwiększając stopień umagicznienia do +5 oraz obdarzając go kolejnymi właściwościami
+– 25% szans na rzucenie czaru Poznanie wroga, po trafieniu
+Poznanie wroga: KP, TraK0 i rzuty obronne zostają obniżone o 3 na okres dziesięciu rund.
+
+Właściwości ładunków:
+– Wyrocznia, raz dziennie
+
+Obrażenia (walka wręcz): 1k6 +3
+Obrażenia (dystansowe): 2k2 +3
+TraK0: +3
+Typ obrażeń (walka wręcz): obuchowe
+Typ obrażeń (dystansowe): magiczne
+Opóźnienie: 1
+Rodzaj biegłości: kij
+Typ broni: 2-ręczna
+Wymagania:
+– Siła: 5
+
+Waga: 4~
+
+@79=~Kostur ten jest jedną z najbardziej cenionych rzeczy, jaką może zdobyć mag. Jego niepowtarzalna konstrukcja pozwala mu strzelać pociskami czystej magicznej energii w dowolny cel znajdujący się w zasięgu 10 metrów. Przedmiot ten ładuje się samoczynnie, czerpiąc z otoczenia magiczną energię emanującą w naturalny sposób ze wszystkich użytkowników magii. Dzięki temu nigdy nie wyczerpie zgromadzonych ładunków, lecz może być używany jedynie przez magów i czarowników.
+
+Kształtem i konstrukcją kostur ten przypomina różdżkę magicznych pocisków. Posiada długi trzonek zakończony sporej wielkości klejnotem, z którego nieustannie emanuje magiczna energia. W odróżnieniu od delikatnej różdżki jest on jednak niezniszczalny. W trzonek wbudowany został również mechanizm kontrolny, który steruje uwalnianiem magicznych pocisków. Kostur może być dzięki temu używany jako broń do walki wręcz, jeśli tylko zajdzie taka potrzeba. W przeciwnym wypadku magiczne pociski uwalniane są zwykłym machnięciem.
+
+Kostury te są rzadkością na Wybrzeżu Mieczy, a ich prawdziwe pochodzenie pozostaje nieznane. Uważa się, że zostały po raz pierwszy stworzone przez magów z Netherilu.
+
+Kostur czarów, który właśnie trzymasz w dłoni, stanowi szczyt magicznego rzemiosła. Jest dziełem sztuki, będącym owocem wiedzy, badań i eksperymentów wielu pokoleń magów. Zawarte w nim zaklęcia pozwalają ranić wszystkich wrogów, z wyjątkiem najpotężnieszych istot w Krainach.
+
+Ten egzemplarz Kostura czarów został naznaczony piętnem magicznej szkoły Zaczarowań, dzięki czemu każdy zadany nim cios ma szansę na unieruchomienie trafionej istoty. Ponadto, dodaje on do repertuaru właściciela zaklęcie Dominacji.
+
+PARAMETRY:
+
+Specjalne:
+– Po osiągnięciu 1000000 PD osoba władająca kosturem może ulepszyć kostur, zwiększając stopień umagicznienia do +5 oraz obdarzając go kolejnymi właściwościami
+– 25% szans na rzucenie czaru Bezmyślność, po trafieniu
+
+Właściwości ładunków:
+– Unieruchomienie potwora, raz dziennie
+
+Obrażenia (walka wręcz): 1k6 +3
+Obrażenia (dystansowe): 2k2 +3
+TraK0: +3
+Typ obrażeń (walka wręcz): obuchowe
+Typ obrażeń (dystansowe): magiczne
+Opóźnienie: 1
+Rodzaj biegłości: kij
+Typ broni: 2-ręczna
+Wymagania:
+– Siła: 5
+
+Waga: 4~
+
+@80=~Kostur ten jest jedną z najbardziej cenionych rzeczy, jaką może zdobyć mag. Jego niepowtarzalna konstrukcja pozwala mu strzelać pociskami czystej magicznej energii w dowolny cel znajdujący się w zasięgu 10 metrów. Przedmiot ten ładuje się samoczynnie, czerpiąc z otoczenia magiczną energię emanującą w naturalny sposób ze wszystkich użytkowników magii. Dzięki temu nigdy nie wyczerpie zgromadzonych ładunków, lecz może być używany jedynie przez magów i czarowników.
+
+Kształtem i konstrukcją kostur ten przypomina różdżkę magicznych pocisków. Posiada długi trzonek zakończony sporej wielkości klejnotem, z którego nieustannie emanuje magiczna energia. W odróżnieniu od delikatnej różdżki jest on jednak niezniszczalny. W trzonek wbudowany został również mechanizm kontrolny, który steruje uwalnianiem magicznych pocisków. Kostur może być dzięki temu używany jako broń do walki wręcz, jeśli tylko zajdzie taka potrzeba. W przeciwnym wypadku magiczne pociski uwalniane są zwykłym machnięciem.
+
+Kostury te są rzadkością na Wybrzeżu Mieczy, a ich prawdziwe pochodzenie pozostaje nieznane. Uważa się, że zostały po raz pierwszy stworzone przez magów z Netherilu.
+
+Kostur czarów, który właśnie trzymasz w dłoni, stanowi szczyt magicznego rzemiosła. Jest dziełem sztuki, będącym owocem wiedzy, badań i eksperymentów wielu pokoleń magów. Zawarte w nim zaklęcia pozwalają ranić wszystkich wrogów, z wyjątkiem najpotężnieszych istot w Krainach.
+
+Ten egzemplarz Kostura czarów został naznaczony piętnem magicznej szkoły Iluzji, dzięki czemu każdy zadany nim cios ma szansę osłabić podstawowe zmysły trafionej istoty. Ponadto, dodaje on do repertuaru właściciela zaklęcie Drzwi z cienia.
+
+PARAMETRY:
+
+Specjalne:
+– Po osiągnięciu 1000000 PD osoba władająca kosturem może ulepszyć kostur, zwiększając stopień umagicznienia do +5 oraz obdarzając go kolejnymi właściwościami
+– 25% szans na rzucenie czaru Zaburzenie zmysłów, po trafieniu
+Zaburzenie zmysłów: Cel znajduje się przez dziesięć rund pod wpływem czarów Oślepienie i Głuchota (rzut obronny przeciw czarom z modyfikatorem -1 neguje). 
+
+Właściwości ładunków:
+– Drzwi z cienia, raz dziennie
+
+Obrażenia (walka wręcz): 1k6 +3
+Obrażenia (dystansowe): 2k2 +3
+TraK0: +3
+Typ obrażeń (walka wręcz): obuchowe
+Typ obrażeń (dystansowe): magiczne
+Opóźnienie: 1
+Rodzaj biegłości: kij
+Typ broni: 2-ręczna
+Wymagania:
+– Siła: 5
+
+Waga: 4~
+
+@81=~Kostur ten jest jedną z najbardziej cenionych rzeczy, jaką może zdobyć mag. Jego niepowtarzalna konstrukcja pozwala mu strzelać pociskami czystej magicznej energii w dowolny cel znajdujący się w zasięgu 10 metrów. Przedmiot ten ładuje się samoczynnie, czerpiąc z otoczenia magiczną energię emanującą w naturalny sposób ze wszystkich użytkowników magii. Dzięki temu nigdy nie wyczerpie zgromadzonych ładunków, lecz może być używany jedynie przez magów i czarowników.
+
+Kształtem i konstrukcją kostur ten przypomina różdżkę magicznych pocisków. Posiada długi trzonek zakończony sporej wielkości klejnotem, z którego nieustannie emanuje magiczna energia. W odróżnieniu od delikatnej różdżki jest on jednak niezniszczalny. W trzonek wbudowany został również mechanizm kontrolny, który steruje uwalnianiem magicznych pocisków. Kostur może być dzięki temu używany jako broń do walki wręcz, jeśli tylko zajdzie taka potrzeba. W przeciwnym wypadku magiczne pociski uwalniane są zwykłym machnięciem.
+
+Kostury te są rzadkością na Wybrzeżu Mieczy, a ich prawdziwe pochodzenie pozostaje nieznane. Uważa się, że zostały po raz pierwszy stworzone przez magów z Netherilu.
+
+Kostur czarów, który właśnie trzymasz w dłoni, stanowi szczyt magicznego rzemiosła. Jest dziełem sztuki, będącym owocem wiedzy, badań i eksperymentów wielu pokoleń magów. Zawarte w nim zaklęcia pozwalają ranić wszystkich wrogów, z wyjątkiem najpotężnieszych istot w Krainach.
+
+Ten egzemplarz Kostura czarów został naznaczony piętnem magicznej szkoły Inwokacji, dzięki czemu każdy zadany nim cios ma szansę porazić trafioną istotę błyskawicą. Ponadto, dodaje on do repertuaru właściciela zaklęcie Zabójczej chmury.
+
+PARAMETRY:
+
+Specjalne:
+– Po osiągnięciu 1000000 PD osoba władająca kosturem może ulepszyć kostur, zwiększając stopień umagicznienia do +5 oraz obdarzając go kolejnymi właściwościami
+– 25% szans na rzucenie czaru Błyskawica, po trafieniu (wpływa tylko na wybrany cel)
+
+Właściwości ładunków:
+– Zabójcza chmura, raz dziennie
+
+Obrażenia (walka wręcz): 1k6 +3
+Obrażenia (dystansowe): 2k2 +3
+TraK0: +3
+Typ obrażeń (walka wręcz): obuchowe
+Typ obrażeń (dystansowe): magiczne
+Opóźnienie: 1
+Rodzaj biegłości: kij
+Typ broni: 2-ręczna
+Wymagania:
+– Siła: 5
+
+Waga: 4~
+
+@82=~Kostur ten jest jedną z najbardziej cenionych rzeczy, jaką może zdobyć mag. Jego niepowtarzalna konstrukcja pozwala mu strzelać pociskami czystej magicznej energii w dowolny cel znajdujący się w zasięgu 10 metrów. Przedmiot ten ładuje się samoczynnie, czerpiąc z otoczenia magiczną energię emanującą w naturalny sposób ze wszystkich użytkowników magii. Dzięki temu nigdy nie wyczerpie zgromadzonych ładunków, lecz może być używany jedynie przez magów i czarowników.
+
+Kształtem i konstrukcją kostur ten przypomina różdżkę magicznych pocisków. Posiada długi trzonek zakończony sporej wielkości klejnotem, z którego nieustannie emanuje magiczna energia. W odróżnieniu od delikatnej różdżki jest on jednak niezniszczalny. W trzonek wbudowany został również mechanizm kontrolny, który steruje uwalnianiem magicznych pocisków. Kostur może być dzięki temu używany jako broń do walki wręcz, jeśli tylko zajdzie taka potrzeba. W przeciwnym wypadku magiczne pociski uwalniane są zwykłym machnięciem.
+
+Kostury te są rzadkością na Wybrzeżu Mieczy, a ich prawdziwe pochodzenie pozostaje nieznane. Uważa się, że zostały po raz pierwszy stworzone przez magów z Netherilu.
+
+Kostur czarów, który właśnie trzymasz w dłoni, stanowi szczyt magicznego rzemiosła. Jest dziełem sztuki, będącym owocem wiedzy, badań i eksperymentów wielu pokoleń magów. Zawarte w nim zaklęcia pozwalają ranić wszystkich wrogów, z wyjątkiem najpotężnieszych istot w Krainach.
+
+Ten egzemplarz Kostura czarów został naznaczony piętnem magicznej szkoły Nekromancji, dzięki czemu każdy zadany nim cios ma szansę wyssać siły życiowe z trafionej istoty. Ponadto, dodaje on do repertuaru właściciela zaklęcie Animacji martwego.
+
+PARAMETRY:
+
+Specjalne:
+– Po osiągnięciu 1000000 PD osoba władająca kosturem może ulepszyć kostur, zwiększając stopień umagicznienia do +5 oraz obdarzając go kolejnymi właściwościami
+– 25% szans na rzucenie czaru Wampiryczne dotknięcie, po trafieniu
+
+Właściwości ładunków:
+– Animacja martwego, raz dziennie
+
+Obrażenia (walka wręcz): 1k6 +3
+Obrażenia (dystansowe): 2k2 +3
+TraK0: +3
+Typ obrażeń (walka wręcz): obuchowe
+Typ obrażeń (dystansowe): magiczne
+Opóźnienie: 1
+Rodzaj biegłości: kij
+Typ broni: 2-ręczna
+Wymagania:
+– Siła: 5
+
+Waga: 4~
+
+@83=~Kostur ten jest jedną z najbardziej cenionych rzeczy, jaką może zdobyć mag. Jego niepowtarzalna konstrukcja pozwala mu strzelać pociskami czystej magicznej energii w dowolny cel znajdujący się w zasięgu 10 metrów. Przedmiot ten ładuje się samoczynnie, czerpiąc z otoczenia magiczną energię emanującą w naturalny sposób ze wszystkich użytkowników magii. Dzięki temu nigdy nie wyczerpie zgromadzonych ładunków, lecz może być używany jedynie przez magów i czarowników.
+
+Kształtem i konstrukcją kostur ten przypomina różdżkę magicznych pocisków. Posiada długi trzonek zakończony sporej wielkości klejnotem, z którego nieustannie emanuje magiczna energia. W odróżnieniu od delikatnej różdżki jest on jednak niezniszczalny. W trzonek wbudowany został również mechanizm kontrolny, który steruje uwalnianiem magicznych pocisków. Kostur może być dzięki temu używany jako broń do walki wręcz, jeśli tylko zajdzie taka potrzeba. W przeciwnym wypadku magiczne pociski uwalniane są zwykłym machnięciem.
+
+Kostury te są rzadkością na Wybrzeżu Mieczy, a ich prawdziwe pochodzenie pozostaje nieznane. Uważa się, że zostały po raz pierwszy stworzone przez magów z Netherilu.
+
+Kostur czarów, który właśnie trzymasz w dłoni, stanowi szczyt magicznego rzemiosła. Jest dziełem sztuki, będącym owocem wiedzy, badań i eksperymentów wielu pokoleń magów. Zawarte w nim zaklęcia pozwalają ranić wszystkich wrogów, z wyjątkiem najpotężnieszych istot w Krainach.
+
+Ten egzemplarz Kostura czarów został naznaczony piętnem magicznej szkoły Przemian, dzięki czemu każdy zadany nim cios ma szansę spowolnić trafioną istotę. Ponadto, dodaje on do repertuaru właściciela zaklęcie Teleportacji.
+
+PARAMETRY:
+
+Specjalne:
+– Po osiągnięciu 1000000 PD osoba władająca kosturem może ulepszyć kostur, zwiększając stopień umagicznienia do +5 oraz obdarzając go kolejnymi właściwościami
+– 25% szans na rzucenie czaru Spowolnienie ruchów, po trafieniu
+
+Właściwości ładunków:
+– Przesunięcie fazowe, raz dziennie
+Przesunięcie fazowe: natychmiast przenosi rzucającego do dowolnego miejsca w zasięgu wzroku.
+
+Obrażenia (walka wręcz): 1k6 +3
+Obrażenia (dystansowe): 2k2 +3
+TraK0: +3
+Typ obrażeń (walka wręcz): obuchowe
+Typ obrażeń (dystansowe): magiczne
+Opóźnienie: 1
+Rodzaj biegłości: kij
+Typ broni: 2-ręczna
+Wymagania:
+– Siła: 5
+
+Waga: 4~
+
+@84=~Kostur ten jest jedną z najbardziej cenionych rzeczy, jaką może zdobyć mag. Jego niepowtarzalna konstrukcja pozwala mu strzelać pociskami czystej magicznej energii w dowolny cel znajdujący się w zasięgu 10 metrów. Przedmiot ten ładuje się samoczynnie, czerpiąc z otoczenia magiczną energię emanującą w naturalny sposób ze wszystkich użytkowników magii. Dzięki temu nigdy nie wyczerpie zgromadzonych ładunków, lecz może być używany jedynie przez magów i czarowników.
+
+Kształtem i konstrukcją kostur ten przypomina różdżkę magicznych pocisków. Posiada długi trzonek zakończony sporej wielkości klejnotem, z którego nieustannie emanuje magiczna energia. W odróżnieniu od delikatnej różdżki jest on jednak niezniszczalny. W trzonek wbudowany został również mechanizm kontrolny, który steruje uwalnianiem magicznych pocisków. Kostur może być dzięki temu używany jako broń do walki wręcz, jeśli tylko zajdzie taka potrzeba. W przeciwnym wypadku magiczne pociski uwalniane są zwykłym machnięciem.
+
+Kostury te są rzadkością na Wybrzeżu Mieczy, a ich prawdziwe pochodzenie pozostaje nieznane. Uważa się, że zostały po raz pierwszy stworzone przez magów z Netherilu.
+
+Kostur czarów, który właśnie trzymasz w dłoni, stanowi szczyt magicznego rzemiosła. Jest dziełem sztuki, będącym owocem wiedzy, badań i eksperymentów wielu pokoleń magów. Zawarte w nim zaklęcia pozwalają ranić wszystkich wrogów, z wyjątkiem najpotężnieszych istot w Krainach.
+
+Ten egzemplarz Kostura czarów został naznaczony piętnem dzikiej magii, dzięki czemu odziedziczył część jej nieprzewidywalnej natury. Każdy zadany nim cios ma szansę objąć trafioną istotę działaniem raniącego zaklęcia, którego dokładna natura nie będzie jednak znana, dopóki nie zostanie ono rzucone. Ponadto, kostur dodaje do repertuaru właściciela czar, sprawiajacy że wybrana, posługująca się magią, istota dostaje się w obszar działania fali dzikiej energii.
+
+PARAMETRY:
+
+Specjalne:
+– Po osiągnięciu 1000000 PD osoba władająca kosturem może ulepszyć kostur, zwiększając stopień umagicznienia do +5 oraz obdarzając go kolejnymi właściwościami
+– 24% szans na rzucenie raniącego zaklęcia, po trafieniu
+
+Właściwości ładunków:
+– Uderzenie dzikiej energii, raz dziennie
+Uderzenie dzikiej energii: wszystkie czary rzucane przez cel w przeciągu pięciu kolejnych rund objęte są działaniem fali dzikiej energii.
+
+Obrażenia (walka wręcz): 1k6 +3
+Obrażenia (dystansowe): 2k2 +3
+TraK0: +3
+Typ obrażeń (walka wręcz): obuchowe
+Typ obrażeń (dystansowe): magiczne
+Opóźnienie: 1
+Rodzaj biegłości: kij
+Typ broni: 2-ręczna
+Wymagania:
+– Siła: 5
+
+Waga: 4~
+
+@85=~Kostur ten jest jedną z najbardziej cenionych rzeczy, jaką może zdobyć mag. Jego niepowtarzalna konstrukcja pozwala mu strzelać pociskami czystej magicznej energii w dowolny cel znajdujący się w zasięgu 10 metrów. Przedmiot ten ładuje się samoczynnie, czerpiąc z otoczenia magiczną energię emanującą w naturalny sposób ze wszystkich użytkowników magii. Dzięki temu nigdy nie wyczerpie zgromadzonych ładunków, lecz może być używany jedynie przez magów i czarowników.
+
+Kształtem i konstrukcją kostur ten przypomina różdżkę magicznych pocisków. Posiada długi trzonek zakończony sporej wielkości klejnotem, z którego nieustannie emanuje magiczna energia. W odróżnieniu od delikatnej różdżki jest on jednak niezniszczalny. W trzonek wbudowany został również mechanizm kontrolny, który steruje uwalnianiem magicznych pocisków. Kostur może być dzięki temu używany jako broń do walki wręcz, jeśli tylko zajdzie taka potrzeba. W przeciwnym wypadku magiczne pociski uwalniane są zwykłym machnięciem.
+
+Kostury te są rzadkością na Wybrzeżu Mieczy, a ich prawdziwe pochodzenie pozostaje nieznane. Uważa się, że zostały po raz pierwszy stworzone przez magów z Netherilu.
+
+Kostur czarów, który właśnie trzymasz w dłoni, stanowi szczyt magicznego rzemiosła. Jest dziełem sztuki, będącym owocem wiedzy, badań i eksperymentów wielu pokoleń magów. Zawarte w nim zaklęcia pozwalają ranić wszystkich wrogów, z wyjątkiem najpotężnieszych istot w Krainach.
+
+Ten egzemplarz Kostura czarów został naznaczony piętnem smoczej magii, dzięki czemu każdy zadany nim cios ma szansę obdarzyć dzierżącą go osobę olbrzymią siłą, pozwalającą jej uderzać z siłą smoka, w wyniku czego trafiona istota zostaje odepchnięta i traci przytomność. Ponadto, dodaje on do repertuaru właściciela zaklęcie Smoczy strach.
+
+PARAMETRY:
+
+Specjalne:
+– Po osiągnięciu 1000000 PD osoba władająca kosturem może ulepszyć kostur, zwiększając stopień umagicznienia do +5 oraz obdarzając go kolejnymi właściwościami
+– 25% szans na rzucenie czaru Uderzenie skrzydeł, po trafieniu
+Uderzenie skrzydeł: cel zostaje odepchnięty i traci przytomność na jedną rundę.
+
+Właściwości ładunków:
+– Smoczy strach, raz dziennie
+Smoczy strach: Wszyscy wrogowie znajdujący się w promieniu 13 metrów uciekają ze strachu (rzut obronny przeciw czarom z modyfikatorem -4 neguje). Niektóre istoty, takie jak nieumarli, są odporne na efekty wywołujące strach.
+
+Obrażenia (walka wręcz): 1k6 +3
+Obrażenia (dystansowe): 2k2 +3
+TraK0: +3
+Typ obrażeń (walka wręcz): obuchowe
+Typ obrażeń (dystansowe): magiczne
+Opóźnienie: 1
+Rodzaj biegłości: kij
+Typ broni: 2-ręczna
+Wymagania:
+– Siła: 5
+
+Waga: 4~
+
+@86=~Kostur ten jest jedną z najbardziej cenionych rzeczy, jaką może zdobyć mag. Jego niepowtarzalna konstrukcja pozwala mu strzelać pociskami czystej magicznej energii w dowolny cel znajdujący się w zasięgu 10 metrów. Przedmiot ten ładuje się samoczynnie, czerpiąc z otoczenia magiczną energię emanującą w naturalny sposób ze wszystkich użytkowników magii. Dzięki temu nigdy nie wyczerpie zgromadzonych ładunków, lecz może być używany jedynie przez magów i czarowników.
+
+Kształtem i konstrukcją kostur ten przypomina różdżkę magicznych pocisków. Posiada długi trzonek zakończony sporej wielkości klejnotem, z którego nieustannie emanuje magiczna energia. W odróżnieniu od delikatnej różdżki jest on jednak niezniszczalny. W trzonek wbudowany został również mechanizm kontrolny, który steruje uwalnianiem magicznych pocisków. Kostur może być dzięki temu używany jako broń do walki wręcz, jeśli tylko zajdzie taka potrzeba. W przeciwnym wypadku magiczne pociski uwalniane są zwykłym machnięciem.
+
+Kostury te są rzadkością na Wybrzeżu Mieczy, a ich prawdziwe pochodzenie pozostaje nieznane. Uważa się, że zostały po raz pierwszy stworzone przez magów z Netherilu.
+
+Kostur czarów, który właśnie trzymasz w dłoni, stanowi szczyt magicznego rzemiosła. Jest dziełem sztuki, będącym owocem wiedzy, badań i eksperymentów wielu pokoleń magów. Zawarte w nim zaklęcia pozwalają ranić wszystkich wrogów, z wyjątkiem najpotężnieszych istot w Krainach.
+
+Ten egzemplarz Kostura czarów nie został naznaczony piętnem żadnej konkretnej szkoły magii, lecz w zamian został aktywowany w taki sposób, by służyć celom zwykłych magów. W efekcie, jego właściciel zyskuje możliwość rzucenia dodatkowego, wybranego przez siebie zaklęcia.
+
+PARAMETRY:
+
+Specjalne:
+– Po osiągnięciu 1000000 PD osoba władająca kosturem może ulepszyć kostur, zwiększając stopień umagicznienia do +5 oraz obdarzając go kolejnymi właściwościami
+– Pozwala rzucić dowolny 5. poziomowy czar, raz dziennie
+
+Obrażenia (walka wręcz): 1k6 +3
+Obrażenia (dystansowe): 2k2 +3
+TraK0: +3
+Typ obrażeń (walka wręcz): obuchowe
+Typ obrażeń (dystansowe): magiczne
+Opóźnienie: 1
+Rodzaj biegłości: kij
+Typ broni: 2-ręczna
+Wymagania:
+– Siła: 5
+
+Waga: 4~
+
+@87=~Kostur ten jest jedną z najbardziej cenionych rzeczy, jaką może zdobyć mag. Jego niepowtarzalna konstrukcja pozwala mu strzelać pociskami czystej magicznej energii w dowolny cel znajdujący się w zasięgu 10 metrów. Przedmiot ten ładuje się samoczynnie, czerpiąc z otoczenia magiczną energię emanującą w naturalny sposób ze wszystkich użytkowników magii. Dzięki temu nigdy nie wyczerpie zgromadzonych ładunków, lecz może być używany jedynie przez magów i czarowników.
+
+Kształtem i konstrukcją kostur ten przypomina różdżkę magicznych pocisków. Posiada długi trzonek zakończony sporej wielkości klejnotem, z którego nieustannie emanuje magiczna energia. W odróżnieniu od delikatnej różdżki jest on jednak niezniszczalny. W trzonek wbudowany został również mechanizm kontrolny, który steruje uwalnianiem magicznych pocisków. Kostur może być dzięki temu używany jako broń do walki wręcz, jeśli tylko zajdzie taka potrzeba. W przeciwnym wypadku magiczne pociski uwalniane są zwykłym machnięciem.
+
+Kostury te są rzadkością na Wybrzeżu Mieczy, a ich prawdziwe pochodzenie pozostaje nieznane. Uważa się, że zostały po raz pierwszy stworzone przez magów z Netherilu.
+
+Kostur czarów, który właśnie trzymasz w dłoni, stanowi szczyt magicznego rzemiosła. Jest dziełem sztuki, będącym owocem wiedzy, badań i eksperymentów wielu pokoleń magów. Zawarte w nim zaklęcia pozwalają ranić wszystkich wrogów, z wyjątkiem najpotężnieszych istot w Krainach.
+
+Najbardziej intrygującą właściwością kostura, jest jednakże możliwość odciśnięcia w nim magicznych zdolności jego właściciela. Aktywowany, zgłębia aurę dzierżącej go osoby, łącząc się z najsilniejszym aspektem jej magicznych mocy i zapewniając tym samym dodatkowe zdolności, związane z konkretną szkołą magii.
+
+Kostur jest obecnie nieaktywny, a umieszczony w nim klejnot nie emanuje żadną energią. Może on zostać wybudzony z tego stanu mentalnym rozkazem przez swego właściciela. W czasie tej inicjacji posiadacz kostura zostanie poproszony o wybranie dla niego wyglądu.
+
+PARAMETRY:
+
+Specjalne:
+Użytkownik kostura musi go najpierw uaktywnić. Zostanie wówczas poproszony o wybranie koloru, jaki przedmiot ma przyjąć.
+
+Po osiągnięciu 250000 PD osoba władająca kosturem może aktywować poniższe efekty:
+– Mag specjalista może odcisnąć na kosturze piętno specjalizacji, obdarzając go dodatkowymi mocami związanymi z daną szkołą magii
+– Zwykły mag (w tym dwu lub wieloklasowiec) może albo ulepszyć kostur, obdarzając go dodatkowymi mocami, albo wybrać dowolną specjalizację, co w konsekwencji zmieni go w specjalistę wybranej szkoły magii i sprawi, że kostur zostanie obdarzony mocami tej szkoły
+Uzyskane efekty mają działanie stałe.
+
+Obrażenia (walka wręcz): 1k6 +3
+Obrażenia (dystansowe): 2k2 +3
+TraK0: +3
+Typ obrażeń (walka wręcz): obuchowe
+Typ obrażeń (dystansowe): magiczne (nie dotyczy, jeśli kostur jest nieaktywny)
+Opóźnienie: 1
+Rodzaj biegłości: kij
+Typ broni: 2-ręczna
+Wymagania:
+– Siła: 5
+
+Waga: 4~
+
+@88=~Kostur ten jest jedną z najbardziej cenionych rzeczy, jaką może zdobyć mag. Jego niepowtarzalna konstrukcja pozwala mu strzelać pociskami czystej magicznej energii w dowolny cel znajdujący się w zasięgu 10 metrów. Przedmiot ten ładuje się samoczynnie, czerpiąc z otoczenia magiczną energię emanującą w naturalny sposób ze wszystkich użytkowników magii. Dzięki temu nigdy nie wyczerpie zgromadzonych ładunków, lecz może być używany jedynie przez magów i czarowników.
+
+Kształtem i konstrukcją kostur ten przypomina różdżkę magicznych pocisków. Posiada długi trzonek zakończony sporej wielkości klejnotem, z którego nieustannie emanuje magiczna energia. W odróżnieniu od delikatnej różdżki jest on jednak niezniszczalny. W trzonek wbudowany został również mechanizm kontrolny, który steruje uwalnianiem magicznych pocisków. Kostur może być dzięki temu używany jako broń do walki wręcz, jeśli tylko zajdzie taka potrzeba. W przeciwnym wypadku magiczne pociski uwalniane są zwykłym machnięciem.
+
+Kostury te są rzadkością na Wybrzeżu Mieczy, a ich prawdziwe pochodzenie pozostaje nieznane. Uważa się, że zostały po raz pierwszy stworzone przez magów z Netherilu.
+
+Kostur czarów, który właśnie trzymasz w dłoni, stanowi szczyt magicznego rzemiosła. Jest dziełem sztuki, będącym owocem wiedzy, badań i eksperymentów wielu pokoleń magów. Zawarte w nim zaklęcia pozwalają ranić wszystkich wrogów, z wyjątkiem najpotężnieszych istot w Krainach.
+
+Najbardziej intrygującą właściwością kostura, jest jednakże możliwość odciśnięcia w nim magicznych zdolności jego właściciela. Aktywowany, zgłębia aurę dzierżącej go osoby, łącząc się z najsilniejszym aspektem jej magicznych mocy i zapewniając tym samym dodatkowe zdolności, związane z konkretną szkołą magii. Co więcej, aktywacja sprawia, że znacząco wzrasta również stopień umagicznienia kostura, pozwalając mu ranić wszystkich wrogów, z wyjątkiem najpotężnieszych istot w Krainach.
+
+Kostur jest obecnie nieaktywny, a umieszczony w nim klejnot nie emanuje żadną energią. Może on zostać wybudzony z tego stanu mentalnym rozkazem przez swego właściciela. W czasie tej inicjacji posiadacz kostura zostanie poproszony o wybranie dla niego wyglądu.
+
+PARAMETRY:
+
+Specjalne:
+Użytkownik kostura musi go najpierw uaktywnić. Zostanie wówczas poproszony o wybranie koloru, jaki przedmiot ma przyjąć.
+
+Po osiągnięciu 250000 PD osoba władająca kosturem może aktywować poniższe efekty:
+– Mag specjalista może odcisnąć na kosturze piętno specjalizacji, obdarzając go dodatkowymi mocami związanymi z daną szkołą magii
+– Zwykły mag (w tym dwu lub wieloklasowiec) może albo ulepszyć kostur, obdarzając go dodatkowymi mocami, albo wybrać dowolną specjalizację, co w konsekwencji zmieni go w specjalistę wybranej szkoły magii i sprawi, że kostur zostanie obdarzony mocami tej szkoły
+Uzyskane efekty mają działanie stałe.
+– Kostur uzyskuje stopień umagicznienia +3
+
+Obrażenia (walka wręcz): 1k6 +1
+Obrażenia (dystansowe): 2k2 +1
+TraK0: +1
+Typ obrażeń (walka wręcz): obuchowe
+Typ obrażeń (dystansowe): magiczne (nie dotyczy, jeśli kostur jest nieaktywny)
+Opóźnienie: 1
+Rodzaj biegłości: kij
+Typ broni: 2-ręczna
+Wymagania:
+– Siła: 5
+
+Waga: 4~
+
+@89=~Kostur ten jest jedną z najbardziej cenionych rzeczy, jaką może zdobyć mag. Jego niepowtarzalna konstrukcja pozwala mu strzelać pociskami czystej magicznej energii w dowolny cel znajdujący się w zasięgu 10 metrów. Przedmiot ten ładuje się samoczynnie, czerpiąc z otoczenia magiczną energię emanującą w naturalny sposób ze wszystkich użytkowników magii. Dzięki temu nigdy nie wyczerpie zgromadzonych ładunków, lecz może być używany jedynie przez magów i czarowników.
+
+Kształtem i konstrukcją kostur ten przypomina różdżkę magicznych pocisków. Posiada długi trzonek zakończony sporej wielkości klejnotem, z którego nieustannie emanuje magiczna energia. W odróżnieniu od delikatnej różdżki jest on jednak niezniszczalny. W trzonek wbudowany został również mechanizm kontrolny, który steruje uwalnianiem magicznych pocisków. Kostur może być dzięki temu używany jako broń do walki wręcz, jeśli tylko zajdzie taka potrzeba. W przeciwnym wypadku magiczne pociski uwalniane są zwykłym machnięciem.
+
+Kostury te są rzadkością na Wybrzeżu Mieczy, a ich prawdziwe pochodzenie pozostaje nieznane. Uważa się, że zostały po raz pierwszy stworzone przez magów z Netherilu. Pierwszy z nich odnaleziony został w netheryjskich ruinach przez jedną z grup badawczych. Intensywne badania przeprowadzone na znalezisku doprowadziły do stworzenia kilku jego kopii, choć technologia nasycania kostura magiczną aurą jego właściciela wciąż nie została do końca zrozumiana. W związku z tym, dalsze jego ulepszanie jest nadzwyczaj niebezpieczne, mimo iż chodzą słuchy, że poczyniono w tym kierunku pewien postęp.
+
+Kostur jest obecnie nieaktywny, a umieszczony w nim klejnot nie emanuje żadną energią. Może on zostać wybudzony z tego stanu mentalnym rozkazem przez swego właściciela. W czasie tej inicjacji posiadacz kostura zostanie poproszony o wybranie dla niego wyglądu.
+
+PARAMETRY:
+
+Specjalne:
+Użytkownik kostura musi go najpierw uaktywnić. Zostanie wówczas poproszony o wybranie koloru, jaki przedmiot ma przyjąć.
+
+Obrażenia (walka wręcz): 1k6 +1
+Obrażenia (dystansowe): 2k2 +1
+TraK0: +1
+Typ obrażeń (walka wręcz): obuchowe
+Typ obrażeń (dystansowe): magiczne (nie dotyczy, jeśli kostur jest nieaktywny)
+Opóźnienie: 3
+Rodzaj biegłości: kij
+Typ broni: 2-ręczna
+
+Wymagania:
+– Siła: 5
+
+Waga: 4~
+
+@90=~Zaburzenie zmysłów~
+
+@91=~Przesunięcie fazowe~
+
+@92=~Przywołanie ognistego olbrzyma~
+
+@98=~ULEPSZ~
+
+@99=~AKTYWUJ~
+
+@100=~Starasz się skupić uwagę na uchwyceniu kostura, co jednak kończy się niepowodzeniem. Przedmiot brzęczy przez chwilę, pozostając poza tym w uśpieniu. Każda kolejna próba aktywowania go okaże się daremna, dopóki nie nauczysz się lepiej władać mocami swego umysłu.~
+
+@101=~Z chwilą, z którą zaczynasz się koncentrować, trzonek kostura łagodnie się otwiera, brzęcząc przy tym słyszalnie, jakby czekał tylko na twe mentalne rozkazy.~
+
+@102=~Chcę odcisnąć na kosturze piętno magii Odrzucania.~
+
+@103=~Chcę odcisnąć na kosturze piętno magii Sprowadzania.~
+
+@104=~Chcę odcisnąć na kosturze piętno magii Poznania.~
+
+@105=~Chcę odcisnąć na kosturze piętno magii Zaczarowań.~
+
+@106=~Chcę odcisnąć na kosturze piętno magii Iluzji.~
+
+@107=~Chcę odcisnąć na kosturze piętno magii Inwokacji.~
+
+@108=~Chcę odcisnąć na kosturze piętno magii Nekromancji.~
+
+@109=~Chcę odcisnąć na kosturze piętno magii Przemian.~
+
+@110=~Chcę odcisnąć na kosturze piętno dzikiej magii.~
+
+@111=~Chcę odcisnąć na kosturze piętno smoczej magii.~
+
+@112=~Nie chcę teraz aktywować kostura.~
+
+@113=~Nieważne.~
+
+@114=~Wysyłasz mentalne rozkazy, po których kostur zaczyna brzęczeć o ton wyżej i wibrować widocznie w twych dłoniach. Trzonek jest gotów do wydłużenia, a po chwili cały proces się rozpoczyna.~
+
+@115=~Chcę wzmocnić kostur aspektami wszystkich szkół magii.~
+
+@116=~Raz jeszcze starasz się skupić uwagę na uchwyceniu kostura, lecz tym razem czujesz w umyśle silniejszy opór. Dopóki nie nauczysz się lepiej kontrolować swych sił mentalnych i w większym stopniu nie opanujesz władania magicznymi mocami, kolejne próby ulepszenia kostura spełzną na niczym.~
+
+@117=~Z chwilą, z którą zaczynasz się koncentrować, trzonek kostura raz jeszcze łagodnie się otwiera, brzęcząc przy tym słyszalnie, jakby znów oczekiwał na twe mentalne rozkazy.~
+
+@118=~Chcę ulepszyć kostur.~
+
+@119=~Nie chcę na razie ulepszać kostura.~
+
+@150=~Nakładasz na głowę diadem i zaczynasz się koncentrować. Odczuwasz delikatny napór, gdy ten sonduje twój umysł. Po chwili opór jednak zanika i diadem pozostaje nieaktywny. Wygląda na to, że nie ma już z niego żadnego pożytku.~
+
+@151=~Nakładasz na głowę diadem i zaczynasz się koncentrować. Odczuwasz delikatny napór, gdy ten sonduje twój umysł. Opór ten gwałtownie wzrasta, przyprawiając cię o zawroty głowy, jednak po chwili zanika. Diadem skończył badać twój umysł i możesz teraz wybrać, w której szkole magii chcesz się specjalizować.~
+
+@152=~Chcę specjalizować się w szkole Odrzucania.~
+
+@153=~Chcę specjalizować się w szkole Sprowadzania.~
+
+@154=~Chcę specjalizować się w szkole Poznania.~
+
+@155=~Chcę specjalizować się w szkole Zaczarowań.~
+
+@156=~Chcę specjalizować się w szkole Iluzji.~
+
+@157=~Chcę specjalizować się w szkole Inwokacji.~
+
+@158=~Chcę specjalizować się w szkole Nekromancji.~
+
+@159=~Chcę specjalizować się w szkole Przemian.~
+
+@160=~Chcę stać się dzikim magiem.~
+
+@162=~Nieważne.~
+
+@163=~Obecnie nie chcę się specjalizować.~
+
+@164=~Wysyłasz mentalne rozkazy i ponownie czujesz napór. Tym razem jednak płynie on z wewnątrz. Twój nowoodkryty talent wypływa na światło dzienne.~
+
+@165=~Diadem oświecenia~
+
+@166=~Ten pospolicie wyglądający, wykonany z brązu diadem nasycony został tak naprawdę potężną magią nieznanego pochodzenia, działanie której sprawia, że mogą go nosić tylko czarodzieje. Potrafi on sondować umysł noszącej go osoby, ujawniając jej ukryty talent do uprawniania sztuk magicznych. W rezultacie, zwykły mag może stać się specjalistą w wybranej przez siebie szkole magii.
+
+PARAMETRY:
+
+Specjalne:
+– Aktywując go, zwykły mag może stać się specjalistą w wybranej przez siebie szkole magii. Dotyczy to również magów wielo i dwuklasowców.
+
+Waga: 1~
+
+@201=~Diadem~
+
+@202=~Diadem arcymaga~
+
+@203=~Diadem jest okrągłą opaską, wykonaną zazwyczaj z cennego metalu, zakładaną na głowę w ramach ozdoby lub jako symbol zajmowanej pozycji. Diademy nasycone nisko poziomowymi zaklęciami są powszechnie noszone przez magów w całym Faerûnie.
+
+Waga: 1~
+
+@204=~Ten potężny diadem zaklęto w taki sposób, by jego moc komponowała się z działaniem szat noszonych zazwyczaj przez arcymagów, podnosząc jeszcze bardziej stopień magicznej ochrony i zapewniając im kolejne korzyści. Ze względu na naturę rzuconego nań zaklęcia, mogą go używać jedynie magowie.
+
+PARAMETRY:
+
+Specjalne:
+– Klasa Pancerza: +1
+– Rzuty obronne: +1
+– Inteligencja: +1
+
+Waga: 1~
+
+@205=~Łaska Eilistraee +1~
+
+@206=~Diadem ten wykonano z najczystszego srebra, a w jego wnętrzu osadzono połyskujący zielony klejnot. Kamień ten emituje delikatną poświatę, będąc wystawionym na działanie światła księżyca. Przedmiot ten pobłogosławiony został przez boginię drowów, Eilistraee, zapewniając noszącej go osobie ochronę przed działaniem szkodliwej magii.
+
+PARAMETRY:
+
+Specjalne:
+– Rzuty obronne: +1
+– Odporność na magię: +10%
+
+Waga: 1~
+
+@207=~Kapelusz czarodzieja~
+
+@208=~Oto kapelusz o bardzo dziwnym kształcie, który pasowałby idealnie na głowę każdego dumnego maga.~
+
+@209=~To niezwykłe nakrycie głowy należało przez długi czas do pewnego nad wyraz sławnego czarodzieja, choć zapewne ów nad wyraz sławny czarodziej posiadał więcej, niż tylko kapelusz. Bez względu na to, czy mag wyrzucił tę część garderoby, czy też ją zgubił, wciąż zawiera ona w sobie część mocy, jakimi władał. Każdy szczęśliwiec, który wejdzie w posiadanie tegoż artefaktu, poczuje choć odrobinę, jak to jest być prawdziwym arcymagiem.
+
+Cóż, może jednak nie każdy. Z racji tego, że na kapelusz rzucono określone zaklęcie, nosząca go osoba musi wpierw dostroić się w pewien sposób do jego poprzedniego użytkownika. W związku z tym, nosić go mogą jedynie ludzcy czarodzieje płci męskiej.
+
+PARAMETRY:
+
+Specjalne:
+– Chroni przed trafieniami krytycznymi
+– Charyzma: +1
+– Odporność na magię: +5%
+
+Właściwości ładunków:
+– Zatrzymanie czasu przez krótki okres czasu, raz dziennie (czas działania skaluje się wraz z poziomem)
+
+Waga: 1~
+
+@210=~Futerał na różdżki~
+
+@211=~Futerał ten został zaprojektowany specjalnie do przechowywania wszelkiego rodzaju różdżek. Jego wnętrze zaprojektowano tak, by można w nim było bezpiecznie zmieścić kilkadziesiąt sztuk.
+
+PARAMETRY:
+
+Waga: 2~
+
+@212=~Zatrzymanie czasu~
+
+@301=~Och, niezły kostur! Posiadasz jeden z Kosturów czarów.~[BOTSMX]
+
+@302=~Mając klejnot zwany Odłamkiem z Netherilu mogę dzięki pewnej recepturze sprawić, że stanie się on znacznie potężniejszy. Gdybyś tylko go ze sobą miał. Cóż, może następnym razem.~
+
+@303=~O i masz też Odłamek z Netherilu! Mogę wykorzystać recepturę i sprawić, że stanie się on znacznie potężniejszy. Wystarczy mi dziesięć tysięcy sztuk złota. Pasuje?~
+
+@304=~Nie mam tyle złota.~
+
+@305=~Pewnie, weź ten Kostur odrzucania.~
+
+@306=~Pewnie, weź ten Kostur sprowadzania.~
+
+@307=~Pewnie, weź ten Kostur poznania.~
+
+@308=~Pewnie, weź ten Kostur zaczarowań.~
+
+@309=~Pewnie, weź ten Kostur iluzji.~
+
+@310=~Pewnie, weź ten Kostur inwokacji.~
+
+@311=~Pewnie, weź ten Kostur nekromancji.~
+
+@312=~Pewnie, weź ten Kostur przemian.~
+
+@313=~Pewnie, weź ten Kostur dzikiej magii.~
+
+@314=~Pewnie, weź ten Kostur smoczej potęgi.~
+
+@315=~Pewnie, weź ten Kostur czarów.~
+
+@316=~Nie. Coś jeszcze?~
+
+@319=~Klejnot~
+
+@320=~Odłamek z Netherilu~
+
+@321=~Ten fragment klejnotu emanuje aurą nieznanej magii. Powiadają, iż magowie z Netherilu używali takich kamieni jako ozdoby, czy też elementy dekoracyjne. Obecnie traktowane są one jako artefakty o ogromnych możliwościach.~
+
+@322=~Ten fragment klejnotu emanuje aurą nieznanej magii.~
+
+@350=~Ten rodzaj kostura stanowi uosobienie typowego wyobrażenia o przedstawicielach profesji parających się magią, chociaż w rzeczywistości jest on rzadko spotykany. Jest jednym z najpotężniejszych narzędzi, jakie czarodziej może posiadać i stanowi owoc wielu skomplikowanych zaklęć oraz niekończących się studiów nad magią. Ten konkretny egzemplarz jest użyteczny zarówno w walce wręcz, jak i na dystans, zapewniając moc niewidzialności i oferując ochronę przed złem oraz urokami. Potrafi również rzucać zaklęcia Zatrzymanie czasu i Rozpraszanie magii, a także wystrzeliwać pociski będące połączeniem Ognistej kuli z Błyskawicą. Dla magów przedmiot ten jest wręcz nieodzowny.
+
+PARAMETRY:
+
+Specjalne:
+– Klasa Pancerza: +2
+– Rzuty obronne: +2
+– Używany zapewnia Niewidzialność
+– Niewrażliwość na zauroczenie
+– Używany zapewnia Ochronę przed złem
+– Rozproszenie magii, poziomu 30., po trafieniu
+– Uderza jak broń +5
+
+Właściwości ładunków:
+– Połączenie Ognistej kuli i Błyskawicy, trzy razy dziennie
+Ognista kula: 10k6 obrażeń od ognia o zasięgu 10 metrów (połowa po rzucie obronnym przeciw czarom)
+Błyskawica: 10k6 obrażeń od elektryczności przeciw wszystkim, którzy stoją jej na drodze (połowa po rzucie obronnym przeciw czarom)
+Zasięg: 50 metrów
+
+– Pułapka na czary, raz dziennie
+Czas działania: 8 godzin, lub gdy uwięzione zostanie trzydzieści poziomów czarów
+Obszar działania: użytkownik
+
+Obrażenia (walka wręcz): 1k6 +1
+Obrażenia (dystansowe): 2k2 +1
+TraK0: +1
+Typ obrażeń (walka wręcz): obuchowe
+Typ obrażeń (dystansowe): magiczne
+Opóźnienie: 1
+Rodzaj biegłości: kij
+Typ broni: 2-ręczna
+
+Wymagania:
+– Siła: 5
+
+Waga: 4~
+
+@351=~Ten rodzaj kostura stanowi uosobienie typowego wyobrażenia o przedstawicielach profesji parających się magią, chociaż w rzeczywistości jest on rzadko spotykany. Jest jednym z najpotężniejszych narzędzi, jakie czarodziej może posiadać i stanowi owoc wielu skomplikowanych zaklęć oraz niekończących się studiów nad magią. Ten konkretny egzemplarz jest użyteczny zarówno w walce wręcz, jak i na dystans, oferując ochronę przed złem oraz urokami. Potrafi również rzucać zaklęcia Zatrzymanie czasu i Rozpraszanie magii, a także wystrzeliwać pociski będące połączeniem Ognistej kuli z Błyskawicą. Dla magów przedmiot ten jest wręcz nieodzowny.
+
+PARAMETRY:
+
+Specjalne:
+– Klasa Pancerza: +2
+– Rzuty obronne: +2
+– Niewrażliwość na zauroczenie
+– Używany zapewnia Ochronę przed złem
+– Rozproszenie magii, poziomu 30., po trafieniu
+– Uderza jak broń +5
+
+Właściwości ładunków:
+– Połączenie Ognistej kuli i Błyskawicy, trzy razy dziennie
+Ognista kula: 10k6 obrażeń od ognia o zasięgu 10 metrów (połowa po rzucie obronnym przeciw czarom)
+Błyskawica: 10k6 obrażeń od elektryczności przeciw wszystkim, którzy stoją jej na drodze (połowa po rzucie obronnym przeciw czarom)
+Zasięg: 50 metrów
+
+– Pułapka na czary, raz dziennie
+Czas działania: 8 godzin, lub gdy uwięzione zostanie trzydzieści poziomów czarów
+Obszar działania: użytkownik
+
+Obrażenia (walka wręcz): 1k6 +1
+Obrażenia (dystansowe): 2k2 +1
+TraK0: +1
+Typ obrażeń (walka wręcz): obuchowe
+Typ obrażeń (dystansowe): magiczne
+Opóźnienie: 1
+Rodzaj biegłości: kij
+Typ broni: 2-ręczna
+
+Wymagania:
+– Siła: 5
+
+Waga: 4~
+
+@352=~Ten rodzaj kostura stanowi uosobienie typowego wyobrażenia o przedstawicielach profesji parających się magią, chociaż w rzeczywistości jest on rzadko spotykany. Jest jednym z najpotężniejszych narzędzi, jakie czarodziej może posiadać i stanowi owoc wielu skomplikowanych zaklęć oraz niekończących się studiów nad magią. Ten konkretny egzemplarz jest użyteczny zarówno w walce wręcz, jak i na dystans, zapewniając odporność na magię i oferując ochronę przed złem oraz urokami. Potrafi również rzucać zaklęcia Zatrzymanie czasu i Rozpraszanie magii, a także wystrzeliwać pociski będące połączeniem Ognistej kuli z Błyskawicą. Dla magów przedmiot ten jest wręcz nieodzowny.
+
+PARAMETRY:
+
+Specjalne:
+– Klasa Pancerza: +2
+– Rzuty obronne: +2
+– Odporność na magię: +50%
+– Niewrażliwość na zauroczenie
+– Używany zapewnia Ochronę przed złem
+– Rozproszenie magii, poziomu 30., po trafieniu
+– Uderza jak broń +5
+
+Właściwości ładunków:
+– Połączenie Ognistej kuli i Błyskawicy, trzy razy dziennie
+Ognista kula: 10k6 obrażeń od ognia o zasięgu 10 metrów (połowa po rzucie obronnym przeciw czarom)
+Błyskawica: 10k6 obrażeń od elektryczności przeciw wszystkim, którzy stoją jej na drodze (połowa po rzucie obronnym przeciw czarom)
+Zasięg: 50 metrów
+
+– Pułapka na czary, raz dziennie
+Czas działania: 8 godzin, lub gdy uwięzione zostanie trzydzieści poziomów czarów
+Obszar działania: użytkownik
+
+Obrażenia (walka wręcz): 1k6 +1
+Obrażenia (dystansowe): 2k2 +1
+TraK0: +1
+Typ obrażeń (walka wręcz): obuchowe
+Typ obrażeń (dystansowe): magiczne
+Opóźnienie: 1
+Rodzaj biegłości: kij
+Typ broni: 2-ręczna
+
+Wymagania:
+– Siła: 5
+
+Waga: 4~
+
+@353=~Ten rodzaj kostura stanowi uosobienie typowego wyobrażenia o przedstawicielach profesji parających się magią, chociaż w rzeczywistości jest on rzadko spotykany. Jest jednym z najpotężniejszych narzędzi, jakie czarodziej może posiadać i stanowi owoc wielu skomplikowanych zaklęć oraz niekończących się studiów nad magią. Ten konkretny egzemplarz jest użyteczny zarówno w walce wręcz, jak i na dystans, zapewniając niewrażliwość na zaklęcie Zatrzymania czasu i oferując ochronę przed złem oraz urokami. Potrafi również rzucać zaklęcia Zatrzymanie czasu i Rozpraszanie magii, a także wystrzeliwać pociski będące połączeniem Ognistej kuli z Błyskawicą. Dla magów przedmiot ten jest wręcz nieodzowny.
+
+PARAMETRY:
+
+Specjalne:
+– Klasa Pancerza: +2
+– Rzuty obronne: +2
+– Niewrażliwość na Zatrzymanie czasu
+– Niewrażliwość na zauroczenie
+– Używany zapewnia Ochronę przed złem
+– Rozproszenie magii, poziomu 30., po trafieniu
+– Uderza jak broń +5
+
+Właściwości ładunków:
+– Połączenie Ognistej kuli i Błyskawicy, trzy razy dziennie
+Ognista kula: 10k6 obrażeń od ognia o zasięgu 10 metrów (połowa po rzucie obronnym przeciw czarom)
+Błyskawica: 10k6 obrażeń od elektryczności przeciw wszystkim, którzy stoją jej na drodze (połowa po rzucie obronnym przeciw czarom)
+Zasięg: 50 metrów
+
+– Pułapka na czary, raz dziennie
+Czas działania: 8 godzin, lub gdy uwięzione zostanie trzydzieści poziomów czarów
+Obszar działania: użytkownik
+
+Obrażenia (walka wręcz): 1k6 +1
+Obrażenia (dystansowe): 2k2 +1
+TraK0: +1
+Typ obrażeń (walka wręcz): obuchowe
+Typ obrażeń (dystansowe): magiczne
+Opóźnienie: 1
+Rodzaj biegłości: kij
+Typ broni: 2-ręczna
+
+Wymagania:
+– Siła: 5
+
+Waga: 4~
+
+@354=~Ten rodzaj kostura stanowi uosobienie typowego wyobrażenia o przedstawicielach profesji parających się magią, chociaż w rzeczywistości jest on rzadko spotykany. Jest jednym z najpotężniejszych narzędzi, jakie czarodziej może posiadać i stanowi owoc wielu skomplikowanych zaklęć oraz niekończących się studiów nad magią. Ten konkretny egzemplarz jest użyteczny zarówno w walce wręcz, jak i na dystans, zwiększając szybkość rzucania zaklęć i oferując ochronę przed złem oraz urokami. Potrafi również rzucać zaklęcia Zatrzymanie czasu i Rozpraszanie magii, a także wystrzeliwać pociski będące połączeniem Ognistej kuli z Błyskawicą. Dla magów przedmiot ten jest wręcz nieodzowny.
+
+PARAMETRY:
+
+Specjalne:
+– Klasa Pancerza: +2
+– Rzuty obronne: +2
+– Szybkość rzucania zaklęć: +3
+– Niewrażliwość na zauroczenie
+– Używany zapewnia Ochronę przed złem
+– Rozproszenie magii, poziomu 30., po trafieniu
+– Uderza jak broń +5
+
+Właściwości ładunków:
+– Połączenie Ognistej kuli i Błyskawicy, trzy razy dziennie
+Ognista kula: 10k6 obrażeń od ognia o zasięgu 10 metrów (połowa po rzucie obronnym przeciw czarom)
+Błyskawica: 10k6 obrażeń od elektryczności przeciw wszystkim, którzy stoją jej na drodze (połowa po rzucie obronnym przeciw czarom)
+Zasięg: 50 metrów
+
+– Pułapka na czary, raz dziennie
+Czas działania: 8 godzin, lub gdy uwięzione zostanie trzydzieści poziomów czarów
+Obszar działania: użytkownik
+
+Obrażenia (walka wręcz): 1k6 +1
+Obrażenia (dystansowe): 2k2 +1
+TraK0: +1
+Typ obrażeń (walka wręcz): obuchowe
+Typ obrażeń (dystansowe): magiczne
+Opóźnienie: 1
+Rodzaj biegłości: kij
+Typ broni: 2-ręczna
+
+Wymagania:
+– Siła: 5
+
+Waga: 4~
+
+@355=~Ten rodzaj kostura stanowi uosobienie typowego wyobrażenia o przedstawicielach profesji parających się magią, chociaż w rzeczywistości jest on rzadko spotykany. Jest jednym z najpotężniejszych narzędzi, jakie czarodziej może posiadać i stanowi owoc wielu skomplikowanych zaklęć oraz niekończących się studiów nad magią. Ten konkretny egzemplarz jest użyteczny zarówno w walce wręcz, jak i na dystans, powoli odzyskując wykorzystane przez maga zaklęcia i oferując ochronę przed złem oraz urokami. Potrafi również rzucać zaklęcia Zatrzymanie czasu i Rozpraszanie magii, a także wystrzeliwać pociski będące połączeniem Ognistej kuli z Błyskawicą. Dla magów przedmiot ten jest wręcz nieodzowny.
+
+PARAMETRY:
+
+Specjalne:
+– Klasa Pancerza: +2
+– Rzuty obronne: +2
+– Niewrażliwość na zauroczenie
+– Używany zapewnia Ochronę przed złem
+– Odzyskiwanie zaklęć 
+Odzyskiwanie zaklęć: co godzinę przywraca jedno rzucone przez czarodzieja zaklęcie poziomu 5. lub niższego. Czar wyższego poziomu zostaje zawsze odzyskany jako pierwszy.
+– Rozproszenie magii, poziomu 30., po trafieniu
+– Uderza jak broń +5
+
+Właściwości ładunków:
+– Połączenie Ognistej kuli i Błyskawicy, trzy razy dziennie
+Ognista kula: 10k6 obrażeń od ognia o zasięgu 10 metrów (połowa po rzucie obronnym przeciw czarom)
+Błyskawica: 10k6 obrażeń od elektryczności przeciw wszystkim, którzy stoją jej na drodze (połowa po rzucie obronnym przeciw czarom)
+Zasięg: 50 metrów
+
+– Pułapka na czary, raz dziennie
+Czas działania: 8 godzin, lub gdy uwięzione zostanie trzydzieści poziomów czarów
+Obszar działania: użytkownik
+
+Obrażenia (walka wręcz): 1k6 +1
+Obrażenia (dystansowe): 2k2 +1
+TraK0: +1
+Typ obrażeń (walka wręcz): obuchowe
+Typ obrażeń (dystansowe): magiczne
+Opóźnienie: 1
+Rodzaj biegłości: kij
+Typ broni: 2-ręczna
+
+Wymagania:
+– Siła: 5
+
+Waga: 4~
+
+@401=~Przed tobą zaczyna się materializować chowaniec. Jaką postać ma przyjąć?~
+
+@402=~Smoczydło~
+
+@403=~Chochlik~
+
+@404=~Królik~
+
+@405=~Kot~
+
+@406=~Świstak~
+
+@407=~Pająk~
+
+@408=~Lim Lim~
+
+@409=~Latająca czaszka~
+
+@410=~Mefit~
+
+@411=~Wąż~
+
+@412=~Jak chcesz nazwać swojego chowańca?~
+
+@413=~Isane~
+
+@414=~Kailey~
+
+@415=~Chowaniec~
+
+@416=~W czym ma się specjalizować twój chowaniec?~
+
+@417=~Mag~
+
+@418=~Złodziej~
+
+@419=~Gdy kończysz rzucanie zaklęcia, twój chowaniec przybiera wreszcie ostateczny kształt.~
+
+@420=~*szkol chowańca*~
+
+@421=~Twój chowaniec awansował na kolejny poziom.~
+
+@422=~W porządku, proszę bardzo.~
+
+@423=~Oto twój chowaniec, chowający się obecnie pod kocem w twoim plecaku. Spod jego fałd widać tylko błyszczące oczka stworzenia.
+
+PARAMETRY:
+
+Poziom: 10
+Punkty życia: 24 (+12 po każdym szkoleniu)
+Klasa Pancerza: 2 (-2 po każdym szkoleniu)
+Odporność na magię: 50%
+Odporność na ogień/zimno/elektryczność/kwas: 50%
+Odporność na obrażenia sieczne/obuchowe/kłute/pociski: 25%
+Rzuty obronne: 13/15/14/16/16 (-2 po każdym szkoleniu)
+
+Walka: 2 ataki na rundę, 1k6 obrażeń
+TraK0: 16 (-3 po każdym szkoleniu)
+
+Zdolności specjalne:
+– Niewrażliwość na sen i petryfikację, odporność na wyssanie poziomów
+– Regeneracja punktów życia: 1/rundę
+- Może rzucać zaklęcia maga lub używać umiejętności złodziejskich
+
+Waga: 1~
+
+@424=~~ [JFLEA01]
+
+@425=~~ [JFLEA02]
+
+@426=~~ [JFLEA03]
+
+@427=~~ [JFLEA04]
+
+@428=~~ [JFLEA06]
+
+@429=~Oto twój chowaniec, chowający się obecnie pod kocem w twoim plecaku. Spod jego fałd widać tylko błyszczące oczka stworzenia.
+
+PARAMETRY:
+
+Poziom: 15
+Punkty życia: 48 (+12 po każdym szkoleniu)
+Klasa Pancerza: -2 (-2 po każdym szkoleniu)
+Odporność na magię: 50%
+Odporność na ogień/zimno/elektryczność/kwas: 50%
+Odporność na obrażenia sieczne/obuchowe/kłute/pociski: 25%
+Rzuty obronne: 9/11/10/12/12 (-2 po każdym szkoleniu)
+
+Walka: 2 ataki na rundę, 1k8 obrażeń
+TraK0: 10 (-3 po każdym szkoleniu)
+
+Zdolności specjalne:
+– Niewrażliwość na sen i petryfikację, odporność na wyssanie poziomów
+– Regeneracja punktów życia: 1/rundę
+- Może rzucać zaklęcia maga lub używać umiejętności złodziejskich
+
+Waga: 1~
+
+@430=~Słysząc groźny ton twojego głosu, chowaniec oddaje ci niechętnie wszystko, co ukradł. „Oj, niezły z ciebie złodziejaszek” – stwierdza z wyrzutem.~ ~Słysząc groźny ton twojego głosu, chowaniec oddaje ci niechętnie wszystko, co ukradł. „Oj, niezła z ciebie złodziejka” – stwierdza z wyrzutem.~
+
+@431=~Małe stworzonko gapi się ze zdziwieniem szeroko otwartymi oczami, wycofując się nerwowo w kierunku swego pana. Wyraźnie nie chce z tobą rozmawiać.~ ~Małe stworzonko gapi się ze zdziwieniem szeroko otwartymi oczami, wycofując się nerwowo w kierunku swej pani. Wyraźnie nie chce z tobą rozmawiać.~
+
+@432=~Małe stworzonko reaguje radośnie, gdy do niego podchodzisz. „Życzysz sobie czegoś?” – pyta, wyraźnie oczekując twej uwagi.~
+
+@433=~Chowaniec grucha z zachwytu, wywracając oczami, gdy go poklepujesz. „Jesteś dla mnie bardzo miły, panie” - mruczy.~ ~Chowaniec grucha z zachwytu, wywracając oczami, gdy go poklepujesz. „Jesteś dla mnie bardzo miła, pani” - mruczy.~
+
+@434=~Chowaniec spogląda na ciebie z lekkim zdziwieniem. „Chcesz zapytać *mnie* o zdanie, <PRO_LADYLORD>?” – pyta.~
+
+@435=~Stworzenie spogląda przez chwilę w ciemność, po czym odwraca się do ciebie. „Chodźmy z tego mrocznego miejsca, <PRO_LADYLORD>. Oto moja rada.” – wypala.~
+
+@436=~Chowaniec rozgląda się ze zdziwieniem, aż wreszcie jego wzrok spoczywa na tobie. „Chcesz iść do miejsca, w którym żyją biedni? Do slumsów, <PRO_LADYLORD>? No, nie wiem” - stwierdza z wahaniem.~
+
+@437=~Małe stworzonko chichocze do siebie melodyjnie. „Musisz zebrać złoto, <PRO_LADYLORD>. Wystarczająco dużo złota, by uzyskać odpowiedzi” - wyjaśnia.~
+
+@438=~Stworzenie robi niemalże zatroskaną minę, rozglądając się przy tym, po czym odzywa się ponownie. „No nie wiem, <PRO_LADYLORD>. Musisz kontynuować te zadania, czyż nie?”~
+
+@439=~Stworzenie zastanawia się przez dłuższą chwilę. „Musimy powstrzymać tego czarodzieja. Uratować ciebie i twoją młodszą siostrę. Oto moja rada” – stwierdza, kończąc rozmyślania.~
+
+@440=~Stworzenie rozgląda się przez chwilę pociemniałymi ze strachu oczami. „Musimy prędko opuścić to miejsce, <PRO_LADYLORD>. Proszę?” – rzuca błagalnym tonem.~
+
+@441=~Stworzenie warczy groźnie, ale nie na ciebie. „Ten czarodziej, <PRO_LADYLORD>. On musi umrzeć, a ty musisz żyć” – stwierdza stanowczo.~
+
+@442=~Chowaniec szczerzy się z zadowoleniem, wpatrując się w ciebie. „Dopóki ty masz się dobrze, <PRO_LADYLORD>, ja również” – stwierdza radośnie.~
+
+@443=~„Ja... jestem ciężko ranny, <PRO_LADYLORD>. Nie chcę umierać. Chcę zostać z tobą” – stworzenie skomle cichutko, owijając się wokół twojej nogi.~
+
+@444=~„Czuję się wspaniale, <PRO_LADYLORD>. Jestem rześki i gotowy stawić czoła niebezpieczeństwom! – wypala żywo.~
+
+@445=~Chowaniec uśmiecha się z zadowoleniem, spoglądając na ścieżkę przed tobą. „Jak sobie życzysz, <PRO_LADYLORD>” – rzecze.~
+
+@446=~Małe stworzonko spogląda przez chwilę na ciebie. „Musisz przeżyć, <PRO_LADYLORD>. Twoje pochodzenie sprowadza na ciebie wielkie niebezpieczeństwo!” - potrząsa ze wzburzeniem ciałem.~
+
+@447=~Chowaniec warczy przez chwilę zaciekle. „Ta oszustka musi umrzeć, <PRO_LADYLORD>! Musisz dotrzeć jakoś do Tronu Bhaala i zmierzyć się z nią!” – wykrzykuje.~
+
+@448=~Częstujesz małe stworzonko garstką posiadanych orzechów i jagód. Chowaniec skubie kilka z nich, ale nie wygląda na głodnego.~
+
+@449=~Chowaniec przewraca z zadowoleniem oczami, pochłaniając łapczywie dużą porcję zebranych przez ciebie orzechów i jagód. Jego rany zaczynają się na twoich oczach goić.~
+
+@450=~Chowaniec wpatruje się w ciebie drwiąco, po czym odwraca się komentując niewybrednie pod nosem twój wygląd. Następnie oddala się szybkim krokiem do swego pana. Wyraźnie nie chce z tobą rozmawiać...~ ~Chowaniec wpatruje się w ciebie drwiąco, po czym odwraca się komentując niewybrednie pod nosem twój wygląd. Następnie oddala się szybkim krokiem do swej pani. Wyraźnie nie chce z tobą rozmawiać...~
+
+@451=~Stworzenie wpatruje się w ciebie podejrzliwie, spodziewając się kopniaka lub trzepnięcia w głowę, po czym zbliża się o kilka kroków. „Tak, szefie? Potrzebujesz czegoś?” - pyta.~ ~Stworzenie wpatruje się w ciebie podejrzliwie, spodziewając się kopniaka lub trzepnięcia w głowę, po czym zbliża się o kilka kroków. „Tak, szefowo? Potrzebujesz czegoś?” - pyta.~
+
+@452=~„No jasne, zapakuj mnie do swojego śmierdzącego plecaka. Myślałeś kiedyś, żeby włożyć tam choć trochę mięty? Bleee...” - wypala z wyrzutem, wczołgując się niepewnie do twojego plecaka.~ ~„No jasne, zapakuj mnie do swojego śmierdzącego plecaka. Myślałaś kiedyś, żeby włożyć tam choć trochę mięty? Bleee...” - wypala z wyrzutem, wczołgując się niepewnie do twojego plecaka.~
+
+@453=~Stworzenie krzywi się z obrzydzeniem, gdy klepiesz go po głowie. „Och, nagle zostałem uroczym małym króliczkiem? Daj spokój, szefie” - rzuca, umykając w popłochu ze strachu.~ ~Stworzenie krzywi się z obrzydzeniem, gdy klepiesz go po głowie. „Och, nagle zostałem uroczym małym króliczkiem? Daj spokój, szefowo” - rzuca, umykając w popłochu ze strachu.~
+
+@454=~„Co? Mam robić za przewodnika turystycznego? Rób sobie, co chcesz, szefie. Idź, zabij jakiegoś króla czy coś...” - wypala czaszka, obracając się w prawo i lewo z przesadną ekspresją.~ ~„Co? Mam robić za przewodnika turystycznego? Rób sobie, co chcesz, szefowo. Idź, zabij jakiegoś króla czy coś...” - wypala czaszka, obracając się w prawo i lewo z przesadną ekspresją.~
+
+@455=~„Co? Wygląda mi to na całkiem wesołe miejsce. Wymorduj miejscowych, a potem ogłoś się panem i władcą tych ziem. Najlepiej tyranem. Mnie by to pasowało” - stwierdza nagle chowaniec, rozglądając się wokoło.~ ~„Co? Wygląda mi to na całkiem wesołe miejsce. Wymorduj miejscowych, a potem ogłoś się panią i władczynią tych ziem. Najlepiej tyranem. Mnie by to pasowało” - stwierdza nagle chowaniec, rozglądając się wokoło.~
+
+@456=~Stworzenie patrzy na ciebie podejrzliwie, mrużąc przy tym oczy. „Hmm, od kiedy to się mną interesujesz, szefie? Do tej pory zawsze chodziło tylko o ciebie” - pyta w końcu.~ ~Stworzenie patrzy na ciebie podejrzliwie, mrużąc przy tym oczy. „Hmm, od kiedy to się mną interesujesz, szefowo? Do tej pory zawsze chodziło tylko o ciebie” - pyta w końcu.~
+
+@457=~Stworzenie patrzy na ciebie podejrzliwie. „Hmm, od kiedy to się mną interesujesz, szefie? Do tej pory zawsze chodziło tylko o ciebie” - pyta w końcu.~ ~Stworzenie patrzy na ciebie podejrzliwie. „Hmm, od kiedy to się mną interesujesz, szefowo? Do tej pory zawsze chodziło tylko o ciebie” - pyta w końcu.~
+
+@458=~„No, ale skoro już pytasz, przydałoby mi się leczenie. Kończy mi się czas... nie chciałbyś chyba, żebym umarł? Byłaby *to* wielka szkoda...”~ ~„No, ale skoro już pytasz, przydałoby mi się leczenie. Kończy mi się czas... nie chciałabyś chyba, żebym umarł? Byłaby *to* wielka szkoda...”~
+
+@459=~Stworzenie patrzy w dal i wzdycha. „No jasne. Czeka nas pięćdziesiąt lat łażenia w kółko? Czy ty nigdy nie osiądziesz w jednym miejscu? Litości...”~
+
+@460=~Chowaniec zatacza się po otrzymanym ciosie. „Heeej! A to niby za co?! Zrobiłem wszystko tak, jak chciałeś, szefie. Ach, niektórzy są nie do zniesienia...”~ ~Chowaniec zatacza się po otrzymanym ciosie. „Heeej! A to niby za co?! Zrobiłem wszystko tak, jak chciałaś, szefowo. Ach, niektórzy są nie do zniesienia...”~
+
+@461=~Czaszka przyjmuje kolejny cios, po którym ląduje na posadzce, z głuchym trzaskiem. „Auuu! Dobra! Ty rządzisz, panie! TY szef, JA mały sługa! Rozumiem!”~ ~Czaszka przyjmuje kolejny cios, po którym ląduje na posadzce, z głuchym trzaskiem. „Auuu! Dobra! Ty rządzisz, pani! TY szef, JA mały sługa! Rozumiem!”~
+
+@462=~Chowaniec odskakuje w ostatniej chwili. „Ha! Pfff! Nie trafiłbyś nawet w stodołę! Cieniasie!” - rzuca za siebie, umykając zwinnie przed czekającą go karą.~ ~Chowaniec odskakuje w ostatniej chwili. „Ha! Pfff! Nie trafiłabyś nawet w stodołę! Jesteś beznadziejna!” - rzuca za siebie, umykając zwinnie przed czekającą go karą.~
+
+@463=~„No jasne, zapakuj mnie do swojego śmierdzącego plecaka. Myślałeś kiedyś, żeby włożyć tam choć trochę mięty? Bleee...” - wypala z wyrzutem, wczołgując się niepewnie do twojego plecaka.~ ~„No jasne, zapakuj mnie do swojego śmierdzącego plecaka. Myślałaś kiedyś, żeby włożyć tam choć trochę mięty? Bleee...” - wypala z wyrzutem, wczołgując się niepewnie do twojego plecaka.~
+
+@464=~Stworzenie kręci przez chwilę głową, po czym odpowiada. „Czekają nas duże kłopoty, szefie. Wszystkie pomioty Bhaala już wkrótce czeka koniec. Mleko się wylało, przyszedł czas zapłaty. W każdym razie nie daj się złapać, tylko tego mogę ci życzyć”.~ ~Stworzenie kręci przez chwilę głową, po czym odpowiada. „Czekają nas duże kłopoty, szefowo. Wszystkie pomioty Bhaala już wkrótce czeka koniec. Mleko się wylało, przyszedł czas zapłaty. W każdym razie nie daj się złapać, tylko tego mogę ci życzyć”.~
+
+@465=~Stworzenie uśmiecha się. „Cóż... zabij ich, zanim oni zabiją ciebie. Dziadek zawsze mi to powtarzał. Dopóki nie został, uch, zabity...”~
+
+@466=~Częstujesz chowańca kawałkiem suszonego mięsa. Stworzenie obwąchuje je z niesmakiem, wywracając przy tym oczami. „Nie chcę teraz nic do jedzenia, szefie. Może, jak będę ranny” - oświadcza, wyrzucając bezceremonialnie mięso.~ ~Częstujesz chowańca kawałkiem suszonego mięsa. Stworzenie obwąchuje je z niesmakiem, wywracając przy tym oczami. „Nie chcę teraz nic do jedzenia, szefowo. Może, jak będę ranny” - oświadcza, wyrzucając bezceremonialnie mięso.~
+
+@467=~Częstujesz czaszkę kawałkiem suszonego mięsa. Stworzenie patrzy na ciebie ze zdziwieniem. „Nie potrzebuję wcale jedzenia, szefie. Jestem przecież nieumarłym, nie pamiętasz?” - oznajmia.~ ~Częstujesz czaszkę kawałkiem suszonego mięsa. Stworzenie patrzy na ciebie ze zdziwieniem. „Nie potrzebuję wcale jedzenia, szefowo. Jestem przecież nieumarłym, nie pamiętasz?” - oznajmia.~
+
+@468=~Ranne stworzenie bierze ostrożnie kawałek suszonego mięsa z twojego plecaka, połykając go chciwie. „To wcale nie znaczy, że jestem ci coś winien, szefie” - oznajmia, przeżuwając jedzenie.~ ~Ranne stworzenie bierze ostrożnie kawałek suszonego mięsa z twojego plecaka, połykając go chciwie. „To wcale nie znaczy, że jestem ci coś winien, szefowo” - oznajmia, przeżuwając jedzenie.~
+
+@469=~Ranna czaszka bierze ostrożnie kawałek suszonego mięsa z twojego plecaka, połykając go chciwie. Zastanawiasz się nad naturą procesu odbywającego się na twoich oczach, widząc, jak rany stworzenia zaczynają się zasklepiać. „To wcale nie znaczy, że jestem ci coś winien, szefie” - oznajmia, przeżuwając jedzenie.~ ~Ranna czaszka bierze ostrożnie kawałek suszonego mięsa z twojego plecaka, połykając go chciwie. Zastanawiasz się nad naturą procesu odbywającego się na twoich oczach, widząc, jak rany stworzenia zaczynają się zasklepiać. „To wcale nie znaczy, że jestem ci coś winien, szefowo” - oznajmia, przeżuwając jedzenie.~
+
+@470=~Chowaniec wzdycha, drżąc lekko z ciekawości, gdy na ciebie patrzy. „O co chodzi, mężczyzno? Jestem głodny. Masz mnie nakarmić i pogłaskać”.~ ~Chowaniec wzdycha, drżąc lekko z ciekawości, gdy na ciebie patrzy. „O co chodzi, kobieto? Jestem głodny. Masz mnie nakarmić i pogłaskać”.~
+
+@471=~„Aaaach...” - wzdycha czaszka, o dziwo wyglądając na zadowoloną z tej czynności. „O tak, to jest przyjemne. Trochę czasu minęło, odkąd mogłem się podrapać” - stwierdza.~
+
+@472=~Stworzenie patrzy na ciebie z lekkim zdziwieniem. „Ja? Może i kłębią mi się w głowie myśli, którymi mogę się z tobą podzielić, ale czy ciebie w ogóle one obchodzą, <PRO_MANWOMAN>?”~
+
+@473=~Chowaniec zatapia się w myślach na kilka chwil, po czym odwraca się od ciebie i odchodzi wolnym krokiem. Najwyraźniej zmęczyły go rozmyślania.~
+
+@474=~Chowaniec zastanawia się przez długą chwilę, po czym zdaje się zasypiać, ziewając przy tym szeroko. Wpatruje się w pustkę nieobecnym wzrokiem. „Możesz mnie podrapać jeszcze trochę. Oto moja rada”.~
+
+@475=~Chowaniec rozgląda się złowrogo wkoło, spuszczając ze strachu głowę. „Tutaj... to ja jestem pożywieniem dla innych. Nie lubię tego miejsca. Powinniśmy udać się gdzie indziej.”~
+
+@476=~Czaszka myśli, kołysząc się przy tym dziko. Jest tylko jedno wyjście, <PRO_MANWOMAN>o. Jeśli chcesz przeżyć, ten mag musi zginąć. Tak się musi stać.”~
+
+@477=~Zdaje się, że stworzenie zamierza coś powiedzieć, ale ostatecznie jego uwagę przykuwa coś bardziej interesującego, z dala od ciebie. Odwraca się od ciebie i wolnym krokiem oddala się w tamtym kierunku.~
+
+@478=~Małe stworzonko wywraca oczami i wzdycha obrażone. „Dobra. Ale to okrutne z twojej strony, wiesz?”~
+
+@479=~Czaszka kiwa się z boku na bok z wyraźnym niezadowoleniem, po czym wzdycha obrażona. „Dobra. Ale to okrutne z twojej strony, wiesz?”~
+
+@480=~Stworzenie obserwuje cię, narzekając przy tym. „No cóż... może. Ale jeśli nie dotrzymasz słowa nie zapomnę ci tego. *wzdycha* Och, no dobrze. Uwielbiam kiedy prosisz.”~
+
+@481=~Chowaniec wygląda na znudzonego. „Nie wiem jaką dać ci radę. Czarodziej umarł, a ty masz swoją duszę... Nie możesz po prostu odejść?” Ziewa. „Może zbierz armię. Czyż nie to właśnie robisz?”~
+
+@482=~Zastyga w bezruchu, usilnie myśląc. „Wydaje mi się... że dzieci Bhaala powinny zebrać się razem. Musisz to zakończyć.” Uśmiecha się nagle. „I oczywiście wygrać!”~
+
+@483=~Daj mi wszystko, co udało ci się ukraść. Natychmiast!~
+
+@484=~*pogłaszcz czaszkę*~
+
+@485=~Chowaniec wzdycha i bez odrobiny zainteresowania zwraca oczy na ścieżkę biegnącą przed tobą. „Sam wolałbym wybrać naszą drogę, ale ty bez wątpienia będziesz się upierać przy swoim.”~
+
+@486=~Stworzenie spogląda w górę, wyraźnie zadowolone z twojej bliskości. Wzdycha, po czym spogląda na moment w przeciwnym kierunku. „Jesteśmy połączeni, ty i ja. Jeśli ty dobrze się czujesz, i ja dobrze się czuję.”~
+
+@487=~Czuję się znacznie silniejszy.~
+
+@488=~Chowaniec myśl, warcząc przy tym zawzięcie. „Jest tylko jedno wyjście, <PRO_MANWOMAN>o. Jeśli chcesz przeżyć, to zło musi zginąć. Tak się musi stać.”~
+
+@489=~Stworzenie patrzy na ciebie z przesadną irytacją. „Co? Mam robić za przewodnika turystycznego? Rób sobie, co chcesz, szefie. Idź, zabij jakiegoś króla czy coś...”~ ~Stworzenie patrzy na ciebie z przesadną irytacją. „Co? Mam robić za przewodnika turystycznego? Rób sobie, co chcesz, szefowo. Idź, zabij jakiegoś króla czy coś...”~
+
+@490=~Chowaniec chichocze melodyjnie. „Jeśli szukasz przygód, <LADYLORD>, dołącz do karawany”.~
+
+@491=~Stworzenie rozgląda się przez chwilę, mglistym ze strachu wzrokiem. „Potrzebujemy pomocy, <LADYLORD>. Nie możemy się poddawać.~
+
+@492=~Chowaniec chichocze melodyjnie. „Powinniśmy pomóc arcydruidowi, <LADYLORD>. On poszukuje tych samych odpowiedzi”.~
+
+@493=~Zastanawia się przez długą chwilę, a potem odpowiada. „Dziwne rzeczy dzieją się w Oku. Powinniśmy to sprawdzić, <LADYLORD>.”~
+
+@494=~Zastanawia się przez długą chwilę, machając nieświadomie ogonem, a potem odpowiada.  „Jest tyle spraw do zbadania, <LADYLORD>. Nie wiem nawet, gdzie zacząć.”~
+
+@495=~Chowaniec rozgląda się pytająco, po czym odwraca wzrok w twoją stronę. „Te znaki wyglądają na ważne, <LADYLORD>. Być może jest ich więcej.”~
+
+@496=~Stworzenie warczy groźnie, ale nie na ciebie. „Znamy źródło zła, <LADYLORD>. Teraz musimy z nim skończyć.”~
+
+@497=~Stworzenie jakby zmarszczyło brwi, rozglądając się, po czym przemówiło ponownie. „Nie mam pojęcia, <LADYLORD>. Musimy znaleźć sposób na zawarcie pokoju z tymi plemionami”.~
+
+@498=~Spojrzenie rozgląda się przez dłuższą chwilę, po czym spogląda na ciebie. „Musimy znaleźć sposób, by stąd uciec, <LADYLORD>. Oto moja rada”.~
+
+@499=~Chowaniec przeklina przez chwilę pod nosem. „Szefie, ta karawana może być naszą najlepszą szansą na zgarnięcie łatwej kasy”.~ ~Chowaniec przeklina przez chwilę pod nosem. „Szefowo, ta karawana może być naszą najlepszą szansą na zgarnięcie łatwej kasy”.~
+
+@500=~Wybór zaklęć: 1. poziom~
+
+@501=~Wybór zaklęć: 3. poziom~
+
+@502=~Wybór zaklęć: 5. poziom~
+
+@503=~Wybór zaklęć: 7. poziom~
+
+@504=~Wybór zaklęć: 9. poziom~
+
+@505=~+50% do Kradzieży kieszonkowej~
+
+@506=~+50% do Otwierania zamków~
+
+@507=~+50% do Znajdowania pułapek~
+
+@508=~+50% do Ukrywania się w cieniu/Cichego chodzenia~
+
+@509=~Naucz się zaklęcia: Śliskość~
+
+@510=~Naucz się zaklęcia: Zbroja~
+
+@511=~Naucz się zaklęcia: Płonące dłonie~
+
+@512=~Naucz się zaklęcia: Zauroczenie osoby~
+
+@513=~Naucz się zaklęcia: Migoczące barwy~
+
+@514=~Naucz się zaklęcia: Ociemniałość~
+
+@515=~Naucz się zaklęcia: Przyjaciele~
+
+@516=~Naucz się zaklęcia: Ochrona przed petryfikacją~
+
+@517=~Naucz się zaklęcia: Magiczny pocisk~
+
+@518=~Naucz się zaklęcia: Ochrona przed złem~
+
+@519=~Naucz się zaklęcia: Tarcza~
+
+@520=~Naucz się zaklęcia: Porażający uścisk~
+
+@521=~Naucz się zaklęcia: Uśpienie~
+
+@522=~Naucz się zaklęcia: Zmrażający dotyk~
+
+@523=~Naucz się zaklęcia: Chromatyczna kula~
+
+@524=~Naucz się zaklęcia: Pomniejsze drążenie Larlocha~
+
+@525=~Naucz się zaklęcia: Odbity obraz~
+
+@526=~Naucz się zaklęcia: Przerażenie~
+
+@527=~Naucz się zaklęcia: Jasnowidzenie~
+
+@528=~Naucz się zaklęcia: Usunięcie magii~
+
+@529=~Naucz się zaklęcia: Ognista strzała~
+
+@530=~Naucz się zaklęcia: Ognista kula~
+
+@531=~Naucz się zaklęcia: Przyspieszenie ruchów~
+
+@532=~Naucz się zaklęcia: Unieruchomienie osoby~
+
+@533=~Naucz się zaklęcia: Niewidzialność, promień 3 metry~
+
+@534=~Naucz się zaklęcia: Błyskawica~
+
+@535=~Naucz się zaklęcia: Przywołanie potwora I~
+
+@536=~Naucz się zaklęcia: Niewykrywalność~
+
+@537=~Naucz się zaklęcia: Ochrona przed zwykłymi pociskami~
+
+@538=~Naucz się zaklęcia: Spowolnienie ruchów~
+
+@539=~Naucz się zaklęcia: Eksplodująca czaszka~
+
+@540=~Naucz się zaklęcia: Wampiryczne dotknięcie~
+
+@541=~Naucz się zaklęcia: Półmaterialność~
+
+@542=~Naucz się zaklęcia: Okropne zauroczenie~
+
+@543=~Naucz się zaklęcia: Duchowy pancerz~
+
+@544=~Naucz się zaklęcia: Mniejsze odchylenie czaru~
+
+@545=~Naucz się zaklęcia: Ochrona przed ogniem~
+
+@546=~Naucz się zaklęcia: Ochrona przed zimnem~
+
+@547=~Naucz się zaklęcia: Zbicie czaru~
+
+@548=~Naucz się zaklęcia: Wykrycie iluzji~
+
+@549=~Naucz się zaklęcia: Unieruchomienie nieumarłego~
+
+@550=~Naucz się zaklęcia: Miniaturowe meteory Melfa~
+
+@551=~Naucz się zaklęcia: Rozproszenie magii~
+
+@552=~Naucz się zaklęcia: Wielkie osłabienie~
+
+@553=~Naucz się zaklęcia: Polimorfowanie siebie~
+
+@554=~Naucz się zaklęcia: Animacja martwego~
+
+@555=~Naucz się zaklęcia: Zabójcza chmura~
+
+@556=~Naucz się zaklęcia: Stożek zimna~
+
+@557=~Naucz się zaklęcia: Przywołanie potwora III~
+
+@558=~Naucz się zaklęcia: Drzwi z cienia~
+
+@559=~Naucz się zaklęcia: Dominacja~
+
+@560=~Naucz się zaklęcia: Unieruchomienie potwora~
+
+@561=~Naucz się zaklęcia: Chaos~
+
+@562=~Naucz się zaklęcia: Ogłupienie~
+
+@563=~Naucz się zaklęcia: Niepodatność na czary~
+
+@564=~Naucz się zaklęcia: Ochrona przed zwykłymi broniami~
+
+@565=~Naucz się zaklęcia: Ochrona przed elektrycznością~
+
+@566=~Naucz się zaklęcia: Wyłom~
+
+@567=~Naucz się zaklęcia: Obniżenie odporności~
+
+@568=~Naucz się zaklęcia: Wyrocznia~
+
+@569=~Naucz się zaklęcia: Sprowadzenie mniejszego żywiołaka ognia~
+
+@570=~Naucz się zaklęcia: Ochrona przed kwasem~
+
+@571=~Naucz się zaklęcia: Widmowe ostrze~
+
+@572=~Naucz się zaklęcia: Tarcza przeciw czarom~
+
+@573=~Naucz się zaklęcia: Sprowadzenie mniejszego żywiołaka powietrza~
+
+@574=~Naucz się zaklęcia: Sprowadzenie mniejszego żywiołaka ziemi~
+
+@575=~Naucz się zaklęcia: Mniejsze odbicie czaru~
+
+@576=~Naucz się zaklęcia: Ogień słońca~
+
+@577=~Naucz się zaklęcia: Przemiana Tensera~
+
+@578=~Naucz się zaklęcia: Prawdziwe widzenie~
+
+@579=~Naucz się zaklęcia: Ulepszone przyspieszenie ruchów~
+
+@580=~Naucz się zaklęcia: Odbicie czaru~
+
+@581=~Naucz się zaklęcia: Ochrona przed żywiołami~
+
+@582=~Naucz się zaklęcia: Rubinowy promień odwrócenia~
+
+@583=~Naucz się zaklęcia: Bicz ochronny Khelbena~
+
+@584=~Naucz się zaklęcia: Wielobies~
+
+@585=~Naucz się zaklęcia: Opończa~
+
+@586=~Naucz się zaklęcia: Sekwencer zaklęć~
+
+@587=~Naucz się zaklęcia: Sfera chaosu~
+
+@588=~Naucz się zaklęcia: Opóźniona kula ognista~
+
+@589=~Naucz się zaklęcia: Palec śmierci~
+
+@590=~Naucz się zaklęcia: Tęczowe kolory~
+
+@591=~Naucz się zaklęcia: Słowo mocy: ogłuszenie ~
+
+@592=~Naucz się zaklęcia: Miecz Mordenkainena~
+
+@593=~Naucz się zaklęcia: Przyzwanie ifryta~
+
+@594=~Naucz się zaklęcia: Przyzwanie dżinna~
+
+@595=~Naucz się zaklęcia: Przywołanie hakeashara~
+
+@596=~Naucz się zaklęcia: Kontrolowanie nieumarłych~
+
+@597=~Naucz się zaklęcia: Grupowa niewidzialność~
+
+@598=~Naucz się zaklęcia: Pułapka na czary~
+
+@599=~Naucz się zaklęcia: Uderzenie czaru~
+
+@600=~Naucz się zaklęcia: Brama~
+
+@601=~Naucz się zaklęcia: Całkowita niewrażliwość~
+
+@602=~Naucz się zaklęcia: Łańcuch czarów~
+
+@603=~Naucz się zaklęcia: Zatrzymanie czasu~
+
+@604=~Naucz się zaklęcia: Uwięzienie~
+
+@605=~Naucz się zaklęcia: Rój meteorów~
+
+@606=~Naucz się zaklęcia: Słowo mocy: giń~
+
+@607=~Naucz się zaklęcia: Zawodzenie banshee~
+
+@608=~Naucz się zaklęcia: Wyssanie energii~
+
+@609=~Naucz się zaklęcia: Czarne ostrze klęski~
+
+@610=~Naucz się zaklęcia: Zmiana kształtu~
+
+@611=~Naucz się zaklęcia: Uwolnienie~
+
+@612=~Naucz się zaklęcia: Miażdżąca ręka Bigby'ego~
+
+@613=~*nakarm czaszkę*~
+
+@620=~Oto twój kot chowaniec, obecnie zwinięty bezpiecznie w kłębek w twoim plecaku.
+
+PARAMETRY:
+
+Poziom: 5
+Punkty życia: 12 (+12 po każdym szkoleniu)
+Klasa Pancerza: 4 (-2 po każdym szkoleniu)
+Odporność na magię: 50%
+Odporność na ogień/zimno/elektryczność/kwas: 50%
+Odporność na obrażenia sieczne/obuchowe/kłute/pociski: 25%
+Rzuty obronne: 15/17/16/18/18 (-2 po każdym szkoleniu)
+
+Walka: 2 ataki na rundę, 1k6 obrażeń
+TraK0: 19 (-3 po każdym szkoleniu)
+
+Zdolności specjalne:
+– Niewrażliwość na sen i petryfikację, odporność na wyssanie poziomów
+– Regeneracja punktów życia: 1/rundę
+- Może rzucać zaklęcia maga lub używać umiejętności złodziejskich
+
+Waga: 1~
+
+@621=~Oto twój kot chowaniec, obecnie zwinięty bezpiecznie w kłębek w twoim plecaku.
+
+PARAMETRY:
+
+Poziom: 10
+Punkty życia: 24 (+12 po każdym szkoleniu)
+Klasa Pancerza: 2 (-2 po każdym szkoleniu)
+Odporność na magię: 50%
+Odporność na ogień/zimno/elektryczność/kwas: 50%
+Odporność na obrażenia sieczne/obuchowe/kłute/pociski: 25%
+Rzuty obronne: 13/15/14/16/16 (-2 po każdym szkoleniu)
+
+Walka: 2 ataki na rundę, 1k6 obrażeń
+TraK0: 16 (-3 po każdym szkoleniu)
+
+Zdolności specjalne:
+– Niewrażliwość na sen i petryfikację, odporność na wyssanie poziomów
+– Regeneracja punktów życia: 1/rundę
+- Może rzucać zaklęcia maga lub używać umiejętności złodziejskich
+
+Waga: 1~
+
+@622=~Oto twój kot chowaniec, obecnie zwinięty bezpiecznie w kłębek w twoim plecaku.
+
+PARAMETRY:
+
+Poziom: 15
+Punkty życia: 48 (+12 po każdym szkoleniu)
+Klasa Pancerza: -2 (-2 po każdym szkoleniu)
+Odporność na magię: 50%
+Odporność na ogień/zimno/elektryczność/kwas: 50%
+Odporność na obrażenia sieczne/obuchowe/kłute/pociski: 25%
+Rzuty obronne: 9/11/10/12/12 (-2 po każdym szkoleniu)
+
+Walka: 2 ataki na rundę, 1k8 obrażeń
+TraK0: 10 (-3 po każdym szkoleniu)
+
+Zdolności specjalne:
+– Niewrażliwość na sen i petryfikację, odporność na wyssanie poziomów
+– Regeneracja punktów życia: 1/rundę
+- Może rzucać zaklęcia maga lub używać umiejętności złodziejskich
+
+Waga: 1~
+
+@623=~Oto twój chowaniec, świstak, obecnie zwinięty bezpiecznie w kłębek w twoim plecaku.
+
+PARAMETRY:
+
+Poziom: 5
+Punkty życia: 12 (+12 po każdym szkoleniu)
+Klasa Pancerza: 4 (-2 po każdym szkoleniu)
+Odporność na magię: 50%
+Odporność na ogień/zimno/elektryczność/kwas: 50%
+Odporność na obrażenia sieczne/obuchowe/kłute/pociski: 25%
+Rzuty obronne: 15/17/16/18/18 (-2 po każdym szkoleniu)
+
+Walka: 2 ataki na rundę, 1k6 obrażeń
+TraK0: 19 (-3 po każdym szkoleniu)
+
+Zdolności specjalne:
+– Niewrażliwość na sen i petryfikację, odporność na wyssanie poziomów
+– Regeneracja punktów życia: 1/rundę
+- Może rzucać zaklęcia maga lub używać umiejętności złodziejskich
+
+Waga: 1~
+
+@624=~Oto twój chowaniec, świstak, obecnie zwinięty bezpiecznie w kłębek w twoim plecaku.
+
+PARAMETRY:
+
+Poziom: 10
+Punkty życia: 24 (+12 po każdym szkoleniu)
+Klasa Pancerza: 2 (-2 po każdym szkoleniu)
+Odporność na magię: 50%
+Odporność na ogień/zimno/elektryczność/kwas: 50%
+Odporność na obrażenia sieczne/obuchowe/kłute/pociski: 25%
+Rzuty obronne: 13/15/14/16/16 (-2 po każdym szkoleniu)
+
+Walka: 2 ataki na rundę, 1k6 obrażeń
+TraK0: 16 (-3 po każdym szkoleniu)
+
+Zdolności specjalne:
+– Niewrażliwość na sen i petryfikację, odporność na wyssanie poziomów
+– Regeneracja punktów życia: 1/rundę
+- Może rzucać zaklęcia maga lub używać umiejętności złodziejskich
+
+Waga: 1~
+
+@625=~Oto twój chowaniec, świstak, obecnie zwinięty bezpiecznie w kłębek w twoim plecaku.
+
+PARAMETRY:
+
+Poziom: 15
+Punkty życia: 48 (+12 po każdym szkoleniu)
+Klasa Pancerza: -2 (-2 po każdym szkoleniu)
+Odporność na magię: 50%
+Odporność na ogień/zimno/elektryczność/kwas: 50%
+Odporność na obrażenia sieczne/obuchowe/kłute/pociski: 25%
+Rzuty obronne: 9/11/10/12/12 (-2 po każdym szkoleniu)
+
+Walka: 2 ataki na rundę, 1k8 obrażeń
+TraK0: 10 (-3 po każdym szkoleniu)
+
+Zdolności specjalne:
+– Niewrażliwość na sen i petryfikację, odporność na wyssanie poziomów
+– Regeneracja punktów życia: 1/rundę
+- Może rzucać zaklęcia maga lub używać umiejętności złodziejskich
+
+Waga: 1~
+
+@626=~Oto twój chowaniec, królik, obecnie zwinięty bezpiecznie w kłębek w twoim plecaku.
+
+PARAMETRY:
+
+Poziom: 5
+Punkty życia: 12 (+12 po każdym szkoleniu)
+Klasa Pancerza: 4 (-2 po każdym szkoleniu)
+Odporność na magię: 50%
+Odporność na ogień/zimno/elektryczność/kwas: 50%
+Odporność na obrażenia sieczne/obuchowe/kłute/pociski: 25%
+Rzuty obronne: 15/17/16/18/18 (-2 po każdym szkoleniu)
+
+Walka: 2 ataki na rundę, 1k6 obrażeń
+TraK0: 19 (-3 po każdym szkoleniu)
+
+Zdolności specjalne:
+– Niewrażliwość na sen i petryfikację, odporność na wyssanie poziomów
+– Regeneracja punktów życia: 1/rundę
+- Może rzucać zaklęcia maga lub używać umiejętności złodziejskich
+
+Waga: 1~
+
+@627=~Oto twój chowaniec, królik, obecnie zwinięty bezpiecznie w kłębek w twoim plecaku.
+
+PARAMETRY:
+
+Poziom: 10
+Punkty życia: 24 (+12 po każdym szkoleniu)
+Klasa Pancerza: 2 (-2 po każdym szkoleniu)
+Odporność na magię: 50%
+Odporność na ogień/zimno/elektryczność/kwas: 50%
+Odporność na obrażenia sieczne/obuchowe/kłute/pociski: 25%
+Rzuty obronne: 13/15/14/16/16 (-2 po każdym szkoleniu)
+
+Walka: 2 ataki na rundę, 1k6 obrażeń
+TraK0: 16 (-3 po każdym szkoleniu)
+
+Zdolności specjalne:
+– Niewrażliwość na sen i petryfikację, odporność na wyssanie poziomów
+– Regeneracja punktów życia: 1/rundę
+- Może rzucać zaklęcia maga lub używać umiejętności złodziejskich
+
+Waga: 1~
+
+@628=~Oto twój chowaniec, królik, obecnie zwinięty bezpiecznie w kłębek w twoim plecaku.
+
+PARAMETRY:
+
+Poziom: 15
+Punkty życia: 48 (+12 po każdym szkoleniu)
+Klasa Pancerza: -2 (-2 po każdym szkoleniu)
+Odporność na magię: 50%
+Odporność na ogień/zimno/elektryczność/kwas: 50%
+Odporność na obrażenia sieczne/obuchowe/kłute/pociski: 25%
+Rzuty obronne: 9/11/10/12/12 (-2 po każdym szkoleniu)
+
+Walka: 2 ataki na rundę, 1k8 obrażeń
+TraK0: 10 (-3 po każdym szkoleniu)
+
+Zdolności specjalne:
+– Niewrażliwość na sen i petryfikację, odporność na wyssanie poziomów
+– Regeneracja punktów życia: 1/rundę
+- Może rzucać zaklęcia maga lub używać umiejętności złodziejskich
+
+Waga: 1~
+
+@629=~Oto twój chowaniec, smoczydło, obecnie zwinięty bezpiecznie w kłębek w twoim plecaku.
+
+PARAMETRY:
+
+Poziom: 5
+Punkty życia: 12 (+12 po każdym szkoleniu)
+Klasa Pancerza: 4 (-2 po każdym szkoleniu)
+Odporność na magię: 50%
+Odporność na ogień/zimno/elektryczność/kwas: 50%
+Odporność na obrażenia sieczne/obuchowe/kłute/pociski: 25%
+Rzuty obronne: 15/17/16/18/18 (-2 po każdym szkoleniu)
+
+Walka: 2 ataki na rundę, 1k6 obrażeń
+TraK0: 19 (-3 po każdym szkoleniu)
+
+Zdolności specjalne:
+– Niewrażliwość na sen i petryfikację, odporność na wyssanie poziomów
+– Regeneracja punktów życia: 1/rundę
+- Może rzucać zaklęcia maga lub używać umiejętności złodziejskich
+
+Waga: 1~
+
+@630=~Oto twój chowaniec, smoczydło, obecnie zwinięty bezpiecznie w kłębek w twoim plecaku.
+
+PARAMETRY:
+
+Poziom: 10
+Punkty życia: 24 (+12 po każdym szkoleniu)
+Klasa Pancerza: 2 (-2 po każdym szkoleniu)
+Odporność na magię: 50%
+Odporność na ogień/zimno/elektryczność/kwas: 50%
+Odporność na obrażenia sieczne/obuchowe/kłute/pociski: 25%
+Rzuty obronne: 13/15/14/16/16 (-2 po każdym szkoleniu)
+
+Walka: 2 ataki na rundę, 1k6 obrażeń
+TraK0: 16 (-3 po każdym szkoleniu)
+
+Zdolności specjalne:
+– Niewrażliwość na sen i petryfikację, odporność na wyssanie poziomów
+– Regeneracja punktów życia: 1/rundę
+- Może rzucać zaklęcia maga lub używać umiejętności złodziejskich
+
+Waga: 1~
+
+@631=~Oto twój chowaniec, smoczydło, obecnie zwinięty bezpiecznie w kłębek w twoim plecaku.
+
+PARAMETRY:
+
+Poziom: 15
+Punkty życia: 48 (+12 po każdym szkoleniu)
+Klasa Pancerza: -2 (-2 po każdym szkoleniu)
+Odporność na magię: 50%
+Odporność na ogień/zimno/elektryczność/kwas: 50%
+Odporność na obrażenia sieczne/obuchowe/kłute/pociski: 25%
+Rzuty obronne: 9/11/10/12/12 (-2 po każdym szkoleniu)
+
+Walka: 2 ataki na rundę, 1k8 obrażeń
+TraK0: 10 (-3 po każdym szkoleniu)
+
+Zdolności specjalne:
+– Niewrażliwość na sen i petryfikację, odporność na wyssanie poziomów
+– Regeneracja punktów życia: 1/rundę
+- Może rzucać zaklęcia maga lub używać umiejętności złodziejskich
+
+Waga: 1~
+
+@632=~Oto twój chowaniec, chochlik, obecnie zwinięty bezpiecznie w kłębek w twoim plecaku.
+
+PARAMETRY:
+
+Poziom: 5
+Punkty życia: 12 (+12 po każdym szkoleniu)
+Klasa Pancerza: 4 (-2 po każdym szkoleniu)
+Odporność na magię: 50%
+Odporność na ogień/zimno/elektryczność/kwas: 50%
+Odporność na obrażenia sieczne/obuchowe/kłute/pociski: 25%
+Rzuty obronne: 15/17/16/18/18 (-2 po każdym szkoleniu)
+
+Walka: 2 ataki na rundę, 1k6 obrażeń
+TraK0: 19 (-3 po każdym szkoleniu)
+
+Zdolności specjalne:
+– Niewrażliwość na sen i petryfikację, odporność na wyssanie poziomów
+– Regeneracja punktów życia: 1/rundę
+- Może rzucać zaklęcia maga lub używać umiejętności złodziejskich
+
+Waga: 1~
+
+@633=~Oto twój chowaniec, chochlik, obecnie zwinięty bezpiecznie w kłębek w twoim plecaku.
+
+PARAMETRY:
+
+Poziom: 10
+Punkty życia: 24 (+12 po każdym szkoleniu)
+Klasa Pancerza: 2 (-2 po każdym szkoleniu)
+Odporność na magię: 50%
+Odporność na ogień/zimno/elektryczność/kwas: 50%
+Odporność na obrażenia sieczne/obuchowe/kłute/pociski: 25%
+Rzuty obronne: 13/15/14/16/16 (-2 po każdym szkoleniu)
+
+Walka: 2 ataki na rundę, 1k6 obrażeń
+TraK0: 16 (-3 po każdym szkoleniu)
+
+Zdolności specjalne:
+– Niewrażliwość na sen i petryfikację, odporność na wyssanie poziomów
+– Regeneracja punktów życia: 1/rundę
+- Może rzucać zaklęcia maga lub używać umiejętności złodziejskich
+
+Waga: 1~
+
+@634=~Oto twój chowaniec, chochlik, obecnie zwinięty bezpiecznie w kłębek w twoim plecaku.
+
+PARAMETRY:
+
+Poziom: 15
+Punkty życia: 48 (+12 po każdym szkoleniu)
+Klasa Pancerza: -2 (-2 po każdym szkoleniu)
+Odporność na magię: 50%
+Odporność na ogień/zimno/elektryczność/kwas: 50%
+Odporność na obrażenia sieczne/obuchowe/kłute/pociski: 25%
+Rzuty obronne: 9/11/10/12/12 (-2 po każdym szkoleniu)
+
+Walka: 2 ataki na rundę, 1k8 obrażeń
+TraK0: 10 (-3 po każdym szkoleniu)
+
+Zdolności specjalne:
+– Niewrażliwość na sen i petryfikację, odporność na wyssanie poziomów
+– Regeneracja punktów życia: 1/rundę
+- Może rzucać zaklęcia maga lub używać umiejętności złodziejskich
+
+Waga: 1~
+
+@635=~Oto twój chowaniec, mefit ziemi, obecnie zwinięty bezpiecznie w kłębek w twoim plecaku.
+
+PARAMETRY:
+
+Poziom: 5
+Punkty życia: 12 (+12 po każdym szkoleniu)
+Klasa Pancerza: 4 (-2 po każdym szkoleniu)
+Odporność na magię: 50%
+Odporność na ogień/zimno/elektryczność/kwas: 50%
+Odporność na obrażenia sieczne/obuchowe/kłute/pociski: 25%
+Rzuty obronne: 15/17/16/18/18 (-2 po każdym szkoleniu)
+
+Walka: 2 ataki na rundę, 1k6 obrażeń
+TraK0: 19 (-3 po każdym szkoleniu)
+
+Zdolności specjalne:
+– Niewrażliwość na sen i petryfikację, odporność na wyssanie poziomów
+– Regeneracja punktów życia: 1/rundę
+- Może rzucać zaklęcia maga lub używać umiejętności złodziejskich
+
+Waga: 1~
+
+@636=~Oto twój chowaniec, mefit ziemi, obecnie zwinięty bezpiecznie w kłębek w twoim plecaku.
+
+PARAMETRY:
+
+Poziom: 10
+Punkty życia: 24 (+12 po każdym szkoleniu)
+Klasa Pancerza: 2 (-2 po każdym szkoleniu)
+Odporność na magię: 50%
+Odporność na ogień/zimno/elektryczność/kwas: 50%
+Odporność na obrażenia sieczne/obuchowe/kłute/pociski: 25%
+Rzuty obronne: 13/15/14/16/16 (-2 po każdym szkoleniu)
+
+Walka: 2 ataki na rundę, 1k6 obrażeń
+TraK0: 16 (-3 po każdym szkoleniu)
+
+Zdolności specjalne:
+– Niewrażliwość na sen i petryfikację, odporność na wyssanie poziomów
+– Regeneracja punktów życia: 1/rundę
+- Może rzucać zaklęcia maga lub używać umiejętności złodziejskich
+
+Waga: 1~
+
+@637=~Oto twój chowaniec, mefit ziemi, obecnie zwinięty bezpiecznie w kłębek w twoim plecaku.
+
+PARAMETRY:
+
+Poziom: 15
+Punkty życia: 48 (+12 po każdym szkoleniu)
+Klasa Pancerza: -2 (-2 po każdym szkoleniu)
+Odporność na magię: 50%
+Odporność na ogień/zimno/elektryczność/kwas: 50%
+Odporność na obrażenia sieczne/obuchowe/kłute/pociski: 25%
+Rzuty obronne: 9/11/10/12/12 (-2 po każdym szkoleniu)
+
+Walka: 2 ataki na rundę, 1k8 obrażeń
+TraK0: 10 (-3 po każdym szkoleniu)
+
+Zdolności specjalne:
+– Niewrażliwość na sen i petryfikację, odporność na wyssanie poziomów
+– Regeneracja punktów życia: 1/rundę
+- Może rzucać zaklęcia maga lub używać umiejętności złodziejskich
+
+Waga: 1~
+
+@638=~Oto twój chowaniec, pająk, obecnie zwinięty bezpiecznie w kłębek w twoim plecaku.
+
+PARAMETRY:
+
+Poziom: 5
+Punkty życia: 12 (+12 po każdym szkoleniu)
+Klasa Pancerza: 4 (-2 po każdym szkoleniu)
+Odporność na magię: 50%
+Odporność na ogień/zimno/elektryczność/kwas: 50%
+Odporność na obrażenia sieczne/obuchowe/kłute/pociski: 25%
+Rzuty obronne: 15/17/16/18/18 (-2 po każdym szkoleniu)
+
+Walka: 2 ataki na rundę, 1k6 obrażeń
+TraK0: 19 (-3 po każdym szkoleniu)
+
+Zdolności specjalne:
+– Niewrażliwość na sen i petryfikację, odporność na wyssanie poziomów
+– Regeneracja punktów życia: 1/rundę
+- Może rzucać zaklęcia maga lub używać umiejętności złodziejskich
+
+Waga: 1~
+
+@639=~Oto twój chowaniec, pająk, obecnie zwinięty bezpiecznie w kłębek w twoim plecaku.
+
+PARAMETRY:
+
+Poziom: 10
+Punkty życia: 24 (+12 po każdym szkoleniu)
+Klasa Pancerza: 2 (-2 po każdym szkoleniu)
+Odporność na magię: 50%
+Odporność na ogień/zimno/elektryczność/kwas: 50%
+Odporność na obrażenia sieczne/obuchowe/kłute/pociski: 25%
+Rzuty obronne: 13/15/14/16/16 (-2 po każdym szkoleniu)
+
+Walka: 2 ataki na rundę, 1k6 obrażeń
+TraK0: 16 (-3 po każdym szkoleniu)
+
+Zdolności specjalne:
+– Niewrażliwość na sen i petryfikację, odporność na wyssanie poziomów
+– Regeneracja punktów życia: 1/rundę
+- Może rzucać zaklęcia maga lub używać umiejętności złodziejskich
+
+Waga: 1~
+
+@640=~Oto twój chowaniec, pająk, obecnie zwinięty bezpiecznie w kłębek w twoim plecaku.
+
+PARAMETRY:
+
+Poziom: 15
+Punkty życia: 48 (+12 po każdym szkoleniu)
+Klasa Pancerza: -2 (-2 po każdym szkoleniu)
+Odporność na magię: 50%
+Odporność na ogień/zimno/elektryczność/kwas: 50%
+Odporność na obrażenia sieczne/obuchowe/kłute/pociski: 25%
+Rzuty obronne: 9/11/10/12/12 (-2 po każdym szkoleniu)
+
+Walka: 2 ataki na rundę, 1k8 obrażeń
+TraK0: 10 (-3 po każdym szkoleniu)
+
+Zdolności specjalne:
+– Niewrażliwość na sen i petryfikację, odporność na wyssanie poziomów
+– Regeneracja punktów życia: 1/rundę
+- Może rzucać zaklęcia maga lub używać umiejętności złodziejskich
+
+Waga: 1~
+
+@641=~Oto twój chowaniec, lim-lim, obecnie zwinięty bezpiecznie w kłębek w twoim plecaku.
+
+PARAMETRY:
+
+Poziom: 5
+Punkty życia: 12 (+12 po każdym szkoleniu)
+Klasa Pancerza: 4 (-2 po każdym szkoleniu)
+Odporność na magię: 50%
+Odporność na ogień/zimno/elektryczność/kwas: 50%
+Odporność na obrażenia sieczne/obuchowe/kłute/pociski: 25%
+Rzuty obronne: 15/17/16/18/18 (-2 po każdym szkoleniu)
+
+Walka: 2 ataki na rundę, 1k6 obrażeń
+TraK0: 19 (-3 po każdym szkoleniu)
+
+Zdolności specjalne:
+– Niewrażliwość na sen i petryfikację, odporność na wyssanie poziomów
+– Regeneracja punktów życia: 1/rundę
+- Może rzucać zaklęcia maga lub używać umiejętności złodziejskich
+
+Waga: 1~
+
+@642=~Oto twój chowaniec, lim-lim, obecnie zwinięty bezpiecznie w kłębek w twoim plecaku.
+
+PARAMETRY:
+
+Poziom: 10
+Punkty życia: 24 (+12 po każdym szkoleniu)
+Klasa Pancerza: 2 (-2 po każdym szkoleniu)
+Odporność na magię: 50%
+Odporność na ogień/zimno/elektryczność/kwas: 50%
+Odporność na obrażenia sieczne/obuchowe/kłute/pociski: 25%
+Rzuty obronne: 13/15/14/16/16 (-2 po każdym szkoleniu)
+
+Walka: 2 ataki na rundę, 1k6 obrażeń
+TraK0: 16 (-3 po każdym szkoleniu)
+
+Zdolności specjalne:
+– Niewrażliwość na sen i petryfikację, odporność na wyssanie poziomów
+– Regeneracja punktów życia: 1/rundę
+- Może rzucać zaklęcia maga lub używać umiejętności złodziejskich
+
+Waga: 1~
+
+@643=~Oto twój chowaniec, lim-lim, obecnie zwinięty bezpiecznie w kłębek w twoim plecaku.
+
+PARAMETRY:
+
+Poziom: 15
+Punkty życia: 48 (+12 po każdym szkoleniu)
+Klasa Pancerza: -2 (-2 po każdym szkoleniu)
+Odporność na magię: 50%
+Odporność na ogień/zimno/elektryczność/kwas: 50%
+Odporność na obrażenia sieczne/obuchowe/kłute/pociski: 25%
+Rzuty obronne: 9/11/10/12/12 (-2 po każdym szkoleniu)
+
+Walka: 2 ataki na rundę, 1k8 obrażeń
+TraK0: 10 (-3 po każdym szkoleniu)
+
+Zdolności specjalne:
+– Niewrażliwość na sen i petryfikację, odporność na wyssanie poziomów
+– Regeneracja punktów życia: 1/rundę
+- Może rzucać zaklęcia maga lub używać umiejętności złodziejskich
+
+Waga: 1~
+
+@644=~Oto twój chowaniec, czaszka, obecnie zwinięty bezpiecznie w kłębek w twoim plecaku.
+
+PARAMETRY:
+
+Poziom: 5
+Punkty życia: 12 (+12 po każdym szkoleniu)
+Klasa Pancerza: 4 (-2 po każdym szkoleniu)
+Odporność na magię: 50%
+Odporność na ogień/zimno/elektryczność/kwas: 50%
+Odporność na obrażenia sieczne/obuchowe/kłute/pociski: 25%
+Rzuty obronne: 15/17/16/18/18 (-2 po każdym szkoleniu)
+
+Walka: 2 ataki na rundę, 1k6 obrażeń
+TraK0: 19 (-3 po każdym szkoleniu)
+
+Zdolności specjalne:
+– Niewrażliwość na sen i petryfikację, odporność na wyssanie poziomów
+– Regeneracja punktów życia: 1/rundę
+- Może rzucać zaklęcia maga lub używać umiejętności złodziejskich
+
+Waga: 1~
+
+@645=~Oto twój chowaniec, czaszka, obecnie zwinięty bezpiecznie w kłębek w twoim plecaku.
+
+PARAMETRY:
+
+Poziom: 10
+Punkty życia: 24 (+12 po każdym szkoleniu)
+Klasa Pancerza: 2 (-2 po każdym szkoleniu)
+Odporność na magię: 50%
+Odporność na ogień/zimno/elektryczność/kwas: 50%
+Odporność na obrażenia sieczne/obuchowe/kłute/pociski: 25%
+Rzuty obronne: 13/15/14/16/16 (-2 po każdym szkoleniu)
+
+Walka: 2 ataki na rundę, 1k6 obrażeń
+TraK0: 16 (-3 po każdym szkoleniu)
+
+Zdolności specjalne:
+– Niewrażliwość na sen i petryfikację, odporność na wyssanie poziomów
+– Regeneracja punktów życia: 1/rundę
+- Może rzucać zaklęcia maga lub używać umiejętności złodziejskich
+
+Waga: 1~
+
+@646=~Oto twój chowaniec, czaszka, obecnie zwinięty bezpiecznie w kłębek w twoim plecaku.
+
+PARAMETRY:
+
+Poziom: 15
+Punkty życia: 48 (+12 po każdym szkoleniu)
+Klasa Pancerza: -2 (-2 po każdym szkoleniu)
+Odporność na magię: 50%
+Odporność na ogień/zimno/elektryczność/kwas: 50%
+Odporność na obrażenia sieczne/obuchowe/kłute/pociski: 25%
+Rzuty obronne: 9/11/10/12/12 (-2 po każdym szkoleniu)
+
+Walka: 2 ataki na rundę, 1k8 obrażeń
+TraK0: 10 (-3 po każdym szkoleniu)
+
+Zdolności specjalne:
+– Niewrażliwość na sen i petryfikację, odporność na wyssanie poziomów
+– Regeneracja punktów życia: 1/rundę
+- Może rzucać zaklęcia maga lub używać umiejętności złodziejskich
+
+Waga: 1~
+
+@647=~Oto twój chowaniec, kot, obecnie zwinięty bezpiecznie w kłębek w twoim plecaku.
+
+PARAMETRY:
+
+Poziom: 10
+Punkty życia: 12 (+12 po każdym szkoleniu)
+Klasa Pancerza: 4 (-2 po każdym szkoleniu)
+Odporność na magię: 50%
+Odporność na ogień/zimno/elektryczność/kwas: 50%
+Odporność na obrażenia sieczne/obuchowe/kłute/pociski: 25%
+Rzuty obronne: 15/17/16/18/18 (-2 po każdym szkoleniu)
+
+Walka: 2 ataki na rundę, 1k6 obrażeń
+TraK0: 19 (-3 po każdym szkoleniu)
+
+Zdolności specjalne:
+– Niewrażliwość na sen i petryfikację, odporność na wyssanie poziomów
+– Regeneracja punktów życia: 1/rundę
+- Może rzucać zaklęcia maga lub używać umiejętności złodziejskich
+
+Waga: 1~
+
+@648=~Oto twój chowaniec, świstak, obecnie zwinięty bezpiecznie w kłębek w twoim plecaku.
+
+PARAMETRY:
+
+Poziom: 10
+Punkty życia: 12 (+12 po każdym szkoleniu)
+Klasa Pancerza: 4 (-2 po każdym szkoleniu)
+Odporność na magię: 50%
+Odporność na ogień/zimno/elektryczność/kwas: 50%
+Odporność na obrażenia sieczne/obuchowe/kłute/pociski: 25%
+Rzuty obronne: 15/17/16/18/18 (-2 po każdym szkoleniu)
+
+Walka: 2 ataki na rundę, 1k6 obrażeń
+TraK0: 19 (-3 po każdym szkoleniu)
+
+Zdolności specjalne:
+– Niewrażliwość na sen i petryfikację, odporność na wyssanie poziomów
+– Regeneracja punktów życia: 1/rundę
+- Może rzucać zaklęcia maga lub używać umiejętności złodziejskich
+
+Waga: 1~
+
+@649=~Oto twój chowaniec, królik, obecnie zwinięty bezpiecznie w kłębek w twoim plecaku.
+
+PARAMETRY:
+
+Poziom: 10
+Punkty życia: 12 (+12 po każdym szkoleniu)
+Klasa Pancerza: 4 (-2 po każdym szkoleniu)
+Odporność na magię: 50%
+Odporność na ogień/zimno/elektryczność/kwas: 50%
+Odporność na obrażenia sieczne/obuchowe/kłute/pociski: 25%
+Rzuty obronne: 15/17/16/18/18 (-2 po każdym szkoleniu)
+
+Walka: 2 ataki na rundę, 1k6 obrażeń
+TraK0: 19 (-3 po każdym szkoleniu)
+
+Zdolności specjalne:
+– Niewrażliwość na sen i petryfikację, odporność na wyssanie poziomów
+– Regeneracja punktów życia: 1/rundę
+- Może rzucać zaklęcia maga lub używać umiejętności złodziejskich
+
+Waga: 1~
+
+@650=~Oto twój chowaniec, smoczydło, obecnie zwinięty bezpiecznie w kłębek w twoim plecaku.
+
+PARAMETRY:
+
+Poziom: 10
+Punkty życia: 12 (+12 po każdym szkoleniu)
+Klasa Pancerza: 4 (-2 po każdym szkoleniu)
+Odporność na magię: 50%
+Odporność na ogień/zimno/elektryczność/kwas: 50%
+Odporność na obrażenia sieczne/obuchowe/kłute/pociski: 25%
+Rzuty obronne: 15/17/16/18/18 (-2 po każdym szkoleniu)
+
+Walka: 2 ataki na rundę, 1k6 obrażeń
+TraK0: 19 (-3 po każdym szkoleniu)
+
+Zdolności specjalne:
+– Niewrażliwość na sen i petryfikację, odporność na wyssanie poziomów
+– Regeneracja punktów życia: 1/rundę
+- Może rzucać zaklęcia maga lub używać umiejętności złodziejskich
+
+Waga: 1~
+
+@651=~Oto twój chowaniec, chochlik, obecnie zwinięty bezpiecznie w kłębek w twoim plecaku.
+
+PARAMETRY:
+
+Poziom: 10
+Punkty życia: 12 (+12 po każdym szkoleniu)
+Klasa Pancerza: 4 (-2 po każdym szkoleniu)
+Odporność na magię: 50%
+Odporność na ogień/zimno/elektryczność/kwas: 50%
+Odporność na obrażenia sieczne/obuchowe/kłute/pociski: 25%
+Rzuty obronne: 15/17/16/18/18 (-2 po każdym szkoleniu)
+
+Walka: 2 ataki na rundę, 1k6 obrażeń
+TraK0: 19 (-3 po każdym szkoleniu)
+
+Zdolności specjalne:
+– Niewrażliwość na sen i petryfikację, odporność na wyssanie poziomów
+– Regeneracja punktów życia: 1/rundę
+- Może rzucać zaklęcia maga lub używać umiejętności złodziejskich
+
+Waga: 1~
+
+@652=~Oto twój chowaniec, mefit ziemi, obecnie zwinięty bezpiecznie w kłębek w twoim plecaku.
+
+PARAMETRY:
+
+Poziom: 10
+Punkty życia: 12 (+12 po każdym szkoleniu)
+Klasa Pancerza: 4 (-2 po każdym szkoleniu)
+Odporność na magię: 50%
+Odporność na ogień/zimno/elektryczność/kwas: 50%
+Odporność na obrażenia sieczne/obuchowe/kłute/pociski: 25%
+Rzuty obronne: 15/17/16/18/18 (-2 po każdym szkoleniu)
+
+Walka: 2 ataki na rundę, 1k6 obrażeń
+TraK0: 19 (-3 po każdym szkoleniu)
+
+Zdolności specjalne:
+– Niewrażliwość na sen i petryfikację, odporność na wyssanie poziomów
+– Regeneracja punktów życia: 1/rundę
+- Może rzucać zaklęcia maga lub używać umiejętności złodziejskich
+
+Waga: 1~
+
+@653=~Oto twój chowaniec, pająk, obecnie zwinięty bezpiecznie w kłębek w twoim plecaku.
+
+PARAMETRY:
+
+Poziom: 10
+Punkty życia: 12 (+12 po każdym szkoleniu)
+Klasa Pancerza: 4 (-2 po każdym szkoleniu)
+Odporność na magię: 50%
+Odporność na ogień/zimno/elektryczność/kwas: 50%
+Odporność na obrażenia sieczne/obuchowe/kłute/pociski: 25%
+Rzuty obronne: 15/17/16/18/18 (-2 po każdym szkoleniu)
+
+Walka: 2 ataki na rundę, 1k6 obrażeń
+TraK0: 19 (-3 po każdym szkoleniu)
+
+Zdolności specjalne:
+– Niewrażliwość na sen i petryfikację, odporność na wyssanie poziomów
+– Regeneracja punktów życia: 1/rundę
+- Może rzucać zaklęcia maga lub używać umiejętności złodziejskich
+
+Waga: 1~
+
+@654=~Oto twój chowaniec, lim-lim, obecnie zwinięty bezpiecznie w kłębek w twoim plecaku.
+
+PARAMETRY:
+
+Poziom: 10
+Punkty życia: 12 (+12 po każdym szkoleniu)
+Klasa Pancerza: 4 (-2 po każdym szkoleniu)
+Odporność na magię: 50%
+Odporność na ogień/zimno/elektryczność/kwas: 50%
+Odporność na obrażenia sieczne/obuchowe/kłute/pociski: 25%
+Rzuty obronne: 15/17/16/18/18 (-2 po każdym szkoleniu)
+
+Walka: 2 ataki na rundę, 1k6 obrażeń
+TraK0: 19 (-3 po każdym szkoleniu)
+
+Zdolności specjalne:
+– Niewrażliwość na sen i petryfikację, odporność na wyssanie poziomów
+– Regeneracja punktów życia: 1/rundę
+- Może rzucać zaklęcia maga lub używać umiejętności złodziejskich
+
+Waga: 1~
+
+@655=~Oto twój chowaniec, czaszka, obecnie zwinięty bezpiecznie w kłębek w twoim plecaku.
+
+PARAMETRY:
+
+Poziom: 10
+Punkty życia: 12 (+12 po każdym szkoleniu)
+Klasa Pancerza: 4 (-2 po każdym szkoleniu)
+Odporność na magię: 50%
+Odporność na ogień/zimno/elektryczność/kwas: 50%
+Odporność na obrażenia sieczne/obuchowe/kłute/pociski: 25%
+Rzuty obronne: 15/17/16/18/18 (-2 po każdym szkoleniu)
+
+Walka: 2 ataki na rundę, 1k6 obrażeń
+TraK0: 19 (-3 po każdym szkoleniu)
+
+Zdolności specjalne:
+– Niewrażliwość na sen i petryfikację, odporność na wyssanie poziomów
+– Regeneracja punktów życia: 1/rundę
+- Może rzucać zaklęcia maga lub używać umiejętności złodziejskich
+
+Waga: 1~
+
+@656=~~ [IMPPP01]
+
+@657=~~ [IMPPP02]
+
+@658=~~ [IMPPP03]
+
+@659=~~ [IMPPP06]
+
+@660=~~ [IMPPP07]
+
+@700=~Osoba posługująca się magią nie może posiadać w danej chwili więcej niż jednego chowańca.~
+
+@701=~~
+
+@702=~Małe smokopodobne stworzenie mruczy ze zdziwieniem, otwierając przy tym szeroko oczy. Wycofuje się nerwowo w stronę Aerie, nie chcąc najwyraźniej z tobą rozmawiać.~
+
+@703=~Małe smokopodobne stworzenie łopocze radośnie skrzydłami, wpatrując się w Aerie swymi kalejdoskopowymi oczami. „Życzysz sobie czegoś?” - pyta, machając w oczekiwaniu ogonem.~
+
+@704=~Chodź do mnie. Wsadzę cię do plecaka, tam jest trochę bezpieczniej.~
+
+@705=~Oczy stworzenia rozszerzają się i praktycznie samo wskakuje w jej objęcia, gotowe umościć się pomiędzy jej rzeczami, by zaznać snu i raz na jakiś czas wychylić stamtąd łeb.~
+
+@706=~Chochlik wpatruje się w ciebie drwiąco, wysuwając przy tym rozwidlony język. Po chwili rusza susem w kierunku Edwina, nie chcąc najwyraźniej z tobą rozmawiać...~
+
+@707=~Chochlik wpatruje się podejrzliwie w Edwina, spodziewając się kopniaka lub trzepnięcia w głowę, po czym zbliża się o kilka kroków. „Tak, szefie? Potrzebujesz czegoś?~
+
+@708=~Chodź do mnie. Posiedzisz trochę w moim plecaku.~
+
+@709=~„No jasne, zapakuj mnie do swojego śmierdzącego plecaka. Myślałeś kiedyś, żeby włożyć tam choć trochę mięty? Bleee...” - wypala z wyrzutem, wczołgując się niepewnie do plecaka.~
+
+@710=~Przed tobą stoi najdziwniejsze stworzenie, jakie w życiu widziałeś. Ma przerośnięte nogi, małe, niemal szczątkowe ręce, a jego grzbiet pokryty jest cętkowaną skorupą, z któreej wyrasta para owadopodobnych skrzydeł. Istota ma wąskie czarne oczy, a jej usta wydają się nieustannie szczerzyć. Wydaje się cieszyć z uwagi, jaką mu poświęcasz, jednak po chwili czmycha z powrotem do Haer'dalisa.~~Przed tobą stoi najdziwniejsze stworzenie, jakie w życiu widziałaś. Ma przerośnięte nogi, małe, niemal szczątkowe ręce, a jego grzbiet pokryty jest cętkowaną skorupą, z której wyrasta para owadopodobnych skrzydeł. Istota ma wąskie czarne oczy, a jej usta wydają się nieustannie szczerzyć. Wydaje się cieszyć z uwagi, jaką mu poświęcasz, jednak po chwili czmycha z powrotem do Haer'dalisa.~
+
+@711=~Lim-lim spogląda na Haer'dalisa. „Piu! Piu!” - ćwierka, brzęcząc wesoło skrzydełkami w geście radości z poświęcanej mu przez ciebie uwagi. „Piu!”~
+
+@712=~Nic mi nie jest, dziękuję. Chodź do mnie. Wsadzę cię do plecaka, tam jest trochę bezpieczniej.~
+
+@713=~Kotka Imoen spogląda na ciebie podejrzliwie, by po chwili skierować się w stronę swej pani, pokazując ci przy tym w pełnej krasie tylną część ciała.~
+
+@714=~Kotka macha ogonem, marszcząc lekko z ciekawości nos, po czym spogląda na swą panią ciemnymi oczami. „O co chodzi, Imoen? Jestem głodna. Nakarm mnie i pobaw się ze mną”.~
+
+@715=~Hej ty, chodź do mnie. Wsadzę cię do plecaka, tam jest trochę bezpieczniej. I mam też trochę orzechów!~
+
+@716=~Oczy stworzenia rozbłyskują na wspomnienie jedzenia i jednym susem wskakuje w twe objęcia. „No dobra, kupiłeś mnie” - stwierdza, wciskając się do twojego plecaka z orzechem między zębami.~~Oczy stworzenia rozbłyskują na wspomnienie jedzenia i jednym susem wskakuje w twe objęcia. „No dobra, kupiłaś mnie” - stwierdza, wciskając się do twojego plecaka z orzechem między zębami.~
+
+@717=~Królik Jana spogląda na ciebie podejrzliwie, by po chwili skierować się w stronę swego pana, pokazując ci przy tym w pełnej krasie tylną część ciała. Stworzenie twierdzi, że jest w rzeczywistości polimorfowanym liszem, ale w jego zachowaniu nie ma nic, co potwierdzałoby tę tezę.~
+
+@718=~Królik wzdycha, marszcząc przy tym lekko nos, po czym spogląda na Jana. „Co tym razem?”~
+
+@719=~Jesteś wyjątkowo marudny, nawet jak na polimorfowanego lisza.~
+
+@720=~Królik wzdycha ponownie. „Nie jestem żadnym liszem, Janie. Daj mi po prostu trochę rzepy i już mnie nie ma”.~
+
+@721=~Chodź do mnie. Chcę cię podnieść i wsadzić do plecaka. Skakanie dookoła cały dzień nie jest dobre dla twoich kości.~
+
+@722=~Królik rzuca Janowi zrezygnowane spojrzenie i powoli wpełza do plecaka.~
+
+@723=~Małe smokopodobne stworzenie mruczy ze zdziwieniem, otwierając przy tym szeroko oczy. Wycofuje się nerwowo w stronę Nalii, nie chcąc najwyraźniej z tobą rozmawiać.~
+
+@724=~Małe smokopodobne stworzenie łopocze radośnie skrzydłami, wpatrując się w Nalię swymi kalejdoskopowymi oczami. „Życzysz sobie czegoś?” - pyta, machając w oczekiwaniu ogonem.~
+
+@725=~Chodź do mnie. Wsadzę cię do plecaka, tam jest trochę bezpieczniej.~
+
+@726=~Oczy stworzenia rozszerzają się i praktycznie samo wskakuje w jej objęcia, gotowe umościć się pomiędzy jej rzeczami, by zaznać snu i raz na jakiś czas wychylić stamtąd łeb.~
+
+@727=~Kot Neery spogląda na ciebie podejrzliwie, by po chwili skierować się w stronę swej pani, pokazując ci przy tym w pełnej krasie tylną część ciała.~
+
+@728=~Kot macha ogonem, marszcząc lekko z ciekawości nos, po czym spogląda na swą panią ciemnymi oczami. „O co chodzi, dziewczyno?”~
+
+@729=~Chodź do mnie. Wsadzę cię do plecaka, tam jest trochę bezpieczniej.~
+
+@730=~Milo obrzuca jej plecak spojrzeniem, po czym z wahaniem wczołguje się do środka. „No dobrze, to nawet lepiej, że będziesz mnie nosić. Tylko tym razem nie rzucaj mną jak workiem ziemniaków”.~
+
+@731=~Małe stworzonko spogląda na ciebie podejrzliwie, by po chwili skierować się w stronę Yoshimo, pokazując ci przy tym w pełnej krasie tylną część ciała.~
+
+@732=~Świstak prostuje się jak struna, marszcząc lekko z ciekawości nos, po czym spogląda na swego pana ciemnymi oczami. „O co chodzi, mistrzu Yoshimo?”~
+
+@733=~Chodź do mnie. Wsadzę cię do plecaka, tam jest trochę bezpieczniej.~
+
+@734=~Stworzenie obrzuca jego plecak spojrzeniem, po czym z wahaniem wczołguje się do środka. „No dobrze, to nawet lepiej, że będziesz mnie nosić.~
+
+@735=~Laedraen~
+
+@736=~Popiół~
+
+@737=~Zachwyt~
+
+@738=~Jaśmin~
+
+@739=~Skoczek Pożeracz~
+
+@740=~Rielia~
+
+@741=~Milo~
+
+@742=~Ishiko~
+
+@743=~D'Arhaech~
+
+@744=~Dailiah~
+
+@745=~Jaspis~
+
+@746=~Corri~
+
+@747=~Jay~
+
+@748=~Walteph~
+
+@749=~Szafir~
+
+@750=~Elbraen~
+
+@751=~Shammuabu'nechazz~
+
+@752=~„Piu! Piu!” - Lim-Lim podskakuje radośnie, brzęcząc skrzydełkami, po czym włazi do plecaka.~
+
+@755=~Pająk spogląda na ciebie wrogo, gotów zaatakować w każdej chwili. Na rozkaz Baelotha traci jednak tobą zainteresowanie i przybiega wprost do jego stóp.~
+
+@756=~Pająk stoi bez ruchu, okazując swemu panu całkowite posłuszeństwo. „Czego sobie życzysz, panie?”~
+
+@757=~Chodź do mnie. Posiedzisz trochę w moim plecaku.~
+
+@758=~Stworzenie reaguje natychmiast, wczołgując się do środka. „Jak rozkażesz”.~
+
+@759=~Małe smokopodobne stworzenie mruczy ze zdziwieniem, otwierając przy tym szeroko oczy. Wycofuje się nerwowo w stronę Dynaheir, nie chcąc najwyraźniej z tobą rozmawiać.~
+
+@760=~Małe smokopodobne stworzenie łopocze radośnie skrzydłami, wpatrując się w Dynaheir swymi kalejdoskopowymi oczami. „Życzysz sobie czegoś?” - pyta, machając w oczekiwaniu ogonem.~
+
+@761=~Chodź do mnie. Wsadzę cię do plecaka, tam jest trochę bezpieczniej.~
+
+@762=~Oczy stworzenia rozszerzają się i praktycznie samo wskakuje w jej objęcia, gotowe umościć się pomiędzy jej rzeczami, by zaznać snu i raz na jakiś czas wychylić stamtąd łeb.~
+
+@763=~Chochlik wpatruje się w ciebie drwiąco, wysuwając przy tym rozwidlony język. Po chwili rusza susem w kierunku Eldotha, nie chcąc najwyraźniej z tobą rozmawiać...~
+
+@764=~Chochlik wpatruje się podejrzliwie w Eldotha, spodziewając się kopniaka lub trzepnięcia w głowę, po czym zbliża się o kilka kroków. „Tak, szefie? Potrzebujesz czegoś?~
+
+@765=~Chodź do mnie. Posiedzisz trochę w moim plecaku.~
+
+@766=~No jasne, zapakuj mnie do swojego śmierdzącego plecaka. Myślałeś kiedyś, żeby włożyć tam choć trochę mięty? Bleee...” - wypala z wyrzutem, wczołgując się niepewnie do plecaka.~
+
+@767=~Małe stworzonko spogląda na ciebie podejrzliwie, by po chwili skierować się w stronę Garricka, pokazując ci przy tym w pełnej krasie tylną część ciała.~
+
+@768=~Świstak prostuje się z uwagą, marszcząc lekko z ciekawości nos, po czym spogląda na swego pana ciemnymi oczami. „O co chodzi, mistrzu Garrick?”~
+
+@769=~Chodź do mnie. Wsadzę cię do plecaka, tam jest trochę bezpieczniej.~
+
+@770=~Stworzenie obrzuca jego plecak spojrzeniem, po czym z wahaniem wczołguje się do środka. „No dobrze, to nawet lepiej, że będziesz mnie nosić.~
+
+@771=~Małe stworzonko spogląda na ciebie podejrzliwie, by po chwili skierować się w stronę Khalida, pokazując ci przy tym w pełnej krasie tylną część ciała.~
+
+@772=~Świstak podskakuje wesoło, spoglądając na Khalida. „Życzysz sobie czegoś?” - pyta, próbując zwrócić na siebie jego uwagę.~
+
+@773=~Chodź do mnie. Wsadzę cię do plecaka, tam jest trochę bezpieczniej.~
+
+@774=~Oczy stworzenia rozszerzają się i praktycznie samo wskakuje w jego objęcia, gotowe umościć się pomiędzy jego rzeczami, by zaznać snu i raz na jakiś czas wychylić stamtąd łeb.~
+
+@775=~Przed tobą stoi najdziwniejsze stworzenie, jakie w życiu widziałeś. Ma przerośnięte nogi, małe, niemal szczątkowe ręce, a jego grzbiet pokryty jest cętkowaną skorupą, z któreej wyrasta para owadopodobnych skrzydeł. Istota ma wąskie czarne oczy, a jej usta wydają się nieustannie szczerzyć. Wydaje się cieszyć z uwagi, jaką mu poświęcasz, jednak po chwili czmycha z powrotem do Quayle'a.~~Przed tobą stoi najdziwniejsze stworzenie, jakie w życiu widziałaś. Ma przerośnięte nogi, małe, niemal szczątkowe ręce, a jego grzbiet pokryty jest cętkowaną skorupą, z której wyrasta para owadopodobnych skrzydeł. Istota ma wąskie czarne oczy, a jej usta wydają się nieustannie szczerzyć. Wydaje się cieszyć z uwagi, jaką mu poświęcasz, jednak po chwili czmycha z powrotem do Quayle'a.~
+
+@776=~Lim-lim spogląda na Quayle'a. „Piu! Piu!” - ćwierka, brzęcząc wesoło skrzydełkami w geście radości z poświęcanej mu przez ciebie uwagi. „Piu!”~
+
+@777=~Haha, no jasne. Chodź do mnie. Wsadzę cię do plecaka, tam jest trochę bezpieczniej.~
+
+@778=~„Piu! Piu!” - Lim-Lim podskakuje radośnie, brzęcząc skrzydełkami, po czym włazi do plecaka.~
+
+@779=~Małe smokopodobne stworzenie spogląda na ciebie znacząco swymi szeroko otwartymi oczami. Po chwili odwraca się jednak od ciebie nieco pretensjonalnie, podążając w stronę Safany. Wyraźnie nie chce z tobą rozmawiać.~
+
+@780=~Smoczydło macha ogonem i łopocze niecierpliwie skrzydłami, spoglądając na swą panią kalejdoskopowymi oczami. „O co chodzi, Safano?”~
+
+@781=~Chodź do mnie, dziewczyno. Wsadzę cię do plecaka, tam jest trochę bezpieczniej.~
+
+@782=~Stworzenie obrzuca jej plecak spojrzeniem, po czym z wahaniem wczołguje się do środka. „No dobrze, to nawet lepiej, że będziesz mnie nosić. Tylko tym razem nie rzucaj mną jak workiem ziemniaków”.~
+
+@783=~Chowaniec Xana obrzuca cię zrezygnowanym spojrzeniem. Po chwili odwraca się i wyraźnie znudzony wraca do swego pana.~
+
+@784=~Mefit wzdycha, zerkając na Xana. Przez chwilę obaj mają to samo przygnębione spojrzenie. „O co chodzi, panie?”~
+
+@785=~Chodź do mnie. Wsadzę cię do plecaka, tam jest trochę bezpieczniej.~
+
+@786=~Stworzenie wzdycha ponownie, wczołgując się powoli do plecaka. „Niech ci będzie”.~
+
+@787=~Ludzka czaszka lewituje tuż przed tobą, obserwując cię pustymi oczodołami. Wygląda na wyraźnie rozbawioną. Nie masz pojęcia, co za siła unosi ją w powietrzu, ale czujesz się przy niej nieswojo. Po chwili traci jednak zainteresowanie tobą i wraca do Xzara. Od razu czujesz ulgę.~
+
+@788=~Czaszka wraca do Xzara, obserwując z wyraźnym zainteresowaniem pustymi oczodołami jego nieprzewidywalne ruchy. „Czego sobie życzysz od Shammuabu'nechazz'a, mój drogi przyjacielu?”~
+
+@789=~Chcę się podzielić z tobą moim najnowszym pomysłem. Słuchaj uważnie.~
+
+@790=~Po wysłuchaniu sekretów wyszeptanych mu w tajemnicy przez Xzara, przerywanych od czasu do czasu szalonym śmiechem, czaszka zamyśliła się przez chwilę. „Hmm, mogę przygotować na tę okazję parę zaklęć, daj mi trochę czasu”.~
+
+@791=~Chodź do mnie, przyjacielu. Poniosę cię przez chwilę.~
+
+@792=~Stworzenie wlatuje do plecaka, szukając miejsca, w którym mogłoby się skoncentrować. Po chwili mości się wygodnie. „No dobra, a teraz mi nie przeszkadzaj”.~
+
+@820=~Oto chowaniec Aerie, smoczydło o imieniu Laedraen, obecnie zwinięty bezpiecznie w kłębek w jej plecaku.
+
+PARAMETRY:
+
+Poziom: 10
+Punkty życia: 24 (+12 po każdym szkoleniu)
+Klasa Pancerza: 2 (-2 po każdym szkoleniu)
+Odporność na magię: 50%
+Odporność na ogień/zimno/elektryczność/kwas: 50%
+Odporność na obrażenia sieczne/obuchowe/kłute/pociski: 25%
+Rzuty obronne: 13/15/14/16/16 (-2 po każdym szkoleniu)
+
+Walka: 2 ataki na rundę, 1k6 obrażeń
+TraK0: 16 (-3 po każdym szkoleniu)
+
+Zdolności specjalne:
+– Niewrażliwość na sen i petryfikację, odporność na wyssanie poziomów
+– Regeneracja punktów życia: 1/rundę
+- Może rzucać zaklęcia maga lub używać umiejętności złodziejskich
+
+Waga: 1~
+
+@821=~Oto chowaniec Aerie, smoczydło o imieniu Laedraen, obecnie zwinięty bezpiecznie w kłębek w jej plecaku.
+
+PARAMETRY:
+
+Poziom: 15
+Punkty życia: 48 (+12 po każdym szkoleniu)
+Klasa Pancerza: -2 (-2 po każdym szkoleniu)
+Odporność na magię: 50%
+Odporność na ogień/zimno/elektryczność/kwas: 50%
+Odporność na obrażenia sieczne/obuchowe/kłute/pociski: 25%
+Rzuty obronne: 9/11/10/12/12 (-2 po każdym szkoleniu)
+
+Walka: 2 ataki na rundę, 1k8 obrażeń
+TraK0: 10 (-3 po każdym szkoleniu)
+
+Zdolności specjalne:
+– Niewrażliwość na sen i petryfikację, odporność na wyssanie poziomów
+– Regeneracja punktów życia: 1/rundę
+- Może rzucać zaklęcia maga lub używać umiejętności złodziejskich
+
+Waga: 1~
+
+@822=~Oto chowaniec Edwina, chochlik o imieniu Popiół, obecnie zwinięty bezpiecznie w kłębek w jego plecaku.
+
+PARAMETRY:
+
+Poziom: 10
+Punkty życia: 24 (+12 po każdym szkoleniu)
+Klasa Pancerza: 2 (-2 po każdym szkoleniu)
+Odporność na magię: 50%
+Odporność na ogień/zimno/elektryczność/kwas: 50%
+Odporność na obrażenia sieczne/obuchowe/kłute/pociski: 25%
+Rzuty obronne: 13/15/14/16/16 (-2 po każdym szkoleniu)
+
+Walka: 2 ataki na rundę, 1k6 obrażeń
+TraK0: 16 (-3 po każdym szkoleniu)
+
+Zdolności specjalne:
+– Niewrażliwość na sen i petryfikację, odporność na wyssanie poziomów
+– Regeneracja punktów życia: 1/rundę
+- Może rzucać zaklęcia maga lub używać umiejętności złodziejskich
+
+Waga: 1~
+
+@823=~Oto chowaniec Edwina, chochlik o imieniu Popiół, obecnie zwinięty bezpiecznie w kłębek w jego plecaku.
+
+PARAMETRY:
+
+Poziom: 15
+Punkty życia: 48 (+12 po każdym szkoleniu)
+Klasa Pancerza: -2 (-2 po każdym szkoleniu)
+Odporność na magię: 50%
+Odporność na ogień/zimno/elektryczność/kwas: 50%
+Odporność na obrażenia sieczne/obuchowe/kłute/pociski: 25%
+Rzuty obronne: 9/11/10/12/12 (-2 po każdym szkoleniu)
+
+Walka: 2 ataki na rundę, 1k8 obrażeń
+TraK0: 10 (-3 po każdym szkoleniu)
+
+Zdolności specjalne:
+– Niewrażliwość na sen i petryfikację, odporność na wyssanie poziomów
+– Regeneracja punktów życia: 1/rundę
+- Może rzucać zaklęcia maga lub używać umiejętności złodziejskich
+
+Waga: 1~
+
+@824=~Oto chowaniec Haer'dalisa, lim-lim o imieniu Zachwyt, obecnie zwinięty bezpiecznie w kłębek w jego plecaku.
+
+PARAMETRY:
+
+Poziom: 10
+Punkty życia: 24 (+12 po każdym szkoleniu)
+Klasa Pancerza: 2 (-2 po każdym szkoleniu)
+Odporność na magię: 50%
+Odporność na ogień/zimno/elektryczność/kwas: 50%
+Odporność na obrażenia sieczne/obuchowe/kłute/pociski: 25%
+Rzuty obronne: 13/15/14/16/16 (-2 po każdym szkoleniu)
+
+Walka: 2 ataki na rundę, 1k6 obrażeń
+TraK0: 16 (-3 po każdym szkoleniu)
+
+Zdolności specjalne:
+– Niewrażliwość na sen i petryfikację, odporność na wyssanie poziomów
+– Regeneracja punktów życia: 1/rundę
+- Może rzucać zaklęcia maga lub używać umiejętności złodziejskich
+
+Waga: 1~
+
+@825=~Oto chowaniec Haer'dalisa, lim-lim o imieniu Zachwyt, obecnie zwinięty bezpiecznie w kłębek w jego plecaku.
+
+PARAMETRY:
+
+Poziom: 15
+Punkty życia: 48 (+12 po każdym szkoleniu)
+Klasa Pancerza: -2 (-2 po każdym szkoleniu)
+Odporność na magię: 50%
+Odporność na ogień/zimno/elektryczność/kwas: 50%
+Odporność na obrażenia sieczne/obuchowe/kłute/pociski: 25%
+Rzuty obronne: 9/11/10/12/12 (-2 po każdym szkoleniu)
+
+Walka: 2 ataki na rundę, 1k8 obrażeń
+TraK0: 10 (-3 po każdym szkoleniu)
+
+Zdolności specjalne:
+– Niewrażliwość na sen i petryfikację, odporność na wyssanie poziomów
+– Regeneracja punktów życia: 1/rundę
+- Może rzucać zaklęcia maga lub używać umiejętności złodziejskich
+
+Waga: 1~
+
+@826=~Oto chowaniec Imoen, kotka o imieniu Jaśmin, obecnie zwinięta bezpiecznie w kłębek w jej plecaku.
+
+PARAMETRY:
+
+Poziom: 10
+Punkty życia: 24 (+12 po każdym szkoleniu)
+Klasa Pancerza: 2 (-2 po każdym szkoleniu)
+Odporność na magię: 50%
+Odporność na ogień/zimno/elektryczność/kwas: 50%
+Odporność na obrażenia sieczne/obuchowe/kłute/pociski: 25%
+Rzuty obronne: 13/15/14/16/16 (-2 po każdym szkoleniu)
+
+Walka: 2 ataki na rundę, 1k6 obrażeń
+TraK0: 16 (-3 po każdym szkoleniu)
+
+Zdolności specjalne:
+– Niewrażliwość na sen i petryfikację, odporność na wyssanie poziomów
+– Regeneracja punktów życia: 1/rundę
+- Może rzucać zaklęcia maga lub używać umiejętności złodziejskich
+
+Waga: 1~
+
+@827=~Oto chowaniec Imoen, kotka o imieniu Jaśmin, obecnie zwinięta bezpiecznie w kłębek w jej plecaku.
+
+PARAMETRY:
+
+Poziom: 15
+Punkty życia: 48 (+12 po każdym szkoleniu)
+Klasa Pancerza: -2 (-2 po każdym szkoleniu)
+Odporność na magię: 50%
+Odporność na ogień/zimno/elektryczność/kwas: 50%
+Odporność na obrażenia sieczne/obuchowe/kłute/pociski: 25%
+Rzuty obronne: 9/11/10/12/12 (-2 po każdym szkoleniu)
+
+Walka: 2 ataki na rundę, 1k8 obrażeń
+TraK0: 10 (-3 po każdym szkoleniu)
+
+Zdolności specjalne:
+– Niewrażliwość na sen i petryfikację, odporność na wyssanie poziomów
+– Regeneracja punktów życia: 1/rundę
+- Może rzucać zaklęcia maga lub używać umiejętności złodziejskich
+
+Waga: 1~
+
+@828=~Oto chowaniec Jana Jensena, królik zwany Skoczkiem Pożeraczem, obecnie zwinięty bezpiecznie w kłębek w jego plecaku. Jeśli wierzyć Janowi, stworzenie jest w rzeczywistości polimorfowanym niegdyś liszem.
+
+PARAMETRY:
+
+Poziom: 10
+Punkty życia: 24 (+12 po każdym szkoleniu)
+Klasa Pancerza: 2 (-2 po każdym szkoleniu)
+Odporność na magię: 50%
+Odporność na ogień/zimno/elektryczność/kwas: 50%
+Odporność na obrażenia sieczne/obuchowe/kłute/pociski: 25%
+Rzuty obronne: 13/15/14/16/16 (-2 po każdym szkoleniu)
+
+Walka: 2 ataki na rundę, 1k6 obrażeń
+TraK0: 16 (-3 po każdym szkoleniu)
+
+Zdolności specjalne:
+– Niewrażliwość na sen i petryfikację, odporność na wyssanie poziomów
+– Regeneracja punktów życia: 1/rundę
+- Może rzucać zaklęcia maga lub używać umiejętności złodziejskich
+
+Waga: 1~
+
+@829=~Oto chowaniec Jana Jensena, królik zwany Skoczkiem Pożeraczem, obecnie zwinięty bezpiecznie w kłębek w jego plecaku. Jeśli wierzyć Janowi, stworzenie jest w rzeczywistości polimorfowanym niegdyś liszem.
+
+PARAMETRY:
+
+Poziom: 15
+Punkty życia: 48 (+12 po każdym szkoleniu)
+Klasa Pancerza: -2 (-2 po każdym szkoleniu)
+Odporność na magię: 50%
+Odporność na ogień/zimno/elektryczność/kwas: 50%
+Odporność na obrażenia sieczne/obuchowe/kłute/pociski: 25%
+Rzuty obronne: 9/11/10/12/12 (-2 po każdym szkoleniu)
+
+Walka: 2 ataki na rundę, 1k8 obrażeń
+TraK0: 10 (-3 po każdym szkoleniu)
+
+Zdolności specjalne:
+– Niewrażliwość na sen i petryfikację, odporność na wyssanie poziomów
+– Regeneracja punktów życia: 1/rundę
+- Może rzucać zaklęcia maga lub używać umiejętności złodziejskich
+
+Waga: 1~
+
+@830=~Oto chowaniec Nalii, smoczydło o imieniu Rielia, obecnie zwinięty bezpiecznie w kłębek w jej plecaku.
+
+PARAMETRY:
+
+Poziom: 10
+Punkty życia: 24 (+12 po każdym szkoleniu)
+Klasa Pancerza: 2 (-2 po każdym szkoleniu)
+Odporność na magię: 50%
+Odporność na ogień/zimno/elektryczność/kwas: 50%
+Odporność na obrażenia sieczne/obuchowe/kłute/pociski: 25%
+Rzuty obronne: 13/15/14/16/16 (-2 po każdym szkoleniu)
+
+Walka: 2 ataki na rundę, 1k6 obrażeń
+TraK0: 16 (-3 po każdym szkoleniu)
+
+Zdolności specjalne:
+– Niewrażliwość na sen i petryfikację, odporność na wyssanie poziomów
+– Regeneracja punktów życia: 1/rundę
+- Może rzucać zaklęcia maga lub używać umiejętności złodziejskich
+
+Waga: 1~
+
+@831=~Oto chowaniec Nalii, smoczydło o imieniu Rielia, obecnie zwinięty bezpiecznie w kłębek w jej plecaku.
+
+PARAMETRY:
+
+Poziom: 15
+Punkty życia: 48 (+12 po każdym szkoleniu)
+Klasa Pancerza: -2 (-2 po każdym szkoleniu)
+Odporność na magię: 50%
+Odporność na ogień/zimno/elektryczność/kwas: 50%
+Odporność na obrażenia sieczne/obuchowe/kłute/pociski: 25%
+Rzuty obronne: 9/11/10/12/12 (-2 po każdym szkoleniu)
+
+Walka: 2 ataki na rundę, 1k8 obrażeń
+TraK0: 10 (-3 po każdym szkoleniu)
+
+Zdolności specjalne:
+– Niewrażliwość na sen i petryfikację, odporność na wyssanie poziomów
+– Regeneracja punktów życia: 1/rundę
+- Może rzucać zaklęcia maga lub używać umiejętności złodziejskich
+
+Waga: 1~
+
+@832=~Oto chowaniec Neery, kot o imieniu Milo, obecnie zwinięty bezpiecznie w kłębek w jej plecaku.
+
+PARAMETRY:
+
+Poziom: 10
+Punkty życia: 24 (+12 po każdym szkoleniu)
+Klasa Pancerza: 2 (-2 po każdym szkoleniu)
+Odporność na magię: 50%
+Odporność na ogień/zimno/elektryczność/kwas: 50%
+Odporność na obrażenia sieczne/obuchowe/kłute/pociski: 25%
+Rzuty obronne: 13/15/14/16/16 (-2 po każdym szkoleniu)
+
+Walka: 2 ataki na rundę, 1k6 obrażeń
+TraK0: 16 (-3 po każdym szkoleniu)
+
+Zdolności specjalne:
+– Niewrażliwość na sen i petryfikację, odporność na wyssanie poziomów
+– Regeneracja punktów życia: 1/rundę
+- Może rzucać zaklęcia maga lub używać umiejętności złodziejskich
+
+Waga: 1~
+
+@833=~Oto chowaniec Neery, kot o imieniu Milo, obecnie zwinięty bezpiecznie w kłębek w jej plecaku.
+
+PARAMETRY:
+
+Poziom: 15
+Punkty życia: 48 (+12 po każdym szkoleniu)
+Klasa Pancerza: -2 (-2 po każdym szkoleniu)
+Odporność na magię: 50%
+Odporność na ogień/zimno/elektryczność/kwas: 50%
+Odporność na obrażenia sieczne/obuchowe/kłute/pociski: 25%
+Rzuty obronne: 9/11/10/12/12 (-2 po każdym szkoleniu)
+
+Walka: 2 ataki na rundę, 1k8 obrażeń
+TraK0: 10 (-3 po każdym szkoleniu)
+
+Zdolności specjalne:
+– Niewrażliwość na sen i petryfikację, odporność na wyssanie poziomów
+– Regeneracja punktów życia: 1/rundę
+- Może rzucać zaklęcia maga lub używać umiejętności złodziejskich
+
+Waga: 1~
+
+@834=~Oto chowaniec Yoshimo, świstak o imieniu Ishiko, obecnie zwinięty bezpiecznie w kłębek w jego plecaku.
+
+PARAMETRY:
+
+Poziom: 10
+Punkty życia: 24 (+12 po każdym szkoleniu)
+Klasa Pancerza: 2 (-2 po każdym szkoleniu)
+Odporność na magię: 50%
+Odporność na ogień/zimno/elektryczność/kwas: 50%
+Odporność na obrażenia sieczne/obuchowe/kłute/pociski: 25%
+Rzuty obronne: 13/15/14/16/16 (-2 po każdym szkoleniu)
+
+Walka: 2 ataki na rundę, 1k6 obrażeń
+TraK0: 16 (-3 po każdym szkoleniu)
+
+Zdolności specjalne:
+– Niewrażliwość na sen i petryfikację, odporność na wyssanie poziomów
+– Regeneracja punktów życia: 1/rundę
+- Może rzucać zaklęcia maga lub używać umiejętności złodziejskich
+
+Waga: 1~
+
+@835=~Oto chowaniec Yoshimo, świstak o imieniu Ishiko, obecnie zwinięty bezpiecznie w kłębek w jego plecaku.
+
+PARAMETRY:
+
+Poziom: 15
+Punkty życia: 48 (+12 po każdym szkoleniu)
+Klasa Pancerza: -2 (-2 po każdym szkoleniu)
+Odporność na magię: 50%
+Odporność na ogień/zimno/elektryczność/kwas: 50%
+Odporność na obrażenia sieczne/obuchowe/kłute/pociski: 25%
+Rzuty obronne: 9/11/10/12/12 (-2 po każdym szkoleniu)
+
+Walka: 2 ataki na rundę, 1k8 obrażeń
+TraK0: 10 (-3 po każdym szkoleniu)
+
+Zdolności specjalne:
+– Niewrażliwość na sen i petryfikację, odporność na wyssanie poziomów
+– Regeneracja punktów życia: 1/rundę
+- Może rzucać zaklęcia maga lub używać umiejętności złodziejskich
+
+Waga: 1~
+
+@836=~Oto chowaniec Baelotha, pająk o imieniu D'Arhaech, czekający na rozkazy w jego plecaku.
+
+PARAMETRY:
+
+Poziom: 5
+Punkty życia: 12 (+12 po każdym szkoleniu)
+Klasa Pancerza: 4 (-2 po każdym szkoleniu)
+Odporność na magię: 50%
+Odporność na ogień/zimno/elektryczność/kwas: 50%
+Odporność na obrażenia sieczne/obuchowe/kłute/pociski: 25%
+Rzuty obronne: 15/17/16/18/18 (-2 po każdym szkoleniu)
+
+Walka: 2 ataki na rundę, 1k6 obrażeń
+TraK0: 19 (-3 po każdym szkoleniu)
+
+Zdolności specjalne:
+– Niewrażliwość na sen i petryfikację, odporność na wyssanie poziomów
+– Regeneracja punktów życia: 1/rundę
+- Może rzucać zaklęcia maga lub używać umiejętności złodziejskich
+
+Waga: 1~
+
+@837=~Oto chowaniec Dynaheir, smoczydło o imieniu Dailiah, obecnie zwinięty bezpiecznie w kłębek w jej plecaku.
+
+PARAMETRY:
+
+Poziom: 5
+Punkty życia: 12 (+12 po każdym szkoleniu)
+Klasa Pancerza: 4 (-2 po każdym szkoleniu)
+Odporność na magię: 50%
+Odporność na ogień/zimno/elektryczność/kwas: 50%
+Odporność na obrażenia sieczne/obuchowe/kłute/pociski: 25%
+Rzuty obronne: 15/17/16/18/18 (-2 po każdym szkoleniu)
+
+Walka: 2 ataki na rundę, 1k6 obrażeń
+TraK0: 19 (-3 po każdym szkoleniu)
+
+Zdolności specjalne:
+– Niewrażliwość na sen i petryfikację, odporność na wyssanie poziomów
+– Regeneracja punktów życia: 1/rundę
+- Może rzucać zaklęcia maga lub używać umiejętności złodziejskich
+
+Waga: 1~
+
+@838=~Oto chowaniec Edwina, chochlik o imieniu Popiół, zrzędzący bez końca w jego plecaku.
+
+PARAMETRY:
+
+Poziom: 5
+Punkty życia: 12 (+12 po każdym szkoleniu)
+Klasa Pancerza: 4 (-2 po każdym szkoleniu)
+Odporność na magię: 50%
+Odporność na ogień/zimno/elektryczność/kwas: 50%
+Odporność na obrażenia sieczne/obuchowe/kłute/pociski: 25%
+Rzuty obronne: 15/17/16/18/18 (-2 po każdym szkoleniu)
+
+Walka: 2 ataki na rundę, 1k6 obrażeń
+TraK0: 19 (-3 po każdym szkoleniu)
+
+Zdolności specjalne:
+– Niewrażliwość na sen i petryfikację, odporność na wyssanie poziomów
+– Regeneracja punktów życia: 1/rundę
+- Może rzucać zaklęcia maga lub używać umiejętności złodziejskich
+
+Waga: 1~
+
+@839=~Oto chowaniec Eldotha, chochlik o imieniu Jaspis, zrzędzący bez końca w jego plecaku.
+
+PARAMETRY:
+
+Poziom: 5
+Punkty życia: 12 (+12 po każdym szkoleniu)
+Klasa Pancerza: 4 (-2 po każdym szkoleniu)
+Odporność na magię: 50%
+Odporność na ogień/zimno/elektryczność/kwas: 50%
+Odporność na obrażenia sieczne/obuchowe/kłute/pociski: 25%
+Rzuty obronne: 15/17/16/18/18 (-2 po każdym szkoleniu)
+
+Walka: 2 ataki na rundę, 1k6 obrażeń
+TraK0: 19 (-3 po każdym szkoleniu)
+
+Zdolności specjalne:
+– Niewrażliwość na sen i petryfikację, odporność na wyssanie poziomów
+– Regeneracja punktów życia: 1/rundę
+- Może rzucać zaklęcia maga lub używać umiejętności złodziejskich
+
+Waga: 1~
+
+@840=~Oto chowaniec Garricka, królik o imieniu Corri, obecnie zwinięty bezpiecznie w kłębek w jego plecaku.
+
+PARAMETRY:
+
+Poziom: 5
+Punkty życia: 12 (+12 po każdym szkoleniu)
+Klasa Pancerza: 4 (-2 po każdym szkoleniu)
+Odporność na magię: 50%
+Odporność na ogień/zimno/elektryczność/kwas: 50%
+Odporność na obrażenia sieczne/obuchowe/kłute/pociski: 25%
+Rzuty obronne: 15/17/16/18/18 (-2 po każdym szkoleniu)
+
+Walka: 2 ataki na rundę, 1k6 obrażeń
+TraK0: 19 (-3 po każdym szkoleniu)
+
+Zdolności specjalne:
+– Niewrażliwość na sen i petryfikację, odporność na wyssanie poziomów
+– Regeneracja punktów życia: 1/rundę
+- Może rzucać zaklęcia maga lub używać umiejętności złodziejskich
+
+Waga: 1~
+
+@841=~Oto chowaniec Imoen, kotka o imieniu Jaśmin, obecnie zwinięta bezpiecznie w kłębek w jej plecaku.
+
+PARAMETRY:
+
+Poziom: 5
+Punkty życia: 12 (+12 po każdym szkoleniu)
+Klasa Pancerza: 4 (-2 po każdym szkoleniu)
+Odporność na magię: 50%
+Odporność na ogień/zimno/elektryczność/kwas: 50%
+Odporność na obrażenia sieczne/obuchowe/kłute/pociski: 25%
+Rzuty obronne: 15/17/16/18/18 (-2 po każdym szkoleniu)
+
+Walka: 2 ataki na rundę, 1k6 obrażeń
+TraK0: 19 (-3 po każdym szkoleniu)
+
+Zdolności specjalne:
+– Niewrażliwość na sen i petryfikację, odporność na wyssanie poziomów
+– Regeneracja punktów życia: 1/rundę
+- Może rzucać zaklęcia maga lub używać umiejętności złodziejskich
+
+Waga: 1~
+
+@842=~Oto chowaniec Khalida, świstak o imieniu Jaia, obecnie zwinięta bezpiecznie w kłębek w jego plecaku. Khalid zarzeka się, że wszelkie podobieństwo pomiędzy imieniem stworzenia i jego żony jest zupełnie przypadkowe.
+
+PARAMETRY:
+
+Poziom: 5
+Punkty życia: 12 (+12 po każdym szkoleniu)
+Klasa Pancerza: 4 (-2 po każdym szkoleniu)
+Odporność na magię: 50%
+Odporność na ogień/zimno/elektryczność/kwas: 50%
+Odporność na obrażenia sieczne/obuchowe/kłute/pociski: 25%
+Rzuty obronne: 15/17/16/18/18 (-2 po każdym szkoleniu)
+
+Walka: 2 ataki na rundę, 1k6 obrażeń
+TraK0: 19 (-3 po każdym szkoleniu)
+
+Zdolności specjalne:
+– Niewrażliwość na sen i petryfikację, odporność na wyssanie poziomów
+– Regeneracja punktów życia: 1/rundę
+- Może rzucać zaklęcia maga lub używać umiejętności złodziejskich
+
+Waga: 1~
+
+@843=~Oto chowaniec Neery, kot o imieniu Milo, obecnie zwinięty bezpiecznie w kłębek w jej plecaku.
+
+PARAMETRY:
+
+Poziom: 5
+Punkty życia: 12 (+12 po każdym szkoleniu)
+Klasa Pancerza: 4 (-2 po każdym szkoleniu)
+Odporność na magię: 50%
+Odporność na ogień/zimno/elektryczność/kwas: 50%
+Odporność na obrażenia sieczne/obuchowe/kłute/pociski: 25%
+Rzuty obronne: 15/17/16/18/18 (-2 po każdym szkoleniu)
+
+Walka: 2 ataki na rundę, 1k6 obrażeń
+TraK0: 19 (-3 po każdym szkoleniu)
+
+Zdolności specjalne:
+– Niewrażliwość na sen i petryfikację, odporność na wyssanie poziomów
+– Regeneracja punktów życia: 1/rundę
+- Może rzucać zaklęcia maga lub używać umiejętności złodziejskich
+
+Waga: 1~
+
+@844=~Oto chowaniec Quayle'a, lim-lim o imieniu Walteph, cieszący się z bezpieczeństwa, jakie zapewnia mu plecak jego pana.
+
+PARAMETRY:
+
+Poziom: 5
+Punkty życia: 12 (+12 po każdym szkoleniu)
+Klasa Pancerza: 4 (-2 po każdym szkoleniu)
+Odporność na magię: 50%
+Odporność na ogień/zimno/elektryczność/kwas: 50%
+Odporność na obrażenia sieczne/obuchowe/kłute/pociski: 25%
+Rzuty obronne: 15/17/16/18/18 (-2 po każdym szkoleniu)
+
+Walka: 2 ataki na rundę, 1k6 obrażeń
+TraK0: 19 (-3 po każdym szkoleniu)
+
+Zdolności specjalne:
+– Niewrażliwość na sen i petryfikację, odporność na wyssanie poziomów
+– Regeneracja punktów życia: 1/rundę
+- Może rzucać zaklęcia maga lub używać umiejętności złodziejskich
+
+Waga: 1~
+
+@845=~Oto chowaniec Safany, smoczydło o imieniu Szafir, obecnie zwinięty bezpiecznie w kłębek w jej plecaku.
+
+PARAMETRY:
+
+Poziom: 5
+Punkty życia: 12 (+12 po każdym szkoleniu)
+Klasa Pancerza: 4 (-2 po każdym szkoleniu)
+Odporność na magię: 50%
+Odporność na ogień/zimno/elektryczność/kwas: 50%
+Odporność na obrażenia sieczne/obuchowe/kłute/pociski: 25%
+Rzuty obronne: 15/17/16/18/18 (-2 po każdym szkoleniu)
+
+Walka: 2 ataki na rundę, 1k6 obrażeń
+TraK0: 19 (-3 po każdym szkoleniu)
+
+Zdolności specjalne:
+– Niewrażliwość na sen i petryfikację, odporność na wyssanie poziomów
+– Regeneracja punktów życia: 1/rundę
+- Może rzucać zaklęcia maga lub używać umiejętności złodziejskich
+
+Waga: 1~
+
+@846=~Oto chowaniec Xana, mefit o imieniu Elbraen, zwinięty ze smutkiem w kłębek w jego plecaku.
+
+PARAMETRY:
+
+Poziom: 5
+Punkty życia: 12 (+12 po każdym szkoleniu)
+Klasa Pancerza: 4 (-2 po każdym szkoleniu)
+Odporność na magię: 50%
+Odporność na ogień/zimno/elektryczność/kwas: 50%
+Odporność na obrażenia sieczne/obuchowe/kłute/pociski: 25%
+Rzuty obronne: 15/17/16/18/18 (-2 po każdym szkoleniu)
+
+Walka: 2 ataki na rundę, 1k6 obrażeń
+TraK0: 19 (-3 po każdym szkoleniu)
+
+Zdolności specjalne:
+– Niewrażliwość na sen i petryfikację, odporność na wyssanie poziomów
+– Regeneracja punktów życia: 1/rundę
+- Może rzucać zaklęcia maga lub używać umiejętności złodziejskich
+
+Waga: 1~
+
+@847=~Oto nieumarły chowaniec Xzara, Shammuabu'nechazz, rezydujący w jego plecaku. Jego natura nie jest do końca jasna, ale wyglądem przypomina demilisza.
+
+PARAMETRY:
+
+Poziom: 5
+Punkty życia: 12 (+12 po każdym szkoleniu)
+Klasa Pancerza: 4 (-2 po każdym szkoleniu)
+Odporność na magię: 50%
+Odporność na ogień/zimno/elektryczność/kwas: 50%
+Odporność na obrażenia sieczne/obuchowe/kłute/pociski: 25%
+Rzuty obronne: 15/17/16/18/18 (-2 po każdym szkoleniu)
+
+Walka: 2 ataki na rundę, 1k6 obrażeń
+TraK0: 19 (-3 po każdym szkoleniu)
+
+Zdolności specjalne:
+– Niewrażliwość na sen i petryfikację, odporność na wyssanie poziomów
+– Regeneracja punktów życia: 1/rundę
+- Może rzucać zaklęcia maga lub używać umiejętności złodziejskich
+
+Waga: 1~
+
+
+
+@881=~Artefakt~
+
+@882=~Wędrujące serce Mallona~
+
+@883=~Ten jarzący się tajemniczym blaskiem kulisty artefakt emanuje potężną magiczną aurą.
+
+Waga: 1~
+
+@884=~Ten jarzący się tajemniczym blaskiem kulisty artefakt jest jednym ze słynnych kamieni przemieszczania, rzadko spotykanych klejnotów nasyconych potężną magią teleportacji. Należał on do amnijskiego maga, imieniem Mallon Eqoa, będącego pionierem w używaniu technik magicznych polegających na masowym zniekształcaniu i wypaczaniu rzeczywistości. Niestety jego pasja okazała się dla niego tragiczna w skutkach.
+
+Mallon miał wizję doskonale prosperującego świata, napędzanego błyskawicznym ogólnoświatowym handlem, którego mieszkańcy są ze sobą stale połączeni. Jego pomysł polegał na rozprowadzeniu, gdzie tylko to możliwe, magicznych kamieni, które umożliwią błyskawiczne podróżowanie. Poszukiwał więc sposobu na zawarcie potężnej magii w wygodnym do użycia przedmiocie, z którego mogliby korzystać prości ludzie, niewyszkoleni w stosowaniu magii. Krążą słuchy, że podczas jednego ze swoich eksperymentów Mallon został wciągnięty do wielowymiarowego wiru, gdzie jego ciało zostało rozerwane na strzępy. Taki oto los spotyka pionierów.
+
+Jedyne co pozostało z eksperymentów Mallona, to kilka funkcjonujących prototypów o lokalnym zasięgu. Jego uczniowie zdołali jedynie nadać dziełom maga wymyślne nazwy. Ten kamień nazwano „Wędrującym sercem” i był on podobno ulubionym wynalazkiem Mallona, gdyż pozwalał mu podróżować po jego ojczystych ziemiach.
+
+PARAMETRY:
+
+Właściwości ładunków:
+- Pozwala na teleportowanie drużyny do miejsc znajdujących się na terytorium Amn
+
+Waga: 1~
+
+@885=~Zniekształcające oko Mallona~
+
+@886=~Ten jarzący się tajemniczym blaskiem kulisty artefakt jest jednym ze słynnych kamieni przemieszczania, rzadko spotykanych klejnotów nasyconych potężną magią teleportacji. Należał on do amnijskiego maga, imieniem Mallon Eqoa, będącego pionierem w używaniu technik magicznych polegających na masowym zniekształcaniu i wypaczaniu rzeczywistości. Niestety jego pasja okazała się dla niego tragiczna w skutkach.
+
+Mallon miał wizję doskonale prosperującego świata, napędzanego błyskawicznym ogólnoświatowym handlem, którego mieszkańcy są ze sobą stale połączeni. Jego pomysł polegał na rozprowadzeniu, gdzie tylko to możliwe, magicznych kamieni, które umożliwią błyskawiczne podróżowanie. Poszukiwał więc sposobu na zawarcie potężnej magii w wygodnym do użycia przedmiocie, z którego mogliby korzystać prości ludzie, niewyszkoleni w stosowaniu magii. Krążą słuchy, że podczas jednego ze swoich eksperymentów Mallon został wciągnięty do wielowymiarowego wiru, gdzie jego ciało zostało rozerwane na strzępy. Taki oto los spotyka pionierów.
+
+Jedyne co pozostało z eksperymentów Mallona, to kilka funkcjonujących prototypów o lokalnym zasięgu. Jego uczniowie zdołali jedynie nadać dziełom maga wymyślne nazwy. Ten kamień nazwano „Zniekształcającym okiem” i pozwala on na podróżowanie po regionie Tethyru.
+
+PARAMETRY:
+
+Właściwości ładunków:
+- Pozwala na teleportowanie drużyny do miejsc znajdujących się na terytorium Tethyru
+
+Waga: 1~
+
+@891=~Kładziesz dłonie na sferze i nagle w twoim umyśle pojawia się obraz. Twoje myśli wędrują wysoko ponad powierzchnią Faerûnu, skąd widzisz całe terytorium Amn. Koncentrując się, jesteś w stanie przenieść się w okamgnieniu do dowolnego miejsca.~
+
+@892=~Kładziesz dłonie na sferze, ale ta zupełnie nie reaguje na dotyk. Znajdujesz się prawdopodobnie w miejscu będącym poza zasięgiem działania magii przedmiotu.~
+
+@901=~Promenada Waukeen~
+
+@902=~Slumsy~
+
+@903=~Dzielnica Mostów~
+
+@904=~Doki~
+
+@905=~Dzielnica Rządowa~
+
+@906=~Dzielnica Świątynna~
+
+@907=~Dzielnica Cmentarna~
+
+@908=~Bramy miasta~
+
+@909=~Warownia d'Arnise~
+
+@910=~Wzgórza Wichrowych Włóczni~
+
+@911=~Imnesvale na Wzgórzach Umar~
+
+@912=~Ruiny świątyni na Wzgórzach Umar~
+
+@913=~Targowo~
+
+@914=~Gaj druidów~
+
+@915=~Opuszczony amfiteatr~
+
+@916=~Świątynia heretyków~
+
+@917=~Dzika Knieja~
+
+@918=~Bezpieczne Zacisze~
+
+@919=~Obóz Helmitów~
+
+@920=~Wąwóz Wskrzeszeń~
+
+@921=~Twierdza Strażnika~
+
+@922=~Wyjście z Podmroku~
+
+@923=~Lasy Tethyru~
+
+@924=~Północny las~
+
+@925=~Przełęcz Małych Zębów~
+
+@926=~Suldanessellar~
+
+@927=~Nigdzie~
+
+@928=~Północny las~
+
+@929=~Las Mir~
+
+@930=~Maszerujące Góry~
+
+@931=~Obóz oblegającej armii~
+
+@932=~Oaza~
+
+@933=~Amkethran~
+
+@934=~Enklawa Sendai~
+
+@935=~Kryjówka Abazigala~
+
+@936=~Warownia Głębokiego Kamienia~
+
+@937=~Polana~
+
+
+
+
+
+@1001=~Dodaj Kostur czarow~
+
+@1002=~Dodaj nowe animacje Kostura czarow w ekwipunku~
+
+@1003=~Dodaj opcje ataku dystansowego do Kostura magow~
+
+@1004=~Dodaj diademy~
+
+@1009=~dodaj Kostur czarodzieja~
+
+@1011=~Dodaj Diadem oswiecenia~
+
+@1012=~Dodaj animacje diademow w ekwipunku~
+
+@1013=~Dodaj ulepszania szat~
+
+@1014=~Dodaj szaty w oryginalnym zestawie kolorystycznym~
+
+@1015=~Dodaj szaty bez dodatkowego zestawu kolorystycznego~
+
+@1016=~Dodaj Szaty arcymaga wraz z zestawem kolorystycznym z modyfikacji Mr. Pennyway's Cosmetic Changes~
+
+@1017=~Dodaj Kapelusz czarodzieja~
+
+@1020=~Pomijanie zawartosci BG1: EE~
+
+@1021=~Pomijanie zawartosci BG2: EE~
+
+@1022=~Pomijanie zawartosci IWD: EE~
+
+@1027=~Pomijanie zawartosci EE~
+
+@1028=~Dodaj mozliwosc modyfikowania chowancow~
+
+@1029=~Dodaj chowancow dla NPC bedacych magami~
+
+@1030=~Dodaj poprawke dzwieku poruszania sie lim-lima~
+
+@1031=~Dodaj zmiane rozmiaru animacji czaszki~
+
+@1032=~Dodaj mozliwosc nadania dowolnej nazwy chowancowi (opcja ta nadpisze dotychczasowe imiona)~
+
+@1033=~Dodaj jedno imie~
+
+@1034=~Dodaj dwa imiona~
+
+@1035=~Dodaj trzy imiona~
+
+@1047=~Wpisz pierwsze imie.~
+
+@1048=~Wpisz drugie imie.~
+
+@1049=~Wpisz trzecie imie.~
+
+@1050=~Wpisz pierwsze imie.~
+
+@1051=~Wpisz drugie imie.~
+
+@1052=~Wpisz trzecie imie.~
+
+@1053=~Wpisz pierwsze imie.~
+
+@1054=~Wpisz drugie imie.~
+
+@1055=~Wpisz trzecie imie.~
+
+@1056=~Pomijanie zawartosci BG(2): EE~
+
+@1057=~Pomijanie zawartosci BG2: EE i IWD: EE~
+
+@1058=~Kostury czarodziejow~
+
+@1059=~Inne przedmioty i usprawnienia~
+
+@1060=~Chowance~
+
+@1061=~Dodaj Kostur czarodzieja z siedmioma starymi zestawami kolorow~
+
+@1062=~Dodaj Kostur czarodzieja z czternastoma starymi zestawami kolorow~
+
+@1063=~Dodaj futeral na rozdzki~
+
+@1064=~Dodaj tylko ataki dystansowe~
+
+@1065=~Dodaj ataki dystansowe i usun efekt niewidzialnosci~
+
+@1066=~Dodaj ataki dystansowe i zastap efekt niewidzialnosci odpornoscia na magie~
+
+@1067=~Dodaj ataki dystansowe i zastap efekt niewidzialnosci niewrazliwoscia na zatrzymanie czasu~
+
+@1068=~Dodaj ataki dystansowe i zastap efekt niewidzialnosci zwiekszona szybkoscia rzucania zaklec~
+
+@1069=~Dodaj ataki dystansowe i zastap efekt niewidzialnosci odzyskiwaniem zaklec~
+
+@1070=~Dodaj wiecej zwojow z czarem Znalezienie chowanca do asortymentu sklepow~
+
+@1071=~Dodaj kamien teleportacji~

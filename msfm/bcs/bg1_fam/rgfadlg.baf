@@ -1,0 +1,36 @@
+IF
+	Detect(Player1)
+	NumTimesTalkedTo(0)
+THEN
+	RESPONSE #100
+		FaceObject(Player1)
+		Wait(1)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	XPGT(Player1,88999)
+	Class(Myself,SORCERER)
+	Global("rgfwupgr","LOCALS",0)
+THEN
+	RESPONSE #100
+		DisplayStringHead(Myself,@487)
+		AddSpecialAbility("RGFAW03")
+		ApplySpellRES("RGFAHP1",Myself)
+		SetGlobal("rgfwupgr","LOCALS",1)
+END
+
+IF
+	XPGT(Player1,88999)
+	Class(Myself,THIEF)
+	Global("rgftupgr","LOCALS",0)
+THEN
+	RESPONSE #100
+		DisplayStringHead(Myself,@487)
+		AddSpecialAbility("RGFAT08")
+		AddSpecialAbility("RGFAT07")
+		AddSpecialAbility("RGFAT06")
+		AddSpecialAbility("RGFAT05")
+		ApplySpellRES("RGFAHP1",Myself)
+		SetGlobal("rgftupgr","LOCALS",1)
+END

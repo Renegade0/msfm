@@ -1,0 +1,45 @@
+IF
+	!InParty("Jan")
+	Global("rgfnoneforjan","GLOBAL",1)
+THEN
+	RESPONSE #100
+		RemoveFamiliar()
+		DestroySelf()
+		SetGlobal("rgfnoneforjan","GLOBAL",0)
+END
+
+IF
+	Die()
+	Global("rgfnoneforjan","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("rgfnoneforjan","GLOBAL",0)
+END
+
+IF
+	XPGT("Jan",5999999)
+	Class(Myself,SORCERER)
+	Global("rgfwupg","LOCALS",2)
+THEN
+	RESPONSE #100
+		DisplayStringHead(Myself,@487)
+		AddSpecialAbility("RGFAW09")
+		ApplySpellRES("RGFAHP1",Myself)
+		SetGlobal("rgfwupg","LOCALS",3)
+END
+
+IF
+	XPGT("Jan",5999999)
+	Class(Myself,THIEF)
+	Global("rgftupg","LOCALS",2)
+THEN
+	RESPONSE #100
+		DisplayStringHead(Myself,@487)
+		AddSpecialAbility("RGFAT20")
+		AddSpecialAbility("RGFAT19")
+		AddSpecialAbility("RGFAT18")
+		AddSpecialAbility("RGFAT17")
+		ApplySpellRES("RGFAHP1",Myself)
+		SetGlobal("rgftupg","LOCALS",3)
+END
+
