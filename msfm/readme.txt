@@ -200,6 +200,11 @@ v1.54
 -Some more string corrections
 -Dual-classed character receiving a specialist bonus spell now uses OriginalClass trigger
 -Complete polish translation added
+v1.55
+-Added polish readme
+-Some typos in the polish tra file fixed
+v1.56
+-Russian translation added (credits to Saigon1983)
 
 INSTALLATION:
 Extract the "msfm v1.54.zip" file in the game's core folder (the one with a file "chitin.key" in it) and run "setup-msfm.exe". All parts can be installed individually. Before installing the version 1.5, I strongly recommend to uninstall the previous version and remove it completely from the game directory. I hope you enjoy it.
