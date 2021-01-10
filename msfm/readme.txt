@@ -3,8 +3,8 @@ Originally, this mod aimed to make mages in the game to appear more stylish. For
 
 MOD COMPONENTS:
 
-Group 1: Wizardís Staffs
-Wizardís Staff for BG:EE
+Group 1: Wizard‚Äôs Staffs
+Wizard‚Äôs Staff for BG:EE
 Staff of Wizardry for BG2:EE and IWD:EE
 Custom inventory animation for SoW
 Staff of the Magi with ranged attack and custom tweaks
@@ -25,7 +25,7 @@ Familiars for NPC mages
 Animation tweaks for some familiars
 Find Familiar spell scrolls in shops
 
-Wizardís Staff for BG:EE
+Wizard‚Äôs Staff for BG:EE
 There are two options here. The first one adds 7 Staffs with unique animation and +1 enchantment, to the High Hedge stock and Xithiss in the Black Pits, after the first upgrade of his stock. Each one has different color, mainly to fit different color styles of NPC mages. The second one add 6 staffs into those shops, and each one can be customized through the item abilities menu with 14 possible color choices (this option is newer, but I decided to let the old colorsets in too).
 
 Staff of Wizardry for BG2:EE
@@ -46,7 +46,7 @@ Staff of Dragon Power - 25% chance of casting Wing Buffet, on successful hit (th
 Since version 1.3, Staffs of Wizardry can be upgraded by Cespenar in ToB. There are seven gems called "Shard of Netheril" scattered in ToB maps, which can be combined with Staffs of Wizardry. Upgraded staffs have +5 enchantment and have increased on-hit chance to cast spell to 35%. They also gain one additional 8th-level spell (Note that this spell doesn't have tooltip, since maximum of tooltips for an item has been exceeded, so the tooltip displays only the name of the staff. However, when spell is cast, it shows proper name in the dialog window.)
 Additional spells are:
 -Staff of Abjuration +5: Pierce Shield
--Staff of Conjuration +5: Summon Fire Giant Summon Fire Giant: Summons one Fire Giant, which is under complete control of the party for 15 rounds or until itís slained.
+-Staff of Conjuration +5: Summon Fire Giant Summon Fire Giant: Summons one Fire Giant, which is under complete control of the party for 15 rounds or until it‚Äôs slained.
 -Staff of Divination +5: Prediction Prediction: Caster gets bonus to +6 AC, -6 to THACO, +3 to saves and becomes immune to backstab and normal missiles, for 5 rounds.
 -Staff of Enchantment +5: Thrall Thrall: If failed save vs. spell at -2 penalty, target is permanently under complete control of the caster and acts as a party member. This spell also ignores mind shielding protections.
 -Staff of Illusions +5: Simulacrum
@@ -64,7 +64,7 @@ This component has been rendered somewhat obsolete, because unlike BG:EE, there 
 
 Staff of the Magi with ranged attack and custom tweaks
 Firstly, this component adds ranged attack to the Staff of the Magi. You can choose melee or ranged the same way as it works for Staffs of Wizardry. The projectile has yellow color.
-Secondly, I decided to add an optional tweaks to it, that change the equipped invisibility to something else, so that doesnít tempt to exploit re-equipping all the time. Ranged attack is added to each choice.
+Secondly, I decided to add an optional tweaks to it, that change the equipped invisibility to something else, so that doesn‚Äôt tempt to exploit re-equipping all the time. Ranged attack is added to each choice.
 Choices are following:
 -keep original
 -remove invisibility
@@ -83,7 +83,7 @@ Wizard's hat
 This component adds a Wizard's hat. An item with some magical properties and completely new custom animation made by @Smiley for human male mages and sorcerers (the limit is there because the animation only exists for them).
 
 Wand Case
-This component adds a Wand Case with the storage capacity of 50 pieces to High Hedge, Garlenaís and Orrickís shops.
+This component adds a Wand Case with the storage capacity of 50 pieces to High Hedge, Garlena‚Äôs and Orrick‚Äôs shops.
 
 Stone of teleportation
 [BETA] This component adds unique artifacts into SOA and TOB campaigns, which allow the whole party to be instantly teleported to previously visited surface areas. The effect does not work at plot critical places, such as Spellhold, Underdark etc. The component is currently in a beta state, because I didn't test it through the whole game. Use it with caution, it is theoretically possible to skip plot critical triggers.
@@ -110,27 +110,27 @@ Small spider
 Lim-Lim
 Floating Skull
 For now, all races have the same statistics, so this is mostly just about choosing the appearance.
-There are two classes to choose from ñ mage and a thief. A mage will get to choose up to five spells during the course of the game, each when its summoner reaches a certain amount experience. It starts with a level 1 spell, then he will gain a 3, 5, 7 and 9 level spells. A thief can similarly choose a +50% bonus to one of four basic thieving abilities. Numbers can change in the future for balance reasons. The tresholds for upgrades are:
+There are two classes to choose from ‚Äì mage and a thief. A mage will get to choose up to five spells during the course of the game, each when its summoner reaches a certain amount experience. It starts with a level 1 spell, then he will gain a 3, 5, 7 and 9 level spells. A thief can similarly choose a +50% bonus to one of four basic thieving abilities. Numbers can change in the future for balance reasons. The tresholds for upgrades are:
 0 XP
 89 000 XP (100 000 XP for IWD:EE)
 500 000 XP
 2 500 000 XP
 6 000 000 XP (5 000 000 XP for IWD:EE)
-Upon each upgrade, the familiar also improves its hit points, AC, THACO and saving throws. Its detailed statistics are shown in the item description, when itës in your backpack.
-There are three name slots you can choose from. Itís ìIsaneî, ìKaileyî and default ìFamiliarî. In the next component you can change these names with your own.
+Upon each upgrade, the familiar also improves its hit points, AC, THACO and saving throws. Its detailed statistics are shown in the item description, when it‚Äòs in your backpack.
+There are three name slots you can choose from. It‚Äôs ‚ÄúIsane‚Äù, ‚ÄúKailey‚Äù and default ‚ÄúFamiliar‚Äù. In the next component you can change these names with your own.
 Custom names for familiars
-As written above, there are three names you can choose for your familiar. Itís ìIsaneî, ìKaileyî and default ìFamiliarî. This component allows you to type your own names during the installation process. You can choose to type one, two or three names and your names will override the preset ones, so in the dialog window, you will be able to choose from your own names. There is a warning though, if you change any other mod component that you installed before, that updates game texts, the installation process will prompt you to write the names again.
+As written above, there are three names you can choose for your familiar. It‚Äôs ‚ÄúIsane‚Äù, ‚ÄúKailey‚Äù and default ‚ÄúFamiliar‚Äù. This component allows you to type your own names during the installation process. You can choose to type one, two or three names and your names will override the preset ones, so in the dialog window, you will be able to choose from your own names. There is a warning though, if you change any other mod component that you installed before, that updates game texts, the installation process will prompt you to write the names again.
 
 Familiars for NPC mages
-NPC mages can finally summon their own familiars, when they cast a Find Familiar spell. Only vanilla arcane spellcasters can summon familiars (plus Khalid, Safana and Yoshimo ñ if they get spellcasting
-ability). NPCs cannot customize their familiars even if the above component is installed, they have preset ones. They have different races, unique names and most of them are mages, except of Yoshimoís, which is a thief. Also, when a summoner talks to his familiar, a dialog, unique for each NPC, will trigger, at which end, the NPC will take it to his backpack. There are no more banters yet, but they may come in the future. If anyone wants to cooperate on this, they are welcomed to. Familiars get upgrades the same way as the ones from ìCustomizable familiarsì component.
-When these familiars die, NPCs donít loose CON point, but neither do they get a hit point bonus, when they summon it. Also, any number of familiars can be summoned at the same time, however, when you control more than seven creatures, you get messed up formation target points for the rest of them, when you move.
+NPC mages can finally summon their own familiars, when they cast a Find Familiar spell. Only vanilla arcane spellcasters can summon familiars (plus Khalid, Safana and Yoshimo ‚Äì if they get spellcasting
+ability). NPCs cannot customize their familiars even if the above component is installed, they have preset ones. They have different races, unique names and most of them are mages, except of Yoshimo‚Äôs, which is a thief. Also, when a summoner talks to his familiar, a dialog, unique for each NPC, will trigger, at which end, the NPC will take it to his backpack. There are no more banters yet, but they may come in the future. If anyone wants to cooperate on this, they are welcomed to. Familiars get upgrades the same way as the ones from ‚ÄúCustomizable familiars‚Äú component.
+When these familiars die, NPCs don‚Äôt loose CON point, but neither do they get a hit point bonus, when they summon it. Also, any number of familiars can be summoned at the same time, however, when you control more than seven creatures, you get messed up formation target points for the rest of them, when you move.
 
 Animation tweaks for some familiars
-The only remaining tweak resizes the Demilich animation, because the floating skull familiar uses it. So, it will make Kangaxx and the Demilich from Watcherís Keep smaller. In BG:EE no creature uses this animation, Iím not sure about IWD:EE.
+The only remaining tweak resizes the Demilich animation, because the floating skull familiar uses it. So, it will make Kangaxx and the Demilich from Watcher‚Äôs Keep smaller. In BG:EE no creature uses this animation, I‚Äôm not sure about IWD:EE.
 
 Find Familiar spell scrolls in shops
-This adds more scrolls to the High Hedge, Sorcerous Sundries, Garlena and the spell merchant in the Adventurerís Market in BG:EE and BG2:EE and to the Black Pits, so that more NPCs can cast it.
+This adds more scrolls to the High Hedge, Sorcerous Sundries, Garlena and the spell merchant in the Adventurer‚Äôs Market in BG:EE and BG2:EE and to the Black Pits, so that more NPCs can cast it.
 
 UPDATE LOGS:
 v1.0 of BG:EE, v1.0 of BG2:EE
@@ -205,16 +205,18 @@ v1.55
 -Some typos in the polish tra file fixed
 v1.56
 -Russian translation added (credits to Saigon1983)
+v1.57
+-Fixed Polish translation files
 
 INSTALLATION:
-Extract the "msfm v1.54.zip" file in the game's core folder (the one with a file "chitin.key" in it) and run "setup-msfm.exe". All parts can be installed individually. Before installing the version 1.5, I strongly recommend to uninstall the previous version and remove it completely from the game directory. I hope you enjoy it.
+Extract the "msfm v1.xx.zip" file in the game's core folder (the one with a file "chitin.key" in it) and run "setup-msfm.exe". All parts can be installed individually. Before installing the version 1.5, I strongly recommend to uninstall the previous version and remove it completely from the game directory. I hope you enjoy it.
 
 CREDITS:
-Pecca (also Renegade) ñ the mod creator
+Pecca (also Renegade) ‚Äì the mod creator
 Beamdog Forum Forumites:
-KidCarnival ñ Inspirational ideas
-Anduin ñ English grammar correction
-Dee ñ Author of the Cosmetic Changes Mod, from which I used colorsets for robes of the Archmagi
-Viader ñ Author of the Extended Animations, from which I used several in this mod
+KidCarnival ‚Äì Inspirational ideas
+Anduin ‚Äì English grammar correction
+Dee ‚Äì Author of the Cosmetic Changes Mod, from which I used colorsets for robes of the Archmagi
+Viader ‚Äì Author of the Extended Animations, from which I used several in this mod
 Cahir - Polish translator
 Aedan - Italian translator
